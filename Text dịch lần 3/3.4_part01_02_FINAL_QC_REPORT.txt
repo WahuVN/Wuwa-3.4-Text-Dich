@@ -1,0 +1,33 @@
+WUTHERING WAVES 3.4 — PART 01–02 — QC REPORT
+
+PART 01
+- Keys: 13,498 / 13,498 preserved
+- VI fields changed: 291
+- HV fields synchronized/changed: 3026
+
+PART 02
+- Keys: 20,886 / 20,886 preserved
+- VI fields changed: 973
+- HV fields synchronized/changed: 11768
+
+TECHNICAL QC
+- CN/EN/JP unchanged: PASS
+- Key/database/table/order preserved: PASS
+- Every entry has VI and HV: PASS
+- No physical-line corruption from literal \n: PASS
+- VI/HV engine-tag structure parity: PASS
+- HV wording mirrors approved VI; only approved HV name mappings differ: PASS
+
+CONTEXT / PRONOUN QC
+- Aemeath ↔ Rover before family reveal: tôi – cậu (both directions), with natural omission where appropriate.
+- Aemeath family childhood flashback: Aemeath con – người; Rover ta – con.
+- Aemeath ↔ Rover after reveal/accepted relationship: Aemeath em – người; Rover ta – em where that scene state warrants it.
+- Mornye ↔ Rover: present-day first-contact/public-role state kept separate from past/post-reveal junior–senior state.
+- Pronouns are not inserted mechanically; dialogue rewritten for natural Vietnamese speech.
+
+TERM / NAME QC
+- Rover locked as Rover where it is the character name.
+- Exostrider / Exoswarm / Stridergate and related corrupted variants normalized.
+- 炉芯 standardized to Lõi Lò in affected part 1–2 Lahai-Roi text.
+- 换日仪式 standardized to Nghi Lễ Đổi Nhật in affected text.
+- Machine-translation artifacts such as Strength, biết Đạo, trong Tâm, Lò Tâm, Rover Phiêu Bạc removed from VI output.

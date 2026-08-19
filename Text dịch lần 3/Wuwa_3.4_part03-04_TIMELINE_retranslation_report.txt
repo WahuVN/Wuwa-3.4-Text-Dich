@@ -1,0 +1,62 @@
+WUTHERING WAVES 3.4 — PART03 + PART04 — TIMELINE/PRONOUN RETRANSLATION REPORT
+====================================================================================
+
+PHẠM VI
+- part03: 21,306 record
+- part04: 20,015 record
+- Tổng: 41,321 record
+- Record VI thay đổi so với file gốc: part03 1,942; part04 866; tổng 2,808
+- Quyết định/patch scene-context đặc biệt: 259
+
+NGUYÊN TẮC
+- CN: nghĩa/lore/semantic roles.
+- JP: register, xưng hô, character voice.
+- EN: tên chính thức và disambiguation.
+- Xưng hô theo speaker ↔ addressee × story time × relationship/knowledge state × public/private × emotion.
+- Không dùng reveal tương lai để retcon xưng hô scene trước.
+- Viết lại theo scene để câu Việt tự nhiên; không dịch từng key/từng từ máy móc.
+
+BUILD VI / HV
+- VI: giữ tên character EN.
+- HV: sinh trực tiếp từ VI; chỉ đổi các tên được khóa dưới đây.
+  Jinhsi -> Kim Tịch | 5 occurrence trong VI
+  Jiyan -> Kỵ Viêm | 1 occurrence trong VI
+  Changli -> Trường Ly | 4 occurrence trong VI
+  Yinlin -> Ngâm Lâm | 0 occurrence trong VI
+  Xiangli Yao -> Tương Lý Yếu | 8 occurrence trong VI
+  Yangyang -> Ương Ương | 0 occurrence trong VI
+  Chixia -> Xí Hà | 1 occurrence trong VI
+  Baizhi -> Bạch Chỉ | 1 occurrence trong VI
+  Sanhua -> Tán Hoa | 0 occurrence trong VI
+  Taoqi -> Đào Kì | 0 occurrence trong VI
+  Danjin -> Đan Cẩn | 1 occurrence trong VI
+  Jianxin -> Giám Tâm | 0 occurrence trong VI
+  Yuanwu -> Uyên Vũ | 1 occurrence trong VI
+  Mortefi -> Mạc Đặc Phỉ | 0 occurrence trong VI
+  Aalto -> Thu Thủy | 48 occurrence trong VI
+  Zhezhi -> Chiết Chi | 4 occurrence trong VI
+  Suisui -> Tuệ Tuệ | 0 occurrence trong VI
+- Các tên người dùng để trống giữ nguyên EN trong HV.
+- Cantarella giữ nguyên EN; giá trị 'p' không được dùng làm mapping.
+- Record HV thực sự khác VI do name mapping: 67 (part03 35, part04 32).
+
+TERM/NAME LOCK XUYÊN PART
+- Startorch Academy → Học viện Startorch
+- Spacetrek Collective → Spacetrek Collective
+- Black Shores / 黑海岸 → Bờ Biển Đen
+- Fractsidus / 残星会 → Tàn Tinh Hội
+- Honami / 穗波 → Honami
+- Dimmr Plains / 黯原 → Dimmr Plains
+- Voidmatter / 虚质 → Hư Chất
+- Threnodian / 鸣式 → Minh Thức
+- Sentinel / 岁主 → Tuế Chủ
+- Somnoire / 心之集域 → Somnoire
+- Rover / 漂泊者 (khi là tên character đã khóa) → Rover
+
+QC KỸ THUẬT
+- IDs part03/04 giữ nguyên: True / True
+- CN/EN/JP giữ nguyên: True / True
+- Mismatch tag/variable/newline structure: part03 0; part04 0
+- HV generation error: 0
+- HV tech-structure error: 0
+- Nhóm lỗi nhiễu đã khóa còn sót: 0
