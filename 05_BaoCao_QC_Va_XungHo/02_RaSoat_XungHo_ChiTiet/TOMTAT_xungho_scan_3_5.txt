@@ -1,0 +1,204 @@
+BÁO CÁO QUÉT XƯNG HÔ TỰ ĐỘNG — bản 3.5
+Tổng phát hiện: 62 | theo tier: {'đa số': 53, 'quan hệ': 9}
+Nguyên tắc: 'quan hệ' = chuẩn từ bảng quan hệ (tin cậy cao); 'đa số' = tự học theo cặp (cần duyệt kỹ).
+Từ cùng họ (tôi/tớ/mình) coi là tương đương, KHÔNG báo.
+==========================================================================================
+
+########## TIER: QUAN HỆ (2 cặp) ##########
+
+### Gleamtender → Yangyang  (8 dòng nghi sai)
+  [Main_HuangLong_LLZQMXY_12_69] tự xưng: 'ta' → nên 'tôi'
+      Xin lỗi, bây giờ, "ta" còn chưa thể nói cho ngươi biết nhiều hơn.
+  [Main_HuangLong_LLZQMXY_12_69] gọi: 'ngươi' → nên 'cậu'
+      Xin lỗi, bây giờ, "ta" còn chưa thể nói cho ngươi biết nhiều hơn.
+  [Main_HuangLong_LLZQMXY_12_70] gọi: 'ngươi' → nên 'cậu'
+      <te href=750056>Người tế thanh</te>... không, Ương Ương, chẳng bao lâu nữa, <ano=Tuần lễ>hành trình</ano> của ngươi sẽ b
+  [Main_HuangLong_LLZQMXY_12_70] gọi: 'ngươi' → nên 'cậu'
+      <te href=750056>Người tế thanh</te>... không, Ương Ương, chẳng bao lâu nữa, <ano=Tuần lễ>hành trình</ano> của ngươi sẽ b
+  [Main_HuangLong_LLZQMXY_12_65] tự xưng: 'ta' → nên 'tôi'
+      Nhưng chỉ có một điều, là kỳ vọng tự đáy lòng của ta…
+  [Main_HuangLong_LLZQMXY_12_68] gọi: 'ngươi' → nên 'cậu'
+      Chỉ là... giọng nói mà ngươi đã nghe vô số lần.
+  [Main_HuangLong_LLZQMXY_12_63] gọi: 'ngươi' → nên 'cậu'
+      Cuộc gặp gỡ giữa ngươi với ■■■, có thể nói là tất nhiên, cũng có thể nói là "kỳ tích" lặp lại cả triệu lần chưa chắc đã 
+  [Main_HuangLong_LLZQMXY_12_64] tự xưng: 'ta' → nên 'tôi'
+      Kết cục bất biến có lẽ đã sụp đổ, sau đây, giọt mưa trên trời sẽ rơi về hướng nào, là điều mà ngay cả ta cũng không biết
+
+### Yangyang → Chixia  (1 dòng nghi sai)
+  [Main_HuangLong_LLZQMXY_12_66] gọi: 'ngươi' → nên 'cậu'
+      Ngươi... rốt cuộc là... ai?
+
+########## TIER: ĐA SỐ (33 cặp) ##########
+
+### Yangyang → NPC #350101  (5 dòng nghi sai)
+  [Main_HuangLong_XLZHDLY_121_46] tự xưng: 'chị' → nên 'tôi'
+      Chị...
+  [Main_HuangLong_SYYLFML_291_14] tự xưng: 'ta' → nên 'tôi'
+      Huống hồ, chúng ta là đồng bào chiến hữu, lẽ ra phải tương trợ lẫn nhau. Có gì ta giúp được, cứ việc mở lời.
+  [Main_HuangLong_SYYLFML_291_4] tự xưng: 'ta' → nên 'tôi'
+      Nếu tất cả những chuyện này là do có kẻ ngấm ngầm mưu tính… kẻ làm được việc như thế, ta biết cũng chỉ có…
+  [Main_HuangLong_SYYLFML_291_18] tự xưng: 'ta' → nên 'tôi'
+      Vậy trước đó, ta đi xác nhận tình hình của mọi người một chút vậy.
+  [Main_HuangLong_SYYLFML_291_13] tự xưng: 'ta' → nên 'tôi'
+      Không cần xin lỗi, tuy chưa có chứng cứ, nhưng ta mơ hồ cảm thấy, chuỗi sự kiện này… hẳn là tồn tại một mối liên hệ nào 
+
+### NPC #350099 → NPC #750088  (5 dòng nghi sai)
+  [Main_HuangLong_SYYLFML_140_25] gọi: 'ngươi' → nên 'cậu'
+      À, ngươi đến rồi. Đừng để ý, con chim ngốc này ta nuôi đã nhiều năm, Thủy Giảo là tên của nó.
+  [Main_HuangLong_SYYLFML_190_5] gọi: 'ngươi' → nên 'cậu'
+      Cái này cho ngươi, {PlayerName}.
+  [Main_HuangLong_SYYLFML_150_6] gọi: 'ngươi' → nên 'cậu'
+      Thêm nữa, Ương Ương thường nhắc đến tên ngươi trong thư, ta cũng không khỏi tò mò, rốt cuộc là ai lại khiến em gái ta ph
+  [Main_HuangLong_SYYLFML_150_3] gọi: 'ngươi' → nên 'cậu'
+      Ngoài ra, thì là nói về chuyện của ngươi.
+  [Main_HuangLong_SYYLFML_150_8] gọi: 'ngươi' → nên 'cậu'
+      …Cái đó thì còn phải xem biểu hiện sau này của ngươi.
+
+### Yangyang → NPC #350131  (4 dòng nghi sai)
+  [Main_HuangLong_SYYLFML_540_2] gọi: 'ngài' → nên 'ngươi'
+      ...Vâng, làm phiền ngài.
+  [Main_HuangLong_SYYLFML_580_2] gọi: 'ngài' → nên 'ngươi'
+      Con... mắt phải của ngài.
+  [Main_HuangLong_SYYLFML_580_4] gọi: 'ngài' → nên 'ngươi'
+      Cái tao ngộ ngài nói, là ở trên chiến trường trận Vân Uyên sao?
+  [Main_HuangLong_SYYLFML_530_1] gọi: 'ngài' → nên 'ngươi'
+      Nhưng, giữa Huyền U Đông Nhạc và Phương Kình Tây Phong ngăn cách bởi Uyên Thành bỏ hoang, ngài định đến đó bằng cách nào
+
+### NPC #350099 → Chixia  (3 dòng nghi sai)
+  [Main_HuangLong_XLZHDLY_214_3] tự xưng: 'ta' → nên 'tôi'
+      …Hay là, ngài chỉ muốn ta đưa ra lựa chọn giống với ngài?
+  [Main_HuangLong_XLZHDLY_214_5] tự xưng: 'ta' → nên 'tôi'
+      Vậy thì, ngài muốn ta đưa ra đáp án gì đây…?
+  [Main_HuangLong_XLZHDLY_214_2] tự xưng: 'ta' → nên 'tôi'
+      Đây là… lẽ nào… là "đạo cụ giải đề" hay gì đó để lại cho ta?
+
+### Gleamtender → NPC #350099  (2 dòng nghi sai)
+  [Main_HuangLong_XLZHDLY_180_10] tự xưng: 'tôi' → nên 'ta'
+      Tôi cầm chân chúng không lâu được đâu, không muốn chết thì mau vào trong sương!
+  [Main_HuangLong_XLZHDLY_214_4] gọi: 'ngài' → nên 'ngươi'
+      Nếu ngài không cần, thì ta thu lấy cũng được chứ?
+
+### Yangyang → NPC #350108  (2 dòng nghi sai)
+  [Main_HuangLong_SYYLFML_310_3] tự xưng: 'ta' → nên 'tôi'
+      Ta… cũng chẳng đáng gì. Chỉ là, lúc trước khi ta giao đấu với Tàn Tượng ở đây, chúng… cứ như đã trải qua vô số trận chiế
+  [Main_HuangLong_SYYLFML_310_3] tự xưng: 'ta' → nên 'tôi'
+      Ta… cũng chẳng đáng gì. Chỉ là, lúc trước khi ta giao đấu với Tàn Tượng ở đây, chúng… cứ như đã trải qua vô số trận chiế
+
+### NPC #350131 → Yangyang  (2 dòng nghi sai)
+  [Main_HuangLong_SYYLFML_580_10] gọi: 'ngài' → nên 'ngươi'
+      Nhưng, hẳn là ở chốn "Sonora" đó, ngài cũng đã thấy được điều gì đó, đúng không?
+  [Main_HuangLong_SYYLFML_543_9] gọi: 'ngài' → nên 'ngươi'
+      Thế là, Ngài dốc hết thần bí phi phàm, dùng quyền năng Tuế Chủ, xây dựng bên trên Uyên Thành một tòa Huyền Phương Thành.
+
+### NPC #750656 → NPC #750657  (2 dòng nghi sai)
+  [XFCSYJST_25_5] tự xưng: 'ta' → nên 'tôi'
+      Được. Đại Phương này, ta… cũng không phải thật sự ăn không nổi, ta cũng là khách quen của quán các cậu mà.
+  [XFCSYJST_25_5] tự xưng: 'ta' → nên 'tôi'
+      Được. Đại Phương này, ta… cũng không phải thật sự ăn không nổi, ta cũng là khách quen của quán các cậu mà.
+
+### NPC #350173 → NPC #350172  (2 dòng nghi sai)
+  [ZXSTSPH_YYZX_460_4] gọi: 'ngươi' → nên 'cậu'
+      Nhưng ngươi đã khoác lên mình bộ quân trang này rồi, không còn cơ hội hối hận nữa đâu.
+  [ZXSTSPH_YYZX_460_6] gọi: 'ngươi' → nên 'cậu'
+      Như vậy……biết đâu ngươi còn có thể sống sót……
+
+### NPC #750770 → NPC #750769  (2 dòng nghi sai)
+  [HXYJYST_36_3] tự xưng: 'mình' → nên 'ta'
+      Tình trạng thân thể mình thì mình tự biết, giờ chẳng còn bệnh tật gì nữa rồi, chỉ là phải theo dõi thêm vài ngày thôi.
+  [HXYJYST_36_3] tự xưng: 'mình' → nên 'ta'
+      Tình trạng thân thể mình thì mình tự biết, giờ chẳng còn bệnh tật gì nữa rồi, chỉ là phải theo dõi thêm vài ngày thôi.
+
+### NPC #350271 → NPC #750088  (2 dòng nghi sai)
+  [Side_QZFZZFHXM_33_13] gọi: 'huynh' → nên 'ngài'
+      Tôi nghĩ đây cũng là một con đường kiếm tiền, tuy Dạ Quy Quân khó mà dùng mấy thứ vũ khí không rõ lai lịch này, nhưng đá
+  [Side_QZFZZFHXM_33_13] gọi: 'đệ' → nên 'ngài'
+      Tôi nghĩ đây cũng là một con đường kiếm tiền, tuy Dạ Quy Quân khó mà dùng mấy thứ vũ khí không rõ lai lịch này, nhưng đá
+
+### NPC #350298 → NPC #350297  (1 dòng nghi sai)
+  [Side_XJBGZMTX_25_9] gọi: 'anh' → nên 'cậu'
+      Nhưng mà... anh đúng là cũng không giỏi chiến đấu lắm, không thì đã chẳng... Haizz, thôi anh cứ đi làm việc mình giỏi vậ
+
+### NPC #750654 → NPC #750655  (1 dòng nghi sai)
+  [XFCSYJST_21_2] tự xưng: 'anh' → nên 'tôi'
+      Anh xem, cái thìa này không được. Phải là sứ trắng thượng hạng, trước tiên khẽ chạm thế này…
+
+### NPC #400059 → NPC #750088  (1 dòng nghi sai)
+  [35SLDWD_34_14] tự xưng: 'ta' → nên 'tôi'
+      Quả bóng đá...? Hiếm thấy thật đấy, nhưng hoa văn này chỉnh tề trật tự, mang một vẻ đẹp riêng, ta nghĩ đám rái cá Xao Lã
+
+### Yangyang → NPC #350117  (1 dòng nghi sai)
+  [Main_HuangLong_SYYLFML_420_11] tự xưng: 'chị' → nên 'mình'
+      (Sắp đến ngày chị nói sẽ đến Kim Châu thăm mình rồi, chị tìm không thấy mình, liệu có sốt ruột không...)
+
+### NPC #350101 → Yangyang  (1 dòng nghi sai)
+  [Main_HuangLong_SYYLFML_291_12] gọi: 'ngươi' → nên 'cậu'
+      Xin lỗi, về việc lữ khách Kim Châu mất tích, Quân Sách Phủ cũng chưa nhận được tình báo liên quan, hơn nữa lúc này… e là
+
+### NPC #750104 → NPC #750088  (1 dòng nghi sai)
+  [Event_JXWJS_2_5] gọi: 'anh' → nên 'cậu'
+      Cảm ơn, nếu ở lại thêm chút nữa, chắc tôi sẽ bị anh bạn dọn cỏ quét đi như đồ tạp nham mất, đùa thôi.
+
+### NPC #200201 → NPC #701052  (1 dòng nghi sai)
+  [Main_HuangLong_SYYLFML_88_2] gọi: 'anh' → nên 'cậu'
+      Số khác lại như bồ công anh, dốc hết sức mà lớn lên, chỉ để bén rễ ở phương xa mà mình khao khát.
+
+### Yangyang → NPC #750088  (1 dòng nghi sai)
+  [Main_HuangLong_LLZQMXY_2_9] gọi: 'em' → nên 'cậu'
+      Vâng, em biết, vì họ cũng đang gửi tin nhắn cho em cùng lúc...
+
+### NPC #750088 → NPC #750577  (1 dòng nghi sai)
+  [Side_TFSJJKYY_8_6] tự xưng: 'anh' → nên 'tôi'
+      Đừng vội đã, Barrado tiên sinh. Anh kiếm được cái bình hoa này từ đâu?
+
+### NPC #350274 → NPC #701052  (1 dòng nghi sai)
+  [35SLDWD_6_7] gọi: 'ngươi' → nên 'cậu'
+      Cảm ơn sự chi viện của ngươi!
+
+### NPC #701052 → NPC #350274  (1 dòng nghi sai)
+  [35SLDWD_6_6] tự xưng: 'ta' → nên 'tôi'
+      Được, ta xuất phát ngay bây giờ.
+
+### NPC #750088 → Yangyang  (1 dòng nghi sai)
+  [Main_HuangLong_XLZHDLY_432_3] gọi: 'ngươi' → nên 'cậu'
+      Ương Ương… dáng vẻ của ngươi…
+
+### NPC #750598 → NPC #750599  (1 dòng nghi sai)
+  [35TUOZUI_8_5] tự xưng: 'mình' → nên 'ta'
+      Nói bậy. Không phát hiện được thủ đoạn của Trầm Uyên, ta quả thực có chút thất bại. Nhưng ta muốn tìm ra tiêu chuẩn phân
+
+### NPC #750712 → NPC #750713  (1 dòng nghi sai)
+  [35NPCYLQ_33_1] tự xưng: 'mình' → nên 'ta'
+      Tay nghề của mình rốt cuộc còn kém ở chỗ nào đây...
+
+### NPC #350151 → NPC #350117  (1 dòng nghi sai)
+  [XFJCFST_3_5] gọi: 'bạn' → nên 'ngươi'
+      Đừng chỉ chăm chăm chê ta, bạn cũ à. Còn nói về ngươi thì hơn... Đáng lẽ ngươi phải an hưởng tuổi già ở Mộng Châu, sao b
+
+### NPC #350117 → NPC #350151  (1 dòng nghi sai)
+  [XFJCFST_3_6] gọi: 'cháu' → nên 'ngươi'
+      Ta ư? Ta lui về từ lâu rồi. Cháu trai giờ là Định Huyền Vệ của thành Huyền Phương, ta chỉ là người nhà theo quân đến đây
+
+### NPC #300086 → NPC #701052  (1 dòng nghi sai)
+  [Main_HuangLong_SYYLFML_86_2] gọi: 'chị' → nên 'cậu'
+      Không ngờ cậu tốt nghiệp nhanh vậy, là "đàn chị", tôi cũng phải cố gắng hơn mới được.
+
+### NPC #750731 → NPC #400005  (1 dòng nghi sai)
+  [ZXSTSPH_YYZX_180_1] tự xưng: 'mình' → nên 'ta'
+      Hừ... Ha... Ha ha ha ha ha — Ta biết mà... Ta biết mà... Đám cỗ máy rối đó nhất định có vấn đề! Chúng đã lộ rõ bộ mặt th
+
+### NPC #750775 → NPC #350162  (1 dòng nghi sai)
+  [XLCSYJST_4_3] tự xưng: 'cháu' → nên 'tôi'
+      Bác gái, cháu xin lỗi...
+
+### NPC #750556 → NPC #750555  (1 dòng nghi sai)
+  [Side_YJYAHXWJ_7_6] tự xưng: 'mình' → nên 'ta'
+      Các ngươi hoàn thành được sứ mệnh của mình, ta cũng hoàn thành được của ta.
+
+### NPC #350101 → NPC #750088  (1 dòng nghi sai)
+  [Main_HuangLong_SYYLFML_264_6] tự xưng: 'ta' → nên 'tôi'
+      Đúng vậy, cô ấy… ta cũng mong cô ấy được bình an vô sự.
+
+### NPC #350099 → NPC #350149  (1 dòng nghi sai)
+  [Main_HuangLong_XLZHDLY_213_4] tự xưng: 'tôi' → nên 'ta'
+      Cảm ơn, để tôi đi xem thử, biết đâu sẽ tìm được manh mối gì đó.
+

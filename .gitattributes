@@ -1,4 +1,8 @@
 *_FULL_PART*.txt filter=lfs diff=lfs merge=lfs -text
 01_BanDich_3.4/02_BanDich_Full_Gop/*.txt filter=lfs diff=lfs merge=lfs -text
+02_BanDich_3.5/02_BanDich_Full_Gop/*.txt filter=lfs diff=lfs merge=lfs -text
+03_BanDich_3.6/02_BanDich_Full_Gop/*.txt filter=lfs diff=lfs merge=lfs -text
+05_BaoCao_QC_Va_XungHo/03_TomTat_Thoai_DaSua/DANH_SACH_CAU_THOAI_DA_SUA.txt filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.pak filter=lfs diff=lfs merge=lfs -text
+

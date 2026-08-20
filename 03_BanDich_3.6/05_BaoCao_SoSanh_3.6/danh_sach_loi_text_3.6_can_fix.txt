@@ -1,0 +1,1877 @@
+=== BÁO CÁO CÁC LỖI FORMAT/BIẾN THẬT SỰ CẦN FIX (285 LỖI) ===
+
+@@ lang_confirmbox.db||ConfirmBox||165
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}'] nhưng Dịch có []
+# Gốc Trung: 客户端损坏，修复需要下载{0}资源包，请确认是否使用移动网络下载？
+# Hiện tại : Đồng Ý
+
+@@ lang_generic_tips.db||GenericPrompt||11
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}', '{2}'] nhưng Dịch có []
+# Gốc Trung: {0}:{1}:{2}
+# Hiện tại : 
+
+@@ lang_generic_tips.db||GenericPrompt||142
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}'] nhưng Dịch có []
+# Gốc Trung: {0}
+# Hiện tại : 
+
+@@ lang_generic_tips.db||GenericPromptTypes||11
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}', '{2}'] nhưng Dịch có []
+# Gốc Trung: {0}:{1}:{2}
+# Hiện tại : 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750127_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Huyền Linh bay qua sông</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750128_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Nước mênh mông núi mịt mờ</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750129_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Ánh trăng sáng, trăng soi bóng dài</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750130_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Trong bốn bể truyền khắp muôn phương</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750131_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Gọi người chớ lãng quên</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750132_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Huyền Linh bay qua sông</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750133_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Nước mênh mông núi mịt mờ</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750134_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Ánh trăng sáng, trăng soi bóng dài</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750135_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Trong bốn bể truyền khắp muôn phương, gọi người chớ lãng quên</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750136_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Huyền Linh bay, bay đứt ruột</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750137_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Trời xanh thẳm đất bao la</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750138_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Ánh trăng sáng</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750139_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Đêm lạnh dằng dặc</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750140_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Trong bốn bể truyền khắp muôn phương</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750141_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Gọi cha gọi mẹ, ngàn vạn lần chớ ngóng trông</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750142_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Ta biết bao mong cùng người đến phương xa</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750143_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Đi ngắm vùng đất bao la vô tận nhất</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750144_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Băng qua những vết thương chằng chịt  những con sóng lên xuống</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750145_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Nếu muốn có chỉ dẫn  gió luôn ở đó</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750146_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Vấn vương  sao lại chẳng nói lời</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750147_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Âm luật  sao lại không hồi đáp</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750148_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Chỉ là câu trả lời ấy  ẩn giấu trong gió</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750149_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Một trái tim  tìm trong hoang vu  cuồng chạy không ngừng</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750150_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Hãy nghe gió ngâm, gió đến mở đường cho ta  chỉ lối</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750151_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Ta biết bao mong cùng người đến phương xa</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750152_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Đi ngắm vùng đất bao la vô tận nhất</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750153_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Băng qua những vết thương chằng chịt  những con sóng lên xuống</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750154_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Nếu muốn có chỉ dẫn  gió luôn ở đó</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750155_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Sương sớm ban mai sẽ mang đến tin tức phương xa</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750156_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Trong tĩnh lặng ta cùng  tiếng gió thì thầm</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750157_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Trong bốn bể truyền khắp muôn phương</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750158_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Gọi người chớ lãng quên</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750159_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Sóng nước cuồn cuộn</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750160_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Sương mù che đường</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750161_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Đường phía trước xa xăm</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750162_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Ngày về diệu vợi</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750163_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Núi hoang hiu hắt</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750164_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Sông không cầu</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750165_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Rượu nhà khó nếm</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750166_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Tóc nhuốm tuyết sương</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750167_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Huyền Linh bay qua sông</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750168_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Nước mênh mông núi mịt mờ</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750169_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Ánh trăng sáng, trăng soi bóng dài</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750170_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Trong bốn bể truyền khắp muôn phương</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750171_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Gọi người chớ lãng quên</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750172_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Huyền Linh bay, bay đứt ruột</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750173_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Trời xanh thẳm</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750174_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Huyền Linh bay, bay đứt ruột</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750175_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Trời xanh thẳm đất bao la</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750176_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Ánh trăng sáng</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750177_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Đêm lạnh dằng dặc</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750178_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Trong bốn bể truyền khắp muôn phương</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750179_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Gọi cha gọi mẹ, ngàn vạn lần chớ ngóng trông</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750180_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Sóng nước cuồn cuộn</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750181_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Sương mù che đường</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750182_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Đường phía trước xa xăm</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750183_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Ngày về diệu vợi</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750184_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Núi hoang hiu hắt</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750185_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Sông không cầu</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750186_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Rượu nhà khó nếm</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750187_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Tóc nhuốm tuyết sương</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750188_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Gọi chim linh, chớ ngóng, chớ quên</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750189_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Hồn phách dạt, gió dài mãi</i>
+
+@@ lang_multi_text.db||MultiText||LyricsText_750190_Original
+# Lỗi: Thiếu/thừa biến: Gốc có ['{KeepOrigin}'] nhưng Dịch có []
+# Gốc Trung: {KeepOrigin}
+# Hiện tại : <i>Đợi đến đêm thu lạnh, đưa ta về cố hương</i>
+
+@@ lang_multi_text.db||MultiText||KurotatoProperty_desc_2
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}'] nhưng Dịch có []
+# Gốc Trung: 角色的最大生命，每波次开始时角色将回复全部生命。（下限值：{0}）
+# Hiện tại : Sinh Lực tối đa của nhân vật, khi mỗi đợt bắt đầu nhân vật sẽ hồi phục toàn bộ sinh mệnh.
+
+@@ lang_multi_text.db||MultiText||KurotatoProperty_desc_142
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}'] nhưng Dịch có []
+# Gốc Trung: 角色每隔一段时间将根据自动回复属性来回复一定生命。（下限值：{0}）
+# Hiện tại : Cứ sau một khoảng thời gian, nhân vật sẽ hồi phục một lượng sinh mệnh nhất định dựa theo thuộc tính Tự Động Hồi Phục.
+
+@@ lang_multi_text.db||MultiText||KurotatoProperty_desc_10
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}'] nhưng Dịch có []
+# Gốc Trung: 减少角色受到的伤害。（下限值：{0}）
+# Hiện tại : Giảm sát thương nhân vật phải chịu.
+
+@@ lang_multi_text.db||MultiText||KurotatoProperty_desc_190
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}'] nhưng Dịch có []
+# Gốc Trung: 角色当前相较基础移动速度的比例。（上限值：{0}，下限值：{1}）
+# Hiện tại : Tỉ lệ tốc độ di chuyển hiện tại của nhân vật so với tốc độ di chuyển cơ bản.
+
+@@ lang_multi_text.db||MultiText||KurotatoProperty_desc_146
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}'] nhưng Dịch có []
+# Gốc Trung: 角色受到伤害时免疫此次伤害的概率。（上限值：{0}）
+# Hiện tại : Xác suất nhân vật miễn nhiễm đòn sát thương này khi nhận sát thương, tối đa 80% xác suất.
+
+@@ lang_multi_text.db||MultiText||Event_THCQDYBF_35_14
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 信中说，他在今州偶遇奇人。和{TA}坐而论道后，顿觉技艺不精，再看占书已经味同嚼蜡。
+# Hiện tại : Trong thư có nói, ông ấy ở Kim Châu tình cờ gặp được một kỳ nhân. Sau khi cùng {Male=ngài ấy;Female=bà ấy} đàm đạo, ông bỗng cảm thấy kỹ thuật của mình chưa tinh, đọc lại sách bói cũng nhạt như nhai sáp.
+
+@@ lang_multi_text.db||MultiText||Event_THCQDYBF_5_20
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}', '{TA}'] nhưng Dịch có []
+# Gốc Trung: （……等下次见到{TA}的时候……再向{TA}道谢吧。）
+# Hiện tại : (...Lần sau gặp lại {Male=anh ấy;Female=cô ấy}... mình sẽ nói lời cảm ơn với người đó vậy.)
+
+@@ lang_multi_text.db||MultiText||Chengxiaoshan_main_1_1_215_2
+# Lỗi: Thiếu/thừa biến: Gốc có ['{PlayerName}', '{TA}'] nhưng Dịch có ['{PlayerName}']
+# Gốc Trung: 放心吧，{PlayerName}身怀殊异，乘霄山的时间乱流未伤及{TA}分毫。
+# Hiện tại : Yên tâm đi, {PlayerName} mang theo điều khác biệt, Dòng thời gian hỗn loạn của Núi Thừa Tiêu không hề làm tổn hại đến {Male=cậu ấy;Female=cậu ấy} chút nào.
+
+@@ lang_multi_text.db||MultiText||Chengxiaoshan_main_1_1_215_11
+# Lỗi: Thiếu/thừa biến: Gốc có ['{PlayerName}', '{TA}'] nhưng Dịch có ['{PlayerName}']
+# Gốc Trung: 在随我来乘霄山之前，{PlayerName}做了一个古怪的梦，或者说，{TA}看到了曾经遗失的记忆碎片。
+# Hiện tại : Trước khi theo tôi đến Núi Thừa Tiêu, {PlayerName} đã có một giấc mơ kỳ lạ mà {Male=cậu ấy;Female=cô ấy} kể lại, hay nói chính xác hơn, {Male=cậu ấy;Female=cô ấy} đã nhìn thấy những mảnh ký ức từng bị thất lạc.
+
+@@ lang_multi_text.db||MultiText||Side_CFYW_12_3
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 你疯了吗？这家伙可是漂泊者！别说我们了，就算伤痕大人也不是{TA}的对手！
+# Hiện tại : Ngươi điên rồi à? Tên này là Lữ Khách đấy! Đừng nói là bọn ta, ngay cả ngài Vết Thương cũng không phải đối thủ của {Male=anh ta;Female=cô ta}!
+
+@@ lang_multi_text.db||MultiText||Character_ChangLi_62_35
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 师父离去之后，{TA}便是唯一能够开启蜃境的人。现在，你应该已经知道故事中另一个人究竟是谁了。
+# Hiện tại : Sau khi sư phụ rời đi, {Male=anh ấy;Female=cô ấy} chính là người duy nhất có thể mở Ảo Cảnh. Bây giờ, hẳn cậu đã biết {Male=anh ấy;Female=cô ấy} là người còn lại trong câu chuyện rốt cuộc là ai rồi.
+
+@@ lang_multi_text.db||MultiText||Chengxiaoshan_main_1_1_1_2_19
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 哈？这种事情我怎么知道……不对，你怎么不直接问{TA}？
+# Hiện tại : Hả? Chuyện này thì tớ làm sao mà biết được... À không, sao cậu không hỏi thẳng {Male=anh ấy;Female=cô ấy} luôn đi?
+
+@@ lang_multi_text.db||MultiText||Chengxiaoshan_main_1_1_1_2_22
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 对嘛对嘛，很明显，你是{TA}在失忆之前吸收的，只能从你这找找线索了。
+# Hiện tại : Đúng rồi. Rõ ràng cậu đã bị {Male=cậu ấy;Female=cậu ấy} hấp thụ trước khi Lữ Khách mất trí nhớ, nên bọn tớ chỉ có thể tìm manh mối từ phía cậu thôi.
+
+@@ lang_multi_text.db||MultiText||Chengxiaoshan_main_1_1_1_4_16
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 那当然，都说了我很强，肯定要护着{TA}嘛。
+# Hiện tại : Đương nhiên rồi, đã nói tớ rất mạnh, chắc chắn phải bảo vệ {Male=cậu ấy;Female=cô ấy} chứ.
+
+@@ lang_multi_text.db||MultiText||Chengxiaoshan_main_1_1_1_4_24
+# Lỗi: Thiếu/thừa biến: Gốc có ['{PlayerName}', '{PlayerName}', '{TA}'] nhưng Dịch có ['{PlayerName}', '{PlayerName}']
+# Gốc Trung: 的确，阿布现在如同{PlayerName}的秘密武器，不能脱离{TA}单独存在，我们总不好因为这个限制了{PlayerName}的行动。
+# Hiện tại : Đúng vậy, Abby bây giờ chẳng khác nào vũ khí bí mật của {PlayerName}, không thể tách khỏi {PlayerName} mà tồn tại độc lập, nhưng chúng ta cũng không thể vì chuyện này mà giam giữ {Male=cậu ấy;Female=cô ấy} lại để nghiên cứu được.
+
+@@ lang_multi_text.db||MultiText||Character_Encore_1_4
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 现在安可还在等一个好朋友呢，啊，{TA}到了！
+# Hiện tại : Bây giờ An Khả còn đang chờ một người thân thiết nữa, à, {Male=anh ấy;Female=chị ấy} tới rồi!
+
+@@ lang_multi_text.db||MultiText||Character_Encore_1_21
+# Lỗi: Thiếu/thừa biến: Gốc có ['{PlayerName}', '{TA}'] nhưng Dịch có ['{PlayerName}']
+# Gốc Trung: 大家快来，我来隆重介绍！这是{PlayerName}，{TA}可是守护了今州的大英雄！
+# Hiện tại : Mọi người mau đến đây, An Khả xin trịnh trọng giới thiệu! Đây là {PlayerName}, {Male=anh ấy;Female=chị ấy} chính là vị đại anh hùng đã bảo vệ Kim Châu đó!
+
+@@ lang_multi_text.db||MultiText||Character_Encore_18_3
+# Lỗi: Thiếu/thừa biến: Gốc có ['{PlayerName}', '{TA}'] nhưng Dịch có ['{PlayerName}']
+# Gốc Trung: 小盈！安可记住了。这是{PlayerName}，{TA}是我们羊咩小队的队长！
+# Hiện tại : Ying! An Khả nhớ rồi. Đây là {PlayerName}, {Male=anh ấy;Female=chị ấy} là đội trưởng Đội Phiêu Lưu Cừu của bọn tớ đó!
+
+@@ lang_multi_text.db||MultiText||Heihaian_main_1_3_5701_24
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: ……照{TA}说的做。
+# Hiện tại : ...Làm theo lời {Male=ngài ấy;Female=ngài ấy} nói.
+
+@@ lang_multi_text.db||MultiText||Side_HHAJYSC_1_8
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 很久以前，黑海岸有一位神秘人！据说{TA}上天入地无所不能，只需要挥挥手，叮咚一声，鸣式什么的就都能消灭！
+# Hiện tại : Rất lâu về trước, ở Hắc Hải Ngạn có một nhân vật bí ẩn! Nghe nói {Male=anh ấy;Female=cô ấy} trên trời dưới đất không gì không làm được, chỉ cần vẫy tay một cái, đinh đông một tiếng, cái lũ Minh Thức hay gì gì đó đều bị tiêu diệt sạch!
+
+@@ lang_multi_text.db||MultiText||Side_HHAJYSC_1_10
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}', '{TA}'] nhưng Dịch có []
+# Gốc Trung: 但是！突然在某一天，{TA}悄无声息地消失了，再也没有人见过{TA}。
+# Hiện tại : Nhưng mà! Đột nhiên vào một ngày nọ, {Male=anh ấy;Female=cô ấy} lặng lẽ biến mất không một dấu vết, và không còn ai gặp lại người đó nữa.
+
+@@ lang_multi_text.db||MultiText||Side_HHAJYSC_1_11
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 就连泰缇斯系统里，也没有关于{TA}的记录。
+# Hiện tại : Ngay cả trong Hệ Thống Tethys, cũng không có ghi chép gì về {Male=anh ấy;Female=cô ấy}.
+
+@@ lang_multi_text.db||MultiText||Side_HHAJYSC_1_12
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}', '{TA}', '{TA}'] nhưng Dịch có []
+# Gốc Trung: 不过，据说在黑海岸的一些地方，还残存着{TA}的频率，有些是{TA}抛弃了的，有些则是{TA}遗留下来的。
+# Hiện tại : Tuy nhiên, nghe nói ở một số nơi sâu thẳm tại Bờ Biển Đen vẫn còn sót lại tần số của {Male=anh ấy;Female=cô ấy}, một phần là do {Male=anh ấy;Female=cô ấy} tự nguyện vứt bỏ, một phần khác lại là do {Male=anh ấy;Female=cô ấy} vô tình để lại.
+
+@@ lang_multi_text.db||MultiText||RGZYYYGJZ_101_35
+# Lỗi: Thiếu/thừa biến: Gốc có ['{PlayerName}', '{TA}'] nhưng Dịch có ['{PlayerName}']
+# Gốc Trung: 没办法，先前{PlayerName}还和我一起，就这么一会儿功夫，{TA}就被叔父单独约出来了。
+# Hiện tại : Không còn cách nào khác, lúc trước {PlayerName} còn ở cùng cháu, vậy mà chỉ một thoáng thôi, {Male=cậu ấy;Female=cô ấy} đã bị chú mời ra riêng rồi.
+
+@@ lang_multi_text.db||MultiText||Main_Linaxita_2_1_28_9
+# Lỗi: Thiếu/thừa biến: Gốc có ['{PlayerName}', '{TA}'] nhưng Dịch có ['{PlayerName}']
+# Gốc Trung: 这位是{PlayerName}，想必您一定知晓这位贵客的名字，{TA}在用餐时被失控的刀伶袭击，我们正在调查关于那个声骸的事情。
+# Hiện tại : Vị {Male=quý ông;Female=quý cô} này là thượng khách của gia đình ngài, {PlayerName}. {Male=Anh ấy;Female=Cô ấy} đã bị một Vũ Công Vitreum mất kiểm soát tấn công khi đang dùng bữa, và tụi mình đang điều tra về Echo đó.
+
+@@ lang_multi_text.db||MultiText||Main_Linaxita_2_3_23_8
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: {TA}是因为担心我们，才冒险和洛可可一起来找你。
+# Hiện tại : {Male=Anh ấy;Female=Chị ấy} là vì lo lắng cho bọn em, nên mới mạo hiểm cùng Lạc Khả Khả đến tìm anh.
+
+@@ lang_multi_text.db||MultiText||Main_Linaxita_2_3_70_17
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 从瑝珑到黎那汐塔，{TA}的确给我的乐章，添加了几节意外美妙的旋律。
+# Hiện tại : Từ Hoàng Long đến Rinascita, {Male=cậu ấy;Female=cô ấy} quả thực đã thêm vào nhạc chương của em vài giai điệu tuyệt diệu ngoài mong đợi.
+
+@@ lang_multi_text.db||MultiText||Main_Linaxita_2_3_70_18
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 我相信，即使无人指引，{TA}也依然会踏上应行的道途。
+# Hiện tại : Tôi tin rằng, dù không có ai dẫn lối, {Male=cậu ấy;Female=cô ấy} cũng vẫn sẽ bước đi trên con đường mà định mệnh đã bày ra trước mắt {Male=cậu ấy;Female=cô ấy}.
+
+@@ lang_multi_text.db||MultiText||Main_Linaxita_2_3_96_5
+# Lỗi: Thiếu/thừa biến: Gốc có ['{PlayerName}', '{TA}'] nhưng Dịch có ['{PlayerName}']
+# Gốc Trung: 还是要多谢{PlayerName}，是{TA}满足了「西莫斯先生」的心愿。
+# Hiện tại : Vẫn phải cảm ơn {PlayerName} mới đúng, chính {Male=cậu ấy;Female=cô ấy} đã thực hiện tâm nguyện của "Ngài C-MOSS".
+
+@@ lang_multi_text.db||MultiText||Main_Linaxita_2_2_55_18
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có ['{PlayerName}', '{TA}']
+# Gốc Trung: 当然了，{TA}可是远道而来的贵客，当然需要由家族最为可靠的雇员予以招待。
+# Hiện tại : Đương nhiên rồi, {PlayerName} {TA} là quý khách từ phương xa đến, lẽ tất nhiên cần phải để nhân viên đáng tin cậy nhất của gia tộc ra tiếp đãi.
+
+@@ lang_multi_text.db||MultiText||Character_Brant_3_34
+# Lỗi: Thiếu/thừa biến: Gốc có ['{PlayerName}', '{TA}'] nhưng Dịch có ['{PlayerName}']
+# Gốc Trung: {PlayerName}钓上条这么大的鱼，又是狂欢节的「桂冠」，让{TA}做一天船长不过分吧！
+# Hiện tại : {PlayerName} câu được con cá to thế kia, lại là «Vòng Nguyệt Quế» của Lễ hội Carnevale, để {Male=anh ấy;Female=cô ấy} làm thuyền trưởng một ngày cũng đâu có quá đáng nào!
+
+@@ lang_multi_text.db||MultiText||Character_Zani_1_24
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 那{TA}呢？
+# Hiện tại : Vậy còn {Male=cậu ta;Female=cô ta} thì sao?
+
+@@ lang_multi_text.db||MultiText||Character_Zani_1_25
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: {TA}和你们一样，被刚才的动静吸引过来了而已。
+# Hiện tại : {Male=Cậu ấy;Female=Cô ấy} cũng giống các vị, bị động tĩnh vừa rồi thu hút đến đây thôi.
+
+@@ lang_multi_text.db||MultiText||Character_Zani_7_4
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 大……大哥，{TA}们看上去是硬茬子啊……
+# Hiện tại : Đại... đại ca, mấy người này trông có vẻ là dân cứng cựa đấy...
+
+@@ lang_multi_text.db||MultiText||MAIN_RYAM_51_16
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 更何况，我认识的那位义人到达这里后，必定会察觉七丘的异常，我们的行动也会给{TA}留下指引。
+# Hiện tại : Hơn nữa, người chính nghĩa mà mình biết một khi đến đây, chắc chắn sẽ nhận ra dị thường của Septimont, và những hành động của bọn mình cũng sẽ để lại chỉ dẫn cho {Male=cậu ấy;Female=cậu ấy}.
+
+@@ lang_multi_text.db||MultiText||MAIN_RYAM_51_18
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 我们能纠正彼此的错误，行拯救之道……没错，我很信任{TA}。
+# Hiện tại : Bọn mình có thể sửa chữa sai lầm của nhau, cùng đi trên con đường cứu chuộc...... đúng vậy, mình rất tin tưởng {Male=cậu ấy;Female=cậu ấy}.
+
+@@ lang_multi_text.db||MultiText||MAIN_RYAM_90_17
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: {TA}才刚到七丘不久，别因为太过狂热让外邦人留下不好的印象。
+# Hiện tại : {Male=Cậu ấy;Female=Cô ấy} mới đến Septimont không lâu, đừng vì quá cuồng nhiệt mà để người ngoại bang để lại ấn tượng không tốt.
+
+@@ lang_multi_text.db||MultiText||MAIN_YGDX_32_8
+# Lỗi: Thiếu/thừa biến: Gốc có ['{PlayerName}', '{TA}'] nhưng Dịch có ['{PlayerName}']
+# Gốc Trung: {PlayerName}比我强大许多，但仍旧对所有人平等相待，{TA}没有选择独断，而是选择了相信我。
+# Hiện tại : {PlayerName} mạnh hơn mình rất nhiều, nhưng {Male=anh ấy;Female=cô ấy} vẫn đối xử bình đẳng với tất cả mọi người. {Male=Anh ấy;Female=Cô ấy} đã không chọn cách độc đoán một mình, mà {Male=anh ấy;Female=cô ấy} đã chọn tin tưởng mình.
+
+@@ lang_multi_text.db||MultiText||MAIN_YGDX_20_28
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 所以我相信，{TA}也一定会来到这里，并改变这个品味糟糕的故事。
+# Hiện tại : Thế nên mình tin, {Male=cậu ấy;Female=cậu ấy} nhất định sẽ đến nơi này, và thay đổi câu chuyện có thị hiếu tồi tệ này.
+
+@@ lang_multi_text.db||MultiText||MAIN_YGDX_20_29
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 那一定是个很有趣的人吧！呼……真想也见见那个人，看看{TA}怎么做到的……
+# Hiện tại : Vậy chắc chắn là một người rất thú vị nhỉ! Phù... tôi cũng thật sự muốn gặp {Male=cậu ấy;Female=cô ấy}, xem {Male=cậu ấy;Female=cô ấy} làm điều đó như thế nào...
+
+@@ lang_multi_text.db||MultiText||MAIN_YGDX_20_34
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 去新的故事中找{TA}吧，将我的讯息带给那个人。
+# Hiện tại : Hãy đi tìm {Male=cậu ấy;Female=cậu ấy} trong câu chuyện mới, mang lời nhắn của mình đến cho người đó.
+
+@@ lang_multi_text.db||MultiText||Main_Linaxita_2_7_107_1
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: （{TA}是什么时候来的？）
+# Hiện tại : ({Male=cậu ấy;Female=cô ấy} đến từ lúc nào vậy?)
+
+@@ lang_multi_text.db||MultiText||Main_Linaxita_2_7_53_3
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 没关系，{TA}会解决的。
+# Hiện tại : Không sao, {Male=cậu ấy;Female=cậu ấy} sẽ giải quyết được.
+
+@@ lang_multi_text.db||MultiText||Main_Linaxita_2_7_58_20
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: （当灵魂向遥远的世界尽头无限延伸，像我，像{TA}……）
+# Hiện tại : (Khi linh hồn vươn dài đến tận cùng thế giới xa xôi, như ta, như {Male=anh ấy;Female=cô ấy}...)
+
+@@ lang_multi_text.db||MultiText||Main_Linaxita_2_10_1_11
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 以蚀脊龙为饵料，{TA}消解黑潮的迷障，使伪相显真容。
+# Hiện tại : Lấy Thực Tích Long làm mồi nhử, {Male=ngài;Female=ngài} phá tan mê chướng của Hắc Triều, khiến giả tướng lộ chân dung.
+
+@@ lang_multi_text.db||MultiText||Main_Honami_2_8_2_2_12
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: ……嗯，嗯。我知道了。{TA}正好在我这。
+# Hiện tại : ......Ừm, ừm. Tôi biết rồi. {Male=Cậu ấy;Female=Cậu ấy} đang ở chỗ tôi đây.
+
+@@ lang_multi_text.db||MultiText||STNPC_XFDJPYNPCZX_170_2
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 好像{TA}一个人打败了几百架发狂的机傀，太厉害了……
+# Hiện tại : Nghe nói {Male=anh ấy;Female=chị ấy} đã một mình đánh bại hàng trăm Cơ Khôi phát điên. Lợi hại thật đấy…
+
+@@ lang_multi_text.db||MultiText||POI_GDLC_12_3
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}', '{TA}'] nhưng Dịch có ['{PlayerName}']
+# Gốc Trung: 那当然，{TA}不仅帮我修好了终端，还一口气找到了所有日灵！我答应了要请{TA}大吃一顿！
+# Hiện tại : Tất nhiên rồi! Đây là {PlayerName}. {Male=Anh ấy;Female=Cô ấy} không chỉ giúp con sửa Terminal mà còn tìm ra hết tất cả Nhật Linh chỉ trong một hơi khí! Con đã hứa sẽ mời {Male=anh ấy;Female=cô ấy} một bữa thật no để cảm ơn rồi!
+
+@@ lang_multi_text.db||MultiText||Main_LahaiRoi_3_1_14_3
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 不过{TA}面对虚诞虫都不形于色，大概不是会被轻易吓到的类型。
+# Hiện tại : Có điều {Male=cậu ấy;Female=cô ấy} đối mặt với Sâu Hư Không còn không hề biến sắc, {Male=cậu ấy;Female=cô ấy} có lẽ không phải kiểu dễ bị dọa đâu.
+
+@@ lang_multi_text.db||MultiText||Main_LahaiRoi_3_1_14_6
+# Lỗi: Thiếu/thừa biến: Gốc có ['{PlayerName}', '{TA}'] nhưng Dịch có ['{PlayerName}']
+# Gốc Trung: 咳咳！这次不是我……是{PlayerName}，请帮{TA}检查一下身体吧。
+# Hiện tại : Hắng hắng! Lần này không phải mình đâu... Là {PlayerName}, làm ơn kiểm tra cơ thể cho {Male=cậu ấy;Female=cậu ấy} giúp mình với.
+
+@@ lang_multi_text.db||MultiText||Main_LahaiRoi_3_1_14_12
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}', '{TA}'] nhưng Dịch có []
+# Gốc Trung: 呃，嗯……{TA}不小心摔了一跤，那时候我正好骑车路过，就……把{TA}带过来了！
+# Hiện tại : Ơ, ừm... {Male=cậu ấy;Female=cậu ấy} không cẩn thận trượt ngã một cái, lúc đó tớ vừa hay cưỡi xe đi ngang qua, thế là... đưa {Male=cậu ấy;Female=cậu ấy} đến đây luôn!
+
+@@ lang_multi_text.db||MultiText||Main_LahaiRoi_3_1_16_16
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 沃斯老师，我是来带这位同学入学的，{TA}刚到学院，对这里还不太熟悉……
+# Hiện tại : Cô Voss, mình đến để giúp {Male=cậu ấy;Female=cô ấy} làm thủ tục nhập học. {Male=Cậu ấy;Female=Cô ấy} vừa mới đến đây, vẫn chưa quen với nơi này lắm...
+
+@@ lang_multi_text.db||MultiText||Main_LahaiRoi_3_1_43_7
+# Lỗi: Thiếu/thừa biến: Gốc có ['{PlayerName}', '{TA}'] nhưng Dịch có ['{PlayerName}']
+# Gốc Trung: 我接受一切问询和调查，但这件事与{PlayerName}无关，{TA}是今天才入学的新生。
+# Hiện tại : Mình chấp nhận mọi cuộc thẩm vấn và điều tra, nhưng việc này không liên quan đến {PlayerName}, {Male=cậu ấy;Female=cậu ấy} là tân sinh hôm nay mới nhập học.
+
+@@ lang_multi_text.db||MultiText||Main_LahaiRoi_3_2_999_29
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 在那之前，请帮我把这段记忆带给{TA}。
+# Hiện tại : Trước lúc đó, xin hãy giúp ta đem đoạn ký ức này tới cho {Male=anh ấy;Female=cô ấy}.
+
+@@ lang_multi_text.db||MultiText||Side_XYDG_2_20
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 这个方案好！我们立刻就去想办法联系“虚诞虫骑士”，询问{TA}是否愿意参加拍摄——
+# Hiện tại : Ý tưởng hay đấy! Bọn tớ sẽ lập tức tìm cách liên hệ với “Kỵ Sĩ Sâu Hư Không” và hỏi xem {Male=anh ấy;Female=cô ấy} có sẵn lòng tham gia chụp ảnh không—
+
+@@ lang_multi_text.db||MultiText||ZHDGT_4_10
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 干嘛啦，都这么久没活动了人家不知道也正常啊……而且看起来，{TA}应该也没在同好会里待很久吧？
+# Hiện tại : {Male=Làm gì vậy, đã lâu rồi không có hoạt động, cậu ấy không biết cũng là chuyện bình thường mà... Vả lại nhìn có vẻ, cậu ấy cũng chưa ở trong hội được bao lâu đâu nhỉ?;Female=Làm gì vậy, đã lâu rồi không có hoạt động, cậu ấy không biết cũng là chuyện bình thường mà... Vả lại nhìn có vẻ, cậu ấy cũng chưa ở trong hội được bao lâu đâu nhỉ?}
+
+@@ lang_multi_text.db||MultiText||Main_LahaiRoi_3_1_202_1
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}', '{TA}'] nhưng Dịch có []
+# Gốc Trung: （{TA}现在应该已经顺利到达了研究院，应该不会遇到什么危险……尽量在不牵扯到{TA}的情况下解决吧。）
+# Hiện tại : ({Male=Anh ấy;Female=Cô ấy} bây giờ chắc đã thuận lợi đến Viện Nghiên Cứu rồi, chắc sẽ không gặp nguy hiểm gì... Cố gắng giải quyết mà không để {Male=anh ấy;Female=cô ấy} bị liên lụy vậy.)
+
+@@ lang_multi_text.db||MultiText||Main_LahaiRoi_3_1_3201_20
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: {TA}是黑海岸举荐过来的。
+# Hiện tại : {Male=Anh ấy;Female=Cô ấy} được Bờ Biển Đen tiến cử đến đây.
+
+@@ lang_multi_text.db||MultiText||MAIN_YHX_12_34
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 我想告诉{TA}，现在我生活得很好，也很快乐！一切如你所愿，不必为我担忧。
+# Hiện tại : Em muốn nói với {Male=anh ấy;Female=chị ấy} rằng, bây giờ em đang sống rất tốt, cũng rất hạnh phúc! Mọi thứ đều như người mong muốn, không cần lo lắng cho em đâu.
+
+@@ lang_multi_text.db||MultiText||MAIN_YHX_16_4
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 二十年左右。来学院前我正在索拉里斯各处旅行，做一些事，但受朋友所托，我就来拉海洛帮{TA}看着点这里了。
+# Hiện tại : Khoảng hai mươi năm. Trước khi đến học viện, tôi đang đi du hành khắp Solaris, làm vài việc, nhưng vì lời nhờ vả của một người bằng hữu, tôi đã đến Lahai-Roi để thay {Male=cậu ấy;Female=cô ấy} trông nom nơi này.
+
+@@ lang_multi_text.db||MultiText||MAIN_YHX_69_2
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: （靠着它的时候，就像是{TA}也在身边。）
+# Hiện tại : (Lúc dựa vào nó, cứ như là {Male=anh ấy;Female=anh ấy} cũng ở bên cạnh vậy.)
+
+@@ lang_multi_text.db||MultiText||MAIN_YHX_71_1
+# Lỗi: Thiếu/thừa biến: Gốc có ['{PlayerName}', '{TA}'] nhưng Dịch có ['{PlayerName}']
+# Gốc Trung: （{PlayerName}这次回来，会待多久呢？不想{TA}又去和麻烦的人打交道……）
+# Hiện tại : ({PlayerName} lần này về, sẽ ở lại bao lâu nhỉ? Em không muốn {Male=anh ấy;Female=anh ấy} lại đi giao thiệp với mấy người phiền phức nữa......)
+
+@@ lang_multi_text.db||MultiText||MAIN_YHX_71_3
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: （……算啦，说了那个人也会不听，还是抓紧时间多和{TA}说说话吧。）
+# Hiện tại : (......Thôi vậy, có nói thì {Male=anh ấy;Female=cô ấy} cũng chẳng nghe, tranh thủ thời gian nói chuyện với {Male=anh ấy;Female=cô ấy} nhiều thêm chút vậy.)
+
+@@ lang_multi_text.db||MultiText||MAIN_YHX_9053_2
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 我不会再让你靠近{TA}了。
+# Hiện tại : Tôi sẽ không để ngươi đến gần {Male=cậu ấy;Female=cậu ấy} thêm lần nào nữa.
+
+@@ lang_multi_text.db||MultiText||MAIN_YHX_105_9
+# Lỗi: Thiếu/thừa biến: Gốc có ['{PlayerName}', '{TA}'] nhưng Dịch có ['{PlayerName}']
+# Gốc Trung: 最近，我又见到{PlayerName}了。我觉得，{TA}比以前活得要轻松些。
+# Hiện tại : Gần đây, mình gặp lại {PlayerName}. Mình thấy {Male=anh ấy;Female=cô ấy} sống nhẹ nhõm hơn trước.
+
+@@ lang_multi_text.db||MultiText||MAIN_YHX_105_11
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 我心里特别高兴，特别为{TA}开心。
+# Hiện tại : Tâm mình vui lắm, thực sự mừng cho {Male=anh ấy;Female=cô ấy}.
+
+@@ lang_multi_text.db||MultiText||MAIN_YHX_121_6
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 但我还是……想在离开前，再见见{TA}。只有这一件事，是我的私心。
+# Hiện tại : Nhưng mình vẫn... muốn được gặp lại {Male=anh ấy;Female=cô ấy} một lần trước khi đi. Chỉ có chuyện này thôi, là sự ích kỷ trong Tâm mình.
+
+@@ lang_multi_text.db||MultiText||MAIN_YHX_121_8
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 我害怕{TA}有朝一日知道自己身世的真相，会太过孤独。
+# Hiện tại : Mình luôn sợ rằng một ngày nào đó, khi {Male=anh ấy;Female=cô ấy} biết được sự thật về thân thế của {Male=chính mình;Female=chính mình}, {Male=anh ấy;Female=cô ấy} sẽ cảm thấy quá cô đơn.
+
+@@ lang_multi_text.db||MultiText||MAIN_YHX_121_10
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 那个人和我说了{TA}失忆后一路的经历，那是一段很有趣的旅途。
+# Hiện tại : {Male=Anh ấy;Female=Cô ấy} đã kể cho mình nghe về hành trình của {Male=anh ấy;Female=cô ấy} sau khi mất trí nhớ, đó là một chuyến đi rất thú vị, đầy trải nghiệm ý nghĩa đối với {Male=anh ấy;Female=cô ấy}.
+
+@@ lang_multi_text.db||MultiText||MAIN_YHX_121_11
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}', '{TA}', '{TA}', '{TA}'] nhưng Dịch có []
+# Gốc Trung: {TA}走过了很多地方，认识了很多人。那些人都关心着{TA}、挂念着{TA}，与{TA}结下了缘分。
+# Hiện tại : {Male=Anh ấy;Female=Cô ấy} đã đi qua rất nhiều nơi, gặp gỡ rất nhiều người. Những người đó đều quan tâm {Male=anh ấy;Female=cô ấy}, lo lắng cho {Male=anh ấy;Female=cô ấy} trong Tâm, kết nên duyên phận với {Male=anh ấy;Female=cô ấy} - như một Bùa Hộ Mệnh.
+
+@@ lang_multi_text.db||MultiText||MAIN_YHX_99_2
+# Lỗi: Thiếu/thừa biến: Gốc có ['{PlayerName}', '{TA}'] nhưng Dịch có ['{PlayerName}']
+# Gốc Trung: 但如果这样能分担{PlayerName}的责任，能让{TA}别那么痛苦的话……
+# Hiện tại : Nhưng nếu việc này có thể san sẻ trách nhiệm của {PlayerName}, có thể khiến {Male=anh ấy;Female=chị ấy} bớt đau đớn hơn...
+
+@@ lang_multi_text.db||MultiText||MAIN_RGLC_37_1
+# Lỗi: Thiếu/thừa biến: Gốc có ['{PlayerName}', '{TA}'] nhưng Dịch có ['{PlayerName}']
+# Gốc Trung: （事情聊完，{PlayerName}说想去冰原再看看隧者的情况，也离开了……是因为做事能让{TA}内心平静些吧。）
+# Hiện tại : (Bàn xong chuyện, {PlayerName} bảo {Male=cậu ấy;Female=cô ấy} muốn đến vùng băng nguyên xem tình hình Kẻ Hầm thêm chút nữa, rồi {Male=cậu ấy;Female=cô ấy} cũng đã rời đi rồi... có lẽ vì bận làm việc gì đó sẽ giúp {Male=cậu ấy;Female=cô ấy} lòng yên tĩnh lại hơn.)
+
+@@ lang_multi_text.db||MultiText||MAIN_RGLC_37_6
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 看来是因为那个“爱弥斯”。{TA}之前都不愿意谈起冰原发生了什么，居然愿意和你提及呢……
+# Hiện tại : Xem ra là vì "Aemeath" đó. Trước đây {Male=cậu ấy;Female=cô ấy} không chịu nhắc đến chuyện đã xảy ra ở vùng băng nguyên, vậy mà {Male=cậu ấy;Female=cô ấy} lại sẵn lòng kể với cậu...
+
+@@ lang_multi_text.db||MultiText||MAIN_RGLC_37_7
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}', '{TA}'] nhưng Dịch có []
+# Gốc Trung: 停滞无法带来改变，{TA}也不是那种无法沟通的人。现在嘛，朋友说自己遇到了问题，我自然要为{TA}分忧。
+# Hiện tại : Đứng yên không mang lại thay đổi, {Male=cậu ấy;Female=cô ấy} cũng không phải kiểu người không thể trò chuyện được. Còn bây giờ thì, bạn bè bảo mình gặp chuyện rắc rối, tôi đương nhiên phải san sẻ lo âu cho người ấy.
+
+@@ lang_multi_text.db||MultiText||MAIN_RGLC_40_3
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}', '{TA}'] nhưng Dịch có []
+# Gốc Trung: {TA}又不是没来过。但现在和以前不同了，我不太希望{TA}陷入和深空联合的这些琐事里。
+# Hiện tại : {Male=Cậu ấy;Female=Cô ấy} đâu phải chưa từng đến. Nhưng giờ khác trước rồi, tôi không muốn {Male=cậu ấy;Female=cô ấy} bị cuốn vào những chuyện vụn vặt của Spacetrek Collective.
+
+@@ lang_multi_text.db||MultiText||MAIN_RGLC_40_20
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 进来了才发现，哎，这里哪有{TA}说得那么好？十个校工里八个是各势力塞进来的人！
+# Hiện tại : Vào rồi mới phát hiện, ấy, ở đây làm gì có tốt như {Male=anh ấy;Female=cô ấy} nói? Mười người lao công thì tám người là do các phe phái cài vào!
+
+@@ lang_multi_text.db||MultiText||Main_LahaiRoi_YXBLDHJ_4_2
+# Lỗi: Thiếu/thừa biến: Gốc có ['{PlayerName}', '{TA}'] nhưng Dịch có ['{PlayerName}']
+# Gốc Trung: {PlayerName}来了，详细情况我会和{TA}说清楚。
+# Hiện tại : {PlayerName} đến rồi, tình hình chi tiết tôi sẽ nói rõ với {Male=cậu ấy;Female=cậu ấy}.
+
+@@ lang_multi_text.db||MultiText||Main_LahaiRoi_YMDDDTY_47_10
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: {TA}见到了我，对你的安排有影响吗？
+# Hiện tại : {Male=Cậu ấy;Female=Cô ấy} đã thấy ta, có ảnh hưởng đến sắp xếp của cô không?
+
+@@ lang_multi_text.db||MultiText||Main_LahaiRoi_YMDDDTY_54_15
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 那位学生，你似乎相当信任{TA}。
+# Hiện tại : Cô học trò đó... ngươi có vẻ tin tưởng {Male=cậu ấy;Female=cô ấy} ghê nhỉ.
+
+@@ lang_multi_text.db||MultiText||Main_LahaiRoi_YMDDDTY_54_16
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 嗯，等你见到{TA}就知道了，怎么样，你那边的进度如何？
+# Hiện tại : Ừm, đợi cô gặp {Male=cậu ấy;Female=cô ấy} thì sẽ hiểu thôi. Thế nào, tiến độ bên cô đến đâu rồi?
+
+@@ lang_multi_text.db||MultiText||Zuoyequnxing_193_33
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 玉露姐姐，近来，我遇到了一个人。与我在苇原的路不同，{TA}总是能成功“拯救”。
+# Hiện tại : <ano=Aneue>Aneue</ano> Gyokuro, gần đây, thiếp đã gặp một người. Khác với con đường thiếp đi ở Ashinohara, {Male=chàng;Female=nàng} luôn có thể "Cứu Rỗi" thành công.
+
+@@ lang_multi_text.db||MultiText||Zuoyequnxing_193_36
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 听闻那个人的事时，我对{TA}深感羡慕。不，或许可说是嫉妒吧。
+# Hiện tại : Khi nghe chuyện về người ấy, thiếp đã hết mực ngưỡng mộ {Male=chàng;Female=nàng}. Không, có lẽ phải nói là <ano=Envy>Đố Kỵ</ano> (giấy phép) thì đúng hơn.
+
+@@ lang_multi_text.db||MultiText||Zuoyequnxing_193_37
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 我想，若我也能如{TA}一般强大，就不会只得到遗憾和悔恨。苇原，亦能得救。
+# Hiện tại : Thiếp đã nghĩ, nếu thiếp cũng mạnh mẽ được như {Male=chàng;Female=nàng}, hẳn sẽ không chỉ nhận về tiếc nuối và hối hận. Ashinohara cũng đã có thể được cứu.
+
+@@ lang_multi_text.db||MultiText||Zuoyequnxing_193_45
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 因你曾存在过……因{TA}……他们存在着……我也并不孤独。
+# Hiện tại : Vì nàng đã từng <ano=existence>tồn tại</ano>... vì {Male=chàng;Female=nàng}... vì họ vẫn <ano=existence>tồn tại</ano>... thiếp cũng không hề cô đơn.
+
+@@ lang_multi_text.db||MultiText||Zuoyequnxing_54_41
+# Lỗi: Thiếu/thừa biến: Gốc có ['{PlayerName}', '{TA}'] nhưng Dịch có ['{PlayerName}']
+# Gốc Trung: 您在短时间内选择相信{PlayerName}，让{TA}去使用隧者，有些出乎我的预料。是有什么特别的原因吗？
+# Hiện tại : Ông trong thời gian ngắn như vậy đã chọn tin tưởng {PlayerName}, để {Male=cậu ấy;Female=cô ấy} đi sử dụng Kẻ Hầm, có chút ngoài dự đoán. Có lý do gì đặc biệt sao?
+
+@@ lang_multi_text.db||MultiText||Zuoyequnxing_68_2
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 等等，离开前和{TA}打个招呼吧。
+# Hiện tại : Khoan đã, trước khi đi em chào {Male=anh ấy;Female=chị ấy} một tiếng đi.
+
+@@ lang_multi_text.db||MultiText||Zuoyequnxing_21044_2
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 漂泊者，姑且用这个名字称呼{TA}吧。
+# Hiện tại : <ano=Lữ Khách>Lữ Khách</ano>, tạm cứ dùng cái tên này để gọi {Male=anh ấy;Female=cô ấy} vậy.
+
+@@ lang_multi_text.db||MultiText||Zuoyequnxing_21045_3
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 但即便聚光灯只愿停留在{TA}的脚下，我们也仍站在舞台上。
+# Hiện tại : Nhưng dù <ano=light>Ánh sáng</ano> đèn pha chỉ nguyện dừng lại dưới chân {Male=anh ấy;Female=cô ấy}, <ano=We Are One>chúng ta</ano> vẫn đang đứng trên <ano=stage>sân khấu</ano>.
+
+@@ lang_multi_text.db||MultiText||Zuoyequnxing_21046_3
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 我们的主角，我们的漂泊者，{TA}怎么能做到这种事？！
+# Hiện tại : <ano=protagonist>Nhân vật chính</ano> (<ano=Jué>Jué</ano>) của <ano=We Are One>chúng ta</ano>, <ano=Lữ Khách>Lữ Khách</ano> (Phiêu Bạc) của <ano=We Are One>chúng ta</ano>, sao {Male=anh ấy;Female=cô ấy} lại có thể làm được chuyện như vậy?!
+
+@@ lang_multi_text.db||MultiText||Zuoyequnxing_21048_2
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 主角的故事仍在继续，舞台晦暗处的我们，必须在{TA}抵达前，就留好故事发生所需的引信。
+# Hiện tại : Câu chuyện của <ano=protagonist>nhân vật chính</ano> (<ano=Jué>Jué</ano>) vẫn đang tiếp diễn, <ano=We Are One>chúng ta</ano> ở chốn khuất Hủy Diệt của <ano=stage>sân khấu</ano>, phải sắp đặt sẵn ngòi nổ (<ano=letter>Thư</ano>) cần thiết cho câu chuyện trước khi {Male=anh ấy;Female=cô ấy} đến.
+
+@@ lang_multi_text.db||MultiText||Zuoyequnxing_28_6
+# Lỗi: Thiếu/thừa biến: Gốc có ['{PlayerName}', '{TA}'] nhưng Dịch có ['{PlayerName}']
+# Gốc Trung: （{PlayerName}，{TA}真的吞噬了鸣式的力量……？）
+# Hiện tại : ({PlayerName}, chẳng lẽ {Male=hắn;Female=ả} thực sự đã Thôn Phệ sức mạnh của <ano=Threnodian>Minh Thức</ano>...?)
+
+@@ lang_multi_text.db||MultiText||Zuoyequnxing_41_3
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: （是在羡慕{TA}一路所成就的事吗？我……）
+# Hiện tại : (Là đang ghen tị với <ano=Achievement>Thành tựu</ano> mà {Male=hắn;Female=ả} đã gặt hái suốt chặng đường sao? Ta...)
+
+@@ lang_multi_text.db||MultiText||Zuoyequnxing_48_8
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 同为“救世主”，你觉得{TA}的能力如何？
+# Hiện tại : Cùng là "Cứu Thế Chủ", ngươi cảm thấy <ano=ability>năng lực</ano> của {Male=hắn;Female=cô ấy} thế nào?
+
+@@ lang_multi_text.db||MultiText||Zuoyequnxing_48_10
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 呵呵，话可以说得再满一些，与在苇原屡次失败的你不同，{TA}是个完美的“救世主”。
+# Hiện tại : Hề hề, có thể nói thẳng thắn hơn nữa, khác với ngươi đã nhiều lần thất bại tại Ashinohara, {Male=hắn;Female=cô ấy} là một "Cứu Thế Chủ" hoàn mỹ.
+
+@@ lang_multi_text.db||MultiText||Zuoyequnxing_48_11
+# Lỗi: Thiếu/thừa biến: Gốc có ['{PlayerName}', '{TA}'] nhưng Dịch có ['{PlayerName}']
+# Gốc Trung: 可归根结底，这世上没有第二个{PlayerName}，{TA}能救下今州，能救下黎那汐塔……但，穗波呢？
+# Hiện tại : Nhưng nói cho cùng - Bùa Hộ Mệnh - trên đời này không có {PlayerName} thứ hai, {Male=hắn;Female=cô ấy} có thể cứu được <ano=Jinzhou>Kim Châu</ano>, có thể cứu được <ano=Rinascita>Rinascita</ano> - <ano=Tower>Tower</ano>...... nhưng, còn <ano=Honami>Tuệ Ba</ano> thì sao?
+
+@@ lang_multi_text.db||MultiText||Main_LahaiRoi_WMXZTK_11_22
+# Lỗi: Thiếu/thừa biến: Gốc có ['{PlayerName}', '{TA}'] nhưng Dịch có ['{PlayerName}']
+# Gốc Trung: 这位是拉贝尔学部的{PlayerName}同学，今天由{TA}和我一起陪同您参观。
+# Hiện tại : Xin giới thiệu với ngài. Đây là {PlayerName} từ Cao đẳng Rabelle. Hôm nay {Male=cậu ấy;Female=cô ấy} và mình sẽ hướng dẫn ngài tham quan.
+
+@@ lang_multi_text.db||MultiText||Main_LahaiRoi_BYHM_14_4
+# Lỗi: Thiếu/thừa biến: Gốc có ['{PlayerName}', '{TA}', '{TA}'] nhưng Dịch có ['{PlayerName}']
+# Gốc Trung: {TA}是{PlayerName}，是{TA}从那个怪物……梦魇残象的手里救下了我。
+# Hiện tại : Đây là {PlayerName}. {Male=Anh ấy;Female=Cô ấy} đã kéo tớ ra khỏi tay con quái vật đó... <ano=Nightmare Tacet Discord>Tàn Tượng Ác Mộng</ano> đó, trước khi nó kịp kết liễu tớ.
+
+@@ lang_multi_text.db||MultiText||Main_HuangLong_XLZHDLY_160_5
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 定位器……没有异常，以{TA}的身手，应该能平安离开。
+# Hiện tại : Máy định vị… không có gì bất thường. Với bản lĩnh của {Male=anh ấy;Female=chị ấy}, chắc chắn người ấy có thể rời khỏi đây an toàn.
+
+@@ lang_multi_text.db||MultiText||Main_HuangLong_XLZHDLY_242_15
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 今令尹和我讲了在乘霄山上发生的事。如果没有{TA}，或许事情就会像你说的那样，注定会有人因此而牺牲。
+# Hiện tại : Lệnh Doãn Kim Tịch đã kể cho tôi nghe chuyện xảy ra trên núi Thừa Tiêu. Nếu không có {Male=anh ấy;Female=chị ấy}, có lẽ mọi chuyện sẽ đúng như ngài nói: ắt sẽ có người phải hy sinh.
+
+@@ lang_multi_text.db||MultiText||Main_HuangLong_XLZHDLY_242_22
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 但此时此刻，和我做交易的不是{TA}，而是你。
+# Hiện tại : Nhưng ngay lúc này, người đang giao dịch với ta không phải {Male=anh ấy;Female=chị ấy}, mà là ngươi.
+
+@@ lang_multi_text.db||MultiText||zhuiyuejie_first_1_3
+# Lỗi: Thiếu/thừa biến: Gốc có ['{PlayerName}', '{TA}'] nhưng Dịch có ['{PlayerName}']
+# Gốc Trung: 哎呀秧秧！你怎么说话拐弯抹角的，想见{PlayerName}，直接把{TA}喊出来不就好了嘛。
+# Hiện tại : Ơ kìa Ương Ương! Sao nói chuyện vòng vo thế, muốn gặp {PlayerName} thì gọi thẳng {Male=cậu ấy;Female=cậu ấy} ra là được rồi mà.
+
+@@ lang_multi_text.db||MultiText||Event_RYZQJDCR_4_6
+# Lỗi: Thiếu/thừa biến: Gốc có ['{PlayerName}', '{TA}'] nhưng Dịch có ['{PlayerName}']
+# Gốc Trung: {PlayerName}可是很有潜力的决斗家，我有种预感，{TA}之后会成为我们对抗老师们的终极希望哦。
+# Hiện tại : {PlayerName} là một đấu thủ cực kỳ tiềm năng đấy. Tớ có linh cảm, sau này {Male=cậu ấy;Female=cậu ấy} sẽ trở thành niềm hy vọng cuối cùng để bọn mình đối đầu với các thầy cô đó.
+
+@@ lang_multi_text.db||MultiText||Event_RYZQJDCR_4_13
+# Lỗi: Thiếu/thừa biến: Gốc có ['{PlayerName}', '{TA}'] nhưng Dịch có ['{PlayerName}']
+# Gốc Trung: 麻烦你来当{PlayerName}的对手，阿希尔德。使出全力就行，{TA}可是很强的。
+# Hiện tại : Phiền mình làm đối thủ của {PlayerName} nhé, Ashild. Cứ ra hết sức là được, {Male=cậu ấy;Female=cậu ấy} mạnh lắm đấy.
+
+@@ lang_multi_text.db||MultiText||Flow_136000001_56
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 什么流放者……你仔细看看{TA}这打扮哪里像那群盗贼了。
+# Hiện tại : Kẻ Lưu Đày gì chứ... Cậu nhìn kỹ lại đi, cách ăn mặc {Male=của cậu ấy;Female=của cô ấy} chỗ nào giống với lũ trộm cướp đó nào.
+
+@@ lang_multi_text.db||MultiText||Flow_136000001_139
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 这次要不是{TA}出手相救，现在你也被关在笼子里都说不定。
+# Hiện tại : Lần này nếu không có {Male=cậu ấy;Female=cô ấy} ra tay cứu giúp, biết đâu bây giờ cậu cũng bị nhốt trong lồng rồi đấy.
+
+@@ lang_multi_text.db||MultiText||Flow_32750001_2694
+# Lỗi: Thiếu/thừa biến: Gốc có ['{PlayerName}', '{TA}'] nhưng Dịch có ['{PlayerName}']
+# Gốc Trung: 哎呀秧秧！你怎么说话拐弯抹角的，想见{PlayerName}，直接把{TA}喊出来不就好了嘛。
+# Hiện tại : Ôi dào, Ương Ương! Sao cậu nói vòng vo thế? Muốn gặp {PlayerName} thì cứ gọi thẳng {Male=anh ấy;Female=chị ấy} ra là được mà.
+
+@@ lang_multi_text.db||MultiText||POI_WXZSYJ_11_4
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 要谢就谢这位漂泊者，是{TA}辛苦救你出来的！
+# Hiện tại : Muốn cảm ơn thì hãy cảm ơn vị Lữ Khách này, chính {Male=cậu ấy;Female=cậu ấy} đã vất vả cứu cậu ra đấy!
+
+@@ lang_multi_text.db||MultiText||Character_YinLin_118_5
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 叫手下带上{TA} 回营地那里吧……
+# Hiện tại : Gọi thuộc hạ mang {Male=hắn;Female=cô ta} về doanh trại đi...
+
+@@ lang_multi_text.db||MultiText||Guide_SX_2_7
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 嘿嘿，陈皮叔，这位是漂泊者，是我朋友。今天带{TA}来，是为了这个——
+# Hiện tại : Hề hề, chú Trần Bì, vị này là Lữ Khách, bằng hữu của cháu. Hôm nay cháu dẫn {Male=anh ấy;Female=cô ấy} đến đây, là vì chuyện này...
+
+@@ lang_multi_text.db||MultiText||Guide_BWHC_2_9
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 不过后半句倒是没说错，这位是我的新朋友，漂泊者！今天我请客，特地带{TA}来你这尝尝鲜。
+# Hiện tại : Nhưng nửa câu sau dì nói đúng đấy, đây là người bạn mới của cháu, Lữ Khách! Hôm nay cháu khao, đặc biệt dẫn {Male=anh ấy;Female=cô ấy} đến chỗ dì để nếm thử món lạ.
+
+@@ lang_multi_text.db||MultiText||HuanglongXZ_14_6
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: {TA}能跑能跳的，刚几招刷刷刷就解决了至少巨浪级别的残象，比我还精神，嘿嘿，嘿嘿！
+# Hiện tại : {Male=Cậu ấy;Female=Cô ấy} chạy nhảy phơi phới, vừa nãy chỉ vài chiêu vèo vèo đã giải quyết xong con Tàn Tượng ít nhất cũng cỡ cấp Cự Lãng đấy, còn sung sức hơn cả mình nữa, hề hề, hề hề!
+
+@@ lang_multi_text.db||MultiText||HuanglongM1_1_1_18
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 总不能漂泊者刚来到今州，就让{TA}杵在边庭那块干等着吧。
+# Hiện tại : Không lẽ Lữ Khách vừa đến Kim Châu, lại để {Male=cậu ấy;Female=cậu ấy} đứng đực ở Biên Đình chờ suông?
+
+@@ lang_multi_text.db||MultiText||Huanglong_main_1_2_16_21
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 不过从留下来的影像看，{TA}并非和漂泊者一样的金瞳……
+# Hiện tại : Nhưng nhìn từ hình ảnh còn lưu lại, {Male=cậu ấy;Female=cô ấy} không có đôi mắt vàng như Lữ Khách...
+
+@@ lang_multi_text.db||MultiText||Huanglong_main_1_2_17_37
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 秧秧你是不是忘了，上午漂泊者刚跟我们说{TA}被邀请入住边庭……
+# Hiện tại : Ương Ương cậu có phải quên rồi không, sáng nay Lữ Khách vừa nói với tụi mình là {Male=cậu ấy;Female=cậu ấy} được mời ở lại Biên Đình...
+
+@@ lang_multi_text.db||MultiText||Huanglong_main_1_5_79_53
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 在历史记载中，有一位能够肉身吸收残象的英雄曾在鸣式战争中拯救了瑝珑。在今州建州的文献里，也有关于“{TA}”的记载。
+# Hiện tại : Trong sử sách ghi chép, có một vị anh hùng có thể dùng nhục thân hấp thụ Tàn Tượng đã từng cứu vớt Hoàng Long trong cuộc Chiến Tranh Minh Thức. Trong văn hiến về việc lập châu Kim Châu, cũng có ghi chép về "{Male=người ấy;Female=người ấy}".
+
+@@ lang_multi_text.db||MultiText||Huanglong_main_1_5_80_26
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 也劝你们收起招揽漂泊者的这份心思，漂泊者是今州的客人，我不会让你们伤害{TA}。
+# Hiện tại : Cũng khuyên các ngươi dẹp bỏ ý định chiêu mộ Lữ Khách đi. {Male=Hắn;Female=Nàng} là khách quý của Kim Châu, tôi sẽ không để các ngươi làm tổn hại đến {Male=hắn;Female=nàng}.
+
+@@ lang_multi_text.db||MultiText||Huanglong_main_1_5_83_9
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 如果再次遇到伤痕这般难缠的敌人，{TA}终究需要依靠自己的力量解决。
+# Hiện tại : Nếu {Male=anh ấy;Female=cô ấy} lại gặp một kẻ địch khó đối phó như Scar, {Male=anh ấy;Female=cô ấy} cuối cùng vẫn phải {Male=dựa vào sức mạnh của chính mình;Female=dựa vào sức mạnh của chính mình} để giải quyết.
+
+@@ lang_multi_text.db||MultiText||Huanglong_main_1_5_83_15
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 那位漂泊者读懂了你我寄托在信物上的全部意图，你作为策士，出于礼数，也应与{TA}相见。
+# Hiện tại : Vị Lữ Khách kia đã đọc hiểu toàn bộ ý đồ mà cô và tôi gửi gắm trong tín vật; cô với tư cách là sách sĩ, vì lễ nghĩa, cũng nên đích thân gặp mặt {Male=cậu ấy;Female=cô ấy}, người đã giải được những câu đố mà {Male=cậu ấy;Female=cô ấy} đã tiếp nhận.
+
+@@ lang_multi_text.db||MultiText||Huanglong_main_1_5_83_18
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 只要{TA}按照「角」所言前行，我们总会相见的。
+# Hiện tại : Chỉ cần {Male=cậu ấy;Female=cô ấy} tiến bước theo lời «Jué», rồi chúng ta sẽ có ngày gặp mặt thôi.
+
+@@ lang_multi_text.db||MultiText||Huanglong_main_1_7_23_20
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 还有那位漂泊者，{TA}和秧秧一起，正在前往军营的路上。
+# Hiện tại : Còn vị Lữ Khách kia... {Male=Anh ấy;Female=Cô ấy} đang trên đường tới gặp ngài. Ương Ương cũng đang đi cùng {Male=anh ấy;Female=cô ấy}.
+
+@@ lang_multi_text.db||MultiText||POIWGZSDXX_13_3
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 也不知道哪来那么多捣蛋猿，要是有人能把那些捣蛋猿驱逐掉就好了，我一定好好报答{TA}！
+# Hiện tại : Cũng chẳng biết từ đâu ra mà lắm Khỉ Quậy Phá thế này, nếu có ai đó xua đuổi được lũ Khỉ Quậy Phá kia thì tốt biết mấy, nhất định sẽ hậu tạ {Male=anh ấy;Female=cô ấy} thật chu đáo!
+
+@@ lang_multi_text.db||MultiText||Daliy_SLHJ_12_10
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}'] nhưng Dịch có []
+# Gốc Trung: 没有{TA}就没有我今天的成就！
+# Hiện tại : Không có {Male=anh ấy;Female=cô ấy}, ta đã không thể đạt được thành tựu như ngày hôm nay!
+
+@@ lang_multi_text.db||MultiText||Character_LingYang_8_52
+# Lỗi: Thiếu/thừa biến: Gốc có ['{TA}', '{TA}'] nhưng Dịch có []
+# Gốc Trung: {TA}的实力强大，如果{TA}也愿意同行的话，我们就多了一份保障。
+# Hiện tại : Thực lực của {Male=cậu ấy;Female=cô ấy} rất mạnh, nếu {Male=cậu ấy;Female=cô ấy} cũng đồng ý đi cùng, thì chúng ta sẽ có thêm một lớp đảm bảo.
+
+@@ lang_multi_text.db||MultiText||ResonantChain_325_AttributesDescription
+# Lỗi: Thiếu/thừa biến: Gốc có ['{1}'] nhưng Dịch có ['{0}', '{1}']
+# Gốc Trung: 持有<color=Highlight><te href=111011>烟岚</te></color>的角色为目标附加<color=Highlight>【<te href=850180>异常效应</te>】</color>或造成<color=Highlight><te href=150811>异常效应伤害</te></color>后，也可以触发攻击提升效果。
+第3次<color=Highlight><te href=111010>翾舞</te></color>的时候获得的<color=Highlight><te href=111009>重明照影</te></color>的时间提升{1}。
+<color=Highlight>普攻·濯雨时</color>、<color=Highlight>重击·濯雨时</color>、<color=Highlight>下落攻击·重明枕露</color>和<color=Highlight>下落攻击·飞燕裁风</color>免疫打断。
+# Hiện tại : Hiệu quả tăng tấn công nhận được khi tiêu hao ít nhất 600 điểm <color=Highlight>【<te href=111008>Phương Phi Tín</te>】</color>trong <color=Highlight>Kỹ Năng Diên Tấu·Lục Thủy Doanh Doanh</color>, cũng có thể được kích hoạt khi thêm <color=Highlight>【<te href=850180>Hiệu Ứng Bất Thường</te>】</color>hoặc gây <color=Highlight><te href=150811>sát thương Hiệu Ứng Bất Thường</te></color>.
+Thời gian của <color=Highlight><te href=111003>Sơn Hà Thủy Cảnh</te></color>kéo dài đến {0} giây, thời gian của <color=Highlight><te href=111009>Trọng Minh Chiếu Ảnh</te></color>nhận được ở lần <color=Highlight>Huyên Vũ</color>thứ 3 tăng {1}.
+<color=Highlight>Đánh Thường·Trạc Vũ Thời</color>, <color=Highlight>Đánh Mạnh·Trạc Vũ Thời</color>và <color=Highlight>【Đòn Đáp Đất Cường Hóa·Hình Thái Cường Hóa】</color>miễn nhiễm gián đoạn.
+
+@@ lang_multi_text.db||MultiText||Skill_1005105_SkillDescribe
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}', '{2}', '{3}', '{4}', '{5}', '{6}', '{7}', '{8}'] nhưng Dịch có ['{0}', '{10}', '{1}', '{2}', '{3}', '{4}', '{5}', '{6}', '{7}', '{8}', '{9}']
+# Gốc Trung: 队伍中的角色施放声骸技能时，西格莉卡为自身叠加一层<color=Highlight>语义的祝福</color>，最多叠加{0}层，同名声骸仅可触发一次该效果。
+角色编入队伍时，重置该效果。 
+<size=10></size>
+<size=40><color=Title>语义的祝福</color></size>
+每层<color=Highlight>语义的祝福</color>使队伍中登场角色气动伤害加成提升{1}，声骸技能伤害加成提升{2}。
+<color=Highlight>语义的祝福</color>达到{3}层时，西格莉卡的气动伤害加成和声骸技能伤害加成额外提升{4}。
+<size=10></size>
+西格莉卡自身的共鸣效率大于{5}时，每超过{6}的共鸣效率使自身声骸技能伤害加成提升{7}，上限{8}。
+# Hiện tại : Khi tất cả các nhân vật trong đội gần đó thi triển kỹ năng Echo, tăng sát thương khí động của tất cả các nhân vật trong đội gần đó lên {0}, sát thương kỹ năng Echo tăng {1}, có thể cộng dồn tối đa {2} tầng, Echo cùng tên chỉ có thể kích hoạt hiệu ứng này một lần.
+Khi nhân vật tham gia đội hình, thiết lập lại hiệu ứng này. 
+
+Khi hiệu suất cộng hưởng của Tây Cách Lị Tạp lớn hơn {3}, mỗi {4} hiệu suất cộng hưởng vượt quá sẽ tăng cường sát thương kỹ năng Echo của bản thân lên {5}, giới hạn {6}.
+Khi hiệu suất cộng hưởng của Tây Cách Lị Tạp lớn hơn {7}, mỗi {8} hiệu suất cộng hưởng vượt quá sẽ tăng cường sát thương kỹ năng Echo của bản thân lên {9}, giới hạn {10}.
+
+@@ lang_multi_text.db||MultiText||Skill_1005709_SkillDescribe
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{10}', '{1}', '{2}', '{3}', '{4}', '{5}', '{6}', '{7}', '{8}', '{9}'] nhưng Dịch có ['{0}', '{1}', '{2}', '{3}', '{4}', '{5}', '{6}', '{7}', '{8}', '{9}']
+# Gốc Trung: 队伍中的角色全伤害加深{0}，持续30秒。
+<size=10></size>
+施放时，若当前场上存在<color=Highlight><te href=111003>山河水境</te></color>，则穗穗进入<color=Highlight><te href=111004>仙游碧落</te></color>状态。
+施放时，退出<color=Highlight><te href=111006>濯雨时</te></color>，并消耗所有<color=Highlight>【<te href=111008>芳菲信</te>】</color>，且根据消耗的<color=Highlight>【<te href=111008>芳菲信</te>】</color>解锁以下效果：
+<size=10></size>
+消耗至少0点<color=Highlight>【<te href=111008>芳菲信</te>】</color>：
+·附近队伍中所有角色获得6秒的<color=Highlight><te href=111009>重明照影</te></color>。持有<color=Highlight><te href=111009>重明照影</te></color>的角色抗打断提升。
+<size=10></size>
+消耗至少200点<color=Highlight>【<te href=111008>芳菲信</te>】</color>：
+·<color=Highlight><te href=111003>山河水境</te></color>存在时，<color=Highlight><te href=111004>仙游碧落</te></color>状态下，飞仙演舞一定时间后会进行第1次<color=Highlight><te href=111010>翾舞</te></color>。
+<size=10></size>
+消耗至少400点<color=Highlight>【<te href=111008>芳菲信</te>】</color>：
+·本次<color=Highlight><te href=111004>仙游碧落</te></color>状态期间，<color=Highlight><te href=111003>山河水境</te></color>内登场角色获得额外效果：若持有<color=Highlight><te href=111009>重明照影</te></color>，则造成的伤害提升：穗穗自身共鸣效率大于{1}时，每超过{2}的共鸣效率计算为{3}的伤害提升，上限{4}。
+·<color=Highlight><te href=111003>山河水境</te></color>存在时，<color=Highlight><te href=111004>仙游碧落</te></color>状态下，飞仙演舞一定时间后会进行第2次<color=Highlight><te href=111010>翾舞</te></color>。
+<size=10></size>
+消耗至少600点<color=Highlight>【<te href=111008>芳菲信</te>】</color>：
+·第1次<color=Highlight><te href=111010>翾舞</te></color>时，<color=Highlight><te href=111003>山河水境</te></color>内附近队伍中登场角色在穗穗本次<color=Highlight><te href=111004>仙游碧落</te></color>期间获得额外效果：下一次施放延奏技能时，穗穗使下一个登场角色获得<color=Highlight><te href=111011>烟岚</te></color>，持续14秒。持有<color=Highlight><te href=111011>烟岚</te></color>的角色消耗目标<color=Highlight>【<te href=850180>异常效应</te>】</color>或<color=Highlight>【<te href=150806>电磁爆发</te>】</color>层数后，攻击提升：穗穗自身共鸣效率大于{5}时，每超过{6}的共鸣效率计算为{7}的攻击提升，上限{8}，持续{9}秒，<color=Highlight><te href=111011>烟岚</te></color>被移除时移除攻击提升效果，若切换至其他角色则提前移除<color=Highlight><te href=111011>烟岚</te></color>。
+·<color=Highlight><te href=111003>山河水境</te></color>存在时，<color=Highlight><te href=111004>仙游碧落</te></color>状态下，飞仙演舞一定时间后会进行第3次<color=Highlight><te href=111010>翾舞</te></color>。
+<size=10></size>
+<size=40><color=Title>仙游碧落</color></size>
+持续{10}秒。
+<color=Highlight><te href=111004>仙游碧落</te></color>状态期间，穗穗不是队伍中登场角色时，会依附于<color=Highlight><te href=111003>山河水境</te></color>之上进行飞仙演舞，并根据施放<color=Highlight>延奏技能·渌水盈盈</color>时消耗的<color=Highlight>【<te href=111008>芳菲信</te>】</color>，每隔一定时间进行一次<color=Highlight><te href=111010>翾舞</te></color>。
+穗穗为队伍中登场角色时，暂停飞仙演舞。
+<color=Highlight><te href=111003>山河水境</te></color>不存在时，退出<color=Highlight><te href=111004>仙游碧落</te></color>状态。
+<size=10></size>
+<size=40><color=Title>翾舞</color></size>
+每次进行<color=Highlight><te href=111010>翾舞</te></color>时，使附近队伍中所有角色获得6秒的<color=Highlight><te href=111009>重明照影</te></color>，为<color=Highlight><te href=111003>山河水境</te></color>内敌方目标附加一层<color=Highlight>【<te href=850010>霜渐效应</te>】</color>，为<color=Highlight><te href=111003>山河水境</te></color>内附近队伍中登场角色回复生命值。
+# Hiện tại : Nhân vật trong đội khuếch đại toàn bộ sát thương {0}, kéo dài 30 giây.
+<size=10></size>
+Thoát khỏi <color=Highlight><te href=111006>Trạc Vũ Thời</te></color>, và tiêu hao toàn bộ <color=Highlight>【<te href=111008>Phương Phi Tín</te>】</color>, nếu hiện tại trên sân tồn tại <color=Highlight><te href=111003>Sơn Hà Thủy Cảnh</te></color>, thì Tuệ Tuệ tiến vào trạng thái <color=Highlight><te href=111004>Tiên Du Bích Lạc</te></color>, và dựa theo <color=Highlight>【<te href=111008>Phương Phi Tín</te>】</color> đã tiêu hao mở khóa các hiệu quả sau:
+<size=10></size>
+Tiêu hao ít nhất 0 điểm <color=Highlight>【<te href=111008>Phương Phi Tín</te>】</color>:
+·Tất cả nhân vật trong đội gần đó nhận <color=Highlight><te href=111009>Trọng Minh Chiếu Ảnh</te></color> trong 6 giây. Nhân vật sở hữu <color=Highlight><te href=111009>Trọng Minh Chiếu Ảnh</te></color> tăng kháng gián đoạn.
+<size=10></size>
+Tiêu hao ít nhất 200 điểm <color=Highlight>【<te href=111008>Phương Phi Tín</te>】</color>:
+·Khi <color=Highlight><te href=111003>Sơn Hà Thủy Cảnh</te></color> tồn tại, khi <color=Highlight><te href=111004>Tiên Du Bích Lạc</te></color> đến giây thứ 6 có thể thực hiện <color=Highlight>Huyên Vũ</color> lần 1.
+<size=10></size>
+Tiêu hao ít nhất 400 điểm <color=Highlight>【<te href=111008>Phương Phi Tín</te>】</color>:
+·Nhân vật ra sân trong <color=Highlight><te href=111003>Sơn Hà Thủy Cảnh</te></color> nhận hiệu quả bổ sung: nếu sở hữu <color=Highlight><te href=111009>Trọng Minh Chiếu Ảnh</te></color>, thì sát thương gây ra tăng: khi hiệu suất cộng hưởng của Tuệ Tuệ lớn hơn {1}, cứ mỗi {2} hiệu suất cộng hưởng vượt qua được tính là {3} tăng sát thương, tối đa {4}.
+·Khi <color=Highlight><te href=111003>Sơn Hà Thủy Cảnh</te></color> tồn tại, khi <color=Highlight><te href=111004>Tiên Du Bích Lạc</te></color> đến giây thứ 12 có thể thực hiện <color=Highlight>Huyên Vũ</color> lần 2.
+<size=10></size>
+Tiêu hao ít nhất 600 điểm <color=Highlight>【<te href=111008>Phương Phi Tín</te>】</color>:
+·Ở lần <color=Highlight>Huyên Vũ</color> thứ 1, nhân vật ra sân trong đội gần đó bên trong <color=Highlight><te href=111003>Sơn Hà Thủy Cảnh</te></color> nhận hiệu quả bổ sung: khi thi triển Kỹ Năng Diên Tấu, giúp nhân vật tiếp theo nhận hiệu quả: khi bản thân tiêu hao tầng hiệu ứng bất thường của kẻ địch thông qua kỹ năng đánh trúng, tấn công tăng: khi hiệu suất cộng hưởng của Tuệ Tuệ lớn hơn {5}, cứ mỗi {6} hiệu suất cộng hưởng vượt qua được tính là {7} tăng tấn công, tối đa {8}, kéo dài {9} giây, nhân vật đó bị xóa tất cả hiệu quả khi ra sân đủ 14 giây, nếu đổi sang nhân vật khác thì hiệu quả này kết thúc sớm.
+·Khi <color=Highlight><te href=111003>Sơn Hà Thủy Cảnh</te></color> tồn tại, khi <color=Highlight><te href=111004>Tiên Du Bích Lạc</te></color> đến giây thứ 18 có thể thực hiện <color=Highlight>Huyên Vũ</color> lần 3.
+<size=10></size>
+<size=40><color=Title>Huyên Vũ</color></size>
+Mỗi lần thực hiện <color=Highlight>Huyên Vũ</color>, giúp tất cả nhân vật trong đội gần đó nhận <color=Highlight><te href=111009>Trọng Minh Chiếu Ảnh</te></color> trong 6 giây, thêm một tầng <color=Highlight>【<te href=850010>Hiệu Ứng Sương Giá</te>】</color> cho mục tiêu địch bên trong <color=Highlight><te href=111003>Sơn Hà Thủy Cảnh</te></color>, hồi HP cho nhân vật ra sân trong đội gần đó bên trong <color=Highlight><te href=111003>Sơn Hà Thủy Cảnh</te></color>.
+
+@@ lang_multi_text.db||MultiText||Skill_1005709_MultiSkillDescribe
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{10}', '{1}', '{2}', '{3}', '{4}', '{5}', '{6}', '{7}', '{8}', '{9}'] nhưng Dịch có ['{0}', '{1}', '{2}', '{3}', '{4}', '{5}', '{6}', '{7}', '{8}', '{9}']
+# Gốc Trung: 队伍中的角色全伤害加深{0}，持续30秒。
+<size=10></size>
+施放时，若当前场上存在<color=Highlight><te href=111003>山河水境</te></color>，则穗穗进入<color=Highlight><te href=111004>仙游碧落</te></color>状态。
+施放时，消耗所有<color=Highlight>【<te href=111008>芳菲信</te>】</color>，且根据消耗的<color=Highlight>【<te href=111008>芳菲信</te>】</color>解锁以下效果：
+<size=10></size>
+消耗至少0点<color=Highlight>【<te href=111008>芳菲信</te>】</color>：
+·附近队伍中所有角色获得6秒的<color=Highlight><te href=111009>重明照影</te></color>。持有<color=Highlight><te href=111009>重明照影</te></color>的角色抗打断提升。
+<size=10></size>
+消耗至少200点<color=Highlight>【<te href=111008>芳菲信</te>】</color>：
+·<color=Highlight><te href=111003>山河水境</te></color>存在时，<color=Highlight><te href=111004>仙游碧落</te></color>状态下，飞仙演舞一定时间后会进行第1次<color=Highlight><te href=111010>翾舞</te></color>。
+<size=10></size>
+消耗至少400点<color=Highlight>【<te href=111008>芳菲信</te>】</color>：
+·本次<color=Highlight><te href=111004>仙游碧落</te></color>状态期间，<color=Highlight><te href=111003>山河水境</te></color>内登场角色获得额外效果：若持有<color=Highlight><te href=111009>重明照影</te></color>，则造成的伤害提升：穗穗自身共鸣效率大于{1}时，每超过{2}的共鸣效率计算为{3}的伤害提升，上限{4}。
+·<color=Highlight><te href=111003>山河水境</te></color>存在时，<color=Highlight><te href=111004>仙游碧落</te></color>状态下，飞仙演舞一定时间后会进行第2次<color=Highlight><te href=111010>翾舞</te></color>。
+<size=10></size>
+消耗至少600点<color=Highlight>【<te href=111008>芳菲信</te>】</color>：
+·第1次<color=Highlight><te href=111010>翾舞</te></color>时，<color=Highlight><te href=111003>山河水境</te></color>内附近队伍中登场角色在穗穗本次<color=Highlight><te href=111004>仙游碧落</te></color>期间获得额外效果：下一次施放延奏技能时，穗穗使下一个登场角色获得<color=Highlight><te href=111011>烟岚</te></color>，持续14秒。持有<color=Highlight><te href=111011>烟岚</te></color>的角色消耗目标<color=Highlight>【<te href=850180>异常效应</te>】</color>或<color=Highlight>【<te href=150806>电磁爆发</te>】</color>层数后，攻击提升：穗穗自身共鸣效率大于{5}时，每超过{6}的共鸣效率计算为{7}的攻击提升，上限{8}，持续{9}秒，<color=Highlight><te href=111011>烟岚</te></color>被移除时移除攻击提升效果，若切换至其他角色则提前移除<color=Highlight><te href=111011>烟岚</te></color>。
+·<color=Highlight><te href=111003>山河水境</te></color>存在时，<color=Highlight><te href=111004>仙游碧落</te></color>状态下，飞仙演舞一定时间后会进行第3次<color=Highlight><te href=111010>翾舞</te></color>。
+<size=10></size>
+<size=40><color=Title>仙游碧落</color></size>
+持续{10}秒。
+<color=Highlight><te href=111004>仙游碧落</te></color>状态期间，<color=Highlight>凝露</color>会代替穗穗依附于<color=Highlight><te href=111003>山河水境</te></color>之上进行飞仙演舞，并根据穗穗施放<color=Highlight>延奏技能·渌水盈盈</color>时消耗的<color=Highlight>【<te href=111008>芳菲信</te>】</color>，每隔一定时间进行一次<color=Highlight><te href=111010>翾舞</te></color>。
+<color=Highlight><te href=111003>山河水境</te></color>不存在时，退出<color=Highlight><te href=111004>仙游碧落</te></color>状态。
+<size=10></size>
+<size=40><color=Title>翾舞</color></size>
+每次进行<color=Highlight><te href=111010>翾舞</te></color>时，使附近队伍中所有角色获得6秒的<color=Highlight><te href=111009>重明照影</te></color>，为<color=Highlight><te href=111003>山河水境</te></color>内敌方目标附加一层<color=Highlight>【<te href=850010>霜渐效应</te>】</color>，为<color=Highlight><te href=111003>山河水境</te></color>内附近队伍中登场角色回复生命值。
+# Hiện tại : Nhân vật trong đội khuếch đại toàn bộ sát thương {0}, kéo dài 30 giây.
+<size=10></size>
+Thoát khỏi <color=Highlight><te href=111006>Trạc Vũ Thời</te></color>, và tiêu hao toàn bộ <color=Highlight>【<te href=111008>Phương Phi Tín</te>】</color>, nếu hiện tại trên sân tồn tại <color=Highlight><te href=111003>Sơn Hà Thủy Cảnh</te></color>, thì Tuệ Tuệ tiến vào trạng thái <color=Highlight><te href=111004>Tiên Du Bích Lạc</te></color>, và dựa theo <color=Highlight>【<te href=111008>Phương Phi Tín</te>】</color> đã tiêu hao mở khóa các hiệu quả sau:
+<size=10></size>
+Tiêu hao ít nhất 0 điểm <color=Highlight>【<te href=111008>Phương Phi Tín</te>】</color>:
+·Tất cả nhân vật trong đội gần đó nhận <color=Highlight><te href=111009>Trọng Minh Chiếu Ảnh</te></color> trong 6 giây. Nhân vật sở hữu <color=Highlight><te href=111009>Trọng Minh Chiếu Ảnh</te></color> tăng kháng gián đoạn.
+<size=10></size>
+Tiêu hao ít nhất 200 điểm <color=Highlight>【<te href=111008>Phương Phi Tín</te>】</color>:
+·Khi <color=Highlight><te href=111003>Sơn Hà Thủy Cảnh</te></color> tồn tại, khi <color=Highlight><te href=111004>Tiên Du Bích Lạc</te></color> đến giây thứ 6 có thể thực hiện <color=Highlight>Huyên Vũ</color> lần 1.
+<size=10></size>
+Tiêu hao ít nhất 400 điểm <color=Highlight>【<te href=111008>Phương Phi Tín</te>】</color>:
+·Nhân vật ra sân trong <color=Highlight><te href=111003>Sơn Hà Thủy Cảnh</te></color> nhận hiệu quả bổ sung: nếu sở hữu <color=Highlight><te href=111009>Trọng Minh Chiếu Ảnh</te></color>, thì sát thương gây ra tăng: khi hiệu suất cộng hưởng của Tuệ Tuệ lớn hơn {1}, cứ mỗi {2} hiệu suất cộng hưởng vượt qua được tính là {3} tăng sát thương, tối đa {4}.
+·Khi <color=Highlight><te href=111003>Sơn Hà Thủy Cảnh</te></color> tồn tại, khi <color=Highlight><te href=111004>Tiên Du Bích Lạc</te></color> đến giây thứ 12 có thể thực hiện <color=Highlight>Huyên Vũ</color> lần 2.
+<size=10></size>
+Tiêu hao ít nhất 600 điểm <color=Highlight>【<te href=111008>Phương Phi Tín</te>】</color>:
+·Ở lần <color=Highlight>Huyên Vũ</color> thứ 1, nhân vật ra sân trong đội gần đó bên trong <color=Highlight><te href=111003>Sơn Hà Thủy Cảnh</te></color> nhận hiệu quả bổ sung: khi thi triển Kỹ Năng Diên Tấu, giúp nhân vật tiếp theo nhận hiệu quả: khi bản thân tiêu hao tầng hiệu ứng bất thường của kẻ địch thông qua kỹ năng đánh trúng, tấn công tăng: khi hiệu suất cộng hưởng của Tuệ Tuệ lớn hơn {5}, cứ mỗi {6} hiệu suất cộng hưởng vượt qua được tính là {7} tăng tấn công, tối đa {8}, kéo dài {9} giây, nhân vật đó bị xóa tất cả hiệu quả khi ra sân đủ 14 giây, nếu đổi sang nhân vật khác thì hiệu quả này kết thúc sớm.
+·Khi <color=Highlight><te href=111003>Sơn Hà Thủy Cảnh</te></color> tồn tại, khi <color=Highlight><te href=111004>Tiên Du Bích Lạc</te></color> đến giây thứ 18 có thể thực hiện <color=Highlight>Huyên Vũ</color> lần 3.
+<size=10></size>
+<size=40><color=Title>Huyên Vũ</color></size>
+Mỗi lần thực hiện <color=Highlight>Huyên Vũ</color>, giúp tất cả nhân vật trong đội gần đó nhận <color=Highlight><te href=111009>Trọng Minh Chiếu Ảnh</te></color> trong 6 giây, thêm một tầng <color=Highlight>【<te href=850010>Hiệu Ứng Sương Giá</te>】</color> cho mục tiêu địch bên trong <color=Highlight><te href=111003>Sơn Hà Thủy Cảnh</te></color>, hồi HP cho nhân vật ra sân trong đội gần đó bên trong <color=Highlight><te href=111003>Sơn Hà Thủy Cảnh</te></color>.
+
+@@ lang_multi_text.db||MultiText||Skill_1006007_SkillDescribe
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{10}', '{11}', '{12}', '{13}', '{14}', '{15}', '{16}', '{17}', '{18}', '{19}', '{1}', '{20}', '{21}', '{22}', '{23}', '{24}', '{25}', '{26}', '{27}', '{2}', '{3}', '{4}', '{5}', '{6}', '{7}', '{9}'] nhưng Dịch có ['{0}', '{10}', '{11}', '{12}', '{13}', '{14}', '{15}', '{16}', '{17}', '{18}', '{19}', '{1}', '{20}', '{21}', '{22}', '{23}', '{24}', '{25}', '{2}', '{3}', '{4}', '{5}', '{6}', '{7}', '{9}']
+# Gốc Trung: <size=40><color=Title>共鸣技能·剑式流转·苍</color></size>
+秧秧·玄翎默认处于<color=Highlight>苍剑式</color>，<color=Highlight>【<te href=161001>流响</te>】</color>耗尽时，若处于<color=Highlight>羽剑式</color>，<color=Highlight>共鸣技能·羽拭苍锋</color>替换为<color=Highlight>共鸣技能·剑式流转·苍</color>。
+短按共鸣技能，会切换至<color=Highlight>苍剑式</color>，并施放<color=Highlight>共鸣技能·剑式流转·苍</color>，造成<color=Dark>湮灭伤害</color>，回复{0}点<color=Highlight>【<te href=161001>流响</te>】</color>和{1}点<color=Highlight>【<te href=161002>苍翎</te>】</color>，此次伤害为<color=Highlight>重击伤害</color>。
+<color=Highlight>共鸣技能·剑式流转·苍</color>命中目标时，消耗目标{2}层<color=Highlight>【<te href=850012>虚湮效应</te>】</color>。
+施放<color=Highlight>共鸣技能·剑式流转·苍</color>后，一定时间内将不会重置连段。若施放<color=Highlight>共鸣技能·剑式流转·苍</color>打断<color=Highlight>普攻·羽剑式</color>连段，则会召唤<color=Highlight>声之幻身</color>完成当前攻击，造成固定<color=Dark>湮灭伤害</color>，此次伤害为<color=Highlight>普攻伤害</color>，该次攻击造成的伤害不受伤害加成影响，且无法对目标附加<color=Highlight>【<te href=850012>虚湮效应</te>】</color>。
+施放该技能一定时间内可以触发成功闪避，触发成功闪避时消耗{3}点<color=Highlight>【<te href=161001>流响</te>】</color>。
+<size=10></size>
+<size=40><color=Title>共鸣技能·剑式流转·羽</color></size>
+<color=Highlight>【<te href=161001>流响</te>】</color>耗尽时，若处于<color=Highlight>苍剑式</color>，<color=Highlight>共鸣技能·羽拭苍锋</color>替换为<color=Highlight>共鸣技能·剑式流转·羽</color>。
+短按共鸣技能，会切换至<color=Highlight>羽剑式</color>，并施放<color=Highlight>共鸣技能·剑式流转·羽</color>，造成<color=Dark>湮灭伤害</color>，回复{4}点<color=Highlight>【<te href=161001>流响</te>】</color>和{5}点<color=Highlight>【<te href=161002>苍翎</te>】</color>，此次伤害为<color=Highlight>重击伤害</color>。
+<color=Highlight>共鸣技能·剑式流转·羽</color>命中目标时，消耗目标{6}层<color=Highlight>【<te href=850012>虚湮效应</te>】</color>。
+施放<color=Highlight>共鸣技能·剑式流转·羽</color>后，一定时间内将不会重置连段。若施放<color=Highlight>共鸣技能·剑式流转·羽</color>打断<color=Highlight>普攻·苍剑式</color>连段，则会召唤<color=Highlight>声之幻身</color>完成当前攻击，造成固定<color=Dark>湮灭伤害</color>，此次伤害为<color=Highlight>普攻伤害</color>，该次攻击造成的伤害不受伤害加成影响，且无法对目标附加<color=Highlight>【<te href=850012>虚湮效应</te>】</color>。
+施放该技能一定时间内可以触发成功闪避，触发成功闪避时消耗{7}点<color=Highlight>【<te href=161001>流响</te>】</color>。
+<size=10></size>
+<size=40><color=Title>重击·苍剑式</color></size>
+<color=Highlight>【<te href=161002>苍翎</te>】</color>回复至上限时，若处于<color=Highlight>苍剑式</color>，长按普攻消耗所有<color=Highlight>【<te href=161002>苍翎</te>】</color>，消耗耐力施放<color=Highlight>重击·苍剑式</color>，生成巨大气旋攻击前方，造成<color=Dark>湮灭伤害</color>，此次伤害为<color=Highlight>重击伤害</color>。
+施放<color=Highlight>重击·苍剑式</color>时，获得<color=Highlight>【<te href=161003>绝息</te>】</color>，秧秧·玄翎为队伍中登场角色时，此次<color=Highlight>重击·苍剑式</color>暴击伤害提升{9}；<color=Highlight>重击·苍剑式</color>结束时移除<color=Highlight>【<te href=161003>绝息</te>】</color>，每{10}秒仅可获得1次<color=Highlight>【<te href=161003>绝息</te>】</color>。
+<color=Highlight>重击·苍剑式</color>会为命中的目标附加{11}层<color=Highlight>【<te href=850012>虚湮效应</te>】</color>。
+<size=10></size>
+<size=40><color=Title>重击·羽剑式</color></size>
+<color=Highlight>【<te href=161002>苍翎</te>】</color>回复至上限时，若处于<color=Highlight>羽剑式</color>且不处于<color=Highlight>普攻·湮象风华</color>连段，并且处于地面时，长按普攻消耗耐力施放<color=Highlight>重击·羽剑式</color>，造成<color=Dark>湮灭伤害</color>，命中目标后将自动施放<color=Highlight>空中攻击·释羽风落</color>。
+施放<color=Highlight>重击·羽剑式</color>时，获得<color=Highlight>【<te href=161004>流岚</te>】</color>，<color=Highlight>【<te href=161004>流岚</te>】</color>持续{12}秒，秧秧·玄翎为队伍中登场角色时，此次<color=Highlight>重击·羽剑式</color>、<color=Highlight>空中攻击·释羽风落</color>、<color=Highlight>普攻·湮象风华</color>、<color=Highlight>闪避反击·湮象风华</color>暴击伤害提升{13}；<color=Highlight>普攻·湮象风华</color>第3段或<color=Highlight>闪避反击·湮象风华</color>第3段结束时移除<color=Highlight>【<te href=161004>流岚</te>】</color>，每{14}秒仅可获得1次<color=Highlight>【<te href=161004>流岚</te>】</color>。
+<color=Highlight>重击·羽剑式</color>会为命中的目标附加{15}层<color=Highlight>【<te href=850012>虚湮效应</te>】</color>。
+<size=10></size>
+<size=40><color=Title>空中攻击·释羽风落</color></size> 
+<color=Highlight>【<te href=161002>苍翎</te>】</color>回复至上限时，若处于<color=Highlight>羽剑式</color>并且处于空中时，<color=Highlight>空中攻击·羽剑式</color>替换为<color=Highlight>空中攻击·释羽风落</color>。
+短按普攻或长按普攻消耗所有<color=Highlight>【<te href=161002>苍翎</te>】</color>，消耗耐力并施放<color=Highlight>空中攻击·释羽风落</color>，造成<color=Dark>湮灭伤害</color>，此次伤害为<color=Highlight>重击伤害</color>。施放<color=Highlight>空中攻击·释羽风落</color>时，进入<color=Highlight>聆风祀声</color>，持续{16}秒。
+<size=10></size>
+<size=40><color=Title>聆风祀声</color></size>
+处于<color=Highlight>羽剑式</color>时，<color=Highlight>普攻·羽剑式</color>替换为<color=Highlight>普攻·湮象风华</color>，进行最多3段的连续攻击，造成<color=Dark>湮灭伤害</color>，此次伤害为<color=Highlight>重击伤害</color>。
+<color=Highlight>普攻·湮象风华</color>第2、3段可在低空施放，施放第3段后退出<color=Highlight>普攻·湮象风华</color>，该连击段数不会被重置。
+<color=Highlight>聆风祀声</color>期间，施放闪避反击，视为施放<color=Highlight>普攻·湮象风华</color>连段。
+<size=10></size>
+<size=40><color=Title>羽誓</color></size>
+附近队伍中的角色对目标附加<color=Highlight>【<te href=850012>虚湮效应</te>】</color>时，秧秧·玄翎获得1层<color=Highlight>羽誓</color>，持续{17}秒，<color=Highlight>羽誓</color>获得间隔{18}秒，最多叠加{19}层，秧秧·玄翎为队伍中登场角色时，每层使<color=Highlight>重击·苍剑式</color>、<color=Highlight>重击·羽剑式</color>、<color=Highlight>空中攻击·释羽风落</color>、<color=Highlight>普攻·湮象风华</color>、<color=Highlight>闪避反击·湮象风华</color>的暴击伤害提升{20}，至多提升{21}。
+<size=10></size>
+<size=40><color=Title>迭音</color></size>
+秧秧·玄翎的<color=Highlight>普攻·苍剑式</color>第4段、<color=Highlight>普攻·羽剑式</color>第4段、<color=Highlight>重击·苍剑式</color>、<color=Highlight>重击·羽剑式</color>命中目标前，记录一定范围内的目标被附加的<color=Highlight>【<te href=850012>虚湮效应</te>】</color>最高层数，一定时间后复制到范围内的所有目标身上。
+<size=10></size>
+<size=40><color=Title>【流响】获取规则</color></size>
+<color=Highlight>【<te href=161001>流响</te>】</color>上限{22}点。
+施放<color=Highlight>共鸣技能·剑式流转·苍</color>、<color=Highlight>共鸣技能·剑式流转·羽</color>时回复{23}点<color=Highlight>【<te href=161001>流响</te>】</color>。
+施放共鸣解放<color=Highlight>裁羽寂万音</color>消耗所有<color=Highlight>【<te href=161001>流响</te>】</color>。
+施放<color=Highlight>常态攻击</color>造成伤害，并消耗<color=Highlight>【<te href=161001>流响</te>】</color>。
+施放<color=Highlight>共鸣技能·剑式切换·苍</color>、<color=Highlight>共鸣技能·剑式切换·羽</color>、<color=Highlight>共鸣技能·剑式流转·苍</color>、<color=Highlight>共鸣技能·剑式流转·羽</color>一定时间内可以触发成功闪避，触发成功闪避时消耗{24}点<color=Highlight>【<te href=161001>流响</te>】</color>。
+<size=10></size>
+<size=40><color=Title>【苍翎】获取规则</color></size>
+<color=Highlight>【<te href=161002>苍翎</te>】</color>上限{25}点。
+施放<color=Highlight>共鸣技能·剑式流转·苍</color>、<color=Highlight>共鸣技能·剑式流转·羽</color>、<color=Highlight>变奏技能·羽挟苍空</color>时回复{26}点<color=Highlight>【<te href=161002>苍翎</te>】</color>。
+施放<color=Highlight>共鸣解放·裁羽寂万音</color>时回复{27}点<color=Highlight>【<te href=161002>苍翎</te>】</color>。
+施放<color=Highlight>重击·苍剑式</color>、<color=Highlight>空中攻击·释羽风落</color>消耗所有<color=Highlight>【<te href=161002>苍翎</te>】</color>。
+# Hiện tại : <size=40><color=Title>Kỹ Năng Cộng Hưởng·Kiếm Thức Lưu Chuyển·Thương</color></size>
+Ương Ương: Xuanling mặc định ở <color=Highlight>Thương Kiếm Thức</color>, khi <color=Highlight>【Lưu Hưởng】</color> dùng cạn, nếu ở <color=Highlight>Vũ Kiếm Thức</color>, <color=Highlight>Kỹ Năng Cộng Hưởng·Vũ Thức Thương Phong</color> được thay bằng <color=Highlight>Kỹ Năng Cộng Hưởng·Kiếm Thức Lưu Chuyển·Thương</color>.
+Nhấn nhanh Kỹ Năng Cộng Hưởng, thi triển <color=Highlight>Kỹ Năng Cộng Hưởng·Kiếm Thức Lưu Chuyển·Thương</color>, gây <color=Dark>sát thương Hủy Diệt</color>, hồi {0} điểm <color=Highlight>【Lưu Hưởng】</color> và {1} điểm <color=Highlight>【Thương Linh】</color>, sát thương lần này là <color=Highlight>sát thương Đánh Mạnh</color>.
+Khi <color=Highlight>Kỹ Năng Cộng Hưởng·Kiếm Thức Lưu Chuyển·Thương</color> đánh trúng mục tiêu, tiêu hao {2} tầng <color=Highlight>【<te href=850012>Hiệu Ứng Hư Yên</te>】</color> của mục tiêu.
+Sau khi thi triển <color=Highlight>Kỹ Năng Cộng Hưởng·Kiếm Thức Lưu Chuyển·Thương</color>, trong một khoảng thời gian sẽ không đặt lại chuỗi liên đòn. Nếu thi triển <color=Highlight>Kỹ Năng Cộng Hưởng·Kiếm Thức Lưu Chuyển·Thương</color> cắt ngang chuỗi liên đòn <color=Highlight>Đánh Thường·Vũ Kiếm Thức</color>, thì sẽ triệu hồi <color=Highlight>Thanh Chi Ảo Thân</color> hoàn thành đòn tấn công hiện tại, gây <color=Dark>sát thương Hủy Diệt</color> cố định, sát thương lần này là <color=Highlight>sát thương đánh thường</color>, sát thương của đòn tấn công này không chịu ảnh hưởng của tăng sát thương, và không thể thêm <color=Highlight>【<te href=850012>Hiệu Ứng Hư Yên</te>】</color> cho mục tiêu.
+Trong một khoảng thời gian sau khi thi triển kỹ năng này có thể kích hoạt hiệu quả né tránh thành công, khi kích hoạt hiệu quả né tránh thành công tiêu hao {3} điểm <color=Highlight>【Lưu Hưởng】</color>.
+<size=10></size>
+<size=40><color=Title>Kỹ Năng Cộng Hưởng·Kiếm Thức Lưu Chuyển·Vũ</color></size>
+Khi <color=Highlight>【Lưu Hưởng】</color> dùng cạn, nếu ở <color=Highlight>Thương Kiếm Thức</color>, <color=Highlight>Kỹ Năng Cộng Hưởng·Vũ Thức Thương Phong</color> được thay bằng <color=Highlight>Kỹ Năng Cộng Hưởng·Kiếm Thức Lưu Chuyển·Vũ</color>.
+Nhấn nhanh Kỹ Năng Cộng Hưởng, thi triển <color=Highlight>Kỹ Năng Cộng Hưởng·Kiếm Thức Lưu Chuyển·Vũ</color>, sẽ chuyển sang <color=Highlight>Vũ Kiếm Thức</color>, gây <color=Dark>sát thương Hủy Diệt</color>, hồi {4} điểm <color=Highlight>【Lưu Hưởng】</color> và {5} điểm <color=Highlight>【Thương Linh】</color>, sát thương lần này là <color=Highlight>sát thương Đánh Mạnh</color>.
+Khi <color=Highlight>Kỹ Năng Cộng Hưởng·Kiếm Thức Lưu Chuyển·Vũ</color> đánh trúng mục tiêu, tiêu hao {6} tầng <color=Highlight>【<te href=850012>Hiệu Ứng Hư Yên</te>】</color> của mục tiêu.
+Sau khi thi triển <color=Highlight>Kỹ Năng Cộng Hưởng·Kiếm Thức Lưu Chuyển·Vũ</color>, trong một khoảng thời gian sẽ không đặt lại chuỗi liên đòn. Nếu thi triển <color=Highlight>Kỹ Năng Cộng Hưởng·Kiếm Thức Lưu Chuyển·Vũ</color> cắt ngang chuỗi liên đòn <color=Highlight>Đánh Thường·Thương Kiếm Thức</color>, thì sẽ triệu hồi <color=Highlight>Thanh Chi Ảo Thân</color> hoàn thành đòn tấn công hiện tại, gây <color=Dark>sát thương Hủy Diệt</color> cố định, sát thương lần này là <color=Highlight>sát thương đánh thường</color>, sát thương của đòn tấn công này không chịu ảnh hưởng của tăng sát thương, và không thể thêm <color=Highlight>【<te href=850012>Hiệu Ứng Hư Yên</te>】</color> cho mục tiêu.
+Trong một khoảng thời gian sau khi thi triển kỹ năng này có thể kích hoạt hiệu quả né tránh thành công, khi kích hoạt hiệu quả né tránh thành công tiêu hao {7} điểm <color=Highlight>【Lưu Hưởng】</color>.
+<size=10></size>
+<size=40><color=Title>Đánh Mạnh·Thương Kiếm Thức</color></size>
+Khi <color=Highlight>【Thương Linh】</color> hồi đến giới hạn, nếu ở <color=Highlight>Thương Kiếm Thức</color>, nhấn giữ đánh thường tiêu hao toàn bộ <color=Highlight>【Thương Linh】</color>, tiêu hao thể lực thi triển <color=Highlight>Đánh Mạnh·Thương Kiếm Thức</color>, tạo ra lốc xoáy khổng lồ tấn công phía trước, gây <color=Dark>sát thương Hủy Diệt</color>, sát thương lần này là <color=Highlight>sát thương Đánh Mạnh</color>.
+Khi thi triển <color=Highlight>Đánh Mạnh·Thương Kiếm Thức</color>, nhận <color=Highlight>Tuyệt Tức</color>, khi Ương Ương: Xuanling là nhân vật ra sân trong đội, sát thương bạo kích của <color=Highlight>Đánh Mạnh·Thương Kiếm Thức</color> lần này tăng {9}; khi <color=Highlight>Đánh Mạnh·Thương Kiếm Thức</color> kết thúc thì xóa <color=Highlight>Tuyệt Tức</color>, mỗi {10} giây chỉ nhận được 1 lần <color=Highlight>Tuyệt Tức</color>.
+<color=Highlight>Đánh Mạnh·Thương Kiếm Thức</color> sẽ thêm {11} tầng <color=Highlight>【<te href=850012>Hiệu Ứng Hư Yên</te>】</color> cho mục tiêu bị đánh trúng.
+<size=10></size>
+<size=40><color=Title>Đánh Mạnh·Vũ Kiếm Thức</color></size>
+Khi <color=Highlight>【Thương Linh】</color> hồi đến giới hạn, nếu ở <color=Highlight>Vũ Kiếm Thức</color> và không ở chuỗi liên đòn <color=Highlight>Đánh Thường·Yên Tượng Phong Hoa</color>, và đang ở mặt đất, nhấn giữ đánh thường tiêu hao thể lực thi triển <color=Highlight>Đánh Mạnh·Vũ Kiếm Thức</color>, gây <color=Dark>sát thương Hủy Diệt</color>, sau khi đánh trúng mục tiêu sẽ tự động thi triển <color=Highlight>Tấn Công Trên Không·Thích Vũ Phong Lạc</color>.
+Khi thi triển <color=Highlight>Đánh Mạnh·Vũ Kiếm Thức</color>, nhận <color=Highlight>Lưu Lam</color>, <color=Highlight>Lưu Lam</color> kéo dài {12} giây, khi Ương Ương: Xuanling là nhân vật ra sân trong đội, sát thương bạo kích của <color=Highlight>Đánh Mạnh·Vũ Kiếm Thức</color>, <color=Highlight>Tấn Công Trên Không·Thích Vũ Phong Lạc</color>, <color=Highlight>Đánh Thường·Yên Tượng Phong Hoa</color>, <color=Highlight>Né Tránh Phản Công·Yên Tượng Phong Hoa</color> lần này tăng {13}; khi <color=Highlight>Đánh Thường·Yên Tượng Phong Hoa</color> đoạn 3 hoặc <color=Highlight>Né Tránh Phản Công·Yên Tượng Phong Hoa</color> đoạn 3 kết thúc thì xóa <color=Highlight>Lưu Lam</color>, mỗi {14} giây chỉ nhận được 1 lần <color=Highlight>Lưu Lam</color>.
+<color=Highlight>Đánh Mạnh·Vũ Kiếm Thức</color> sẽ thêm {15} tầng <color=Highlight>【<te href=850012>Hiệu Ứng Hư Yên</te>】</color> cho mục tiêu bị đánh trúng.
+<size=10></size>
+<size=40><color=Title>Tấn Công Trên Không·Thích Vũ Phong Lạc</color></size> 
+Khi <color=Highlight>【Thương Linh】</color> hồi đến giới hạn, nếu ở <color=Highlight>Vũ Kiếm Thức</color> và đang ở trên không, <color=Highlight>Tấn Công Trên Không·Vũ Kiếm Thức</color> được thay bằng <color=Highlight>Tấn Công Trên Không·Thích Vũ Phong Lạc</color>, khi đổi sang nhân vật khác, sẽ tự động thi triển <color=Highlight>Tấn Công Trên Không·Thích Vũ Phong Lạc</color>.
+Nhấn nhanh đánh thường hoặc nhấn giữ đánh thường tiêu hao toàn bộ <color=Highlight>【Thương Linh】</color>, tiêu hao thể lực và thi triển <color=Highlight>Tấn Công Trên Không·Thích Vũ Phong Lạc</color>, gây <color=Dark>sát thương Hủy Diệt</color>. Khi thi triển <color=Highlight>Tấn Công Trên Không·Thích Vũ Phong Lạc</color>, tiến vào <color=Highlight>Linh Phong Tự Thanh</color>, kéo dài {16} giây.
+<size=10></size>
+<size=40><color=Title>Linh Phong Tự Thanh</color></size>
+Khi ở <color=Highlight>Vũ Kiếm Thức</color>, <color=Highlight>Đánh Thường·Vũ Kiếm Thức</color> được thay bằng <color=Highlight>Đánh Thường·Yên Tượng Phong Hoa</color>, tiêu hao thể lực thực hiện tối đa 3 đoạn tấn công, gây <color=Dark>sát thương Hủy Diệt</color>, sát thương lần này là <color=Highlight>sát thương Đánh Mạnh</color>.
+<color=Highlight>Đánh Thường·Yên Tượng Phong Hoa</color> đoạn 2, 3 có thể thi triển ở tầm thấp, sau khi thi triển đoạn 3 thoát khỏi <color=Highlight>Đánh Thường·Yên Tượng Phong Hoa</color>, số đoạn liên đòn này sẽ không bị đặt lại.
+Trong thời gian <color=Highlight>Linh Phong Tự Thanh</color>, thi triển né tránh phản công được tính là thi triển chuỗi liên đòn <color=Highlight>Đánh Thường·Yên Tượng Phong Hoa</color>.
+<size=10></size>
+<size=40><color=Title>Vũ Thệ</color></size>
+Khi nhân vật trong đội thêm <color=Highlight>【<te href=850012>Hiệu Ứng Hư Yên</te>】</color> cho mục tiêu, Ương Ương: Xuanling nhận 1 tầng <color=Highlight>Vũ Thệ</color>, kéo dài {17} giây, <color=Highlight>Vũ Thệ</color> có khoảng cách nhận {18} giây, cộng dồn tối đa {19} tầng, khi Ương Ương: Xuanling là nhân vật ra sân, mỗi tầng khiến sát thương bạo kích của <color=Highlight>Đánh Mạnh·Thương Kiếm Thức</color>, <color=Highlight>Đánh Mạnh·Vũ Kiếm Thức</color>, <color=Highlight>Tấn Công Trên Không·Thích Vũ Phong Lạc</color>, <color=Highlight>Đánh Thường·Yên Tượng Phong Hoa</color>, <color=Highlight>Né Tránh Phản Công·Yên Tượng Phong Hoa</color> tăng {20}, tối đa tăng {21}.
+<size=10></size>
+<size=40><color=Title>Điệp Âm</color></size>
+Trước khi <color=Highlight>Đánh Thường·Thương Kiếm Thức</color> đoạn 4, <color=Highlight>Đánh Thường·Vũ Kiếm Thức</color> đoạn 4, <color=Highlight>Đánh Mạnh·Thương Kiếm Thức</color>, <color=Highlight>Đánh Mạnh·Vũ Kiếm Thức</color> của Ương Ương: Xuanling đánh trúng mục tiêu, ghi lại số tầng <color=Highlight>【<te href=850012>Hiệu Ứng Hư Yên</te>】</color> cao nhất được thêm cho mục tiêu trong phạm vi nhất định, sau một khoảng thời gian sao chép lên tất cả mục tiêu trong phạm vi.
+<size=10></size>
+<size=40><color=Title>Quy tắc nhận 【Lưu Hưởng】</color></size>
+Giới hạn <color=Highlight>【Lưu Hưởng】</color> là {22} điểm.
+Khi thi triển <color=Highlight>Kỹ Năng Cộng Hưởng·Kiếm Thức Lưu Chuyển·Thương</color>, <color=Highlight>Kỹ Năng Cộng Hưởng·Kiếm Thức Lưu Chuyển·Vũ</color> hồi {23} điểm <color=Highlight>【Lưu Hưởng】</color>.
+Khi thi triển Giải Phóng Cộng Hưởng <color=Highlight>Tài Vũ Tịch Vạn Âm</color> tiêu hao toàn bộ <color=Highlight>【Lưu Hưởng】</color>.
+Khi thi triển <color=Highlight>Đánh Thường</color> gây sát thương, và tiêu hao <color=Highlight>【Lưu Hưởng】</color>.
+<size=10></size>
+<size=40><color=Title>Quy tắc nhận 【Thương Linh】</color></size>
+Giới hạn <color=Highlight>【Thương Linh】</color> là {24} điểm.
+Khi thi triển <color=Highlight>Kỹ Năng Cộng Hưởng·Kiếm Thức Lưu Chuyển·Thương</color>, <color=Highlight>Kỹ Năng Cộng Hưởng·Kiếm Thức Lưu Chuyển·Vũ</color>, <color=Highlight>Kỹ Năng Biến Tấu·Vũ Hiệp Thương Không</color> hồi {25} điểm <color=Highlight>【Thương Linh】</color>.
+Khi thi triển <color=Highlight>Đánh Mạnh·Thương Kiếm Thức</color>, <color=Highlight>Đánh Mạnh·Vũ Kiếm Thức</color> tiêu hao toàn bộ <color=Highlight>【Thương Linh】</color>.
+
+@@ lang_multi_text.db||MultiText||Skill_1006009_SkillDescribe
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}', '{2}'] nhưng Dịch có ['{0}', '{1}', '{2}', '{3}']
+# Gốc Trung: 攻击目标，造成秧秧·玄翎{0}攻击的<color=Dark>湮灭伤害</color>。
+队伍中除秧秧·玄翎以外的角色，获得<color=Highlight>移宫换羽</color>状态，持续{1}秒，<color=Highlight>移宫换羽</color>持续期间为目标附加<color=Highlight>【<te href=850012>虚湮效应</te>】</color>后，该角色湮灭伤害加深{2}。
+施放该技能时，重置该技能效果。
+# Hiện tại : Tấn công mục tiêu, gây <color=Dark>sát thương Hủy Diệt</color> bằng {3} tấn công của Ương Ương: Xuanling.
+Khi nhân vật trong đội ngoài Ương Ương: Xuanling thêm <color=Highlight>【<te href=850012>Hiệu Ứng Hư Yên</te>】</color> cho mục tiêu trong {2} giây, sát thương Hủy Diệt của nhân vật đó được khuếch đại {0}, kéo dài {1} giây.
+
+@@ lang_multi_text.db||MultiText||Skill_1005501_SkillDescribe
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}', '{3}', '{4}', '{5}', '{6}'] nhưng Dịch có ['{0}', '{1}', '{2}', '{3}', '{4}']
+# Gốc Trung: <size=40><color=Title>普攻</color></size>
+进行最多{0}段的连续攻击，造成<color=Thunder>导电伤害</color>。
+<size=10></size>
+<size=40><color=Title>格挡架势</color></size>
+长按<color=Highlight>普攻</color>，消耗耐力进入<color=Highlight>格挡架势</color>。
+<color=Highlight>格挡架势</color>下免疫打断，受到的伤害降低{1}%，持续消耗耐力；松开<color=Highlight>普攻</color>键时，结束<color=Highlight>格挡架势</color>，并施放<color=Highlight>普攻·逆转一击</color>，造成<color=Thunder>导电伤害</color>。
+若施放<color=Highlight>普攻·逆转一击</color>的一定时间内受到敌方目标攻击,免疫此次伤害并短暂停滞目标,随后会施放<color=Highlight>普攻·逆转一击·崩解</color>，造成<color=Thunder>导电伤害</color>。
+施放<color=Highlight>普攻·逆转一击</color>后一定时间内短按<color=Highlight>普攻</color>，将会施放<color=Highlight>普攻</color>第{3}段。
+施放<color=Highlight>普攻·逆转一击·崩解</color>后一定时间内短按<color=Highlight>普攻</color>，将会施放<color=Highlight>空中攻击·湮灭</color>。
+<color=Highlight>格挡架势</color>下可消耗耐力向对应方向进行<color=Highlight>闪避·瞬身</color>，施放该技能一定时间内可以触发成功<color=Highlight>闪避</color>。
+<size=10></size>
+<size=40><color=Title>空中攻击</color></size>
+消耗耐力进行空中下落攻击，造成<color=Thunder>导电伤害</color>。
+<size=10></size>
+<size=40><color=Title>空中攻击·湮灭</color></size>
+进行最多{4}段的连续攻击，造成<color=Dark>湮灭伤害</color>，施放该技能第{5}段后，在一定时间内短按<color=Highlight>普攻</color>，将会施放<color=Highlight>普攻·克敌</color>。
+<size=10></size>
+<size=40><color=Title>闪避反击</color></size>
+成功<color=Highlight>闪避</color>后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Thunder>导电伤害</color>。
+施放该技能后在一段时间内短按<color=Highlight>普攻</color>，将会施放<color=Highlight>普攻</color>第{6}段。
+<size=10></size>
+<size=40><color=Title>空中闪避反击</color></size>
+空中成功<color=Highlight>闪避</color>后一定时间内短按<color=Highlight>普攻</color>，消耗耐力进行空中下落攻击，造成<color=Thunder>导电伤害</color>。
+# Hiện tại : <size=40><color=Title>Đánh Thường</color></size>
+Thực hiện tối đa {0} đoạn tấn công liên tục, gây <color=Thunder>sát thương Điện Từ</color>.
+<size=10></size>
+<size=40><color=Title>Tư Thế Cách Đáng</color></size>
+Nhấn giữ <color=Highlight>Đánh Thường</color>, tiêu hao thể lực để vào <color=Highlight>Tư Thế Cách Đáng</color>.
+Trong <color=Highlight>Tư Thế Cách Đáng</color>miễn nhiễm gián đoạn, sát thương nhận vào giảm {1}%, liên tục tiêu hao thể lực; khi thả phím <color=Highlight>Đánh Thường</color>, kết thúc <color=Highlight>Tư Thế Cách Đáng</color>, và thi triển <color=Highlight>Đánh Thường·Đòn Phản Công</color>, gây <color=Thunder>sát thương Điện Từ</color>.
+Nếu trong một khoảng thời gian sau khi thi triển <color=Highlight>Đánh Thường·Đòn Phản Công</color>bị mục tiêu địch tấn công, miễn nhiễm sát thương lần này và làm ngưng trệ kẻ địch xung quanh, sau đó trong một khoảng thời gian miễn nhiễm gián đoạn và sát thương nhận vào giảm {2}%, trong một khoảng thời gian nhấn nhanh đánh thường có thể thi triển <color=Highlight>Đánh Thường·Đòn Phản Công·Băng Giải</color>, gây <color=Thunder>sát thương Điện Từ</color>.
+Trong một khoảng thời gian sau khi thi triển <color=Highlight>Đánh Thường·Đòn Phản Công</color>nhấn nhanh <color=Highlight>Đánh Thường</color>, sẽ thi triển <color=Highlight>Đánh Thường</color>đoạn {3}.
+Trong <color=Highlight>Tư Thế Cách Đáng</color>có thể tiêu hao thể lực để <color=Highlight>Thuấn Thân</color>về hướng tương ứng, trong thời gian <color=Highlight>Thuấn Thân</color>chịu đòn được tính là né tránh thành công.
+<size=10></size>
+<size=40><color=Title>Tấn Công Trên Không</color></size>
+Tiêu hao thể lực để thực hiện đòn đáp đất trên không, gây <color=Thunder>sát thương Điện Từ</color>.
+<size=10></size>
+<size=40><color=Title>Né Tránh Phản Công</color></size>
+Trong một khoảng thời gian sau khi <color=Highlight>Né Tránh</color>thành công, nhấn nhanh <color=Highlight>Đánh Thường</color>, sẽ tấn công mục tiêu, gây <color=Thunder>sát thương Điện Từ</color>.
+Trong một khoảng thời gian sau khi thi triển kỹ năng này nhấn nhanh đánh thường, sẽ thi triển <color=Highlight>Đánh Thường đoạn {4}</color>.
+
+@@ lang_multi_text.db||MultiText||Skill_1005507_SkillDescribe
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{10}', '{11}', '{12}', '{13}', '{14}', '{1}', '{2}', '{3}', '{4}', '{5}', '{6}', '{7}', '{8}', '{9}'] nhưng Dịch có ['{0}', '{10}', '{11}', '{1}', '{2}', '{3}', '{4}', '{5}', '{6}', '{7}', '{8}', '{9}']
+# Gốc Trung: <size=40><color=Title>超负荷</color></size>
+<color=Highlight>【<te href=130901>电涌</te>】</color>达到上限时，<color=Highlight>共鸣技能</color>替换为共鸣技能<color=Highlight>超负荷</color>。
+施放该技能后一定时间内短按<color=Highlight>普攻</color>，将会施放<color=Highlight>普攻</color>第{0}段。
+可在空中施放。
+短按施放共鸣技能<color=Highlight>超负荷</color>，造成<color=Thunder>导电伤害</color>，随后清空<color=Highlight>【<te href=130901>电涌</te>】</color>并使队伍中的角色获得{1}%攻击加成，持续{2}秒。
+长按施放共鸣技能<color=Highlight>超负荷</color>，消耗{3}点协奏能量，造成<color=Thunder>导电伤害</color>，随后清空<color=Highlight>【<te href=130901>电涌</te>】</color>并进入<color=Highlight><te href=130903>临界共鸣</te></color>状态。
+<size=10></size>
+<size=40><color=Title>临界共鸣</color></size>
+<color=Highlight><te href=130903>临界共鸣</te></color>状态下，解锁共鸣技能<color=Highlight>千声翻涌</color>，处于战斗状态时每秒消耗{4}%上限的<color=Highlight>【<te href=130902>霆怒</te>】</color>：
+地面短按<color=Highlight>共鸣技能</color>进行至多{5}段的连续攻击，前{6}段为<color=Highlight>千声翻涌·衍射</color>，造成<color=Light>衍射伤害</color>；后{7}段为<color=Highlight>千声翻涌·湮灭</color>，造成<color=Dark>湮灭伤害</color>，最后{8}段为<color=Highlight>千声翻涌·剑止万律</color>，造成<color=Wind>气动伤害</color>；
+地面长按<color=Highlight>共鸣技能</color>施放<color=Highlight>千声翻涌·气动</color>，造成<color=Wind>气动伤害</color>并升空；
+空中短按<color=Highlight>共鸣技能</color>进行至多{9}段的空中攻击，前{10}段为<color=Highlight>千声翻涌·湮灭空中攻击</color>，造成<color=Dark>湮灭伤害</color>，后{11}段为<color=Highlight>千声翻涌·气动空中攻击</color>，造成<color=Wind>气动伤害</color>并回复附近队伍中所有角色的生命值，最后{12}段为<color=Highlight>千声翻涌·气动下落攻击</color>，造成<color=Wind>气动伤害</color>，落地后一定时间内短按<color=Highlight>共鸣技能</color>可以施放<color=Highlight>千声翻涌·剑止万律</color>；
+空中长按<color=Highlight>共鸣技能</color>也可以施放<color=Highlight>千声翻涌·气动下落攻击</color>。
+<color=Highlight>千声翻涌</color>命中时可以触发<color=Highlight>雷陨</color>，对范围内的目标造成<color=Thunder>导电伤害</color>，此次伤害为<color=Highlight>共鸣技能伤害</color>。
+<color=Highlight><te href=130903>临界共鸣</te></color>状态下，施放普攻后一定时间内短按<color=Highlight>共鸣技能</color>，将会依据普攻段数施放不同形态的<color=Highlight>千声翻涌</color>。 
+<size=10></size>
+<size=40><color=Title>【电涌】获取规则</color></size>
+<color=Highlight>【<te href=130901>电涌</te>】</color>上限{13}点
+<color=Highlight>变奏技能·不啻惊雷</color>、<color=Highlight>常态攻击·止戈</color>、<color=Highlight>共鸣技能·雷引</color>、<color=Highlight>普攻·克敌</color>造成伤害时，回复<color=Highlight>【<te href=130901>电涌</te>】</color>。 
+<size=10></size>
+<size=40><color=Title>【霆怒】获取规则</color></size>
+<color=Highlight>【<te href=130902>霆怒</te>】</color>上限{14}点。
+进入<color=Highlight><te href=130903>临界共鸣</te></color>状态时，获得<color=Highlight>【<te href=130902>霆怒</te>】</color>至上限，<color=Highlight>千声翻涌</color>造成伤害时，回复<color=Highlight>【<te href=130902>霆怒</te>】</color>。
+# Hiện tại : <size=40><color=Title>Siêu Phụ Tải</color></size>
+Khi <color=Highlight>【Điện Dũng】</color>đạt giới hạn, <color=Highlight>Kỹ Năng Cộng Hưởng</color>được thay bằng Kỹ Năng Cộng Hưởng <color=Highlight>Siêu Phụ Tải</color>, gây <color=Thunder>sát thương Điện Từ</color>.
+Sau khi nhấn nhanh để thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Siêu Phụ Tải</color>, xóa sạch <color=Highlight>【Điện Dũng】</color>và giúp đội nhận {0}% tăng tấn công, kéo dài {1} giây.
+Sau khi nhấn giữ để thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Siêu Phụ Tải</color>, xóa sạch <color=Highlight>【Điện Dũng】</color>và vào trạng thái <color=Highlight>Cộng Hưởng Tới Hạn</color>.
+<size=10></size>
+<size=40><color=Title>Cộng Hưởng Tới Hạn</color></size>
+Ở trạng thái <color=Highlight>Cộng Hưởng Tới Hạn</color>, mở khóa Kỹ Năng Cộng Hưởng <color=Highlight>Thiên Thanh Phiên Dũng</color>, mỗi giây tiêu hao {2}% <color=Highlight>【Đình Nộ】</color>:
+Nhấn <color=Highlight>Kỹ Năng Cộng Hưởng</color>trên mặt đất thực hiện tối đa {3} đoạn tấn công liên tục, {4} đoạn đầu là <color=Highlight>Thiên Thanh Phiên Dũng·Quang Phổ</color>, gây <color=Light>sát thương Quang Phổ</color>; {5} đoạn sau là <color=Highlight>Thiên Thanh Phiên Dũng·Hủy Diệt</color>, gây <color=Dark>sát thương Hủy Diệt</color>, {6} đoạn cuối là <color=Highlight>Thiên Thanh Phiên Dũng·Kiếm Chỉ Vạn Luật</color>, gây <color=Wind>sát thương Khí Động</color>; nếu khi thi triển <color=Highlight>Thiên Thanh Phiên Dũng</color>trên mặt đất mà cách mục tiêu khá xa, thì chỉ thi triển <color=Highlight>Thiên Thanh Phiên Dũng·Quang Phổ Truy Kích</color>, gây <color=Light>sát thương Quang Phổ</color>;
+Nhấn giữ <color=Highlight>Kỹ Năng Cộng Hưởng</color>trên mặt đất thi triển <color=Highlight>Thiên Thanh Phiên Dũng·Khí Động</color>, gây <color=Wind>sát thương Khí Động</color>và bay lên;
+Nhấn <color=Highlight>Kỹ Năng Cộng Hưởng</color>trên không thực hiện tối đa {7} đoạn tấn công trên không, {8} đoạn đầu là <color=Highlight>Thiên Thanh Phiên Dũng·Tấn Công Trên Không Hủy Diệt</color>, gây <color=Dark>sát thương Hủy Diệt</color>, {9} đoạn sau là <color=Highlight>Thiên Thanh Phiên Dũng·Tấn Công Trên Không Khí Động</color>, gây <color=Wind>sát thương Khí Động</color>và hồi HP cho tất cả nhân vật trong đội gần đó, {10} đoạn cuối là <color=Highlight>Thiên Thanh Phiên Dũng·Đòn Đáp Đất Khí Động</color>, gây <color=Wind>sát thương Khí Động</color>, sau khi tiếp đất nhấn <color=Highlight>Kỹ Năng Cộng Hưởng</color>có thể phái sinh <color=Highlight>Thiên Thanh Phiên Dũng·Kiếm Chỉ Vạn Luật</color>;
+Nhấn giữ <color=Highlight>Kỹ Năng Cộng Hưởng</color>trên không cũng có thể thi triển <color=Highlight>Thiên Thanh Phiên Dũng·Đòn Đáp Đất Khí Động</color>.
+Tất cả <color=Highlight>Thiên Thanh Phiên Dũng</color>đều sẽ kích hoạt <color=Highlight>Lôi Vẫn</color>, gây <color=Thunder>sát thương Điện Từ</color>cho mục tiêu, và giảm {11} giây thời gian hồi của Kỹ Năng Cộng Hưởng <color=Highlight>Siêu Phụ Tải</color>.
+<size=10></size>
+<size=40><color=Title>Quy tắc nhận 【Điện Dũng】</color></size>
+Giới hạn <color=Highlight>【Điện Dũng】</color>là 120 điểm
+Khi Đánh Thường và <color=Highlight>Kỹ Năng Cộng Hưởng</color>gây sát thương, hồi <color=Highlight>【Điện Dũng】</color>.
+<size=10></size>
+<size=40><color=Title>Quy tắc nhận 【Đình Nộ】</color></size>
+Giới hạn <color=Highlight>【Đình Nộ】</color>là 100 điểm
+Khi vào trạng thái <color=Highlight>Cộng Hưởng Tới Hạn</color>, nhận <color=Highlight>【Đình Nộ】</color>, khi <color=Highlight>Thiên Thanh Phiên Dũng</color>gây sát thương, hồi <color=Highlight>【Đình Nộ】</color>.
+<size=10></size>
+
+@@ lang_multi_text.db||MultiText||Term111004_Desc
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}'] nhưng Dịch có []
+# Gốc Trung: <color=Highlight>山河水境</color>存在期间，穗穗施放<color=Highlight>延奏技能·渌水盈盈</color>时，会进入<color=Highlight>仙游碧落</color>状态，持续{0}秒。期间穗穗不是队伍中登场角色时，会依附于<color=Highlight>山河水境</color>之上进行飞仙演舞，并根据施放<color=Highlight>延奏技能·渌水盈盈</color>时消耗的<color=Highlight>【芳菲信】</color>，每隔一定时间进行一次<color=Highlight>翾舞</color>。
+穗穗为队伍中登场角色时，暂停飞仙演舞。
+<color=Highlight>山河水境</color>不存在时，退出<color=Highlight>仙游碧落</color>状态。
+# Hiện tại : Trong thời gian <color=Highlight>Sơn Hà Thủy Cảnh</color> tồn tại, khi Tuệ Tuệ thi triển <color=Highlight>Kỹ Năng Diên Tấu·Lục Thủy Doanh Doanh</color>, sẽ tiến vào trạng thái <color=Highlight>Tiên Du Bích Lạc</color>. Trong thời gian đó Tuệ Tuệ sẽ bám trên <color=Highlight>Sơn Hà Thủy Cảnh</color> để múa tiên bay, và dựa theo <color=Highlight>【Phương Phi Tín】</color> đã tiêu hao khi thi triển <color=Highlight>Kỹ Năng Diên Tấu·Lục Thủy Doanh Doanh</color>, cứ cách một khoảng thời gian thêm hiệu quả nhất định cho mục tiêu bên trong <color=Highlight>Sơn Hà Thủy Cảnh</color>.
+
+@@ lang_multi_text.db||MultiText||PhantomSkill_280042_DescriptionEx
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}', '{2}', '{3}', '{4}', '{5}'] nhưng Dịch có ['{0}', '{1}', '{2}', '{3}']
+# Gốc Trung: 使用声骸技能，召唤万囮牢·朽躯，首次对敌人造成{0}生命上限的热熔伤害，期间多次碾压路径上的敌人，至多{5}次，每次造成{1}生命上限的热熔伤害。
+在首位装配该声骸技能时，自身热熔伤害加成提升{2}，重击伤害加成提升{3}。
+技能冷却：{4}秒
+# Hiện tại : Dùng Kỹ Năng Echo, triệu hồi Vạn Ngoa Lao·Hủ Khu, gây tối đa ba đoạn sát thương Hỏa Liệt bằng {0} giới hạn HP cho mỗi kẻ địch.
+Khi trang bị Kỹ Năng Echo này ở vị trí đầu, tăng {1} tăng sát thương Hỏa Liệt của bản thân, tăng {2} tăng sát thương Đánh Mạnh.
+Thời gian hồi kỹ năng: {3} giây
+
+@@ lang_multi_text.db||MultiText||WeRogueMapScoreText
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}'] nhưng Dịch có ['{0}', '{1}']
+# Gốc Trung: {0}
+# Hiện tại : {0}/{1}
+
+@@ lang_multi_text.db||MultiText||Text_FriendMyUid_Text
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}'] nhưng Dịch có []
+# Gốc Trung: 特征码: {0}
+# Hiện tại :  
+
+@@ lang_multi_text.db||MultiText||Text_UserId_Text
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}'] nhưng Dịch có []
+# Gốc Trung: 特征码：{0}
+# Hiện tại : Ẩn ID
+
+@@ lang_phantom.db||PhantomSkill||521
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}'] nhưng Dịch có ['{1}', '{2}']
+# Gốc Trung: 变身遁地鼠向前移动，遁地期间可调整方向，并且不会受到伤害。
+协奏值：{0}点
+技能冷却：{1}秒
+# Hiện tại : <ano=Transform>Biến hình</ano> thành <ano=Excarat>Chuột Độn Địa</ano> di chuyển về phía trước, khi <ano=submerge into earth>Độn thổ</ano> có thể điều chỉnh hướng và không nhận sát thương.
+Năng Lượng <ano=Concerto>Hiệp Tấu</ano>: {1} điểm
+Thời Gian Hồi kỹ năng: {2} giây
+
+@@ lang_phantom.db||PhantomSkill||522
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}'] nhưng Dịch có ['{1}', '{2}']
+# Gốc Trung: 变身遁地鼠向前移动，遁地期间可调整方向，并且不会受到伤害。
+协奏值：{0}点
+技能冷却：{1}秒
+# Hiện tại : <ano=Transform>Biến hình</ano> thành <ano=Excarat>Chuột Độn Địa</ano> di chuyển về phía trước, khi <ano=submerge into earth>Độn thổ</ano> có thể điều chỉnh hướng và không nhận sát thương.
+Năng Lượng <ano=Concerto>Hiệp Tấu</ano>: {1} điểm
+Thời Gian Hồi kỹ năng: {2} giây
+
+@@ lang_phantom.db||PhantomSkill||523
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}'] nhưng Dịch có ['{1}', '{2}']
+# Gốc Trung: 变身遁地鼠向前移动，遁地期间可调整方向，并且不会受到伤害。
+协奏值：{0}点
+技能冷却：{1}秒
+# Hiện tại : <ano=Transform>Biến hình</ano> thành <ano=Excarat>Chuột Độn Địa</ano> di chuyển về phía trước, khi <ano=submerge into earth>Độn thổ</ano> có thể điều chỉnh hướng và không nhận sát thương.
+Năng Lượng <ano=Concerto>Hiệp Tấu</ano>: {1} điểm
+Thời Gian Hồi kỹ năng: {2} giây
+
+@@ lang_phantom.db||PhantomSkill||524
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}'] nhưng Dịch có ['{1}', '{2}']
+# Gốc Trung: 变身遁地鼠向前移动，遁地期间可调整方向，并且不会受到伤害。
+协奏值：{0}点
+技能冷却：{1}秒
+# Hiện tại : <ano=Transform>Biến hình</ano> thành <ano=Excarat>Chuột Độn Địa</ano> di chuyển về phía trước, khi <ano=submerge into earth>Độn thổ</ano> có thể điều chỉnh hướng và không nhận sát thương.
+Năng Lượng <ano=Concerto>Hiệp Tấu</ano>: {1} điểm
+Thời Gian Hồi kỹ năng: {2} giây
+
+@@ lang_phantom.db||PhantomSkill||525
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}'] nhưng Dịch có ['{1}', '{2}']
+# Gốc Trung: 变身遁地鼠向前移动，遁地期间可调整方向，并且不会受到伤害。
+协奏值：{0}点
+技能冷却：{1}秒
+# Hiện tại : <ano=Transform>Biến hình</ano> thành <ano=Excarat>Chuột Độn Địa</ano> di chuyển về phía trước, khi <ano=submerge into earth>Độn thổ</ano> có thể điều chỉnh hướng và không nhận sát thương.
+Năng Lượng <ano=Concerto>Hiệp Tấu</ano>: {1} điểm
+Thời Gian Hồi kỹ năng: {2} giây
+
+@@ lang_phantom.db||PhantomSkill||526
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}'] nhưng Dịch có ['{1}', '{2}']
+# Gốc Trung: 变身遁地鼠向前移动，遁地期间可调整方向，并且不会受到伤害。
+协奏值：{0}点
+技能冷却：{1}秒
+# Hiện tại : <ano=Transform>Biến hình</ano> thành <ano=Excarat>Chuột Độn Địa</ano> di chuyển về phía trước, khi <ano=submerge into earth>Độn thổ</ano> có thể điều chỉnh hướng và không nhận sát thương.
+Năng Lượng <ano=Concerto>Hiệp Tấu</ano>: {1} điểm
+Thời Gian Hồi kỹ năng: {2} giây
+
+@@ lang_phantom.db||PhantomSkill||527
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}'] nhưng Dịch có ['{1}', '{2}']
+# Gốc Trung: 变身遁地鼠向前移动，遁地期间可调整方向，并且不会受到伤害。
+协奏值：{0}点
+技能冷却：{1}秒
+# Hiện tại : <ano=Transform>Biến hình</ano> thành <ano=Excarat>Chuột Độn Địa</ano> di chuyển về phía trước, khi <ano=submerge into earth>Độn thổ</ano> có thể điều chỉnh hướng và không nhận sát thương.
+Năng Lượng <ano=Concerto>Hiệp Tấu</ano>: {1} điểm
+Thời Gian Hồi kỹ năng: {2} giây
+
+@@ lang_phantom.db||PhantomSkill||528
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}'] nhưng Dịch có ['{1}', '{2}']
+# Gốc Trung: 变身遁地鼠向前移动，遁地期间可调整方向，并且不会受到伤害。
+协奏值：{0}点
+技能冷却：{1}秒
+# Hiện tại : <ano=Transform>Biến hình</ano> thành <ano=Excarat>Chuột Độn Địa</ano> di chuyển về phía trước, khi <ano=submerge into earth>Độn thổ</ano> có thể điều chỉnh hướng và không nhận sát thương.
+Năng Lượng <ano=Concerto>Hiệp Tấu</ano>: {1} điểm
+Thời Gian Hồi kỹ năng: {2} giây
+
+@@ lang_phantom.db||PhantomSkill||529
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}'] nhưng Dịch có ['{1}', '{2}']
+# Gốc Trung: 变身遁地鼠向前移动，遁地期间可调整方向，并且不会受到伤害。
+协奏值：{0}点
+技能冷却：{1}秒
+# Hiện tại : <ano=Transform>Biến hình</ano> thành <ano=Excarat>Chuột Độn Địa</ano> di chuyển về phía trước, khi <ano=submerge into earth>Độn thổ</ano> có thể điều chỉnh hướng và không nhận sát thương.
+Năng Lượng <ano=Concerto>Hiệp Tấu</ano>: {1} điểm
+Thời Gian Hồi kỹ năng: {2} giây
+
+@@ lang_phantom.db||PhantomSkill||530
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}'] nhưng Dịch có ['{1}', '{2}']
+# Gốc Trung: 变身遁地鼠向前移动，遁地期间可调整方向，并且不会受到伤害。
+协奏值：{0}点
+技能冷却：{1}秒
+# Hiện tại : <ano=Transform>Biến hình</ano> thành <ano=Excarat>Chuột Độn Địa</ano> di chuyển về phía trước, khi <ano=submerge into earth>Độn thổ</ano> có thể điều chỉnh hướng và không nhận sát thương.
+Năng Lượng <ano=Concerto>Hiệp Tấu</ano>: {1} điểm
+Thời Gian Hồi kỹ năng: {2} giây
+
+@@ lang_phantom.db||PhantomSkill||531
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}'] nhưng Dịch có ['{1}', '{2}']
+# Gốc Trung: 变身遁地鼠向前移动，遁地期间可调整方向，并且不会受到伤害。
+协奏值：{0}点
+技能冷却：{1}秒
+# Hiện tại : <ano=Transform>Biến hình</ano> thành <ano=Excarat>Chuột Độn Địa</ano> di chuyển về phía trước, khi <ano=submerge into earth>Độn thổ</ano> có thể điều chỉnh hướng và không nhận sát thương.
+Năng Lượng <ano=Concerto>Hiệp Tấu</ano>: {1} điểm
+Thời Gian Hồi kỹ năng: {2} giây
+
+@@ lang_phantom.db||PhantomSkill||532
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}'] nhưng Dịch có ['{1}', '{2}']
+# Gốc Trung: 变身遁地鼠向前移动，遁地期间可调整方向，并且不会受到伤害。
+协奏值：{0}点
+技能冷却：{1}秒
+# Hiện tại : <ano=Transform>Biến hình</ano> thành <ano=Excarat>Chuột Độn Địa</ano> di chuyển về phía trước, khi <ano=submerge into earth>Độn thổ</ano> có thể điều chỉnh hướng và không nhận sát thương.
+Năng Lượng <ano=Concerto>Hiệp Tấu</ano>: {1} điểm
+Thời Gian Hồi kỹ năng: {2} giây
+
+@@ lang_phantom.db||PhantomSkill||533
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}'] nhưng Dịch có ['{1}', '{2}']
+# Gốc Trung: 变身遁地鼠向前移动，遁地期间可调整方向，并且不会受到伤害。
+协奏值：{0}点
+技能冷却：{1}秒
+# Hiện tại : <ano=Transform>Biến hình</ano> thành <ano=Excarat>Chuột Độn Địa</ano> di chuyển về phía trước, khi <ano=submerge into earth>Độn thổ</ano> có thể điều chỉnh hướng và không nhận sát thương.
+Năng Lượng <ano=Concerto>Hiệp Tấu</ano>: {1} điểm
+Thời Gian Hồi kỹ năng: {2} giây
+
+@@ lang_phantom.db||PhantomSkill||534
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}'] nhưng Dịch có ['{1}', '{2}']
+# Gốc Trung: 变身遁地鼠向前移动，遁地期间可调整方向，并且不会受到伤害。
+协奏值：{0}点
+技能冷却：{1}秒
+# Hiện tại : <ano=Transform>Biến hình</ano> thành <ano=Excarat>Chuột Độn Địa</ano> di chuyển về phía trước, khi <ano=submerge into earth>Độn thổ</ano> có thể điều chỉnh hướng và không nhận sát thương.
+Năng Lượng <ano=Concerto>Hiệp Tấu</ano>: {1} điểm
+Thời Gian Hồi kỹ năng: {2} giây
+
+@@ lang_phantom.db||PhantomSkill||535
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}'] nhưng Dịch có ['{1}', '{2}']
+# Gốc Trung: 变身遁地鼠向前移动，遁地期间可调整方向，并且不会受到伤害。
+协奏值：{0}点
+技能冷却：{1}秒
+# Hiện tại : <ano=Transform>Biến hình</ano> thành <ano=Excarat>Chuột Độn Địa</ano> di chuyển về phía trước, khi <ano=submerge into earth>Độn thổ</ano> có thể điều chỉnh hướng và không nhận sát thương.
+Năng Lượng <ano=Concerto>Hiệp Tấu</ano>: {1} điểm
+Thời Gian Hồi kỹ năng: {2} giây
+
+@@ lang_phantom.db||PhantomSkill||536
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}'] nhưng Dịch có ['{1}', '{2}']
+# Gốc Trung: 变身遁地鼠向前移动，遁地期间可调整方向，并且不会受到伤害。
+协奏值：{0}点
+技能冷却：{1}秒
+# Hiện tại : <ano=Transform>Biến hình</ano> thành <ano=Excarat>Chuột Độn Địa</ano> di chuyển về phía trước, khi <ano=submerge into earth>Độn thổ</ano> có thể điều chỉnh hướng và không nhận sát thương.
+Năng Lượng <ano=Concerto>Hiệp Tấu</ano>: {1} điểm
+Thời Gian Hồi kỹ năng: {2} giây
+
+@@ lang_phantom.db||PhantomSkill||537
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}'] nhưng Dịch có ['{1}', '{2}']
+# Gốc Trung: 变身遁地鼠向前移动，遁地期间可调整方向，并且不会受到伤害。
+协奏值：{0}点
+技能冷却：{1}秒
+# Hiện tại : <ano=Transform>Biến hình</ano> thành <ano=Excarat>Chuột Độn Địa</ano> di chuyển về phía trước, khi <ano=submerge into earth>Độn thổ</ano> có thể điều chỉnh hướng và không nhận sát thương.
+Năng Lượng <ano=Concerto>Hiệp Tấu</ano>: {1} điểm
+Thời Gian Hồi kỹ năng: {2} giây
+
+@@ lang_phantom.db||PhantomSkill||538
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}'] nhưng Dịch có ['{1}', '{2}']
+# Gốc Trung: 变身遁地鼠向前移动，遁地期间可调整方向，并且不会受到伤害。
+协奏值：{0}点
+技能冷却：{1}秒
+# Hiện tại : <ano=Transform>Biến hình</ano> thành <ano=Excarat>Chuột Độn Địa</ano> di chuyển về phía trước, khi <ano=submerge into earth>Độn thổ</ano> có thể điều chỉnh hướng và không nhận sát thương.
+Năng Lượng <ano=Concerto>Hiệp Tấu</ano>: {1} điểm
+Thời Gian Hồi kỹ năng: {2} giây
+
+@@ lang_phantom.db||PhantomSkill||539
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}'] nhưng Dịch có ['{1}', '{2}']
+# Gốc Trung: 变身遁地鼠向前移动，遁地期间可调整方向，并且不会受到伤害。
+协奏值：{0}点
+技能冷却：{1}秒
+# Hiện tại : <ano=Transform>Biến hình</ano> thành <ano=Excarat>Chuột Độn Địa</ano> di chuyển về phía trước, khi <ano=submerge into earth>Độn thổ</ano> có thể điều chỉnh hướng và không nhận sát thương.
+Năng Lượng <ano=Concerto>Hiệp Tấu</ano>: {1} điểm
+Thời Gian Hồi kỹ năng: {2} giây
+
+@@ lang_phantom.db||PhantomSkill||540
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}'] nhưng Dịch có ['{1}', '{2}']
+# Gốc Trung: 变身遁地鼠向前移动，遁地期间可调整方向，并且不会受到伤害。
+协奏值：{0}点
+技能冷却：{1}秒
+# Hiện tại : <ano=Transform>Biến hình</ano> thành <ano=Excarat>Chuột Độn Địa</ano> di chuyển về phía trước, khi <ano=submerge into earth>Độn thổ</ano> có thể điều chỉnh hướng và không nhận sát thương.
+Năng Lượng <ano=Concerto>Hiệp Tấu</ano>: {1} điểm
+Thời Gian Hồi kỹ năng: {2} giây
+
+@@ lang_phantom.db||PhantomSkill||681
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}', '{2}'] nhưng Dịch có ['{0}', '{1}', '{2}', '{3}']
+# Gốc Trung: 召唤火鬃狼幼体发动撕咬，造成{0}%热熔伤害。
+协奏值：{1}点
+技能冷却：{2}秒
+# Hiện tại : Triệu hồi Thể ấu trùng <ano=Fusion Dreadmane>Sói Bờm Lửa</ano>, tung đòn <ano=Bite>Cắn Xé</ano>, gây {0}% <ano=Fusion Damage>Sát Thương Nhiệt Dung</ano>, đồng thời tạo ra 3 quả cầu năng lượng, mỗi quả cầu gây {1}% <ano=Fusion Damage>Sát Thương Nhiệt Dung</ano>.
+Năng Lượng <ano=Concerto>Hiệp Tấu</ano>: {2} điểm
+Thời Gian Hồi: {3} giây
+
+@@ lang_phantom.db||PhantomSkill||682
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}', '{2}'] nhưng Dịch có ['{0}', '{1}', '{2}', '{3}']
+# Gốc Trung: 召唤火鬃狼幼体发动撕咬，造成{0}%热熔伤害。
+协奏值：{1}点
+技能冷却：{2}秒
+# Hiện tại : Triệu hồi Thể ấu trùng <ano=Fusion Dreadmane>Sói Bờm Lửa</ano>, tung đòn <ano=Bite>Cắn Xé</ano>, gây {0}% <ano=Fusion Damage>Sát Thương Nhiệt Dung</ano>, đồng thời tạo ra 3 quả cầu năng lượng, mỗi quả cầu gây {1}% <ano=Fusion Damage>Sát Thương Nhiệt Dung</ano>.
+Năng Lượng <ano=Concerto>Hiệp Tấu</ano>: {2} điểm
+Thời Gian Hồi: {3} giây
+
+@@ lang_phantom.db||PhantomSkill||683
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}', '{2}'] nhưng Dịch có ['{0}', '{1}', '{2}', '{3}']
+# Gốc Trung: 召唤火鬃狼幼体发动撕咬，造成{0}%热熔伤害。
+协奏值：{1}点
+技能冷却：{2}秒
+# Hiện tại : Triệu hồi Thể ấu trùng <ano=Fusion Dreadmane>Sói Bờm Lửa</ano>, tung đòn <ano=Bite>Cắn Xé</ano>, gây {0}% <ano=Fusion Damage>Sát Thương Nhiệt Dung</ano>, đồng thời tạo ra 3 quả cầu năng lượng, mỗi quả cầu gây {1}% <ano=Fusion Damage>Sát Thương Nhiệt Dung</ano>.
+Năng Lượng <ano=Concerto>Hiệp Tấu</ano>: {2} điểm
+Thời Gian Hồi: {3} giây
+
+@@ lang_phantom.db||PhantomSkill||684
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}', '{2}'] nhưng Dịch có ['{0}', '{1}', '{2}', '{3}']
+# Gốc Trung: 召唤火鬃狼幼体发动撕咬，造成{0}%热熔伤害。
+协奏值：{1}点
+技能冷却：{2}秒
+# Hiện tại : Triệu hồi Thể ấu trùng <ano=Fusion Dreadmane>Sói Bờm Lửa</ano>, tung đòn <ano=Bite>Cắn Xé</ano>, gây {0}% <ano=Fusion Damage>Sát Thương Nhiệt Dung</ano>, đồng thời tạo ra 3 quả cầu năng lượng, mỗi quả cầu gây {1}% <ano=Fusion Damage>Sát Thương Nhiệt Dung</ano>.
+Năng Lượng <ano=Concerto>Hiệp Tấu</ano>: {2} điểm
+Thời Gian Hồi: {3} giây
+
+@@ lang_phantom.db||PhantomSkill||685
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}', '{2}'] nhưng Dịch có ['{0}', '{1}', '{2}', '{3}']
+# Gốc Trung: 召唤火鬃狼幼体发动撕咬，造成{0}%热熔伤害。
+协奏值：{1}点
+技能冷却：{2}秒
+# Hiện tại : Triệu hồi Thể ấu trùng <ano=Fusion Dreadmane>Sói Bờm Lửa</ano>, tung đòn <ano=Bite>Cắn Xé</ano>, gây {0}% <ano=Fusion Damage>Sát Thương Nhiệt Dung</ano>, đồng thời tạo ra 3 quả cầu năng lượng, mỗi quả cầu gây {1}% <ano=Fusion Damage>Sát Thương Nhiệt Dung</ano>.
+Năng Lượng <ano=Concerto>Hiệp Tấu</ano>: {2} điểm
+Thời Gian Hồi: {3} giây
+
+@@ lang_phantom.db||PhantomSkill||686
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}', '{2}'] nhưng Dịch có ['{0}', '{1}', '{2}', '{3}']
+# Gốc Trung: 召唤火鬃狼幼体发动撕咬，造成{0}%热熔伤害。
+协奏值：{1}点
+技能冷却：{2}秒
+# Hiện tại : Triệu hồi Thể ấu trùng <ano=Fusion Dreadmane>Sói Bờm Lửa</ano>, tung đòn <ano=Bite>Cắn Xé</ano>, gây {0}% <ano=Fusion Damage>Sát Thương Nhiệt Dung</ano>, đồng thời tạo ra 3 quả cầu năng lượng, mỗi quả cầu gây {1}% <ano=Fusion Damage>Sát Thương Nhiệt Dung</ano>.
+Năng Lượng <ano=Concerto>Hiệp Tấu</ano>: {2} điểm
+Thời Gian Hồi: {3} giây
+
+@@ lang_phantom.db||PhantomSkill||687
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}', '{2}'] nhưng Dịch có ['{0}', '{1}', '{2}', '{3}']
+# Gốc Trung: 召唤火鬃狼幼体发动撕咬，造成{0}%热熔伤害。
+协奏值：{1}点
+技能冷却：{2}秒
+# Hiện tại : Triệu hồi Thể ấu trùng <ano=Fusion Dreadmane>Sói Bờm Lửa</ano>, tung đòn <ano=Bite>Cắn Xé</ano>, gây {0}% <ano=Fusion Damage>Sát Thương Nhiệt Dung</ano>, đồng thời tạo ra 3 quả cầu năng lượng, mỗi quả cầu gây {1}% <ano=Fusion Damage>Sát Thương Nhiệt Dung</ano>.
+Năng Lượng <ano=Concerto>Hiệp Tấu</ano>: {2} điểm
+Thời Gian Hồi: {3} giây
+
+@@ lang_phantom.db||PhantomSkill||688
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}', '{2}'] nhưng Dịch có ['{0}', '{1}', '{2}', '{3}']
+# Gốc Trung: 召唤火鬃狼幼体发动撕咬，造成{0}%热熔伤害。
+协奏值：{1}点
+技能冷却：{2}秒
+# Hiện tại : Triệu hồi Thể ấu trùng <ano=Fusion Dreadmane>Sói Bờm Lửa</ano>, tung đòn <ano=Bite>Cắn Xé</ano>, gây {0}% <ano=Fusion Damage>Sát Thương Nhiệt Dung</ano>, đồng thời tạo ra 3 quả cầu năng lượng, mỗi quả cầu gây {1}% <ano=Fusion Damage>Sát Thương Nhiệt Dung</ano>.
+Năng Lượng <ano=Concerto>Hiệp Tấu</ano>: {2} điểm
+Thời Gian Hồi: {3} giây
+
+@@ lang_phantom.db||PhantomSkill||689
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}', '{2}'] nhưng Dịch có ['{0}', '{1}', '{2}', '{3}']
+# Gốc Trung: 召唤火鬃狼幼体发动撕咬，造成{0}%热熔伤害。
+协奏值：{1}点
+技能冷却：{2}秒
+# Hiện tại : Triệu hồi Thể ấu trùng <ano=Fusion Dreadmane>Sói Bờm Lửa</ano>, tung đòn <ano=Bite>Cắn Xé</ano>, gây {0}% <ano=Fusion Damage>Sát Thương Nhiệt Dung</ano>, đồng thời tạo ra 3 quả cầu năng lượng, mỗi quả cầu gây {1}% <ano=Fusion Damage>Sát Thương Nhiệt Dung</ano>.
+Năng Lượng <ano=Concerto>Hiệp Tấu</ano>: {2} điểm
+Thời Gian Hồi: {3} giây
+
+@@ lang_phantom.db||PhantomSkill||690
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}', '{2}'] nhưng Dịch có ['{0}', '{1}', '{2}', '{3}']
+# Gốc Trung: 召唤火鬃狼幼体发动撕咬，造成{0}%热熔伤害。
+协奏值：{1}点
+技能冷却：{2}秒
+# Hiện tại : Triệu hồi Thể ấu trùng <ano=Fusion Dreadmane>Sói Bờm Lửa</ano>, tung đòn <ano=Bite>Cắn Xé</ano>, gây {0}% <ano=Fusion Damage>Sát Thương Nhiệt Dung</ano>, đồng thời tạo ra 3 quả cầu năng lượng, mỗi quả cầu gây {1}% <ano=Fusion Damage>Sát Thương Nhiệt Dung</ano>.
+Năng Lượng <ano=Concerto>Hiệp Tấu</ano>: {2} điểm
+Thời Gian Hồi: {3} giây
+
+@@ lang_phantom.db||PhantomSkill||691
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}', '{2}'] nhưng Dịch có ['{0}', '{1}', '{2}', '{3}']
+# Gốc Trung: 召唤火鬃狼幼体发动撕咬，造成{0}%热熔伤害。
+协奏值：{1}点
+技能冷却：{2}秒
+# Hiện tại : Triệu hồi Thể ấu trùng <ano=Fusion Dreadmane>Sói Bờm Lửa</ano>, tung đòn <ano=Bite>Cắn Xé</ano>, gây {0}% <ano=Fusion Damage>Sát Thương Nhiệt Dung</ano>, đồng thời tạo ra 3 quả cầu năng lượng, mỗi quả cầu gây {1}% <ano=Fusion Damage>Sát Thương Nhiệt Dung</ano>.
+Năng Lượng <ano=Concerto>Hiệp Tấu</ano>: {2} điểm
+Thời Gian Hồi: {3} giây
+
+@@ lang_phantom.db||PhantomSkill||692
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}', '{2}'] nhưng Dịch có ['{0}', '{1}', '{2}', '{3}']
+# Gốc Trung: 召唤火鬃狼幼体发动撕咬，造成{0}%热熔伤害。
+协奏值：{1}点
+技能冷却：{2}秒
+# Hiện tại : Triệu hồi Thể ấu trùng <ano=Fusion Dreadmane>Sói Bờm Lửa</ano>, tung đòn <ano=Bite>Cắn Xé</ano>, gây {0}% <ano=Fusion Damage>Sát Thương Nhiệt Dung</ano>, đồng thời tạo ra 3 quả cầu năng lượng, mỗi quả cầu gây {1}% <ano=Fusion Damage>Sát Thương Nhiệt Dung</ano>.
+Năng Lượng <ano=Concerto>Hiệp Tấu</ano>: {2} điểm
+Thời Gian Hồi: {3} giây
+
+@@ lang_phantom.db||PhantomSkill||693
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}', '{2}'] nhưng Dịch có ['{0}', '{1}', '{2}', '{3}']
+# Gốc Trung: 召唤火鬃狼幼体发动撕咬，造成{0}%热熔伤害。
+协奏值：{1}点
+技能冷却：{2}秒
+# Hiện tại : Triệu hồi Thể ấu trùng <ano=Fusion Dreadmane>Sói Bờm Lửa</ano>, tung đòn <ano=Bite>Cắn Xé</ano>, gây {0}% <ano=Fusion Damage>Sát Thương Nhiệt Dung</ano>, đồng thời tạo ra 3 quả cầu năng lượng, mỗi quả cầu gây {1}% <ano=Fusion Damage>Sát Thương Nhiệt Dung</ano>.
+Năng Lượng <ano=Concerto>Hiệp Tấu</ano>: {2} điểm
+Thời Gian Hồi: {3} giây
+
+@@ lang_phantom.db||PhantomSkill||694
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}', '{2}'] nhưng Dịch có ['{0}', '{1}', '{2}', '{3}']
+# Gốc Trung: 召唤火鬃狼幼体发动撕咬，造成{0}%热熔伤害。
+协奏值：{1}点
+技能冷却：{2}秒
+# Hiện tại : Triệu hồi Thể ấu trùng <ano=Fusion Dreadmane>Sói Bờm Lửa</ano>, tung đòn <ano=Bite>Cắn Xé</ano>, gây {0}% <ano=Fusion Damage>Sát Thương Nhiệt Dung</ano>, đồng thời tạo ra 3 quả cầu năng lượng, mỗi quả cầu gây {1}% <ano=Fusion Damage>Sát Thương Nhiệt Dung</ano>.
+Năng Lượng <ano=Concerto>Hiệp Tấu</ano>: {2} điểm
+Thời Gian Hồi: {3} giây
+
+@@ lang_phantom.db||PhantomSkill||695
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}', '{2}'] nhưng Dịch có ['{0}', '{1}', '{2}', '{3}']
+# Gốc Trung: 召唤火鬃狼幼体发动撕咬，造成{0}%热熔伤害。
+协奏值：{1}点
+技能冷却：{2}秒
+# Hiện tại : Triệu hồi Thể ấu trùng <ano=Fusion Dreadmane>Sói Bờm Lửa</ano>, tung đòn <ano=Bite>Cắn Xé</ano>, gây {0}% <ano=Fusion Damage>Sát Thương Nhiệt Dung</ano>, đồng thời tạo ra 3 quả cầu năng lượng, mỗi quả cầu gây {1}% <ano=Fusion Damage>Sát Thương Nhiệt Dung</ano>.
+Năng Lượng <ano=Concerto>Hiệp Tấu</ano>: {2} điểm
+Thời Gian Hồi: {3} giây
+
+@@ lang_phantom.db||PhantomSkill||696
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}', '{2}'] nhưng Dịch có ['{0}', '{1}', '{2}', '{3}']
+# Gốc Trung: 召唤火鬃狼幼体发动撕咬，造成{0}%热熔伤害。
+协奏值：{1}点
+技能冷却：{2}秒
+# Hiện tại : Triệu hồi Thể ấu trùng <ano=Fusion Dreadmane>Sói Bờm Lửa</ano>, tung đòn <ano=Bite>Cắn Xé</ano>, gây {0}% <ano=Fusion Damage>Sát Thương Nhiệt Dung</ano>, đồng thời tạo ra 3 quả cầu năng lượng, mỗi quả cầu gây {1}% <ano=Fusion Damage>Sát Thương Nhiệt Dung</ano>.
+Năng Lượng <ano=Concerto>Hiệp Tấu</ano>: {2} điểm
+Thời Gian Hồi: {3} giây
+
+@@ lang_phantom.db||PhantomSkill||697
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}', '{2}'] nhưng Dịch có ['{0}', '{1}', '{2}', '{3}']
+# Gốc Trung: 召唤火鬃狼幼体发动撕咬，造成{0}%热熔伤害。
+协奏值：{1}点
+技能冷却：{2}秒
+# Hiện tại : Triệu hồi Thể ấu trùng <ano=Fusion Dreadmane>Sói Bờm Lửa</ano>, tung đòn <ano=Bite>Cắn Xé</ano>, gây {0}% <ano=Fusion Damage>Sát Thương Nhiệt Dung</ano>, đồng thời tạo ra 3 quả cầu năng lượng, mỗi quả cầu gây {1}% <ano=Fusion Damage>Sát Thương Nhiệt Dung</ano>.
+Năng Lượng <ano=Concerto>Hiệp Tấu</ano>: {2} điểm
+Thời Gian Hồi: {3} giây
+
+@@ lang_phantom.db||PhantomSkill||698
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}', '{2}'] nhưng Dịch có ['{0}', '{1}', '{2}', '{3}']
+# Gốc Trung: 召唤火鬃狼幼体发动撕咬，造成{0}%热熔伤害。
+协奏值：{1}点
+技能冷却：{2}秒
+# Hiện tại : Triệu hồi Thể ấu trùng <ano=Fusion Dreadmane>Sói Bờm Lửa</ano>, tung đòn <ano=Bite>Cắn Xé</ano>, gây {0}% <ano=Fusion Damage>Sát Thương Nhiệt Dung</ano>, đồng thời tạo ra 3 quả cầu năng lượng, mỗi quả cầu gây {1}% <ano=Fusion Damage>Sát Thương Nhiệt Dung</ano>.
+Năng Lượng <ano=Concerto>Hiệp Tấu</ano>: {2} điểm
+Thời Gian Hồi: {3} giây
+
+@@ lang_phantom.db||PhantomSkill||699
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}', '{2}'] nhưng Dịch có ['{0}', '{1}', '{2}', '{3}']
+# Gốc Trung: 召唤火鬃狼幼体发动撕咬，造成{0}%热熔伤害。
+协奏值：{1}点
+技能冷却：{2}秒
+# Hiện tại : Triệu hồi Thể ấu trùng <ano=Fusion Dreadmane>Sói Bờm Lửa</ano>, tung đòn <ano=Bite>Cắn Xé</ano>, gây {0}% <ano=Fusion Damage>Sát Thương Nhiệt Dung</ano>, đồng thời tạo ra 3 quả cầu năng lượng, mỗi quả cầu gây {1}% <ano=Fusion Damage>Sát Thương Nhiệt Dung</ano>.
+Năng Lượng <ano=Concerto>Hiệp Tấu</ano>: {2} điểm
+Thời Gian Hồi: {3} giây
+
+@@ lang_phantom.db||PhantomSkill||700
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}', '{2}'] nhưng Dịch có ['{0}', '{1}', '{2}', '{3}']
+# Gốc Trung: 召唤火鬃狼幼体发动撕咬，造成{0}%热熔伤害。
+协奏值：{1}点
+技能冷却：{2}秒
+# Hiện tại : Triệu hồi Thể ấu trùng <ano=Fusion Dreadmane>Sói Bờm Lửa</ano>, tung đòn <ano=Bite>Cắn Xé</ano>, gây {0}% <ano=Fusion Damage>Sát Thương Nhiệt Dung</ano>, đồng thời tạo ra 3 quả cầu năng lượng, mỗi quả cầu gây {1}% <ano=Fusion Damage>Sát Thương Nhiệt Dung</ano>.
+Năng Lượng <ano=Concerto>Hiệp Tấu</ano>: {2} điểm
+Thời Gian Hồi: {3} giây
+
+@@ lang_skill.db||SkillDescription||231
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}'] nhưng Dịch có []
+# Gốc Trung: {0}%
+# Hiện tại : 
+
+@@ lang_skill.db||SkillDescription||521
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}'] nhưng Dịch có []
+# Gốc Trung: {0}*10
+# Hiện tại : 
+
+@@ lang_text.db||Text||17
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}'] nhưng Dịch có []
+# Gốc Trung: Lv.{0}
+# Hiện tại : 
+
+@@ lang_text.db||Text||265
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}'] nhưng Dịch có []
+# Gốc Trung: {0}/{1}
+# Hiện tại : 
+
+@@ lang_text.db||Text||267
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}'] nhưng Dịch có []
+# Gốc Trung: /{0}
+# Hiện tại : 
+
+@@ lang_text.db||Text||271
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}'] nhưng Dịch có []
+# Gốc Trung: {0}<color=#fff448>[{1}]</color>
+# Hiện tại : 
+
+@@ lang_text.db||Text||273
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}'] nhưng Dịch có []
+# Gốc Trung: x{0}
+# Hiện tại : 
+
+@@ lang_text.db||Text||279
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}'] nhưng Dịch có []
+# Gốc Trung: {0}/{1}
+# Hiện tại : 
+
+@@ lang_text.db||Text||281
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}'] nhưng Dịch có []
+# Gốc Trung: {0}/{1}
+# Hiện tại : 
+
+@@ lang_text.db||Text||282
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}'] nhưng Dịch có []
+# Gốc Trung: +{0}
+# Hiện tại : 
+
+@@ lang_text.db||Text||285
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}'] nhưng Dịch có []
+# Gốc Trung: +{0}
+# Hiện tại : 
+
+@@ lang_text.db||Text||297
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}'] nhưng Dịch có []
+# Gốc Trung: {0}
+# Hiện tại : 
+
+@@ lang_text.db||Text||298
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}'] nhưng Dịch có []
+# Gốc Trung: {0}
+# Hiện tại : 
+
+@@ lang_text.db||Text||406
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}'] nhưng Dịch có []
+# Gốc Trung: <color=#ac8549>{0}</color>/{1}
+# Hiện tại : 
+
+@@ lang_text.db||Text||407
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}'] nhưng Dịch có []
+# Gốc Trung: {0}
+# Hiện tại : 
+
+@@ lang_text.db||Text||430
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}'] nhưng Dịch có []
+# Gốc Trung: {0}<color=#a1a1a1>/{1}</color>
+# Hiện tại : 
+
+@@ lang_text.db||Text||468
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}'] nhưng Dịch có []
+# Gốc Trung: {0}:{1}
+# Hiện tại : 
+
+@@ lang_text.db||Text||507
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}'] nhưng Dịch có []
+# Gốc Trung: {0}x{1}
+# Hiện tại : 
+
+@@ lang_text.db||Text||559
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}'] nhưng Dịch có []
+# Gốc Trung: ({0})
+# Hiện tại : 
+
+@@ lang_text.db||Text||561
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}'] nhưng Dịch có []
+# Gốc Trung: {0}P
+# Hiện tại : 
+
+@@ lang_text.db||Text||578
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}'] nhưng Dịch có []
+# Gốc Trung: {0}x{1}
+# Hiện tại : 
+
+@@ lang_text.db||Text||579
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}'] nhưng Dịch có []
+# Gốc Trung: x{0}
+# Hiện tại : 
+
+@@ lang_text.db||Text||651
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}'] nhưng Dịch có []
+# Gốc Trung: {0}/{1}
+# Hiện tại : 
+
+@@ lang_text.db||Text||652
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}'] nhưng Dịch có []
+# Gốc Trung: <color=#ff0000ff>{0}</color>/{1}
+# Hiện tại : 
+
+@@ lang_text.db||Text||653
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}'] nhưng Dịch có []
+# Gốc Trung: {0}/{1}
+# Hiện tại : 
+
+@@ lang_text.db||Text||654
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}'] nhưng Dịch có []
+# Gốc Trung: {0}/{1}
+# Hiện tại : 
+
+@@ lang_text.db||Text||655
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}'] nhưng Dịch có []
+# Gốc Trung: x{0}
+# Hiện tại : 
+
+@@ lang_text.db||Text||656
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}'] nhưng Dịch có []
+# Gốc Trung: {0}x{1}
+# Hiện tại : 
+
+@@ lang_text.db||Text||711
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}'] nhưng Dịch có []
+# Gốc Trung: {0}/<color=#808080>{1}</color>
+# Hiện tại : 
+
+@@ lang_text.db||Text||746
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}', '{2}'] nhưng Dịch có []
+# Gốc Trung: x:{0},y:{1},z:{2}
+# Hiện tại : 
+
+@@ lang_text.db||Text||769
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}'] nhưng Dịch có []
+# Gốc Trung: <color=#bca868>{0}</color>/{1}
+# Hiện tại : 
+
+@@ lang_text.db||Text||771
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}'] nhưng Dịch có []
+# Gốc Trung: {0}/{1}
+# Hiện tại : 
+
+@@ lang_text.db||Text||806
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}'] nhưng Dịch có []
+# Gốc Trung: {0}
+# Hiện tại : 
+
+@@ lang_text.db||Text||894
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}'] nhưng Dịch có []
+# Gốc Trung: [<color=#f0a40cff>{0}</color>]
+# Hiện tại : 
+
+@@ lang_text.db||Text||911
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}'] nhưng Dịch có []
+# Gốc Trung: {0}/{1}
+# Hiện tại : 
+
+@@ lang_text.db||Text||912
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}', '{2}', '{3}'] nhưng Dịch có []
+# Gốc Trung: {0}:{1}/{2}:{3}
+# Hiện tại : 
+
+@@ lang_text.db||Text||955
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}'] nhưng Dịch có []
+# Gốc Trung: {0}%
+# Hiện tại : 
+
+@@ lang_weapon.db||WeaponConf||14
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}', '{1}'] nhưng Dịch có ['{0}', '{1}', '{2}', '{3}', '{4}']
+# Gốc Trung: 全共鸣属性伤害提升{0}%。普攻命中目标时，攻击和防御提升{1}%，持续6秒，最多叠加4层。该效果每0.3秒只能触发一次。
+# Hiện tại : Tăng Sát Thương <ano=Resonance Attribute>Thuộc tính Cộng hưởng</ano> toàn bộ {0}%. Khi <ano=Normal Attack>Đánh Thường</ano> đánh trúng mục tiêu, Tấn Công và Phòng Ngự tăng {1}%, kéo dài {2} giây, tối đa cộng dồn {3} lớp. Hiệu ứng này mỗi {4} giây chỉ có thể kích hoạt một lần.
+
+@@ lang_weapon.db||WeaponConf||92
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}'] nhưng Dịch có ['{0}', '{1}', '{2}']
+# Gốc Trung: 角色登场12秒内，每2秒攻击提升{0}%，最多叠加4层。当层数达到4层后，6秒内重置全部层数。
+# Hiện tại : Khi kích hoạt phản đòn thành công, Tấn Công của Cộng Hưởng Giả (Jué) tăng {0}%, kéo dài trong {1} giây, có thể cộng dồn tối đa {2} tầng.
+
+@@ lang_weapon.db||WeaponConf||104
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}'] nhưng Dịch có ['{0}', '{1}']
+# Gốc Trung: 角色冲刺或闪避时，攻击提升{0}%，持续8秒，最多叠加3层。
+# Hiện tại : Khi sinh lực thấp hơn {0}%, Tấn Công của nhân vật tăng {1}%, kéo dài 8 giây, tối đa cộng dồn 3 tầng.
+
+@@ lang_weapon.db||WeaponConf||116
+# Lỗi: Thiếu/thừa biến: Gốc có ['{0}'] nhưng Dịch có ['{0}', '{1}']
+# Gốc Trung: 使用普攻、重击造成伤害时，治疗效果提升{0}%，持续8秒，最多叠加3层，每0.6秒可触发一次。
+# Hiện tại : Khi sinh lực cao hơn {0}%, khi sử dụng <ano=Normal Attack>Đánh Thường</ano> hoặc <ano=Heavy Attack>Đánh Mạnh</ano> gây sát thương, tỉ lệ Bạo Kích của nhân vật tăng {1}%, kéo dài 8 giây, tối đa cộng dồn 3 tầng, mỗi 0.6 giây có thể kích hoạt 1 lần.
+

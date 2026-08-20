@@ -1,73 +1,66 @@
-# 📚 TỔNG HỢP & PHÂN LOẠI TOÀN BỘ TEXT DỊCH WUTHERING WAVES
+# 📚 TỔNG HỢP TOÀN BỘ TEXT DỊCH VIỆT HÓA WUTHERING WAVES (3.4 - 3.5 - 3.6)
 
-> Thư mục lưu trữ tập trung: `D:\Tim hieu\Wuwa-Text-Dich`  
-> Ngày cập nhật: 20/08/2026
-
----
-
-## 📂 Sơ Đồ Cấu Trúc Thư Mục
-
-```
-D:\Tim hieu\Wuwa-Text-Dich\
-│
-├── 📁 01_BanDich_3.4/                     # Dữ liệu dịch bản 3.4
-│   ├── 📁 01_BanDich_Chinh_VI_HV/        # Bản dịch chuẩn song song VI - HV (Part 01 -> Part 11)
-│   ├── 📁 02_BanDich_Full_Gop/           # File gộp toàn bộ Part 01-11 (106 MB)
-│   ├── 📁 03_BanDich_Tach_VI_va_HV/      # Các file tách riêng biệt tiếng Việt (VI) và Hán Việt (HV)
-│   └── 📁 04_Text_Goc_3.4/               # Text gốc tiếng Trung/Anh chưa dịch bản 3.4 (Part 01 -> 10)
-│
-├── 📁 02_BanDich_3.5/                     # Dữ liệu dịch bản 3.5
-│   ├── 📁 01_BanDich_Chinh_VI_HV/        # Bản dịch chuẩn 3.5 (Part 01 -> Part 10 FINAL)
-│   ├── 📁 02_Text_Goc_3.5/               # Text gốc bản 3.5 (Part 01 -> Part 10)
-│   └── 📁 03_Zip_Goc_3.5/                # File nén zip gốc bản 3.5
-│
-├── 📁 03_BanDich_3.6/                     # Dữ liệu dịch bản 3.6
-│   ├── 📁 01_BanDich_Chinh_3.6/          # Các part dịch chính bản 3.6 (Part 01 -> Part 11)
-│   ├── 📁 02_ChuaDich_Va_BoSung/         # Danh sách các câu thoại bổ sung, lọc dấu sao và thoại thật 3.6
-│   └── 📁 03_BaoCao_SoSanh_3.6/          # Báo cáo đối chiếu so sánh bản dịch với text game 3.6
-│
-├── 📁 04_DoiChieu_Va_TraCuu/              # Dữ liệu tra cứu toàn diện game (44 phân khu)
-│   ├── 📁 01_DoiChieu_4Ngu_TSV/          # 44 file TSV đối chiếu song song 4 thứ tiếng (CN, EN, JA, VI)
-│   ├── 📁 02_Anh_EN_TSV/                 # 44 file TSV bản tiếng Anh chuẩn game
-│   └── 📁 03_TongQuan_TSV/               # Thống kê tổng quan phân bổ text toàn game (00_TONGQUAN.tsv)
-│
-├── 📁 05_BaoCao_QC_Va_XungHo/            # Báo cáo kiểm định chất lượng & xưng hô
-│   ├── 📁 01_BaoCao_QC_DichThuat/        # Báo cáo rà soát lỗi chính tả, placeholder, timeline từng part
-│   ├── 📁 02_RaSoat_XungHo_Zip/          # Các file zip tổng hợp lỗi xưng hô ngữ cảnh (001-079)
-│   ├── 📁 03_TomTat_Thoai_DaSua/         # Danh sách chi tiết các câu thoại xưng hô đã chuẩn hóa
-│   └── 📁 04_Khoa_Ten_ThuatNgu/          # Bảng khóa danh xưng, thuật ngữ chuẩn (V4 Name Term Lock)
-│
-└── 📁 06_Text_Moi_CapNhat/                # Text mới cập nhật trích xuất thêm (moi_part01.txt)
-```
+Kho lưu trữ chính thức toàn bộ cơ sở dữ liệu bản dịch, text gốc, bảng tra cứu đối chiếu song ngữ 4 thứ tiếng, từ điển thuật ngữ chuẩn hóa và báo cáo kiểm soát chất lượng (QC) của dự án **WAHU Localization (WuwaVH)**.
 
 ---
 
-## 📑 Chi Tiết Từng Hạng Mục
+## 🗂 CẤU TRÚC MỤC LỤC CHI TIẾT
 
-### 1. Phân hệ Bản Dịch Patch 3.4 (`01_BanDich_3.4`)
-* **`01_BanDich_Chinh_VI_HV`**: Chứa toàn bộ các part từ `3.4_part01_VI_HV_FINAL.txt` đến `3.4_part11_VI_HV_FINAL.txt`.
-* **`02_BanDich_Full_Gop`**: File `3.4_VI_HV_FINAL_FULL_PART01-11.txt` dung lượng 106MB chứa trọn bộ toàn bộ bản dịch.
-* **`03_BanDich_Tach_VI_va_HV`**: Các file đã tách riêng bản dịch tiếng Việt thuần (`_VI.txt`) và Hán Việt (`_HV.txt`).
-* **`04_Text_Goc_3.4`**: Toàn bộ file text thô ban đầu của Patch 3.4.
+```
+Wuwa-Text-Dich/
+├── 01_BanDich_3.4/                      # Dữ liệu bản dịch phiên bản 3.4
+│   ├── 01_BanDich_Chinh_VI_HV/          # 11 Part bản dịch chính (chuẩn hóa đầy đủ)
+│   ├── 02_BanDich_Full_Gop/             # File gộp toàn bộ 11 Part (104 MB)
+│   ├── 03_BanDich_Tach_VI_va_HV/        # 22 File tách riêng tiếng Việt thuần & Hán Việt
+│   └── 04_Text_Goc_3.4/                 # 19 Part text gốc từ game
+│
+├── 02_BanDich_3.5/                      # Dữ liệu bản dịch phiên bản 3.5
+│   ├── 01_BanDich_Chinh_VI_HV/          # 10 Part bản dịch chính 3.5 (Part 01 -> Part 10)
+│   ├── 02_BanDich_Full_Gop/             # File gộp toàn bộ 10 Part 3.5 (11.1 MB)
+│   ├── 03_BanDich_Tach_VI_va_HV/        # 20 File tách riêng tiếng Việt & Hán Việt
+│   ├── 04_Text_Goc_3.5/                 # 10 Part text gốc 3.5
+│   └── 05_Zip_Goc_3.5/                  # File nén zip trọn bộ gốc 3.5
+│
+├── 03_BanDich_3.6/                      # Dữ liệu bản dịch phiên bản 3.6 (Mới nhất)
+│   ├── 01_BanDich_Chinh_VI_HV/          # 10 Part bản dịch chính 3.6 (Part 01 -> Part 10)
+│   ├── 02_BanDich_Full_Gop/             # File gộp toàn bộ 10 Part 3.6 (4.2 MB)
+│   ├── 03_BanDich_Tach_VI_va_HV/        # 20 File tách riêng tiếng Việt & Hán Việt 3.6
+│   ├── 04_ChuaDich_Va_BoSung/           # Dữ liệu quét câu thoại và text cần dịch tiếp
+│   └── 05_BaoCao_SoSanh_3.6/            # Báo cáo đối soát chênh lệch gốc và VH 3.6
+│
+├── 04_DoiChieu_Va_TraCuu/               # Cơ sở dữ liệu đối chiếu 44 phân khu game
+│   ├── 01_DoiChieu_4Ngu_TSV/            # 44 file TSV song ngữ 4 thứ tiếng (CN, VI, EN, JP)
+│   ├── 02_Anh_EN_TSV/                   # 44 file TSV tiếng Anh chuẩn
+│   └── 03_TongQuan_TSV/                 # Bảng tổng quan phân bổ dòng & dung lượng
+│
+├── 05_BaoCao_QC_Va_XungHo/              # Báo cáo chất lượng và chuẩn hóa xưng hô
+│   ├── 01_BaoCao_QC_DichThuat/          # Báo cáo soát lỗi và timeline dịch thuật
+│   ├── 02_RaSoat_XungHo_ChiTiet/        # Chi tiết rà soát xưng hô Rover & nhân vật
+│   ├── 03_TomTat_Thoai_DaSua/           # Nhật ký tổng hợp các câu thoại đã chỉnh sửa
+│   └── 04_Khoa_Ten_ThuatNgu/            # Từ điển 7.163 thuật ngữ và quy chuẩn khóa tên
+│
+└── 06_Text_Moi_CapNhat/                 # Text cập nhật nóng mới nhất
+    └── moi_part01.txt
+```
 
-### 2. Phân hệ Bản Dịch Patch 3.5 (`02_BanDich_3.5`)
-* **`01_BanDich_Chinh_VI_HV`**: 11 file hoàn chỉnh `3.5_part01_VI_HV_FINAL.txt` đến `part10_VI_HV_FINAL.txt`.
-* **`02_Text_Goc_3.5`**: 10 file text gốc trích xuất của patch 3.5.
-* **`03_Zip_Goc_3.5`**: File zip nén gốc `WUTHERING_WAVES_3.5_PART01_10_LATEST_FINAL.zip`.
+---
 
-### 3. Phân hệ Bản Dịch Patch 3.6 (`03_BanDich_3.6`)
-* **`01_BanDich_Chinh_3.6`**: Text dịch mới của các phân đoạn 3.6 (`3.6_part01.txt` đến `part11.txt`).
-* **`02_ChuaDich_Va_BoSung`**: Phân loại các câu chưa dịch, câu có chữ Hán, câu thoại dấu sao cần bổ sung cho đợt 1 và đợt 2.
-* **`03_BaoCao_SoSanh_3.6`**: File phân tích so sánh giữa text gốc và bản Việt Hóa 3.6.
+## 📊 THỐNG KÊ DỮ LIỆU TỪNG PHIÊN BẢN
 
-### 4. Đối Chiếu 4 Ngôn Ngữ & Tra Cứu (`04_DoiChieu_Va_TraCuu`)
-* **44 Phân khu nội dung TSV**: Gồm Cốt truyện chính, Cốt truyện phụ, Bản đồ thế giới, Bồi dưỡng nhân vật, Chế độ Rogue, Hảo cảm nhân vật, v.v.
-* **`01_DoiChieu_4Ngu_TSV`**: TSV hiển thị song song 4 cột Trung - Anh - Nhật - Việt.
-* **`02_Anh_EN_TSV`**: TSV text tiếng Anh.
-* **`03_TongQuan_TSV`**: File thống kê số dòng và dung lượng từng phân khu.
+| Phiên bản | Số lượng câu | Cốt truyện & Thoại | Hệ thống & UI | Kỹ năng & Item | Trạng thái |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Bản dịch 3.4** | **309.391 câu** | 161.428 câu | 67.210 câu | 80.753 câu | Đầy đủ 11 Part & Full gộp |
+| **Bản dịch 3.5** | **23.804 câu** | 14.506 câu | 3.861 câu | 5.437 câu | Đầy đủ 10 Part & Full gộp |
+| **Bản dịch 3.6** | **17.935 câu** | 8.862 câu | 3.190 câu | 5.883 câu | Đầy đủ 10 Part & Full gộp |
+| **Thuật ngữ (Glossary)** | **7.163 mục** | Nhân vật & NPC | Thuật ngữ game | Địa danh & Chiêu thức | Xuất CSV & TSV chuẩn |
 
-### 5. Báo Cáo QC, Xưng Hô & Khóa Thuật Ngữ (`05_BaoCao_QC_Va_XungHo`)
-* **`01_BaoCao_QC_DichThuat`**: Báo cáo kiểm định timeline, biến tag và ngữ pháp.
-* **`02_RaSoat_XungHo_Zip`**: Lưu trữ các file zip rà soát xưng hô 001-059 và 001-079.
-* **`03_TomTat_Thoai_DaSua`**: Báo cáo 872 câu thoại đã chuẩn hóa xưng hô và toàn bộ câu thoại đã chỉnh sửa.
-* **`04_Khoa_Ten_ThuatNgu`**: Bảng quy ước chuẩn tên nhân vật 5★/4★ và thuật ngữ cố định.
+---
+
+## 🔍 HƯỚNG DẪN SỬ DỤNG VÀ TRA CỨU
+
+1. **Dùng trực tiếp cho công cụ WAHU Studio:**
+   - Tất cả dữ liệu đã được index hóa sẵn trong file `project.db`.
+   - Có thể lọc theo từng phiên bản (`3.4`, `3.5`, `3.6`) và 5 Macro Categories (`📖 Cốt truyện`, `👤 Nhân vật`, `🗺️ Thế giới`, `⚔️ Kỹ năng`, `⚙️ Giao diện`).
+2. **Dùng tra cứu thủ công / Biên dịch ngoài:**
+   - Mở file trong thư mục `04_DoiChieu_Va_TraCuu/01_DoiChieu_4Ngu_TSV` bằng Excel hoặc Notepad++ để tra cứu song song 4 ngôn ngữ (Trung 🇨🇳 - Việt 🇻🇳 - Anh 🇬🇧 - Nhật 🇯🇵).
+   - Tra cứu thuật ngữ chuẩn trong `05_BaoCao_QC_Va_XungHo/04_Khoa_Ten_ThuatNgu/WuwaVH_Glossary.csv`.
