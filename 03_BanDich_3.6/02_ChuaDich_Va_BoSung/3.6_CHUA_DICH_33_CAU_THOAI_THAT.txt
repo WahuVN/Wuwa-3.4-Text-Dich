@@ -1,0 +1,134 @@
+# BẢN DỊCH 3.6 — 33 MỤC TIẾNG TRUNG THẬT ĐÃ ĐƯỢC DỊCH HOÀN TẤT
+
+@@ lang_multi_text.db||MultiText||Quest_147000007_ChildQuestTip_147_5
+VI: Ngăn chặn lõi mất kiểm soát
+HV: Ngăn chặn lõi mất kiểm soát
+
+@@ lang_multi_text.db||MultiText||Quest_189000005_ChildQuestTip_317_56
+VI: Kiểm tra dấu vết của Chiến dịch Vân Uyên năm xưa
+HV: Kiểm tra dấu vết của Chiến dịch Vân Uyên năm xưa
+
+@@ lang_multi_text.db||MultiText||Quest_688750006_ChildQuestTip_688_90
+VI: Trò chuyện với Cơ Xảo Linh
+HV: Trò chuyện với Cơ Xảo Linh
+
+@@ lang_multi_text.db||MultiText||Quest_180000000_QuestDesc_180_1
+VI: Bạn tình cờ gặp Tố Dư, một chiến binh Dạ Quy bị thương tại địa giới Huyền Phương. Qua trò chuyện, bạn biết được cô đến đây với thân phận Tư Sát, dẫn theo một Cộng Hưởng Giả đặc biệt để thực hiện nhiệm vụ. Nhân cơ hội này, bạn và vị Cộng Hưởng Giả đó đã cùng nhau mở ra hành trình điều tra cuộc khủng hoảng tại "Huyền Thiên Cấu", đồng thời cũng hé mở những trăn trở sâu kín trong lòng cô ấy…
+HV: Lữ Khách tình cờ gặp Tố Dư, một chiến binh Dạ Quy bị thương tại địa giới Huyền Phương. Qua trò chuyện, Lữ Khách biết được cô đến đây với thân phận Tư Sát, dẫn theo một Cộng Hưởng Giả đặc biệt để thực hiện nhiệm vụ. Nhân cơ hội này, Lữ Khách và vị Cộng Hưởng Giả đó đã cùng nhau mở ra hành trình điều tra cuộc khủng hoảng tại "Huyền Thiên Cấu", đồng thời cũng hé mở những trăn trở sâu kín trong lòng cô ấy…
+
+@@ lang_multi_text.db||MultiText||Quest_199750000_QuestDesc_199_1
+VI: Bạn tình cờ gặp Tố Dư, một chiến binh Dạ Quy bị thương tại địa giới Huyền Phương. Qua trò chuyện, bạn biết được cô đến đây với thân phận Tư Sát, dẫn theo một Cộng Hưởng Giả đặc biệt để thực hiện nhiệm vụ. Nhân cơ hội này, bạn và vị Cộng Hưởng Giả đó đã cùng nhau mở ra hành trình điều tra cuộc khủng hoảng tại "Huyền Thiên Cấu", đồng thời cũng hé mở những trăn trở sâu kín trong lòng cô ấy…
+HV: Lữ Khách tình cờ gặp Tố Dư, một chiến binh Dạ Quy bị thương tại địa giới Huyền Phương. Qua trò chuyện, Lữ Khách biết được cô đến đây với thân phận Tư Sát, dẫn theo một Cộng Hưởng Giả đặc biệt để thực hiện nhiệm vụ. Nhân cơ hội này, Lữ Khách và vị Cộng Hưởng Giả đó đã cùng nhau mở ra hành trình điều tra cuộc khủng hoảng tại "Huyền Thiên Cấu", đồng thời cũng hé mở những trăn trở sâu kín trong lòng cô ấy…
+
+@@ lang_multi_text.db||MultiText||Quest_191750000_QuestDesc_191_1
+VI: Bạn tình cờ gặp Tố Dư, một chiến binh Dạ Quy bị thương tại địa giới Huyền Phương. Qua trò chuyện, bạn biết được cô đến đây với thân phận Tư Sát, dẫn theo một Cộng Hưởng Giả đặc biệt để thực hiện nhiệm vụ. Nhân cơ hội này, bạn và vị Cộng Hưởng Giả đó đã cùng nhau mở ra hành trình điều tra cuộc khủng hoảng tại "Huyền Thiên Cấu", đồng thời cũng hé mở những trăn trở sâu kín trong lòng cô ấy…
+HV: Lữ Khách tình cờ gặp Tố Dư, một chiến binh Dạ Quy bị thương tại địa giới Huyền Phương. Qua trò chuyện, Lữ Khách biết được cô đến đây với thân phận Tư Sát, dẫn theo một Cộng Hưởng Giả đặc biệt để thực hiện nhiệm vụ. Nhân cơ hội này, Lữ Khách và vị Cộng Hưởng Giả đó đã cùng nhau mở ra hành trình điều tra cuộc khủng hoảng tại "Huyền Thiên Cấu", đồng thời cũng hé mở những trăn trở sâu kín trong lòng cô ấy…
+
+@@ lang_multi_text.db||MultiText||Quest_191750001_QuestDesc_191_1
+VI: Cuộc khủng hoảng tại Huyền Thiên Cấu đã được giải trừ, Đan Cẩn cũng đã tìm thấy phương hướng cho tương lai. Dù con đường phía trước còn nhiều trắc trở gian nan, nhưng với ánh sáng của Minh Ngọc và những lời dặn dò của bạn, cô ấy đã không còn e sợ vững bước tiến lên.
+HV: Cuộc khủng hoảng tại Huyền Thiên Cấu đã được giải trừ, Đan Cẩn cũng đã tìm thấy phương hướng cho tương lai. Dù con đường phía trước còn nhiều trắc trở gian nan, nhưng với ánh sáng của Minh Ngọc và những lời dặn dò của Lữ Khách, cô ấy đã không còn e sợ vững bước tiến lên.
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750021_LevelPlayName_150_1
+VI: Hộp Cơ Khí · Một
+HV: Hộp Cơ Khí · Một
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750022_LevelPlayName_150_1
+VI: Hộp Cơ Khí · Hai
+HV: Hộp Cơ Khí · Hai
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750023_LevelPlayName_150_1
+VI: Đỡ Giáp Đại Vương dậy
+HV: Đỡ Giáp Đại Vương dậy
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750024_LevelPlayName_150_1
+VI: Hộp Cơ Khí · Ba
+HV: Hộp Cơ Khí · Ba
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750025_LevelPlayName_150_1
+VI: Hộp Cơ Khí · Bốn
+HV: Hộp Cơ Khí · Bốn
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750026_LevelPlayName_150_1
+VI: Hộp Cơ Khí · Năm
+HV: Hộp Cơ Khí · Năm
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750027_LevelPlayName_150_1
+VI: Hộp Cơ Khí · Sáu
+HV: Hộp Cơ Khí · Sáu
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750028_LevelPlayName_150_1
+VI: Hộp Cơ Khí · Bảy
+HV: Hộp Cơ Khí · Bảy
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750029_LevelPlayName_150_1
+VI: Hộp Cơ Khí · Tám
+HV: Hộp Cơ Khí · Tám
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750030_LevelPlayName_150_1
+VI: Hộp Cơ Khí · Chín
+HV: Hộp Cơ Khí · Chín
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750031_LevelPlayName_150_1
+VI: Hộp Cơ Khí · Mười
+HV: Hộp Cơ Khí · Mười
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750032_LevelPlayName_150_1
+VI: Hộp Cơ Khí · Mười Một
+HV: Hộp Cơ Khí · Mười Một
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750033_LevelPlayName_150_1
+VI: Hộp Cơ Khí · Mười Hai
+HV: Hộp Cơ Khí · Mười Hai
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750034_LevelPlayName_150_1
+VI: Hộp Cơ Khí · Mười Ba
+HV: Hộp Cơ Khí · Mười Ba
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750035_LevelPlayName_150_1
+VI: Hộp Cơ Khí · Mười Bốn
+HV: Hộp Cơ Khí · Mười Bốn
+
+@@ lang_multi_text.db||MultiText||LevelPlay_259750003_LevelPlayName_259_1
+VI: Hộp Cơ Khí Bị Hỏng
+HV: Hộp Cơ Khí Bị Hỏng
+
+@@ lang_multi_text.db||MultiText||LevelPlay_102750000_LevelPlayName_102_1
+VI: Thiết Bị Phóng Động Năng Chống Tàn Tượng
+HV: Thiết Bị Phóng Động Năng Chống Tàn Tượng
+
+@@ lang_multi_text.db||MultiText||POI_DANJIN_99_1
+VI: Trọng Khư, tỉnh lại đi, hãy kể cho chúng tôi nghe câu chuyện của bạn.
+HV: Trọng Khư, tỉnh lại đi, hãy kể cho chúng tôi nghe câu chuyện của bạn.
+
+@@ lang_multi_text.db||MultiText||Skill_1006008_SkillName
+VI: Khéo Tay Nấu Nướng
+HV: Khéo Tay Nấu Nướng
+
+@@ lang_multi_text.db||MultiText||LevelPlay_169750031_ChildQuestTip_169_3
+VI: Xem "Tin Nhắn Tuần Tiêu"
+HV: Xem "Tin Nhắn Tuần Tiêu"
+
+@@ lang_multi_text.db||MultiText||LevelPlay_147000033_ChildQuestTip_40_7
+VI: Tiếp tục truy kích lõi
+HV: Tiếp tục truy kích lõi
+
+@@ lang_multi_text.db||MultiText||LevelPlay_147750028_ChildQuestTip_147_2
+VI: Hoàn thành suy luận
+HV: Hoàn thành suy luận
+
+@@ lang_multi_text.db||MultiText||LevelPlay_147000037_ChildQuestTip_147_1
+VI: Đến khu vực được nhắc đến trong Phi Tín
+HV: Đến khu vực được nhắc đến trong Phi Tín
+
+@@ lang_multi_text.db||MultiText||LevelPlay_147000037_ChildQuestTip_147_56
+VI: Tìm vật thể hình cầu thích hợp để làm đầu thú
+HV: Tìm vật thể hình cầu thích hợp để làm đầu thú
+
+@@ lang_multi_text.db||MultiText||LevelPlay_147000037_ChildQuestTip_147_70
+VI: Điều tra các dấu vết còn sót lại
+HV: Điều tra các dấu vết còn sót lại
+
+@@ lang_multi_text.db||MultiText||LevelPlay_147750024_LevelPlayName_147_1
+VI: Phân tích các dấu vết còn sót lại
+HV: Phân tích các dấu vết còn sót lại
+

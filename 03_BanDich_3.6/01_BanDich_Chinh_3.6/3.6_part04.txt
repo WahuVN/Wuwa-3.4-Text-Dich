@@ -1,0 +1,7452 @@
+# =================================================================
+# TEXT GỐC ĐỐI CHIẾU ĐA NGÔN NGỮ — Wuthering Waves (Bản 3.6.0)
+# 3.6_part04.txt | 1059 mục (3178 -> 4236 / 10590)
+# -----------------------------------------------------------------
+# Mỗi mục gồm:
+#   @@ <dbfile>||<Bảng>||<key>  <- định danh, GIỮ NGUYÊN khi dịch
+#   CN: tiếng Trung (bản gốc của game)
+#   EN: tiếng Anh
+#   JP: tiếng Nhật
+#   VI: tiếng Việt — Dùng TÊN TIẾNG ANH nhân vật (Phoebe, Changli, Jinhsi...)
+#   HV: tiếng Việt — Dùng TÊN HÁN VIỆT nhân vật (Phỉ Bỉ, Trường Ly, Kim Tịch...)
+# Giữ nguyên biến {0}, {PlayerName}, %s, %d và các thẻ <...>.
+# =================================================================
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800104_ChildQuestTip_229_3
+CN: 前往下一个区域
+EN: Head to the next area
+JP: 次のエリアに向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800104_ChildQuestTip_229_7
+CN: 收集奖励
+EN: Collect the rewards
+JP: 報酬を受け取る
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800104_LevelPlayName_245_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800104_ReachChallengeMainText_229_2
+CN: 目标完成
+EN: Objective Complete
+JP: 目標達成
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800105_ChildQuestTip_229_2
+CN: 击败敌人
+EN: Defeat the enemies
+JP: 敵を倒す
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800105_ChildQuestTip_229_3
+CN: 模拟结算
+EN: Finalize the simulation
+JP: シミュレーション集計
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800105_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800105_ReachChallengeMainText_229_1
+CN: 目标完成
+EN: Objective Complete
+JP: 目標達成
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800106_ChildQuestTip_229_2
+CN: 前往目标地点
+EN: Head to the target location
+JP: 目標地点に向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800106_ChildQuestTip_229_3
+CN: 击败敌人
+EN: Defeat the enemies
+JP: 敵を倒す
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800106_ChildQuestTip_229_4
+CN: 模拟结算
+EN: Finalize the simulation
+JP: シミュレーション集計
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800106_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800106_ReachChallengeMainText_229_1
+CN: 目标完成
+EN: Objective Complete
+JP: 目標達成
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800107_ChildQuestTip_229_2
+CN: 前往目标地点
+EN: Head to the target location
+JP: 目標地点に向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800107_ChildQuestTip_229_3
+CN: 前往下一个区域
+EN: Head to the next area
+JP: 次のエリアに向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800107_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800108_ChildQuestTip_229_2
+CN: 击败敌人
+EN: Defeat the enemies
+JP: 敵を倒す
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800108_ChildQuestTip_229_3
+CN: 收集奖励
+EN: Collect the rewards
+JP: 報酬を受け取る
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800108_ChildQuestTip_229_4
+CN: 前往下一个区域
+EN: Head to the next area
+JP: 次のエリアに向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800108_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800108_ReachChallengeMainText_229_1
+CN: 目标完成
+EN: Objective Complete
+JP: 目標達成
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800109_ChildQuestTip_229_2
+CN: 击败敌人
+EN: Defeat the enemies
+JP: 敵を倒す
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800109_ChildQuestTip_229_3
+CN: 收集奖励
+EN: Collect the rewards
+JP: 報酬を受け取る
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800109_ChildQuestTip_229_4
+CN: 前往下一个区域
+EN: Head to the next area
+JP: 次のエリアに向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800109_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800109_ReachChallengeMainText_229_1
+CN: 目标完成
+EN: Objective Complete
+JP: 目標達成
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800110_ChildQuestTip_229_2
+CN: 击败敌人
+EN: Defeat the enemies
+JP: 敵を倒す
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800110_ChildQuestTip_229_3
+CN: 收集奖励
+EN: Collect the rewards
+JP: 報酬を受け取る
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800110_ChildQuestTip_229_4
+CN: 前往下一个区域
+EN: Head to the next area
+JP: 次のエリアに向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800110_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800110_ReachChallengeMainText_229_1
+CN: 目标完成
+EN: Objective Complete
+JP: 目標達成
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800111_ChildQuestTip_229_2
+CN: 击败敌人
+EN: Defeat the enemies
+JP: 敵を倒す
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800111_ChildQuestTip_229_3
+CN: 收集奖励
+EN: Collect the rewards
+JP: 報酬を受け取る
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800111_ChildQuestTip_229_4
+CN: 前往下一个区域
+EN: Head to the next area
+JP: 次のエリアに向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800111_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800111_ReachChallengeMainText_229_1
+CN: 目标完成
+EN: Objective Complete
+JP: 目標達成
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800112_ChildQuestTip_229_2
+CN: 前往目标地点
+EN: Head to the target location
+JP: 目標地点に向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800112_ChildQuestTip_229_3
+CN: 击败敌人
+EN: Defeat the enemies
+JP: 敵を倒す
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800112_ChildQuestTip_229_4
+CN: 收集奖励
+EN: Collect the rewards
+JP: 報酬を受け取る
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800112_ChildQuestTip_229_5
+CN: 前往下一个区域
+EN: Head to the next area
+JP: 次のエリアに向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800112_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800112_ReachChallengeMainText_229_1
+CN: 目标完成
+EN: Objective Complete
+JP: 目標達成
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800113_ChildQuestTip_229_2
+CN: 击败敌人
+EN: Defeat the enemies
+JP: 敵を倒す
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800113_ChildQuestTip_229_3
+CN: 收集奖励
+EN: Collect the rewards
+JP: 報酬を受け取る
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800113_ChildQuestTip_229_4
+CN: 前往下一个区域
+EN: Head to the next area
+JP: 次のエリアに向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800113_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800113_ReachChallengeMainText_229_1
+CN: 目标完成
+EN: Objective Complete
+JP: 目標達成
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800114_ChildQuestTip_229_2
+CN: 前往目标地点
+EN: Head to the target location
+JP: 目標地点に向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800114_ChildQuestTip_229_3
+CN: 击败敌人
+EN: Defeat the enemies
+JP: 敵を倒す
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800114_ChildQuestTip_229_4
+CN: 模拟结算
+EN: Finalize the simulation
+JP: シミュレーション集計
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800114_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800114_ReachChallengeMainText_245_2
+CN: 目标完成
+EN: Objective Complete
+JP: 目標達成
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800115_ChildQuestTip_229_2
+CN: 击败所有敌人
+EN: Defeat all enemies
+JP: 全ての敵を倒す
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800115_ChildQuestTip_229_3
+CN: 模拟结算
+EN: Finalize the simulation
+JP: シミュレーション集計
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800115_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800115_ReachChallengeMainText_229_1
+CN: 目标完成
+EN: Objective Complete
+JP: 目標達成
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800116_ChildQuestTip_229_2
+CN: 击败所有敌人
+EN: Defeat all enemies
+JP: 全ての敵を倒す
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800116_ChildQuestTip_229_3
+CN: 模拟结算
+EN: Finalize the simulation
+JP: シミュレーション集計
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800116_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800116_ReachChallengeMainText_229_1
+CN: 目标完成
+EN: Objective Complete
+JP: 目標達成
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800117_ChildQuestTip_229_2
+CN: 进行治疗
+EN: Get healed
+JP: HPを回復
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800117_ChildQuestTip_229_4
+CN: 与秋水交谈
+EN: Talk to Aalto
+JP: アールトと会話する
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800117_ChildQuestTip_229_5
+CN: 前往下一个区域
+EN: Head to the next area
+JP: 次のエリアに向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800117_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChallengeConditionMainText_229_1
+CN: 破坏持续出现的物品
+EN: Destroy the objects as they keep appearing
+JP: 次々と出現するオブジェクトを破壊する
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChallengeConditionMainText_229_5
+CN: 更多物品出现了
+EN: More objects have appeared
+JP: さらにオブジェクトが出現！
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChallengeConditionMainText_229_6
+CN: 更多物品出现了
+EN: More objects have appeared
+JP: さらにオブジェクトが出現！
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChallengeConditionMainText_229_7
+CN: 更多物品出现了
+EN: More objects have appeared
+JP: さらにオブジェクトが出現！
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChallengeConditionSubText_229_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChallengeConditionSubText_229_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChallengeConditionSubText_229_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChallengeConditionSubText_229_7
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChallengeFailMainText_229_1
+CN: 挑战结束
+EN: Challenge Failed
+JP: 挑戦終了
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_14
+CN: 收集奖励
+EN: Collect the rewards
+JP: 報酬を受け取る
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_15
+CN: 前往下一个区域
+EN: Head to the next area
+JP: 次のエリアに向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_16
+CN: 收集奖励
+EN: Collect the rewards
+JP: 報酬を受け取る
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_17
+CN: 前往下一个区域
+EN: Head to the next area
+JP: 次のエリアに向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_2
+CN: 激活装置，开启挑战
+EN: Activate the device to start the challenge
+JP: 装置を起動して挑戦開始
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_3
+CN: 破坏所有物品
+EN: Destroy all the objects
+JP: すべてのオブジェクトを破壊する
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_30
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_31
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_32
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_33
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_34
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_35
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_36
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_37
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_38
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_39
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_40
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_41
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_42
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_43
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_44
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_45
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_46
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_47
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_48
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_49
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_50
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_51
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_52
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_53
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_QuestScheduleMainTitle_229_1
+CN: 在限定时间内，破坏持续出现的物品
+EN: Destroy the objects as they keep appearing within the time limit
+JP: 制限時間内に、次々と出現するオブジェクトを破壊する
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_QuestScheduleSubTitle_229_1
+CN: 已破坏数量：{q_count}/20
+EN: Destroyed: {q_count}/20
+JP: 破壊した数：{q_count}/20
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ReachChallengeMainText_229_1
+CN: 目标完成
+EN: Objective Complete
+JP: 目標達成
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_244800002_ChildQuestTip_244_17
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_244800002_ChildQuestTip_244_18
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_244800002_ChildQuestTip_244_19
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_244800002_ChildQuestTip_244_20
+CN: 限定时间内击败敌人
+EN: Defeat the enemy within the time limit
+JP: 制限時間内に敵を倒す
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_244800002_ChildQuestTip_244_21
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_244800002_ChildQuestTip_244_22
+CN: 限定时间内击败敌人
+EN: Defeat the enemy within the time limit
+JP: 制限時間内に敵を倒す
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_244800002_ChildQuestTip_244_23
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_244800002_ChildQuestTip_244_24
+CN: 限定时间内击败敌人
+EN: Defeat the enemy within the time limit
+JP: 制限時間内に敵を倒す
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_244800002_ChildQuestTip_244_25
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_244800002_ChildQuestTip_244_26
+CN: 限定时间内击败敌人
+EN: Defeat the enemy within the time limit
+JP: 制限時間内に敵を倒す
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_244800002_ChildQuestTip_244_27
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_244800002_ChildQuestTip_244_28
+CN: 限定时间内击败敌人
+EN: Defeat the enemy within the time limit
+JP: 制限時間内に敵を倒す
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_244800002_ChildQuestTip_244_29
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_244800002_ChildQuestTip_244_30
+CN: 限定时间内击败敌人
+EN: Defeat the enemy within the time limit
+JP: 制限時間内に敵を倒す
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_244800002_LevelPlayName_244_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750006_ChildQuestTip_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750006_ChildQuestTip_247_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750006_LevelPlayName_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750007_ChildQuestTip_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750007_ChildQuestTip_247_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750007_LevelPlayName_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750010_ChildQuestTip_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750010_ChildQuestTip_247_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750010_LevelPlayName_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750011_ChildQuestTip_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750011_ChildQuestTip_247_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750011_LevelPlayName_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750012_ChildQuestTip_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750012_ChildQuestTip_247_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750012_LevelPlayName_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750013_ChildQuestTip_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750013_ChildQuestTip_247_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750013_LevelPlayName_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750014_ChildQuestTip_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750014_ChildQuestTip_247_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750014_LevelPlayName_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750015_ChildQuestTip_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750015_ChildQuestTip_247_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750015_LevelPlayName_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750016_ChildQuestTip_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750016_ChildQuestTip_247_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750016_LevelPlayName_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750017_ChildQuestTip_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750017_ChildQuestTip_247_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750017_LevelPlayName_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750018_ChildQuestTip_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750018_ChildQuestTip_247_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750018_LevelPlayName_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750019_ChildQuestTip_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750019_ChildQuestTip_247_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750019_LevelPlayName_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750020_ChildQuestTip_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750020_ChildQuestTip_247_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750020_LevelPlayName_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750021_ChildQuestTip_247_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750021_ChildQuestTip_247_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750021_LevelPlayName_247_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750022_ChildQuestTip_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750022_ChildQuestTip_247_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750022_LevelPlayName_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750023_ChildQuestTip_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750023_ChildQuestTip_247_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750023_LevelPlayName_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_251800000_ChildQuestTip_251_12
+CN: 前往甲板前部，开始御剑
+EN: Head to the front of the deck and begin Sword Flight
+JP: 御剣飛行の術で光路に向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_251800000_ChildQuestTip_251_13
+CN: 前往风云障的入口
+EN: Head to the entrance of the Skyend Barrier
+JP: 風雲の障壁の入り口に向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_251800001_ChildQuestTip_251_12
+CN: 前往通向天境的光路
+EN: Head to the lightway leading to the Tian Realm
+JP: 「天の境界」に繋がる光路へ向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_251800001_ChildQuestTip_251_13
+CN: 开始御剑飞行
+EN: Begin Sword Flight
+JP: 御剣飛行を始める
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_251800001_ChildQuestTip_251_14
+CN: 进入风云障
+EN: Enter the Skyend Barrier
+JP: 風雲の障壁に入る
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750000_ChildQuestTip_254_18
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750000_ChildQuestTip_254_19
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750000_ChildQuestTip_254_20
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750000_ChildQuestTip_254_21
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750000_ChildQuestTip_254_22
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750000_MonsterGroupName_254_7
+CN: 残熄刑锯
+EN: Cindered Milliner
+JP: ハットシュレッダー
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750000_MonsterGroupName_254_8
+CN: 残熄刑锯
+EN: Cindered Milliner
+JP: ハットシュレッダー
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750001_ChildQuestTip_254_15
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750001_ChildQuestTip_254_16
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750001_ChildQuestTip_254_17
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750001_ChildQuestTip_254_18
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750001_ChildQuestTip_254_19
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750001_MonsterGroupName_254_7
+CN: 囚中怒风
+EN: Caged Hurricane
+JP: ハリケーンフューリー
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750001_MonsterGroupName_254_8
+CN: 囚中怒风
+EN: Caged Hurricane
+JP: ハリケーンフューリー
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750002_ChildQuestTip_254_20
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750002_ChildQuestTip_254_21
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750002_ChildQuestTip_254_22
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750002_ChildQuestTip_254_23
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750002_ChildQuestTip_254_24
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750002_MonsterGroupName_254_10
+CN: 失序械囿
+EN: Misruled Bastion
+JP: 暴走の械囿
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750002_MonsterGroupName_254_9
+CN: 失序械囿
+EN: Misruled Bastion
+JP: 暴走の械囿
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750003_ChildQuestTip_254_19
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750003_ChildQuestTip_254_20
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750003_ChildQuestTip_254_21
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750003_ChildQuestTip_254_22
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750003_ChildQuestTip_254_23
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750003_MonsterGroupName_254_10
+CN: 荒蛮兽尊
+EN: Feral Lionarch
+JP: 怪力の獣尊
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750003_MonsterGroupName_254_9
+CN: 荒蛮兽尊
+EN: Feral Lionarch
+JP: 怪力の獣尊
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750004_ChildQuestTip_254_15
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750004_ChildQuestTip_254_16
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750004_ChildQuestTip_254_17
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750004_ChildQuestTip_254_18
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750004_ChildQuestTip_254_19
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750004_MonsterGroupName_254_7
+CN: 破障霜风
+EN: Frostbreak Wind
+JP: 霜風纏いの破壊甲
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750004_MonsterGroupName_254_8
+CN: 破障霜风
+EN: Frostbreak Wind
+JP: 霜風纏いの破壊甲
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750005_ChildQuestTip_254_28
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750005_ChildQuestTip_254_29
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750005_ChildQuestTip_254_30
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750005_ChildQuestTip_254_31
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750005_ChildQuestTip_254_32
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750005_ChildQuestTip_254_33
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750005_ChildQuestTip_254_34
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750005_MonsterGroupName_254_10
+CN: 无喜无悲
+EN: Apolarch
+JP: 無喜無悲
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750005_MonsterGroupName_254_9
+CN: 无喜无悲
+EN: Apolarch
+JP: 無喜無悲
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750007_ChildQuestTip_254_15
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750007_ChildQuestTip_254_16
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750007_ChildQuestTip_254_17
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750007_ChildQuestTip_254_18
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750007_ChildQuestTip_254_19
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750007_MonsterGroupName_254_7
+CN: 破囚铁骑
+EN: Jailbreak Guardian
+JP: 檻破りの鉄騎
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750007_MonsterGroupName_254_8
+CN: 破囚铁骑
+EN: Jailbreak Guardian
+JP: 檻破りの鉄騎
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750008_ChildQuestTip_254_13
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750008_ChildQuestTip_254_18
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750008_ChildQuestTip_254_19
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750008_MonsterGroupName_254_5
+CN: 测试文本
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800000_ChallengeFailMainText_256_4
+CN: 挑战失败，下次继续努力
+EN: Challenge failed. Keep punching.
+JP: 挑戦失敗
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800000_ChallengeSuccessMainText_256_4
+CN: 挑战成功
+EN: Challenge Complete
+JP: 挑戦クリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800000_ChildQuestTip_256_12
+CN: 开始挑战
+EN: Start Challenge
+JP: 挑戦開始
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800000_ChildQuestTip_256_14
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800000_LevelPlayName_256_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800000_QuestScheduleMainTitle_256_1
+CN: 挑战进度
+EN: Progress
+JP: 挑戦進捗
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800000_QuestScheduleSubTitle_256_1
+CN: 击败所有敌人（{q_count}/1）
+EN: Defeat the enemy ({q_count}/1)
+JP: すべての敵を倒す（{q_count}/1）
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800001_ChallengeFailMainText_256_1
+CN: 挑战失败，下次继续努力
+EN: Challenge failed. Keep punching.
+JP: 挑戦失敗
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800001_ChallengeSuccessMainText_256_1
+CN: 挑战成功
+EN: Challenge Complete
+JP: 挑戦クリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800001_ChildQuestTip_256_2
+CN: 开始挑战
+EN: Start Challenge
+JP: 挑戦開始
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800001_ChildQuestTip_256_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800001_LevelPlayName_256_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800001_QuestScheduleMainTitle_256_1
+CN: 挑战进度
+EN: Progress
+JP: 挑戦進捗
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800001_QuestScheduleSubTitle_256_1
+CN: 击败所有敌人（{q_count}/1）
+EN: Defeat the enemy ({q_count}/1)
+JP: すべての敵を倒す（{q_count}/1）
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800002_ChallengeFailMainText_256_1
+CN: 挑战失败，下次继续努力
+EN: Challenge failed. Keep punching.
+JP: 挑戦失敗
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800002_ChallengeSuccessMainText_256_1
+CN: 挑战成功
+EN: Challenge Complete
+JP: 挑戦クリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800002_ChildQuestTip_256_11
+CN: 开始挑战
+EN: Start Challenge
+JP: 挑戦開始
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800002_ChildQuestTip_256_13
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800002_ChildQuestTip_256_7
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800002_ChildQuestTip_256_8
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800002_ChildQuestTip_256_9
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800002_GeneralFloatingTipMainText_256_2
+CN: 下一名敌人即将出现
+EN: The next enemy is approaching
+JP: まもなく次の敵が出現
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800002_GeneralFloatingTipMainText_256_3
+CN: 下一名敌人即将出现
+EN: The next enemy is approaching
+JP: まもなく次の敵が出現
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800002_LevelPlayName_256_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800002_QuestScheduleMainTitle_256_9
+CN: 挑战进度
+EN: Progress
+JP: 挑戦進捗
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800002_QuestScheduleSubTitle_256_12
+CN: 击败所有敌人（{q_count}/3）
+EN: Defeat all enemies ({q_count}/3)
+JP: すべての敵を倒す（{q_count}/3）
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800002_QuestScheduleSubTitle_256_13
+CN: 当前积分：{q_count}
+EN: Current Points: {q_count}
+JP: スコア：{q_count}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800003_ChallengeFailMainText_256_1
+CN: 挑战失败，下次继续努力
+EN: Challenge failed. Keep punching.
+JP: 挑戦失敗
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800003_ChallengeSuccessMainText_256_1
+CN: 挑战成功
+EN: Challenge Complete
+JP: 挑戦クリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800003_ChildQuestTip_256_2
+CN: 开始挑战
+EN: Start Challenge
+JP: 挑戦開始
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800003_ChildQuestTip_256_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800003_LevelPlayName_256_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800003_QuestScheduleMainTitle_256_1
+CN: 挑战进度
+EN: Progress
+JP: 挑戦進捗
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800003_QuestScheduleSubTitle_256_1
+CN: 击败所有敌人（{q_count}/1）
+EN: Defeat the enemy ({q_count}/1)
+JP: すべての敵を倒す（{q_count}/1）
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800004_ChallengeFailMainText_256_1
+CN: 挑战失败，下次继续努力
+EN: Challenge failed. Keep punching.
+JP: 挑戦失敗
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800004_ChallengeSuccessMainText_256_1
+CN: 挑战成功
+EN: Challenge Complete
+JP: 挑戦クリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800004_ChildQuestTip_256_2
+CN: 开始挑战
+EN: Start Challenge
+JP: 挑戦開始
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800004_ChildQuestTip_256_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800004_LevelPlayName_256_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800004_QuestScheduleMainTitle_256_1
+CN: 挑战进度
+EN: Progress
+JP: 挑戦進捗
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800004_QuestScheduleSubTitle_256_1
+CN: 击败所有敌人（{q_count}/1）
+EN: Defeat the enemy ({q_count}/1)
+JP: すべての敵を倒す（{q_count}/1）
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800005_ChallengeFailMainText_256_1
+CN: 挑战失败，下次继续努力
+EN: Challenge failed. Keep punching.
+JP: 挑戦失敗
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800005_ChallengeSuccessMainText_256_1
+CN: 挑战成功
+EN: Challenge Complete
+JP: 挑戦クリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800005_ChildQuestTip_256_2
+CN: 开始挑战
+EN: Start Challenge
+JP: 挑戦開始
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800005_ChildQuestTip_256_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800005_LevelPlayName_256_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800005_QuestScheduleMainTitle_256_1
+CN: 挑战进度
+EN: Progress
+JP: 挑戦進捗
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800005_QuestScheduleSubTitle_256_1
+CN: 击败所有敌人（{q_count}/1）
+EN: Defeat the enemy ({q_count}/1)
+JP: すべての敵を倒す（{q_count}/1）
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800006_ChallengeFailMainText_256_1
+CN: 挑战失败，下次继续努力
+EN: Challenge failed. Keep punching.
+JP: 挑戦失敗
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800006_ChallengeSuccessMainText_256_1
+CN: 挑战成功
+EN: Challenge Complete
+JP: 挑戦クリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800006_ChildQuestTip_256_2
+CN: 开始挑战
+EN: Start Challenge
+JP: 挑戦開始
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800006_ChildQuestTip_256_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800006_LevelPlayName_256_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800006_QuestScheduleMainTitle_256_1
+CN: 挑战进度
+EN: Progress
+JP: 挑戦進捗
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800006_QuestScheduleSubTitle_256_1
+CN: 击败所有敌人（{q_count}/1）
+EN: Defeat the enemy ({q_count}/1)
+JP: すべての敵を倒す（{q_count}/1）
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800007_ChallengeFailMainText_256_1
+CN: 挑战失败，下次继续努力
+EN: Challenge failed. Keep punching.
+JP: 挑戦失敗
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800007_ChallengeSuccessMainText_256_1
+CN: 挑战成功
+EN: Challenge Complete
+JP: 挑戦クリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800007_ChildQuestTip_256_2
+CN: 开始挑战
+EN: Start Challenge
+JP: 挑戦開始
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800007_ChildQuestTip_256_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800007_LevelPlayName_256_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800007_QuestScheduleMainTitle_256_1
+CN: 挑战进度
+EN: Progress
+JP: 挑戦進捗
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800007_QuestScheduleSubTitle_256_1
+CN: 击败所有敌人（{q_count}/1）
+EN: Defeat the enemy ({q_count}/1)
+JP: すべての敵を倒す（{q_count}/1）
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800008_ChallengeFailMainText_256_1
+CN: 挑战失败，下次继续努力
+EN: Challenge failed. Keep punching.
+JP: 挑戦失敗
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800008_ChallengeSuccessMainText_256_1
+CN: 挑战成功
+EN: Challenge Complete
+JP: 挑戦クリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800008_ChildQuestTip_256_2
+CN: 开始挑战
+EN: Start Challenge
+JP: 挑戦開始
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800008_ChildQuestTip_256_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800008_LevelPlayName_256_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800008_QuestScheduleMainTitle_256_1
+CN: 挑战进度
+EN: Progress
+JP: 挑戦進捗
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800008_QuestScheduleSubTitle_256_1
+CN: 击败所有敌人（{q_count}/1）
+EN: Defeat the enemy ({q_count}/1)
+JP: すべての敵を倒す（{q_count}/1）
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800009_ChallengeFailMainText_256_1
+CN: 挑战失败，下次继续努力
+EN: Challenge failed. Keep punching.
+JP: 挑戦失敗
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800009_ChallengeSuccessMainText_256_1
+CN: 挑战成功
+EN: Challenge Complete
+JP: 挑戦クリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800009_ChildQuestTip_256_2
+CN: 开始挑战
+EN: Start Challenge
+JP: 挑戦開始
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800009_ChildQuestTip_256_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800009_LevelPlayName_256_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800009_QuestScheduleMainTitle_256_1
+CN: 挑战进度
+EN: Progress
+JP: 挑戦進捗
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800009_QuestScheduleSubTitle_256_1
+CN: 击败所有敌人（{q_count}/1）
+EN: Defeat the enemy ({q_count}/1)
+JP: すべての敵を倒す（{q_count}/1）
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800010_ChallengeFailMainText_256_1
+CN: 挑战失败，下次继续努力
+EN: Challenge failed. Keep punching.
+JP: 挑戦失敗
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800010_ChallengeSuccessMainText_256_1
+CN: 挑战成功
+EN: Challenge Complete
+JP: 挑戦クリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800010_ChildQuestTip_256_3
+CN: 开始挑战
+EN: Start Challenge
+JP: 挑戦開始
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800010_ChildQuestTip_256_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800010_LevelPlayName_256_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800010_QuestScheduleMainTitle_256_1
+CN: 挑战进度
+EN: Progress
+JP: 挑戦進捗
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800010_QuestScheduleSubTitle_256_1
+CN: 击败所有敌人（{q_count}/1）
+EN: Defeat the enemy ({q_count}/1)
+JP: すべての敵を倒す（{q_count}/1）
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800011_ChallengeFailMainText_256_1
+CN: 挑战失败，下次继续努力
+EN: Challenge failed. Keep punching.
+JP: 挑戦失敗
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800011_ChallengeSuccessMainText_256_1
+CN: 挑战成功
+EN: Challenge Complete
+JP: 挑戦クリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800011_ChildQuestTip_256_3
+CN: 开始挑战
+EN: Start Challenge
+JP: 挑戦開始
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800011_ChildQuestTip_256_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800011_LevelPlayName_256_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800011_QuestScheduleMainTitle_256_1
+CN: 挑战进度
+EN: Progress
+JP: 挑戦進捗
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800011_QuestScheduleSubTitle_256_1
+CN: 击败所有敌人（{q_count}/1）
+EN: Defeat the enemy ({q_count}/1)
+JP: すべての敵を倒す（{q_count}/1）
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800012_ChallengeFailMainText_256_1
+CN: 挑战失败，下次继续努力
+EN: Challenge failed. Keep punching.
+JP: 挑戦失敗
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800012_ChallengeSuccessMainText_256_1
+CN: 挑战成功
+EN: Challenge Complete
+JP: 挑戦クリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800012_ChildQuestTip_256_3
+CN: 开始挑战
+EN: Start Challenge
+JP: 挑戦開始
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800012_ChildQuestTip_256_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800012_LevelPlayName_256_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800012_QuestScheduleMainTitle_256_1
+CN: 挑战进度
+EN: Progress
+JP: 挑戦進捗
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800012_QuestScheduleSubTitle_256_1
+CN: 击败所有敌人（{q_count}/1）
+EN: Defeat the enemy ({q_count}/1)
+JP: すべての敵を倒す（{q_count}/1）
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800013_ChallengeFailMainText_256_1
+CN: 挑战失败，下次继续努力
+EN: Challenge failed. Keep punching.
+JP: 挑戦失敗
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800013_ChallengeSuccessMainText_256_1
+CN: 挑战成功
+EN: Challenge Complete
+JP: 挑戦クリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800013_ChildQuestTip_256_2
+CN: 开始挑战
+EN: Start Challenge
+JP: 挑戦開始
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800013_ChildQuestTip_256_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800013_LevelPlayName_256_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800013_QuestScheduleMainTitle_256_1
+CN: 挑战进度
+EN: Progress
+JP: 挑戦進捗
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800013_QuestScheduleSubTitle_256_1
+CN: 击败所有敌人（{q_count}/1）
+EN: Defeat the enemy ({q_count}/1)
+JP: すべての敵を倒す（{q_count}/1）
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800014_ChallengeFailMainText_256_1
+CN: 挑战失败，下次继续努力
+EN: Challenge failed. Keep punching.
+JP: 挑戦失敗
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800014_ChallengeSuccessMainText_256_1
+CN: 挑战成功
+EN: Challenge Complete
+JP: 挑戦クリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800014_ChildQuestTip_256_2
+CN: 开始挑战
+EN: Start Challenge
+JP: 挑戦開始
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800014_ChildQuestTip_256_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800014_LevelPlayName_256_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800014_QuestScheduleMainTitle_256_1
+CN: 挑战进度
+EN: Progress
+JP: 挑戦進捗
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800014_QuestScheduleSubTitle_256_1
+CN: 击败所有敌人（{q_count}/1）
+EN: Defeat the enemy ({q_count}/1)
+JP: すべての敵を倒す（{q_count}/1）
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_259750003_ChildQuestTip_150_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_259750003_ChildQuestTip_150_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_259750003_ChildQuestTip_150_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_259750003_ChildQuestTip_150_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_259750003_GeneralFloatingTipMainText_150_2
+CN: 完成纪闻任务「修补之心」可修复该取偶匣
+EN: Complete Side Quest "Heart of Repair" to repair this Auto Casket
+JP: 逸話任務「修理の心」をクリアすると、この取偶匣を修復できる
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_268800000_ChildQuestTip_268_2
+CN: 拍摄渊城风景
+EN: Photograph the Yuan Fortress scenery
+JP: 淵城の風景を撮影する
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_268800000_ChildQuestTip_268_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_268800000_LevelPlayName_268_1
+CN: 拍摄渊城风景
+EN: Photograph the Yuan Fortress scenery
+JP: 淵城の風景を撮影する
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_268800000_TakePhotoPosDescription_268_4
+CN: 拍摄渊城风景
+EN: Photograph the scenary of Yuan Fortress
+JP: 淵城の風景を撮影する
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_268800000_TakePhotoTargetsDescription_268_4
+CN: 拍摄渊城风景
+EN: Photograph the gate of Yuan Fortress
+JP: 淵城山門を撮影する
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800002_ChallengeConditionMainText_271_1
+CN: 击碎指定数量的罐子，以获得奖励
+EN: Smash the required number of jars to earn rewards
+JP: 指定数のツボを壊し、報酬を獲得する
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800002_ChallengeConditionSubText_271_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800002_ChallengeFailMainText_229_2
+CN: 挑战结束
+EN: Challenge Failed
+JP: 挑戦終了
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800002_ChildQuestTip_271_2
+CN: 激活装置，开启挑战
+EN: Activate the device to start the challenge
+JP: 装置を起動して挑戦開始
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800002_ChildQuestTip_271_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800002_ChildQuestTip_271_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800002_ChildQuestTip_271_5
+CN: 收集奖励
+EN: Collect the rewards
+JP: 報酬を受け取る
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800002_ChildQuestTip_271_6
+CN: 前往下一个区域
+EN: Head to the next area
+JP: 次のエリアに向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800002_LevelPlayName_271_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800002_QuestScheduleMainTitle_229_1
+CN: 击碎指定数量的罐子，以获得奖励
+EN: Smash the required number of jars to earn rewards
+JP: 指定数のツボを壊し、報酬を獲得する
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800002_QuestScheduleSubTitle_229_1
+CN: 获得1个奖励：{q_count}/13
+EN: 1st Reward: {q_count}/13
+JP: 報酬を1つ獲得：{q_count}/13
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800002_QuestScheduleSubTitle_229_2
+CN: 已完成
+EN: Complete
+JP: クリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800002_QuestScheduleSubTitle_229_3
+CN: 获得2个奖励：{q_count}/26
+EN: 2nd Reward: {q_count}/26
+JP: 報酬を2つ獲得：{q_count}/26
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800002_QuestScheduleSubTitle_229_4
+CN: 已完成
+EN: Complete
+JP: クリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800002_QuestScheduleSubTitle_229_5
+CN: 获得3个奖励：{q_count}/39
+EN: 3rd Reward: {q_count}/39
+JP: 報酬を3つ獲得：{q_count}/13
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800002_QuestScheduleSubTitle_229_6
+CN: 已完成
+EN: Complete
+JP: クリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800002_ReachChallengeMainText_229_4
+CN: 挑战结束
+EN: Challenge Ended
+JP: 挑戦終了
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800002_ReachChallengeMainText_229_5
+CN: 挑战结束
+EN: Challenge Ended
+JP: 挑戦終了
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800002_ReachChallengeMainText_229_6
+CN: 挑战结束
+EN: Challenge Ended
+JP: 挑戦終了
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800003_ChallengeConditionMainText_271_1
+CN: 击碎指定数量的罐子，以获得奖励
+EN: Smash the required number of jars to earn rewards
+JP: 指定数のツボを壊し、報酬を獲得する
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800003_ChallengeConditionSubText_271_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800003_ChallengeFailMainText_229_2
+CN: 挑战结束
+EN: Challenge Failed
+JP: 挑戦終了
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800003_ChildQuestTip_271_2
+CN: 激活装置，开启挑战
+EN: Activate the device to start the challenge
+JP: 装置を起動して挑戦開始
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800003_ChildQuestTip_271_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800003_ChildQuestTip_271_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800003_ChildQuestTip_271_5
+CN: 收集奖励
+EN: Collect the rewards
+JP: 報酬を受け取る
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800003_ChildQuestTip_271_6
+CN: 前往下一个区域
+EN: Head to the next area
+JP: 次のエリアに向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800003_LevelPlayName_271_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800003_QuestScheduleMainTitle_271_1
+CN: 击碎指定数量的罐子，以获得奖励
+EN: Smash the required number of jars to earn rewards
+JP: 指定数のツボを壊し、報酬を獲得する
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800003_QuestScheduleSubTitle_229_2
+CN: 获得2个奖励：{q_count}/24
+EN: 2nd Reward: {q_count}/24
+JP: 報酬を2つ獲得：{q_count}/24
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800003_QuestScheduleSubTitle_229_3
+CN: 获得3个奖励：{q_count}/36
+EN: 3rd Reward: {q_count}/36
+JP: 報酬を3つ獲得：{q_count}/36
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800003_QuestScheduleSubTitle_229_4
+CN: 已完成
+EN: Complete
+JP: クリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800003_QuestScheduleSubTitle_229_5
+CN: 已完成
+EN: Complete
+JP: クリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800003_QuestScheduleSubTitle_229_6
+CN: 已完成
+EN: Complete
+JP: クリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800003_QuestScheduleSubTitle_271_1
+CN: 获得1个奖励：{q_count}/12
+EN: 1st Reward: {q_count}/12
+JP: 報酬を1つ獲得：{q_count}/12
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800003_ReachChallengeMainText_229_2
+CN: 挑战结束
+EN: Challenge Ended
+JP: 挑戦終了
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800003_ReachChallengeMainText_229_3
+CN: 挑战结束
+EN: Challenge Ended
+JP: 挑戦終了
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800003_ReachChallengeMainText_229_4
+CN: 挑战结束
+EN: Challenge Ended
+JP: 挑戦終了
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800006_ChallengeConditionMainText_271_1
+CN: 击碎指定数量的罐子，以获得奖励
+EN: Smash the required number of jars to earn rewards
+JP: 指定数のツボを壊し、報酬を獲得する
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800006_ChallengeConditionSubText_271_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800006_ChallengeFailMainText_229_1
+CN: 挑战结束
+EN: Challenge Ended
+JP: 挑戦終了
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800006_ChildQuestTip_271_2
+CN: 激活装置，开启挑战
+EN: Activate the device to start the challenge
+JP: 装置を起動して挑戦開始
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800006_ChildQuestTip_271_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800006_ChildQuestTip_271_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800006_ChildQuestTip_271_5
+CN: 收集奖励
+EN: Collect the rewards
+JP: 報酬を受け取る
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800006_ChildQuestTip_271_6
+CN: 前往下一个区域
+EN: Head to the next area
+JP: 次のエリアに向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800006_LevelPlayName_271_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800006_QuestScheduleMainTitle_229_2
+CN: 击碎指定数量的罐子，以获得奖励
+EN: Smash the required number of jars to earn rewards
+JP: 指定数のツボを壊し、報酬を獲得する
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800006_QuestScheduleSubTitle_229_10
+CN: 已完成
+EN: Complete
+JP: クリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800006_QuestScheduleSubTitle_229_11
+CN: 获得3个奖励：{q_count}/36
+EN: Obtain 3 Rewards: {q_count}/36
+JP: 報酬を3つ獲得：{q_count}/36
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800006_QuestScheduleSubTitle_229_12
+CN: 已完成
+EN: Complete
+JP: クリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800006_QuestScheduleSubTitle_229_7
+CN: 获得1个奖励：{q_count}/12
+EN: Obtain 1 Reward: {q_count}/12
+JP: 報酬を1つ獲得：{q_count}/12
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800006_QuestScheduleSubTitle_229_8
+CN: 已完成
+EN: Complete
+JP: クリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800006_QuestScheduleSubTitle_229_9
+CN: 获得2个奖励：{q_count}/24
+EN: Obtain 2 Rewards: {q_count}/24
+JP: 報酬を2つ獲得：{q_count}/24
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800006_ReachChallengeMainText_229_1
+CN: 挑战结束
+EN: Challenge Ended
+JP: 挑戦終了
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800006_ReachChallengeMainText_229_2
+CN: 挑战结束
+EN: Challenge Ended
+JP: 挑戦終了
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800006_ReachChallengeMainText_229_3
+CN: 挑战结束
+EN: Challenge Ended
+JP: 挑戦終了
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800117_ChildQuestTip_316_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800117_ChildQuestTip_316_3
+CN: 开启挑战
+EN: Start Challenge
+JP: 挑戦開始
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800117_ChildQuestTip_316_4
+CN: 击败涌现的残象:{q_count}/{q_countMax}
+EN: Defeat the emerging TDs: {q_count}/{q_countMax}
+JP: 現れた敵を倒す：{q_count}/{q_countMax}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800117_ChildQuestTip_316_5
+CN: 离开模拟领域
+EN: Leave the Simulation
+JP: 仮想訓練から出る
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800117_LevelPlayName_316_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800118_ChildQuestTip_316_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800118_ChildQuestTip_316_3
+CN: 开启挑战
+EN: Start Challenge
+JP: 挑戦開始
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800118_ChildQuestTip_316_4
+CN: 击败涌现的残象:{q_count}/{q_countMax}
+EN: Defeat the emerging TDs: {q_count}/{q_countMax}
+JP: 現れた敵を倒す：{q_count}/{q_countMax}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800118_ChildQuestTip_316_5
+CN: 离开模拟领域
+EN: Leave the Simulation
+JP: 仮想訓練から出る
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800118_LevelPlayName_316_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800119_ChallengeSuccessMainText_316_1
+CN: 挑战成功
+EN: Challenge Complete
+JP: 挑戦クリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800119_ChildQuestTip_316_2
+CN: 击败敌人
+EN: Defeat the enemies
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800119_ChildQuestTip_316_3
+CN: 领取奖励
+EN: Claim the rewards
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800119_LevelPlayName_316_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800120_ChildQuestTip_316_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800120_ChildQuestTip_316_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800120_ChildQuestTip_316_4
+CN: 击败天傀劫煞
+EN: Defeat the Calamity Effigy
+JP: 天傀劫殺を倒す
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800120_ChildQuestTip_316_7
+CN: 击败天傀劫煞
+EN: Defeat the Calamity Effigy
+JP: 天傀劫殺を倒す
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800120_EnterInRangeText_316_1
+CN: 天傀劫煞
+EN: Calamity Effigy
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800120_FirstCompleteText_316_1
+CN: 天傀劫煞
+EN: Calamity Effigy
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800120_LevelPlayName_316_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800121_ChildQuestTip_316_12
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800121_ChildQuestTip_316_13
+CN: 自由练习或离开
+EN: You may keep practicing or leave
+JP: 自由練習または退出
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800121_ChildQuestTip_316_2
+CN: 与回音之钥交互开启教学
+EN: Interact with the Remnant Key to start
+JP: 「反響の鍵」でチュートリアルを開始する
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800121_ChildQuestTip_316_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800121_ChildQuestTip_613_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800121_ChildQuestTip_613_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800121_ChildQuestTip_613_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800121_ChildQuestTip_613_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800121_ChildQuestTip_613_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800121_ChildQuestTip_613_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800121_ChildQuestTip_613_7
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800121_ChildQuestTip_613_8
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800121_ChildQuestTip_613_9
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800121_GeneralFloatingTipMainText_316_1
+CN: 挑战成功，可继续练习或离开
+EN: Challenge complete! You may keep practicing or leave
+JP: 挑戦クリア、練習続行または退出可能です
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800121_LevelPlayName_316_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800122_ChildQuestTip_316_2
+CN: 与回音之钥交互开启教学
+EN: Interact with the Remnant Key to start
+JP: 「反響の鍵」でチュートリアルを開始する
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800122_ChildQuestTip_316_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800122_ChildQuestTip_316_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800122_ChildQuestTip_316_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800122_ChildQuestTip_316_6
+CN: 自由练习或离开
+EN: You may keep practicing or leave
+JP: 自由練習または退出
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800122_ChildQuestTip_613_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800122_ChildQuestTip_613_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800122_ChildQuestTip_613_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800122_ChildQuestTip_613_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800122_GeneralFloatingTipMainText_316_1
+CN: 挑战成功，可继续练习或离开
+EN: Challenge complete! You may keep practicing or leave
+JP: 挑戦クリア、練習続行または退出可能です
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800122_LevelPlayName_316_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_317000000_ChildQuestTip_317_29
+CN: 查看过去的景象
+EN: View the past scenes
+JP: 過去の光景を調べる
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_39800003_ChildQuestTip_39_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_39800003_ChildQuestTip_39_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_39800003_LevelPlayName_39_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_39800004_ChildQuestTip_39_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_39800004_ChildQuestTip_39_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_39800004_ChildQuestTip_39_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_39800004_LevelPlayName_39_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_39800005_ChildQuestTip_39_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_39800005_ChildQuestTip_39_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_39800005_LevelPlayName_39_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_39800006_ChildQuestTip_39_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_39800006_ChildQuestTip_39_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_39800006_LevelPlayName_39_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_40800002_ChildQuestTip_40_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_40800002_ChildQuestTip_40_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_40800002_InteractContent_40_1
+CN: 测试文本
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_40800002_LevelPlayName_40_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_40800003_ChildQuestTip_40_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_40800003_ChildQuestTip_40_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_40800003_ChildQuestTip_40_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_40800003_InteractContent_40_1
+CN: 测试文本
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_40800003_InteractContent_40_2
+CN: 测试文本
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_40800003_InteractContent_40_3
+CN: 测试文本
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_40800003_LevelPlayName_40_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_40800004_ChildQuestTip_40_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_40800004_LevelPlayName_40_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_40800005_ChildQuestTip_40_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_40800005_LevelPlayName_40_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_42750013_ChildQuestTip_42_2
+CN: 测试文本
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_42750013_ChildQuestTip_42_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_42750013_ChildQuestTip_42_7
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_42750013_ChildQuestTip_42_8
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_42750013_ChildQuestTip_42_9
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_42750013_LevelPlayName_42_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_42800013_ChildQuestTip_42_1
+CN: 测试文本
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_42800013_ChildQuestTip_42_2
+CN: 测试文本
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_42800013_ChildQuestTip_42_3
+CN: 测试文本
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_42800013_ChildQuestTip_42_4
+CN: 测试文本
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_42800013_LevelPlayName_42_1
+CN: 测试文本
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_42800014_ChildQuestTip_42_1
+CN: test/交互以初始化录制环境
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_42800014_ChildQuestTip_42_2
+CN: test/录制中，通过修改变量推进
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_42800014_ChildQuestTip_42_3
+CN: test/播放角色教学演示序列
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_42800014_LevelPlayName_42_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_42800015_ChildQuestTip_42_1
+CN: 测试文本
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_42800015_ChildQuestTip_42_2
+CN: 测试文本
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_42800015_LevelPlayName_42_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_45800000_ChildQuestTip_45_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_45800000_ChildQuestTip_45_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_45800000_ChildQuestTip_45_8
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_45800000_LevelPlayName_45_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_45800001_ChildQuestTip_45_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_45800001_ChildQuestTip_45_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_45800001_ChildQuestTip_684_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_45800001_ChildQuestTip_684_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_45800001_LevelPlayName_45_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_686750049_LevelPlayName_686_1
+CN: 危险的咎笼
+EN: Dangerous Censure Cage
+JP: 危険な咎籠
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_688750047_ChildQuestTip_688_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_688750047_ChildQuestTip_688_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_688750047_LevelPlayName_688_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_688750048_ChildQuestTip_688_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_688750048_LevelPlayName_688_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000005_ChildQuestTip_915_10
+CN: 查看清宵的情况
+EN: Check on Qingxiao
+JP: 清宵の状態を確認する
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000005_ChildQuestTip_915_12
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000005_ChildQuestTip_915_13
+CN: 跟随心魔前进
+EN: Follow the Inner Demon
+JP: 己心の魔についていく
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000005_ChildQuestTip_915_14
+CN: 跟随心魔前进
+EN: Follow the Inner Demon
+JP: 己心の魔についていく
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000005_ChildQuestTip_915_15
+CN: 查看昔日民众的情况
+EN: Check on the people of days past
+JP: 過去の人たちの状況を尋ねる
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000005_ChildQuestTip_915_16
+CN: 查看昔日民众的情况
+EN: Check on the people of days past
+JP: 過去の人たちの状況を尋ねる
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000005_ChildQuestTip_915_17
+CN: 查看昔日民众的情况
+EN: Check on the people of days past
+JP: 過去の人たちの状況を尋ねる
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000005_ChildQuestTip_915_18
+CN: 查看昔日民众的情况
+EN: Check on the people of days past
+JP: 過去の人たちの状況を尋ねる
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000005_ChildQuestTip_915_19
+CN: 跟随心魔前进
+EN: Follow the Inner Demon
+JP: 己心の魔についていく
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000005_ChildQuestTip_915_2
+CN: 向着那棵巨树前进
+EN: Head toward the giant tree
+JP: 巨木に向かって進む
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000005_ChildQuestTip_915_3
+CN: 继续向前，在湖面上行走
+EN: Keep going, walking across the lake
+JP: 前に進み、湖面を歩く
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000005_ChildQuestTip_915_38
+CN: 消灭残象
+EN: Destroy the Tacet Discords
+JP: 残像を倒す
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000005_ChildQuestTip_915_40
+CN: 直面鸣式的锋刃
+EN: Face the Threnodian's blade of ruin
+JP: 鳴式に直面する
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000005_ChildQuestTip_915_44
+CN: 赶往渊城一侧的战场
+EN: Rush to the battlefield in Yuan Fortress
+JP: 淵城側の戦場に向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000005_ChildQuestTip_915_47
+CN: 准备好了就离开内景吧
+EN: Leave the inner landscape when you're ready
+JP: 準備ができたら内なる景色を出る
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000005_ChildQuestTip_915_48
+CN: 继续前行
+EN: Keep going
+JP: このまま進む
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000005_ChildQuestTip_915_49
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000005_ChildQuestTip_915_50
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000005_ChildQuestTip_915_51
+CN: 询问重伤的军人
+EN: Question the gravely wounded soldier
+JP: 重傷を負った軍人に尋ねる
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000005_ChildQuestTip_915_52
+CN: 消灭沿途的残象
+EN: Destroy the Tacet Discords along the way
+JP: 残像を倒す
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000005_ChildQuestTip_915_53
+CN: 继续前行
+EN: Keep going
+JP: このまま進む
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000005_ChildQuestTip_915_55
+CN: 赶往渊城
+EN: Rush to Yuan Fortress
+JP: 淵城に向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000005_ChildQuestTip_915_56
+CN: 赶往渊城
+EN: Rush to Yuan Fortress
+JP: 淵城に向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000005_ChildQuestTip_915_58
+CN: 感受飞剑上的剑意
+EN: Feel the Sword Intent in the flying sword
+JP: 飛剣の剣意を感じ取る
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000005_ChildQuestTip_915_59
+CN: 感受飞剑上的剑意
+EN: Feel the Sword Intent in the flying sword
+JP: 飛剣の剣意を感じ取る
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000005_ChildQuestTip_915_60
+CN: 感受飞剑上的剑意
+EN: Feel the Sword Intent in the flying sword
+JP: 飛剣の剣意を感じ取る
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000005_ChildQuestTip_915_61
+CN: 击败全盛的无冠者
+EN: Defeat the Crownless at full power
+JP: 全盛期の無冠者を倒す
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000005_ChildQuestTip_915_62
+CN: 断绝鸣式的力量，遏制残象潮
+EN: Sever the Threnodian's power to hold back the Tacet Discord outbreak
+JP: 鳴式の力を断ち、残像潮を食い止める
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000005_ChildQuestTip_915_63
+CN: 直面鸣式的锋刃
+EN: Face the Threnodian's blade of ruin
+JP: 鳴式に直面する
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000005_ChildQuestTip_915_64
+CN: 再度击败全盛的无冠者
+EN: 
+JP: 再び全盛期の無冠者を倒す
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000005_ChildQuestTip_915_65
+CN: 继续向前，进入湖泊
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000005_ChildQuestTip_915_66
+CN: 前往渊城
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000005_InteractContent_915_1
+CN: 交谈
+EN: Talk
+JP: 会話する
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000005_InteractContent_915_2
+CN: 查看
+EN: Examine
+JP: 調べる
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000005_InteractContent_915_3
+CN: 受伤的士兵
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000005_InteractContent_915_4
+CN: 死去的将士
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000005_LevelPlayName_915_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000006_ChildQuestTip_251_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000006_ChildQuestTip_665_10
+CN: 击败天傀劫煞
+EN: Defeat the Calamity Effigy
+JP: 天傀劫殺を倒す
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000006_ChildQuestTip_665_13
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000006_ChildQuestTip_665_17
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000006_ChildQuestTip_665_19
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000006_ChildQuestTip_665_21
+CN: 击败天傀劫煞
+EN: Defeat the Calamity Effigy
+JP: 天傀劫殺を倒す
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000006_ChildQuestTip_665_22
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000006_ChildQuestTip_665_23
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000006_ChildQuestTip_665_26
+CN: 击败天傀劫煞
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000006_ChildQuestTip_665_27
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000006_ChildQuestTip_665_7
+CN: 击败天傀劫煞
+EN: Defeat the Calamity Effigy
+JP: 天傀劫殺を倒す
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000006_ChildQuestTip_665_8
+CN: 再度击败天傀劫煞
+EN: Defeat the Calamity Effigy again
+JP: 再び天傀劫殺を倒す
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000006_ChildQuestTip_665_9
+CN: 击败天傀劫煞
+EN: Defeat the Calamity Effigy
+JP: 天傀劫殺を倒す
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000006_ChildQuestTip_915_10
+CN: 改变路线，前往另一个薄弱点
+EN: Change course and head for the other weak spot
+JP: ルートを変え、もう一つの弱点の所に向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000006_ChildQuestTip_915_13
+CN: 前往机关屏障上的薄弱点
+EN: Head to the weak spot on the mechanism barrier
+JP: 機巧の障壁の弱点に向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000006_ChildQuestTip_915_14
+CN: 向前飞行，寻找落脚点
+EN: Talk over the situation with your companions
+JP: 仲間たちと現状を整理する
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000006_ChildQuestTip_915_18
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000006_ChildQuestTip_915_19
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000006_ChildQuestTip_915_20
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000006_ChildQuestTip_915_21
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000006_ChildQuestTip_915_24
+CN: test/击败失序天傀-木禺
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000006_ChildQuestTip_915_7
+CN: 击败天傀劫煞
+EN: Defeat the Calamity Effigy
+JP: 天傀劫殺を倒す
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000006_ChildQuestTip_915_8
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000006_ChildQuestTip_923_1
+CN: 前往甲板的前端开始御剑
+EN: Head to the front of the deck and begin Sword Flight
+JP: 甲板の最前部に向かって御剣を使う
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000006_LevelPlayName_915_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000007_ChildQuestTip_915_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000007_LevelPlayName_915_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915800000_ChildQuestTip_915_1
+CN: 和服务员篱篱聊聊
+EN: Talk to Lili the server
+JP: 店員の籬籬と会話する
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915800000_ChildQuestTip_915_2
+CN: 返回渊中鲜
+EN: Return to Yuan's Flavors
+JP: 淵中鮮に戻る
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915800000_ChildQuestTip_915_3
+CN: 去靠墙的柜子领取失物
+EN: Collect the lost item from the cabinet against the wall
+JP: 壁際の棚で落とし物を受け取る
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915800000_InteractContent_915_1
+CN: 拾取
+EN: Pick up
+JP: 拾う
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915800000_LevelPlayName_915_1
+CN: 遗落的剑法秘籍·其一
+EN: The Lost Sword Manual: Part I
+JP: 失われた剣法秘伝書・その一
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915800001_ChildQuestTip_915_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915800001_InteractContent_915_1
+CN: 归还
+EN: Return
+JP: 返す
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915800001_LevelPlayName_915_1
+CN: 遗落的剑法秘籍·其二
+EN: The Lost Sword Manual: Part II
+JP: 失われた剣法秘伝書・その二
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915800003_ChildQuestTip_915_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915800003_LevelPlayName_915_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915800005_ChildQuestTip_915_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915800005_LevelPlayName_915_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915800006_ChildQuestTip_915_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915800006_ChildQuestTip_915_10
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915800006_ChildQuestTip_915_11
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915800006_ChildQuestTip_915_16
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915800006_ChildQuestTip_915_17
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915800006_ChildQuestTip_915_2
+CN: 靠近湖心的白梅
+EN: Approach the white plum tree at the heart of the lake
+JP: 湖の中央付近にある白梅
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915800006_ChildQuestTip_915_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915800006_ChildQuestTip_915_7
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915800006_ChildQuestTip_915_8
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915800006_InteractContent_915_1
+CN: test/结束弹琴
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915800006_LevelPlayName_915_1
+CN: 内景·心湖
+EN: Inner Landscape: Heart Lake
+JP: 内なる景色・心象の湖
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000000_ChildQuestTip_923_1
+CN: 测试文本
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000000_ChildQuestTip_923_2
+CN: 测试文本
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000000_ChildQuestTip_923_6
+CN: 测试文本
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000000_LevelPlayName_923_1
+CN: 测试文本
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_196_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_196_10
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_196_11
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_196_13
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_196_14
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_196_15
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_196_17
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_196_18
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_196_23
+CN: 守住云梭的甲板
+EN: Defend the deck
+JP: 雲舶の甲板を守る
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_196_24
+CN: 和景燃一起前往敌对的云梭
+EN: Head to the enemy Shuttle with Jingran
+JP: 景燃と一緒に敵の雲舶に向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_196_25
+CN: 消灭来袭的异变机傀
+EN: Clear the attacking rogue Autopuppets
+JP: 機傀を倒す
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_196_27
+CN: 前往第二艘云梭
+EN: Head to the second enemy Shuttle
+JP: 2隻目の雲舶に向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_196_28
+CN: 消灭来袭的异变机傀
+EN: Clear the attacking rogue Autopuppets
+JP: 機傀を倒す
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_196_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_196_30
+CN: 用飞剑解除机关阵枢
+EN: Use Flying Swords to disable the Mechanism Control
+JP: 飛剣で機巧陣枢解除する
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_196_32
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_196_33
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_196_34
+CN: 感受剑光上的剑意
+EN: Feel the Sword Intent carried by the Swordlight
+JP: 剣光にある剣意を感じる
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_196_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_196_41
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_196_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_196_7
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_683_13
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_683_14
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_683_15
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_683_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_683_8
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_LevelPlayName_923_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800000_ChildQuestTip_923_2
+CN: 御剑飞往鸣秋川
+EN: Fly to Goldsong Woods
+JP: 御剣飛行で鳴秋の川に向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800000_ChildQuestTip_923_3
+CN: 御剑飞往鸣秋川
+EN: Fly to Goldsong Woods
+JP: 御剣飛行で鳴秋の川に向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800000_ChildQuestTip_923_4
+CN: 御剑飞往鸣秋川
+EN: Fly to Goldsong Woods
+JP: 御剣飛行で鳴秋の川に向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800000_ChildQuestTip_923_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800000_ChildQuestTip_923_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800000_LevelPlayName_923_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800000_QuestFailedGiveUp_923_1
+CN: 停止御剑
+EN: Stop Sword Flight
+JP: 御剣飛行をやめる
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800001_ChildQuestTip_923_10
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800001_ChildQuestTip_923_11
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800001_ChildQuestTip_923_7
+CN: 御剑飞往终武方庭附近
+EN: Fly to the area near Laststanding Squarefield
+JP: 御剣飛行で終戦の方庭に向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800001_ChildQuestTip_923_8
+CN: 御剑飞往终武方庭附近
+EN: Fly to the area near Laststanding Squarefield
+JP: 御剣飛行で終戦の方庭に向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800001_ChildQuestTip_923_9
+CN: 御剑飞往终武方庭附近
+EN: Fly to the area near Laststanding Squarefield
+JP: 御剣飛行で終戦の方庭に向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800001_LevelPlayName_923_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800001_QuestFailedGiveUp_923_2
+CN: 停止御剑
+EN: Stop Sword Flight
+JP: 御剣飛行をやめる
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800002_ChildQuestTip_923_10
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800002_ChildQuestTip_923_6
+CN: 御剑飞往倚枝岭
+EN: Fly to Boughrest Ridge
+JP: 御剣飛行で枝寄嶺に向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800002_ChildQuestTip_923_7
+CN: 御剑飞往倚枝岭
+EN: Fly to Boughrest Ridge
+JP: 御剣飛行で枝寄嶺に向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800002_ChildQuestTip_923_8
+CN: 御剑飞往倚枝岭
+EN: Fly to Boughrest Ridge
+JP: 御剣飛行で枝寄嶺に向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800002_ChildQuestTip_923_9
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800002_LevelPlayName_923_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800002_QuestFailedGiveUp_923_2
+CN: 停止御剑
+EN: Stop Sword Flight
+JP: 御剣飛行をやめる
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800003_ChildQuestTip_923_10
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800003_ChildQuestTip_923_6
+CN: 御剑飞往寂渊旧墟
+EN: Fly to the Tranquil Ruins
+JP: 御剣飛行で寂れた淵墟に向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800003_ChildQuestTip_923_7
+CN: 御剑飞往寂渊旧墟
+EN: Fly to the Tranquil Ruins
+JP: 御剣飛行で寂れた淵墟に向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800003_ChildQuestTip_923_8
+CN: 御剑飞往寂渊旧墟
+EN: Fly to the Tranquil Ruins
+JP: 御剣飛行で寂れた淵墟に向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800003_ChildQuestTip_923_9
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800003_LevelPlayName_923_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800003_QuestFailedGiveUp_923_2
+CN: 停止御剑
+EN: Stop Sword Flight
+JP: 御剣飛行をやめる
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800004_ChildQuestTip_923_11
+CN: 御剑飞往悬天构
+EN: Fly to the Skyworks
+JP: 御剣飛行で懸天の構に向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800004_ChildQuestTip_923_12
+CN: 御剑飞往悬天构
+EN: Fly to the Skyworks
+JP: 御剣飛行で懸天の構に向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800004_ChildQuestTip_923_13
+CN: 御剑飞往悬天构
+EN: Fly to the Skyworks
+JP: 御剣飛行で懸天の構に向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800004_ChildQuestTip_923_14
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800004_ChildQuestTip_923_15
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800004_LevelPlayName_923_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800004_QuestFailedGiveUp_923_3
+CN: 停止御剑
+EN: Stop Sword Flight
+JP: 御剣飛行をやめる
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800005_ChildQuestTip_923_2
+CN: 御剑飞往玄方城
+EN: Fly to Xuanfang Hold
+JP: 御剣飛行で玄方城に向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800005_ChildQuestTip_923_3
+CN: 御剑飞往玄方城
+EN: Fly to Xuanfang Hold
+JP: 御剣飛行で玄方城に向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800005_ChildQuestTip_923_4
+CN: 御剑飞往玄方城
+EN: Fly to Xuanfang Hold
+JP: 御剣飛行で玄方城に向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800005_ChildQuestTip_923_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800005_ChildQuestTip_923_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800005_LevelPlayName_923_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800005_QuestFailedGiveUp_923_1
+CN: 停止御剑
+EN: Stop Sword Flight
+JP: 御剣飛行をやめる
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_936800000_ChildQuestTip_936_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_936800000_ChildQuestTip_936_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_936800000_GeneralFloatingTipMainText_936_9
+CN: 测试文本
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_936800000_LevelPlayName_936_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_936800001_ChildQuestTip_936_1
+CN: 测试文本
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_936800001_ChildQuestTip_936_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_936800001_InteractContent_936_1
+CN: 测试文本
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_936800001_LevelPlayName_936_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_936800002_ChildQuestTip_936_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_936800002_ChildQuestTip_936_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_936800002_LevelPlayName_936_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_936800003_ChildQuestTip_936_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_936800003_ChildQuestTip_936_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_936800003_ChildQuestTip_936_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_936800003_LevelPlayName_936_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LoadingTipsText_613201_TipsText
+CN: 天光晦暗，风云激荡。
+异常的机关构件充斥着整片空间。眼前的一切，都在走向失序和无常……
+EN: The skies darken and storms rage. 
+Malfunctioning mechanical components fill the entire space. All before your eyes is spiraling into chaos and disorder...
+JP: 空は陰り、雲が激しく渦巻いている。
+異常に陥った機巧のパーツが空間を埋め尽くしている。目に映るすべてが、秩序を失い、混沌へと呑み込まれていく……
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LoadingTipsText_613201_Title
+CN: 天境
+EN: Tian Realm
+JP: 天の境界
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LoadingTipsText_613301_TipsText
+CN: 清夜明月，疏影暗香，自有伊人在畔。
+她的心象，已尽数向你敞开。
+EN: A bright moon hangs in the clear night sky. Shadows dance amid a lingering fragrance. The beloved is by my side.
+Her heartscape now laid bare before you.
+JP: 澄み渡る夜。月は静かに輝き、まばらな影とほのかな香りが漂う。その人は、いつもあなたの傍らにいる。
+彼女の心象は、そのすべてがあなたへと開かれている。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LoadingTipsText_613301_Title
+CN: 内景·心湖
+EN: Inner Landscape: Heart Lake
+JP: 内なる景色・心象の湖
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LoadingTipsText_613401_TipsText
+CN: 神宫之内，雾气弥漫，一切早有迹象……
+EN: Within the Sanctum, the mist swirls. The signs were there all along...
+JP: 神居には深い霧が立ち込めている。その異変は、すでに兆しを見せ始めていた……
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LoadingTipsText_613401_Title
+CN: 神宫内室
+EN: Manifold Sanctum
+JP: 神居内室
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LoadingTipsText_613501_TipsText
+CN: 山门巍峨高耸，没入云端。一砖一瓦，皆为人力修筑。
+彼时的渊城横跨玄方地界的各大要道，是阻挡残象进入梦州腹地的边防要隘。
+EN: The mountain gate towers into the heavens, vanishing among the clouds. Every brick and tile is shaped by human hands. 
+In those days, Yuan Fortress stood astride the major routes of Xuanfang, a vital frontier stronghold that kept Tacet Discords from reaching the heartland of Mengzhou.
+JP: 巨大な山門は雲を突き抜けるようにそびえ立ち、そのすべては人々の手で築き上げられた。
+かつて淵城は玄方地界の交通の要衝を押さえ、残像の侵攻を防ぎ、夢州の中枢を守る最前線の砦だった。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LoadingTipsText_613501_Title
+CN: 渊城前
+EN: Outside Yuan Fortress
+JP: 淵城前
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LoadingTipsText_613601_TipsText
+CN: 剑影斑驳，心弦缠结。
+那些未能斩却的俗念，未能了结的因果，已然化为枷锁。
+EN: Sword shadows fade, yet the heartstrings remain entangled.
+Lingering attachments left unsevered, unfinished ties of fate—these have already become shackles.
+JP: 揺らめく剣影の中、心の糸は絡み合う。
+断ち切れなかった執着と果たせなかった因果は、やがて己を縛る枷となった。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LoadingTipsText_613601_Title
+CN: 旧梦乱弦
+EN: Strings of Ruffled Dreams
+JP: 旧き夢、乱れる弦
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LoadingTipsText_901301_TipsText
+CN: 烟云悠远，长空飞驰。
+幢幢蜃影，有命火照见幽明，焚却执妄；漫漫仙途，有玉锋承人间灯火，明证道心。
+纵使天行有常，尘世微茫，如若此心不移，终可薪传百代，生生不息。
+EN: Mist and cloud stretch far; the vast sky races past.
+Amid the looming mirages, a Fire of Life shines into dark and light alike, and burns delusion away. Down the long road of transcendence, a jade blade carries the light of the mortal world, and proves a heart set on the Way.
+Heaven keeps its indifferent course, and the mortal world is small and fragile. But if this heart does not waver, the flame may yet be passed down a hundred generations, unending.
+JP: 霞む雲は遥か彼方へと流れ、広い空を漂う。揺らめく幻影の中、命の灯火は闇を照らし、執念を焼き尽くす。果てなき道の先で、玉の剣はこの世の灯火を受け継ぎ、揺るぎない道心を示す。たとえ天の理が変わらず、俗世が儚くとも、この心さえ揺るがなければ、その想いは受け継がれ、永遠に絶えることはない。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LoadingTipsText_901301_Title
+CN: 蜃云灯影，凡尘剑心
+EN: Lamplight in Mirage, Sword's Resolve in Heart
+JP: 幻雲纏いし灯の影、俗世憂いし剣の心
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LoadingTipsText_924601_TipsText
+CN: 山水如画，烟云如梦。
+在此间航行的云梭，似乎永无停歇之日。
+EN: Mountains and rivers unfold like a painting. White clouds drift by like a fleeting dream. 
+The Cloud Shuttles that sail these skies seem destined never to rest.
+JP: 山河は絵巻のように美しく、霞む雲は夢のようにたゆたう。
+空を行き交う雲舶は、終わることのない旅を続けているかのようだ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LoadingTipsText_924601_Title
+CN: 人境
+EN: Ren Realm
+JP: 人の境界
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LoadingTipsText_924701_TipsText
+CN: 此时此刻，现实中的玄方城形势似乎发生了变化……
+EN: At this very moment, the situation within the real Xuanfang Hold seems to have shifted...
+JP: その頃、現実の玄方城で、状況に変化が生じているようだ……
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LoadingTipsText_924701_Title
+CN: 此刻的玄方城
+EN: Xuanfang Hold at This Moment
+JP: 今の玄方城
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LoadingTipsText_924801_TipsText
+CN: 阴云密布，迷雾深重。
+越是直上碧落，越是堕入幽冥之中。
+EN: Dark clouds gather; a heavy fog blankets the land. 
+The higher one climbs toward the heavens, the deeper one plunges into the abyss.
+JP: 暗雲は垂れ込め、深い霧がすべてを覆う。
+空へ昇るほど、その身は冥き淵へと堕ちてゆく。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LoadingTipsText_924801_Title
+CN: 地境
+EN: Di Realm
+JP: 地の境界
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LoadingTipsText_924901_TipsText
+CN: 迷雾之间，幽阁之里，异象蔓延，心狐迷踪。
+EN: Amid the mist, within the secluded pagoda, anomalies spread. The Moon Fox leaves only mysteries in Her wake.
+JP: 深い霧に包まれた幽閣で異変が広がり、狐の足跡もまた霧の中へと消えていく。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LoadingTipsText_924901_Title
+CN: 心的密室
+EN: Hsin's Chamber
+JP: 心の密室
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LoadingTipsText_925001_TipsText
+CN: 位于玄方城控制中枢内部的数据空间，一方“匣中天地”。
+此间以记录中的历史数据还原了玄方地界两百年前的风貌。
+EN: A data space within the control mainframe of Xuanfang Hold—a "world within the Capsule." 
+Here, historical data has reconstructed Xuanfang as it appeared two centuries ago.
+JP: 玄方城の制御中枢の内部に存在するデータ空間、「匣の中の天地」。
+ここでは記録された歴史データをもとに、200年前の玄方地界が再現されている。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LoadingTipsText_925001_Title
+CN: 玄元境·渊城前
+EN: Xuanyuan Domain: Outside Yuan Fortress
+JP: 玄元境・淵城前
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LongShanTask_36001_TaskName
+CN: 使用清宵完成「逆境深塔·深境区」的残响之塔以及回音之塔第四层
+EN: Use Qingxiao to clear Resonant Tower & Echoing Tower Floor 4 in Tower of Adversity: Hazard Zone
+JP: 清宵を使って「逆境深塔・深層エリア」の残響の塔および反響の塔の第4階層をクリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LongShanTask_36002_TaskName
+CN: 使用清宵完成「逆境深塔·深境区」的深境之塔第一层到第四层
+EN: Use Qingxiao to clear Hazard Tower Floor 1 to Floor 4 in Tower of Adversity: Hazard Zone
+JP: 清宵を使って「逆境深塔・深層エリア」の深境の塔の第1から第4階層をクリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LongShanTask_36003_TaskName
+CN: 使用景燃完成「逆境深塔·深境区」的残响之塔以及回音之塔第四层
+EN: Use Jingran to clear Resonant Tower & Echoing Tower Floor 4 in Tower of Adversity: Hazard Zone
+JP: 景燃を使って「逆境深塔・深層エリア」の残響の塔および反響の塔の第4階層をクリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LongShanTask_36004_TaskName
+CN: 使用景燃完成「逆境深塔·深境区」的深境之塔第一层到第四层
+EN: Use Jingran to clear Hazard Tower Floor 1 to Floor 4 in Tower of Adversity: Hazard Zone
+JP: 景燃を使って「逆境深塔・深層エリア」の深境の塔の第1から第4階層をクリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LongShanTask_36005_TaskName
+CN: 使用爱弥斯完成「逆境深塔·深境区」的深境之塔第一层到第四层
+EN: Use Aemeath to clear Hazard Tower Floor 1 to Floor 4 in Tower of Adversity: Hazard Zone
+JP: エイメスを使って「逆境深塔・深層エリア」の深境の塔の第1から第4階層をクリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LongShanTask_36006_TaskName
+CN: 使用陆赫斯完成「逆境深塔·深境区」的深境之塔第一层到第四层
+EN: Use Luuk Herssen to clear Hazard Tower Floor 1 to Floor 4 in Tower of Adversity: Hazard Zone
+JP: リューク・ヘルセンを使って「逆境深塔・深層エリア」の深境の塔の第1から第4階層をクリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LongShanTask_36007_TaskName
+CN: 使用西格莉卡完成「逆境深塔·深境区」的深境之塔第一层到第四层
+EN: Use Sigrika to clear Hazard Tower Floor 1 to Floor 4 in Tower of Adversity: Hazard Zone
+JP: シグリカを使って「逆境深塔・深層エリア」の深境の塔の第1から第4階層をクリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LongShanTask_36008_TaskName
+CN: 使用绯雪完成「逆境深塔·深境区」的深境之塔第一层到第四层
+EN: Use Hiyuki to clear Hazard Tower Floor 1 to Floor 4 in Tower of Adversity: Hazard Zone
+JP: 緋雪を使って「逆境深塔・深層エリア」の深境の塔の第1から第4階層をクリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LongShanTask_36009_TaskName
+CN: 使用秧秧·玄翎完成「逆境深塔·深境区」的深境之塔第一层到第四层
+EN: Use Yangyang: Xuanling to clear Hazard Tower Floor 1 to Floor 4 in Tower of Adversity: Hazard Zone
+JP: 秧秧・玄翎を使って「逆境深塔・深層エリア」の深境の塔の第1から第4階層をクリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LongShanTask_36010_TaskName
+CN: 使用清宵完成「冥歌海墟」的「再生海域-湍渊」区域
+EN: Use Qingxiao to clear Respawning Waters: Torrents in Whimpering Wastes
+JP: 清宵を使って「死の歌が纏う海の廃墟」で「再生の海域・アビス」をクリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LongShanTask_36011_TaskName
+CN: 使用景燃完成「冥歌海墟」的「再生海域-湍渊」区域
+EN: Use Qingxiao to clear Respawning Waters: Torrents in Whimpering Wastes
+JP: 景燃を使って「死の歌が纏う海の廃墟」で「再生の海域・アビス」をクリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LongShanTask_36012_TaskName
+CN: 使用爱弥斯或陆赫斯完成「冥歌海墟」的「再生海域-湍渊」区域
+EN: Use Aemeath or Luuk Herssen to clear Respawning Waters: Torrents in Whimpering Wastes
+JP: エイメス或いはリューク・ヘルセンを使って「死の歌が纏う海の廃墟」で「再生の海域・アビス」をクリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LongShanTask_36013_TaskName
+CN: 使用西格莉卡或弗洛洛完成「冥歌海墟」的「再生海域-湍渊」区域
+EN: Use Sigrika or Phrolova to clear Respawning Waters: Torrents in Whimpering Wastes
+JP: シグリカ或いはフローヴァを使って「死の歌が纏う海の廃墟」で「再生の海域・アビス」をクリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LongShanTask_36014_TaskName
+CN: 使用绯雪或露西完成「冥歌海墟」的再生海域-湍渊」区域
+EN: Use Hiyuki or Lucy to clear Respawning Waters: Torrents in Whimpering Wastes
+JP: 緋雪或いはルーシーを使って「死の歌が纏う海の廃墟」で「再生の海域・アビス」をクリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LongShanTask_36015_TaskName
+CN: 使用秧秧·玄翎或卡提西娅完成「冥歌海墟」的再生海域-湍渊」区域
+EN: Use Yangyang: Xuanling or Cartethyia to clear Respawning Waters: Torrents in Whimpering Wastes
+JP: 秧秧・玄翎或はカルテジアを使って「死の歌が纏う海の廃墟」で「再生の海域・アビス」をクリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LongShanTask_36016_TaskName
+CN: 使用带有清宵的队伍完成一次「终焉矩阵」的「稳态协议」和「奇点扩张」
+EN: Complete Stability Accords and Singularity Expansion once with a team that includes Qingxiao in Endstate Matrix
+JP: 清宵を編成したチームで「終焉マトリクス」の「安定プロトコル」と「奇点拡張」を各1回クリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LongShanTask_36017_TaskName
+CN: 使用带有景燃的队伍完成一次「终焉矩阵」的「稳态协议」和「奇点扩张」
+EN: Complete Stability Accords and Singularity Expansion once with a team that includes Jingran in Endstate Matrix
+JP: 景燃を編成したチームで「終焉マトリクス」の「安定プロトコル」と「奇点拡張」を各1回クリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LongShanTask_36018_TaskName
+CN: 使用任意6队挑战「终焉矩阵」的「奇点扩张」并保留战斗记录
+EN: Challenge Singularity Expansion in Endstate Matrix with 6 teams of any lineup and preserve the records
+JP: 任意6つのチームで「終焉マトリクス」の「奇点拡張」をクリアし、戦闘記録を残す
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LongShanTask_36019_TaskName
+CN: 使用任意9队挑战「终焉矩阵」的「奇点扩张」并保留战斗记录
+EN: Challenge Singularity Expansion in Endstate Matrix with 9 teams of any lineup and preserve the records
+JP: 任意9つのチームで「終焉マトリクス」の「奇点拡張」をクリアし、戦闘記録を残す
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LongShanTask_36020_TaskName
+CN: 击败「终焉矩阵」的「奇点扩张」的第二轮敌人
+EN: Defeat the Round 2 enemies of Singularity Expansion in Endstate Matrix
+JP: 「終焉マトリクス」の「奇点拡張」でラウンド2の敵を倒す
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LongShanTask_36021_TaskName
+CN: 击败「终焉矩阵」的「奇点扩张」的第三轮敌人
+EN: Defeat the Round 3 enemies of Singularity Expansion in Endstate Matrix
+JP: 「終焉マトリクス」の「奇点拡張」でラウンド3の敵を倒す
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LongShanTask_36022_TaskName
+CN: 通关两次【先锋服特别战场】的【天傀劫煞】
+EN: Clear the challenge against Calamity Effigy in Pioneer Training Ground
+JP: 【先行テストサーバー特別戦場】の【天傀劫殺】を2回クリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LongShanTask_36023_TaskName
+CN: 通关两次【先锋服特别战场】的【玉冥蛇与巡霄枪卫】
+EN: Clear the challenge against Jade Nether Serpent and Skywatch Lancer in Pioneer Training Ground
+JP: 【先行テストサーバー特別戦場】の【機玉の冥蛇と霄巡りの槍衛】を2回クリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LongShanTask_36024_TaskName
+CN: 完成1次「全息战略·幻痛」的「万囮牢·朽躯Ⅳ」
+EN: Defeat Myriad Snare: Rustfire Chassis at Lv. 4 difficulty in "Tactical Hologram: Phantom Pain" 1 time
+JP: 「ホロタクティクス・ファントムペイン」の「万囮の檻・朽躯Ⅳ」を1回クリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LongShanTask_36025_TaskName
+CN: 完成1次「全息战略·幻痛」的「万囮牢·朽躯Ⅵ」
+EN: Defeat Myriad Snare: Rustfire Chassis at Lv. 6 difficulty in "Tactical Hologram: Phantom Pain" 1 time
+JP: 「ホロタクティクス・ファントムペイン」の「万囮の檻・朽躯Ⅵ」を1回クリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LongShanTask_36026_TaskName
+CN: 完成「群声共振模拟域」关卡难度八的挑战
+EN: Clear the Difficult 8 stage in "Resonance Sim Realm"
+JP: 「群響シミュレーション」の難易度8をクリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LongShanTask_36027_TaskName
+CN: 在探索工具-特殊道具中装配【古琴】道具，并任意弹奏五次古琴
+EN: Equip the Guqin at Utility - Specials and play it 5 times
+JP: 探索モジュール-特殊アイテムで【古琴】を受け取り、5回演奏する
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LordGymInfo_Text17
+CN: 全息战略·万囮牢·朽躯
+EN: Tactical Hologram: Myriad Snare - Rustfire Chassis
+JP: ホロタクティクス・万囮の檻
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_800001_Original
+CN: <i>出仙山，望尘关，岁月长</i>
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_800001_Translation
+CN: <i>出仙山，望尘关，岁月长</i>
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_800002_Original
+CN: <i>步清涟，拂素裳，染梅香</i>
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_800002_Translation
+CN: <i>步清涟，拂素裳，染梅香</i>
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_800003_Original
+CN: <i>置琴松石上，剑蕊凝寒光</i>
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_800003_Translation
+CN: <i>置琴松石上，剑蕊凝寒光</i>
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_800004_Original
+CN: <i>问道心，扣弦吟，思量</i>
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_800004_Translation
+CN: <i>问道心，扣弦吟，思量</i>
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_800005_Original
+CN: <i>听 悠悠天地间， 悲风过沉渊</i>
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_800005_Translation
+CN: <i>听 悠悠天地间， 悲风过沉渊</i>
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_800006_Original
+CN: <i>叹 世人缘生灭， 聚散须臾间</i>
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_800006_Translation
+CN: <i>叹 世人缘生灭， 聚散须臾间</i>
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_800007_Original
+CN: <i>惟愿 执长剑</i>
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_800007_Translation
+CN: <i>惟愿 执长剑</i>
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_800008_Original
+CN: <i>孤身入人烟</i>
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_800008_Translation
+CN: <i>孤身入人烟</i>
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_800009_Original
+CN: <i>悯 芸芸众生有情念</i>
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_800009_Translation
+CN: <i>悯 芸芸众生有情念</i>
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_800010_Original
+CN: <i>是耶非焉， 道无言，梦大千</i>
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_800010_Translation
+CN: <i>是耶非焉， 道无言，梦大千</i>
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_800011_Original
+CN: <i>今我流连， 浮光浅，照心鉴</i>
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_800011_Translation
+CN: <i>今我流连， 浮光浅，照心鉴</i>
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_800012_Original
+CN: <i>与君问剑， 清万籁，荡玄天</i>
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_800012_Translation
+CN: <i>与君问剑， 清万籁，荡玄天</i>
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_800013_Original
+CN: <i>并肩回看灯火翩</i>
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_800013_Translation
+CN: <i>并肩回看灯火翩</i>
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_800014_Original
+CN: <i>蓦然见，长风昭人间</i>
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_800014_Translation
+CN: <i>蓦然见，长风昭人间</i>
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_HuangLong_SYYLFML_570_14
+CN: 将人身上最不可控的部分……改造成踏向完美的基石……
+EN: The most uncontrollable part of a person... remade into the stepping stone toward perfection.
+JP: 人間の最も御しがたい部分を 完璧に至るための礎に作り変える……
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_HuangLong_XLZHDLY_80_4
+CN: 你——！
+EN: You—!
+JP: この――！
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_HuangLong_XLZHDLY_80_6
+CN: 快去！这里交给我就行了！
+EN: Go! Leave this to me!
+JP: 行け！ ここは私に任せてくれ！
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_100_1
+CN: *****************
+EN: ****************************************************************************
+JP: ******************************************************************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_100_2
+CN: *************
+EN: ************************************
+JP: ***************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_100_3
+CN: ******************
+EN: ***************************************
+JP: *****************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_110_1
+CN: ****
+EN: **********
+JP: *****
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_110_10
+CN: ***********************************************
+EN: ***********************************************************************************************************************************
+JP: ********************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_110_11
+CN: **************
+EN: *************************************
+JP: *********************************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_110_12
+CN: *************
+EN: **************************************************
+JP: ******************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_110_13
+CN: *******************************
+EN: ********************************************************************************************************
+JP: ***************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_110_14
+CN: **************
+EN: *****************************************
+JP: *******************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_110_15
+CN: **
+EN: ***
+JP: **
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_110_16
+CN: **************
+EN: **************************************************
+JP: *************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_110_17
+CN: **********
+EN: ***********************
+JP: *********
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_110_18
+CN: ****
+EN: *************
+JP: ********
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_110_19
+CN: ********************************************************************************
+EN: ************************************************************************************************************************************************************************************************************************************************************************************************
+JP: ********************************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_110_2
+CN: ********************
+EN: *************************************************************************
+JP: **************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_110_3
+CN: *********************
+EN: *************************************************************************
+JP: *****************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_110_4
+CN: ***************
+EN: ************************************************
+JP: ************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_110_6
+CN: ***
+EN: ****
+JP: ***
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_110_7
+CN: ****
+EN: ******************
+JP: ********
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_110_8
+CN: ******************
+EN: *******************************************************************
+JP: ******************************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_110_9
+CN: *******************
+EN: ******************************************************
+JP: ************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_111_1
+CN: *******************************************
+EN: *******************************************************************************************************************************************************************************************
+JP: ***********************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_111_10
+CN: **********************************************************
+EN: ***************************************************************************************************************************************************************************************************************
+JP: *********************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_111_11
+CN: **************************************
+EN: ************************************************************************************************************************************************************
+JP: *********************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_111_12
+CN: **************
+EN: *******************************************
+JP: *************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_111_13
+CN: **********************************************
+EN: ****************************************************************************************************************************************************************************************
+JP: ***************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_111_14
+CN: ***************************
+EN: ********************************************************************************************************************************
+JP: **********************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_111_15
+CN: *************************************************
+EN: ****************************************************************************************************************************************************************
+JP: *****************************************************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_111_16
+CN: *******************************
+EN: *******************************************************************************************************
+JP: *******************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_111_17
+CN: *************************************
+EN: **************************************************************************************************************************
+JP: ******************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_111_18
+CN: ************************************************
+EN: *******************************************************************************************************************************************
+JP: **********************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_111_19
+CN: **********************
+EN: *****************************************************
+JP: *************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_111_2
+CN: **********************
+EN: ********************************************************************************************
+JP: **************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_111_20
+CN: *************
+EN: *****************************************
+JP: ******************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_111_21
+CN: ******************
+EN: *******************************
+JP: ***************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_111_22
+CN: **********************
+EN: *************************************************************************************************************
+JP: ***********************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_111_23
+CN: *******
+EN: ********************************
+JP: ***************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_111_24
+CN: *********************
+EN: ****************************************************************
+JP: ***********************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_111_25
+CN: ********
+EN: *******************************
+JP: ***************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_111_26
+CN: ******************************************************************************************************************************************
+EN: ***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+JP: ******************************************************************************************************************************************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_111_3
+CN: **********************
+EN: *******************************************************************
+JP: *****************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_111_4
+CN: ***********
+EN: ************************************
+JP: ******************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_111_6
+CN: *****************************
+EN: ********************************************************************************
+JP: ********************************************************************************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_111_7
+CN: *****************************
+EN: ***********************************************************************************************************************************
+JP: **********************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_111_8
+CN: *************
+EN: *********************************
+JP: **********************************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_111_9
+CN: **************************************
+EN: ********************************************************************************************************************************
+JP: **************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_120_1
+CN: *****************
+EN: ********************************************************************
+JP: ************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_120_2
+CN: *******
+EN: *******************
+JP: *******
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_121_1
+CN: *********************
+EN: ***************************************************************************************
+JP: ********************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_121_3
+CN: ****************
+EN: *************************************************************
+JP: ***********************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_121_4
+CN: **********
+EN: ******************************
+JP: ************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_121_5
+CN: *****************
+EN: ***************************************************************
+JP: ***************************************************************************************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_122_1
+CN: *************
+EN: *****************************************
+JP: ******************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_122_2
+CN: *****
+EN: *********
+JP: *****************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_123_1
+CN: ***************
+EN: *****************************************************************
+JP: **************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_123_2
+CN: ******************
+EN: ************************************************************************
+JP: **************************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_124_1
+CN: *****************************
+EN: *********************************************************************************
+JP: ***********************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_124_4
+CN: ******************
+EN: ************************************************************
+JP: ************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_124_6
+CN: ********************
+EN: ******************************************************************************
+JP: ***********************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_124_7
+CN: *********************************
+EN: *************************************************************************************************************************
+JP: ****************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_124_8
+CN: ***********
+EN: ***************************
+JP: *****************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_125_1
+CN: ******
+EN: ******************
+JP: ************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_125_2
+CN: ****
+EN: **************
+JP: ******************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_125_3
+CN: ****************
+EN: *****************************************************************
+JP: ***************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_126_1
+CN: *********************
+EN: **************************************************************
+JP: ***************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_130_1
+CN: ***********************
+EN: ************************************************************************
+JP: **********************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_130_2
+CN: **************
+EN: ******************************************
+JP: **********************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_130_3
+CN: *************************************************
+EN: **************************************************************************************************************************************
+JP: *****************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_130_4
+CN: *************************
+EN: ****************************************************************************************
+JP: *************************************************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_130_5
+CN: **************************
+EN: *******************************************************************************************
+JP: ****************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_131_1
+CN: **************
+EN: *******************************************
+JP: **********************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_131_2
+CN: **********************
+EN: ******************************************************************
+JP: ************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_132_1
+CN: **********************
+EN: ***************************************************************************************
+JP: ********************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_133_1
+CN: ******************
+EN: ***************************************************
+JP: ********************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_133_2
+CN: *****************
+EN: **************************************
+JP: ************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_134_1
+CN: *******************
+EN: ******************************************************************
+JP: ***************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_134_2
+CN: ******************
+EN: ***********************************************************************
+JP: *********************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_140_1
+CN: ******
+EN: ************
+JP: ********
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_140_10
+CN: *************
+EN: *****************************************
+JP: *************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_140_11
+CN: ********
+EN: ***********************
+JP: ******************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_140_12
+CN: ******
+EN: *********************
+JP: *********
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_140_13
+CN: ********
+EN: *********************
+JP: **********************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_140_14
+CN: *******
+EN: *********************
+JP: *************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_140_15
+CN: ***************************
+EN: *************************************************************************
+JP: *********************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_140_16
+CN: **************
+EN: ************************************
+JP: *********************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_140_17
+CN: *************
+EN: *****************************
+JP: *********************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_140_18
+CN: ***************
+EN: *****************************************************
+JP: ****************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_140_19
+CN: ********
+EN: **********************************
+JP: *********
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_140_2
+CN: *********************
+EN: ***************************************************************************************
+JP: ******************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_140_20
+CN: ***************************************************************************************
+EN: **********************************************************************************************************************************************************************************************************************************************************************************************************
+JP: *************************************************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_140_3
+CN: ***********************************
+EN: ************************************************************************************************************
+JP: ******************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_140_4
+CN: ****************************
+EN: **************************************************************************************************************
+JP: **************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_140_5
+CN: *********************
+EN: ********************************************
+JP: *****************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_140_6
+CN: *****
+EN: *******
+JP: *****
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_140_7
+CN: ************
+EN: ************************************
+JP: *******************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_140_8
+CN: *****************
+EN: ****************************************************
+JP: **********************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_140_9
+CN: ************
+EN: ****************************
+JP: ****************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_141_1
+CN: ********
+EN: *********************************
+JP: ******
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_141_2
+CN: **********************************
+EN: ***********************************************************************************************************************************************
+JP: ******************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_141_3
+CN: **************************
+EN: *********************************************************************************************
+JP: **************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_141_4
+CN: *********************
+EN: *****************************************************************************************
+JP: **************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_150_1
+CN: *****************************************************
+EN: ******************************************************************************************************************************************
+JP: ***************************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_150_10
+CN: **********************
+EN: *******************************************************************
+JP: ********************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_150_11
+CN: ********************************
+EN: ****************************************************************************************************************
+JP: *************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_150_12
+CN: ******************************************
+EN: ********************************************************************************************************************************************************************
+JP: **************************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_150_13
+CN: ***************************
+EN: *********************************************************************************************
+JP: *******************************************************************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_150_14
+CN: ************************
+EN: *********************************
+JP: ******************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_150_15
+CN: ************
+EN: **************************************
+JP: *****************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_150_16
+CN: ***********
+EN: **********************************
+JP: **************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_150_17
+CN: *********************************
+EN: *************************************************************************************
+JP: **************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_150_18
+CN: *********************************
+EN: ***************************************************************************************************************************
+JP: ********************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_150_19
+CN: ***************************
+EN: **************************************************************************************************************************************
+JP: ******************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_150_2
+CN: **************************************
+EN: *******************************************************************************************************************************************************************
+JP: ************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_150_20
+CN: **************************
+EN: **************************************************************************************
+JP: *************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_150_21
+CN: *************************************
+EN: *********************************************************************************************************************************************
+JP: *************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_150_22
+CN: **************
+EN: *******************************************
+JP: *******************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_150_23
+CN: ****************************************
+EN: *************************************************************************************************************************************
+JP: *********************************************************************************************************************************************************************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_150_24
+CN: *****************************************
+EN: *********************************************************************************************************************************
+JP: ************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_150_25
+CN: ***************************
+EN: ***********************************************************************************************************************************
+JP: ********************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_150_26
+CN: ***********************
+EN: **************************************************************************
+JP: ********************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_150_27
+CN: *************************************
+EN: *****************************************************************************************************************************************
+JP: **************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_150_28
+CN: ***************************************
+EN: ****************************************************************************************************************************************
+JP: ***********************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_150_29
+CN: **********************************
+EN: *********************************************************************************************************************************
+JP: ****************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_150_3
+CN: *********************************
+EN: **************************************************************************************************************************
+JP: ******************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_150_30
+CN: *****************************
+EN: **********************************************************************************************
+JP: *********************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_150_31
+CN: *************************************
+EN: ************************************************************************************************************
+JP: ******************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_150_32
+CN: ********
+EN: **********************************
+JP: **************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_150_33
+CN: *****
+EN: ************
+JP: **********************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_150_34
+CN: ************
+EN: *********************************
+JP: *************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_150_35
+CN: ************************************************************************************************************************************************************************
+EN: ********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+JP: ********************************************************************************************************************************************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_150_4
+CN: *******************
+EN: **************************************
+JP: ****************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_150_5
+CN: ********************************************
+EN: *************************************************************************************************************************************************************
+JP: *********************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_150_6
+CN: ******************************
+EN: *****************************************************************************************************************************
+JP: *******************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_150_7
+CN: ****************************************
+EN: ******************************************************************************************************************************************************
+JP: *****************************************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_150_8
+CN: ***********************
+EN: *****************************************************************************
+JP: **************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_150_9
+CN: ***
+EN: ************
+JP: ****
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_151_1
+CN: ***********************
+EN: ********************************************************************
+JP: *************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_151_10
+CN: **********************************************
+EN: ****************************************************************************************************************************************************************************************
+JP: ************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_151_11
+CN: **************************************
+EN: *****************************************************************************************************************************************************
+JP: *************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_151_12
+CN: *****************
+EN: **********************************
+JP: ********************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_151_13
+CN: *************************
+EN: *************************************************************************************
+JP: ********************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_151_14
+CN: ****
+EN: ************
+JP: *****
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_151_15
+CN: ************
+EN: ****************************************
+JP: *******************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_151_2
+CN: *****
+EN: ******************
+JP: **********************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_151_3
+CN: **********
+EN: *****************************************
+JP: ********************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_151_4
+CN: **********************************
+EN: **********************************************************************************************************
+JP: **********************************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_151_5
+CN: **************************************
+EN: *******************************************************************************************************************************************
+JP: *************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_151_6
+CN: ****
+EN: *******
+JP: **********************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_151_7
+CN: ***********************************
+EN: *******************************************************************************************************************************************
+JP: *****************************************************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_151_8
+CN: **************************
+EN: **************************************************************************
+JP: *************************************************************************************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_151_9
+CN: ***********************************
+EN: ******************************************************************************************************************
+JP: ************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_152_1
+CN: ***********************
+EN: *************************************************************************
+JP: ***********************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_152_2
+CN: ********
+EN: *************************
+JP: ******************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_152_3
+CN: ****************************
+EN: ****************************************************************************************
+JP: *****************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_152_4
+CN: ***********************************
+EN: **********************************************************************************************************************************
+JP: **********************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_153_1
+CN: ***********************
+EN: *****************************************************************************************************
+JP: ***************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_153_2
+CN: **********
+EN: ***************************************
+JP: *************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_153_3
+CN: **************
+EN: *****************************************
+JP: *****************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_154_1
+CN: ***********************
+EN: **************************************************************************************************
+JP: ***************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_154_2
+CN: **************************
+EN: *********************************************************************************
+JP: *********************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_154_3
+CN: ******************
+EN: *******************************************************************
+JP: ****************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_160_1
+CN: *******************
+EN: *******************************************************************
+JP: *****************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_160_2
+CN: ************************
+EN: *****************************************************
+JP: ********************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_160_3
+CN: *****
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_161_1
+CN: ******
+EN: *****************************
+JP: ****************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_161_10
+CN: ***********
+EN: ********************
+JP: ***********
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_161_11
+CN: ******************
+EN: ****************************************************************************
+JP: ********************************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_161_12
+CN: **
+EN: ***
+JP: **
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_161_13
+CN: ****************************************
+EN: *************************************************************************************************************
+JP: ***************************************************************************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_161_14
+CN: *********************
+EN: ************************************************************************
+JP: ****************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_161_15
+CN: *********************************
+EN: **************************************************************************************************
+JP: ***************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_161_16
+CN: ***************************************
+EN: *******************************************************************************************************************************************
+JP: *****************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_161_17
+CN: ***************************
+EN: *********************************************************************************************
+JP: ********************************************************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_161_18
+CN: **************
+EN: *************************************
+JP: ***********************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_161_19
+CN: *************************************
+EN: ****************************************************************************************************************
+JP: ****************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_161_2
+CN: **
+EN: ***
+JP: **
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_161_20
+CN: *********************************************
+EN: **********************************************************************************************************************************************
+JP: *************************************************************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_161_21
+CN: **************************
+EN: ***********************************************************************
+JP: ***********************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_161_22
+CN: ******************************************
+EN: ***********************************************************************************************************************
+JP: ********************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_161_23
+CN: *********************************
+EN: ***********************************************************************************************************************************************************
+JP: ************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_161_24
+CN: **********************************
+EN: ********************************************************************************************
+JP: ************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_161_25
+CN: ****************
+EN: **********************************************
+JP: **********************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_161_26
+CN: ***********************
+EN: **************************************************************************
+JP: *******************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_161_27
+CN: ****************************
+EN: **********************************************************************************
+JP: *************************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_161_28
+CN: *******************************************
+EN: ******************************************************************************************************************************************************
+JP: **************************************************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_161_29
+CN: ****
+EN: *************
+JP: *******
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_161_3
+CN: ****************
+EN: ********************************************
+JP: *************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_161_31
+CN: *********
+EN: *****************
+JP: *************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_161_32
+CN: ***********************************************************************************************************************************************************************************************************************************
+EN: ************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+JP: *************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_161_4
+CN: **
+EN: ****
+JP: ***
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_161_5
+CN: ********************
+EN: **********************************************************************
+JP: *******************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_161_6
+CN: ******************
+EN: ******************************************
+JP: **********************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_161_7
+CN: ******************************
+EN: ************************************************************************************************************************
+JP: **********************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_161_8
+CN: *****************
+EN: ************************************************************************
+JP: ******************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_161_9
+CN: **********************************
+EN: ***************************************************************************************************************
+JP: ************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_162_1
+CN: **********
+EN: *****************************************
+JP: ***************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_163_1
+CN: **************
+EN: *************************************************
+JP: *********************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_163_2
+CN: ************
+EN: ************************************************
+JP: ***************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_165_1
+CN: *****************
+EN: **********************************************************
+JP: *************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_166_1
+CN: **********************
+EN: **********************************************************
+JP: *************************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_170_1
+CN: ************************************
+EN: *********************************************************************************
+JP: ******************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_170_10
+CN: ******
+EN: ***********
+JP: *************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_170_11
+CN: ******************************
+EN: **************************************************************************************
+JP: **********************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_170_12
+CN: ******************************************
+EN: ***********************************************************************************************************************
+JP: ****************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_170_13
+CN: ********************************************
+EN: *********************************************************************************************************************************************
+JP: *************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_170_14
+CN: ***************************
+EN: *******************************************************************************************************
+JP: *********************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_170_15
+CN: ******************
+EN: **************************************************
+JP: **************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_170_16
+CN: *****************************
+EN: **********************************************************************************
+JP: ***********************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_170_17
+CN: ***
+EN: *********
+JP: *******************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_170_18
+CN: ****************************
+EN: *********************************************************************************************************
+JP: ***************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_170_19
+CN: ****************
+EN: *******************************************************
+JP: **********************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_170_2
+CN: ****
+EN: ******
+JP: ********
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_170_20
+CN: *************************************************************************************
+EN: ***********************************************************************************************************************************************************************************************************************************************************************************************************************************
+JP: ***************************************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_170_4
+CN: ***********************
+EN: *********************************************************************************
+JP: ****************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_170_6
+CN: ***********
+EN: *****************************
+JP: *************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_170_7
+CN: ********************************************
+EN: ****************************************************************************************************************************************
+JP: *************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_170_8
+CN: ***********
+EN: *****************************
+JP: *************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_170_9
+CN: ****************************************
+EN: ************************************************************************************************************************
+JP: *********************************************************************************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_171_1
+CN: ************************
+EN: **********************************************************************************
+JP: *********************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_172_1
+CN: *********
+EN: **********************************
+JP: *********************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_172_2
+CN: ******
+EN: ********************
+JP: ***********************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_180_1
+CN: ************
+EN: **************************************
+JP: **************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_180_10
+CN: ******
+EN: **************
+JP: *****
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_180_11
+CN: ***********************
+EN: ***************************************************************************
+JP: ******************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_180_12
+CN: *****************************
+EN: *************************************************************************
+JP: **********************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_180_13
+CN: ******************
+EN: ****************************************************************
+JP: *****************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_180_15
+CN: ********************
+EN: ***********************************
+JP: *******************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_180_17
+CN: ************************************
+EN: *************************************************************************************************************************************
+JP: ***************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_180_18
+CN: **************************************
+EN: ********************************************************************************************************************
+JP: *********************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_180_19
+CN: *****************
+EN: ***************************************
+JP: *********************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_180_2
+CN: **********************************
+EN: ******************************************************************************************************************************
+JP: **********************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_180_20
+CN: *****************************************
+EN: **************************************************************************************************
+JP: ****************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_180_21
+CN: **********************
+EN: ************************************************************
+JP: ***********************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_180_22
+CN: *******
+EN: ************************
+JP: *********************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_180_23
+CN: **********
+EN: *****************************
+JP: ****************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_180_24
+CN: ************************************************************************************************
+EN: *****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+JP: **********************************************************************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_180_3
+CN: ******
+EN: ***************************
+JP: ************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_180_4
+CN: ******************************************
+EN: ********************************************************************************************************************************************
+JP: *****************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_180_5
+CN: ******
+EN: **********
+JP: ********
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_180_7
+CN: **********
+EN: ******************************
+JP: *******************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_180_8
+CN: ******
+EN: *************
+JP: *****
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_180_9
+CN: *********
+EN: ***********************
+JP: *********
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_181_1
+CN: *************************
+EN: ******************************************************************************************************
+JP: ********************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_182_1
+CN: ***************
+EN: ********************************************************************
+JP: ******************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_182_2
+CN: ***
+EN: ************
+JP: ****
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_182_3
+CN: *****************
+EN: *************************************
+JP: *****************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_182_4
+CN: ***********************
+EN: *****************************************************************************
+JP: *****************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_182_5
+CN: ****
+EN: ******
+JP: *****
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_182_6
+CN: *********
+EN: *******************************
+JP: **************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_182_7
+CN: ***
+EN: *****
+JP: ******
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_183_1
+CN: ********
+EN: ***************
+JP: ******
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_183_2
+CN: ***************
+EN: ********************************************************
+JP: **********************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_190_1
+CN: *****
+EN: **********************
+JP: ******
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_190_10
+CN: *****
+EN: ********
+JP: *********************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_190_11
+CN: *********************
+EN: ******************************************************************
+JP: ******************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_190_12
+CN: *******
+EN: **************
+JP: **********
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_190_13
+CN: ********
+EN: ******************************
+JP: ************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_190_14
+CN: *****
+EN: *************
+JP: *******
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_190_17
+CN: *************************************
+EN: **********************************************************************************************************************
+JP: *****************************************************************************************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_190_19
+CN: *****************
+EN: *************************
+JP: ******************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_190_2
+CN: ***********
+EN: ************************************************
+JP: ****************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_190_20
+CN: ****
+EN: *********
+JP: *****
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_190_21
+CN: ***********************************
+EN: *******************************************************************************************************************************
+JP: ******************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_190_22
+CN: *********************************
+EN: *************************************************************************************************
+JP: *********************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_190_23
+CN: ************
+EN: ***********************************************************
+JP: **************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_190_24
+CN: *********
+EN: ***********************************
+JP: *******************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_190_25
+CN: ************************
+EN: ********************************************************************
+JP: *******************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_190_26
+CN: ******************************************************************************************************************************************************
+EN: *****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+JP: ***********************************************************************************************************************************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_190_5
+CN: ******
+EN: *******************
+JP: *******
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_190_6
+CN: ************
+EN: **********************************************
+JP: **********************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_190_7
+CN: *****
+EN: *********
+JP: ******
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_190_8
+CN: *********
+EN: ***************************
+JP: ***********
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_190_9
+CN: ************
+EN: ***************************************
+JP: *****************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_191_1
+CN: *****
+EN: ***********
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_191_2
+CN: *********
+EN: ***************************
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_1_1
+CN: *******************
+EN: *************************************
+JP: ************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_1_10
+CN: *****************
+EN: **************************************************
+JP: **************************************************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_1_11
+CN: ************************
+EN: ******************************************************************************
+JP: *********************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_1_12
+CN: *****
+EN: ************
+JP: *************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_1_13
+CN: ***********
+EN: **************************************
+JP: ***************************************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_1_14
+CN: *******
+EN: *****************
+JP: **********
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_1_15
+CN: dnt/无文本手机短信类型
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_1_2
+CN: dnt/无文本手机短信类型
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_1_3
+CN: dnt/无文本手机短信类型
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_1_4
+CN: ******
+EN: *******************
+JP: **************
+VI: 
+HV: 
+

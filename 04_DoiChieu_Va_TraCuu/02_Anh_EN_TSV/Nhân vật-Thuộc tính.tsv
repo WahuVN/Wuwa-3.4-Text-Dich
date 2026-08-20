@@ -1,0 +1,543 @@
+﻿dbfile	key	version	category	folder	speaker	mission	anh_en
+lang_multi_text.db	PropertyIndex_10001_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Level
+lang_multi_text.db	PropertyIndex_10002_AnotherName	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			HP%
+lang_multi_text.db	PropertyIndex_10002_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			HP
+lang_multi_text.db	PropertyIndex_10003_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			HP
+lang_multi_text.db	PropertyIndex_10004_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Shield
+lang_multi_text.db	PropertyIndex_10005_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Shield Break Multiplier
+lang_multi_text.db	PropertyIndex_10006_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Shield Break Multiplier Received
+lang_multi_text.db	PropertyIndex_10007_AnotherName	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			ATK%
+lang_multi_text.db	PropertyIndex_10007_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			ATK
+lang_multi_text.db	PropertyIndex_10008_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Crit. Rate
+lang_multi_text.db	PropertyIndex_10009_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Crit. DMG
+lang_multi_text.db	PropertyIndex_10010_AnotherName	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			DEF%
+lang_multi_text.db	PropertyIndex_10010_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			DEF
+lang_multi_text.db	PropertyIndex_10011_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Energy Regen
+lang_multi_text.db	PropertyIndex_10012_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Cooldown Reduction
+lang_multi_text.db	PropertyIndex_10013_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Concert Sublimation
+lang_multi_text.db	PropertyIndex_10014_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Resonance Skill DMG Bonus
+lang_multi_text.db	PropertyIndex_10015_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			General DMG Bonus
+lang_multi_text.db	PropertyIndex_10016_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			General DMG Reduction
+lang_multi_text.db	PropertyIndex_10017_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Basic Attack DMG Bonus
+lang_multi_text.db	PropertyIndex_10018_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Heavy Attack DMG Bonus
+lang_multi_text.db	PropertyIndex_10019_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Resonance Liberation DMG Bonus
+lang_multi_text.db	PropertyIndex_10020_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Intro Skill DMG Bonus
+lang_multi_text.db	PropertyIndex_10021_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Physical DMG Bonus
+lang_multi_text.db	PropertyIndex_10022_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Glacio DMG Bonus
+lang_multi_text.db	PropertyIndex_10023_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Fusion DMG Bonus
+lang_multi_text.db	PropertyIndex_10024_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Electro DMG Bonus
+lang_multi_text.db	PropertyIndex_10025_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Aero DMG Bonus
+lang_multi_text.db	PropertyIndex_10026_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Spectro DMG Bonus
+lang_multi_text.db	PropertyIndex_10027_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Havoc DMG Bonus
+lang_multi_text.db	PropertyIndex_10028_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Physical RES
+lang_multi_text.db	PropertyIndex_10029_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Glacio RES
+lang_multi_text.db	PropertyIndex_10030_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Fusion RES
+lang_multi_text.db	PropertyIndex_10031_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Electro RES
+lang_multi_text.db	PropertyIndex_10032_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Aero RES
+lang_multi_text.db	PropertyIndex_10033_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Spectro RES
+lang_multi_text.db	PropertyIndex_10034_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Havoc RES
+lang_multi_text.db	PropertyIndex_10035_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Healing Bonus
+lang_multi_text.db	PropertyIndex_10036_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Incoming Healing Bonus
+lang_multi_text.db	PropertyIndex_10037_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Physical DMG Reduction
+lang_multi_text.db	PropertyIndex_10038_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Glacio DMG Reduction
+lang_multi_text.db	PropertyIndex_10039_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Fusion DMG Reduction
+lang_multi_text.db	PropertyIndex_10040_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Electro DMG Reduction
+lang_multi_text.db	PropertyIndex_10041_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Aero DMG Reduction
+lang_multi_text.db	PropertyIndex_10042_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Spectro DMG Reduction
+lang_multi_text.db	PropertyIndex_10043_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Havoc DMG Reduction
+lang_multi_text.db	PropertyIndex_10044_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Reaction Amplification Coefficient I
+lang_multi_text.db	PropertyIndex_10045_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Reaction Amplification Coefficient II
+lang_multi_text.db	PropertyIndex_10046_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Reaction Amplification Coefficient III
+lang_multi_text.db	PropertyIndex_10047_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Reaction Amplification Coefficient IV
+lang_multi_text.db	PropertyIndex_10048_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Reaction Amplification Coefficient V
+lang_multi_text.db	PropertyIndex_10049_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Reaction Amplification Coefficient VI
+lang_multi_text.db	PropertyIndex_10050_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Reaction Amplification Coefficient VII
+lang_multi_text.db	PropertyIndex_10051_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Reaction Amplification Coefficient VIII
+lang_multi_text.db	PropertyIndex_10052_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Reaction Amplification Coefficient IX
+lang_multi_text.db	PropertyIndex_10053_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Reaction Amplification Coefficient X
+lang_multi_text.db	PropertyIndex_10054_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Reaction Amplification Coefficient XI
+lang_multi_text.db	PropertyIndex_10055_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Reaction Amplification Coefficient XII
+lang_multi_text.db	PropertyIndex_10056_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Reaction Amplification Coefficient XIII
+lang_multi_text.db	PropertyIndex_10057_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Reaction Amplification Coefficient XIV
+lang_multi_text.db	PropertyIndex_10058_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Reaction Amplification Coefficient XV
+lang_multi_text.db	PropertyIndex_10059_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Max Resonance Energy
+lang_multi_text.db	PropertyIndex_10060_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Resonance Energy
+lang_multi_text.db	PropertyIndex_10061_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Forte Gauge 1 Limit
+lang_multi_text.db	PropertyIndex_10062_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Forte Gauge 1
+lang_multi_text.db	PropertyIndex_10063_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Forte Gauge 2 Limit
+lang_multi_text.db	PropertyIndex_10064_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Forte Gauge 2
+lang_multi_text.db	PropertyIndex_10065_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Forte Gauge 3 Limit
+lang_multi_text.db	PropertyIndex_10066_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Forte Gauge 3
+lang_multi_text.db	PropertyIndex_10067_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Forte Gauge 4 Limit
+lang_multi_text.db	PropertyIndex_10068_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Forte Gauge 4
+lang_multi_text.db	PropertyIndex_10069_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Max STA
+lang_multi_text.db	PropertyIndex_10070_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			STA
+lang_multi_text.db	PropertyIndex_10071_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Stamina Recovery Speed
+lang_multi_text.db	PropertyIndex_10072_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Empty Stamina Penalty Time
+lang_multi_text.db	PropertyIndex_10073_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Running Stamina Consumption Speed
+lang_multi_text.db	PropertyIndex_10074_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Swimming Stamina Consumption Speed
+lang_multi_text.db	PropertyIndex_10075_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Fast Swimming Stamina Consumption Speed
+lang_multi_text.db	PropertyIndex_10076_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Climbing Stamina Consumption Speed
+lang_multi_text.db	PropertyIndex_10077_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Fast Climbing Stamina Consumption Speed
+lang_multi_text.db	PropertyIndex_10078_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Max Vibration Strength
+lang_multi_text.db	PropertyIndex_10079_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Max Vibration Strength
+lang_multi_text.db	PropertyIndex_10080_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Vibration Strength Recovery Rate
+lang_multi_text.db	PropertyIndex_10081_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Vibration Strength Exhaustion
+lang_multi_text.db	PropertyIndex_10082_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Vibration Strength Reduction Multiplier
+lang_multi_text.db	PropertyIndex_10083_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Vibration Strength Reduction RES Multiplier
+lang_multi_text.db	PropertyIndex_10084_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Max Poise
+lang_multi_text.db	PropertyIndex_10085_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Poise
+lang_multi_text.db	PropertyIndex_10086_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Poise Recovery Rate
+lang_multi_text.db	PropertyIndex_10087_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Poise Reduction Multiplier
+lang_multi_text.db	PropertyIndex_10088_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Poise Reduction RES Multiplier
+lang_multi_text.db	PropertyIndex_10089_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Attribute 1 Energy Value
+lang_multi_text.db	PropertyIndex_10090_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Attribute 2 Energy Value
+lang_multi_text.db	PropertyIndex_10091_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Attribute 3 Energy Value
+lang_multi_text.db	PropertyIndex_10092_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Attribute 4 Energy Value
+lang_multi_text.db	PropertyIndex_10093_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Attribute 5 Energy Value
+lang_multi_text.db	PropertyIndex_10094_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Attribute 6 Energy Value
+lang_multi_text.db	PropertyIndex_10095_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Special Damage Multiplier
+lang_multi_text.db	PropertyIndex_10096_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Quick Climb Stamina Consumption x/Frame
+lang_multi_text.db	PropertyIndex_10097_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Elemental Attribute Type
+lang_multi_text.db	PropertyIndex_10098_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Vulnerability Time
+lang_multi_text.db	PropertyIndex_10099_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			DEF Penetration Rate
+lang_multi_text.db	PropertyIndex_100_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Ignore Physical Damage Resistance
+lang_multi_text.db	PropertyIndex_10100_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Ignore Physical Damage Resistance
+lang_multi_text.db	PropertyIndex_10101_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Ignore Attribute 1 Damage Resistance
+lang_multi_text.db	PropertyIndex_10102_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Ignore Attribute 2 Damage Resistance
+lang_multi_text.db	PropertyIndex_10103_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Ignore Attribute 3 Damage Resistance
+lang_multi_text.db	PropertyIndex_10104_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Ignore Attribute 4 Damage Resistance
+lang_multi_text.db	PropertyIndex_10105_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Ignore Attribute 5 Damage Resistance
+lang_multi_text.db	PropertyIndex_10106_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Ignore Attribute 6 Damage Resistance
+lang_multi_text.db	PropertyIndex_10107_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Skill Status Poise Coefficient
+lang_multi_text.db	PropertyIndex_10108_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Climbing Jump Stamina Consumption (Once)
+lang_multi_text.db	PropertyIndex_10109_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Gliding Stamina Consumption Speed x/Second
+lang_multi_text.db	PropertyIndex_10110_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Mass
+lang_multi_text.db	PropertyIndex_10111_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Friction Coefficient
+lang_multi_text.db	PropertyIndex_10112_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Gravity Coefficient
+lang_multi_text.db	PropertyIndex_10113_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Movement Speed
+lang_multi_text.db	PropertyIndex_10114_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Echo Skill DMG Bonus
+lang_multi_text.db	PropertyIndex_10115_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Basic Attack Speed
+lang_multi_text.db	PropertyIndex_10116_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Heavy Attack Speed
+lang_multi_text.db	PropertyIndex_10117_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Status Accumulation Value 1 Limit
+lang_multi_text.db	PropertyIndex_10118_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Status Accumulation Value 1
+lang_multi_text.db	PropertyIndex_10119_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Status Accumulation Value 2 Limit
+lang_multi_text.db	PropertyIndex_10120_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Status Accumulation Value 2
+lang_multi_text.db	PropertyIndex_10121_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Status Accumulation Value 3 Limit
+lang_multi_text.db	PropertyIndex_10122_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Status Accumulation Value 3
+lang_multi_text.db	PropertyIndex_10123_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Status Accumulation Value 4 Limit
+lang_multi_text.db	PropertyIndex_10124_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Status Accumulation Value 4
+lang_multi_text.db	PropertyIndex_10125_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Status Accumulation Value 5 Limit
+lang_multi_text.db	PropertyIndex_10126_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Status Accumulation Value 5
+lang_multi_text.db	PropertyIndex_10127_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Rage Limit
+lang_multi_text.db	PropertyIndex_10128_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Rage
+lang_multi_text.db	PropertyIndex_10129_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Rage Recovery
+lang_multi_text.db	PropertyIndex_10130_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Empty Rage Penalty Time
+lang_multi_text.db	PropertyIndex_10131_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Broken Rage Multiplier
+lang_multi_text.db	PropertyIndex_10132_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Broken Rage Multiplier
+lang_multi_text.db	PropertyIndex_10133_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Poise Recovery Delay Time
+lang_multi_text.db	PropertyIndex_10141_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Off-Tune Buildup Rate
+lang_multi_text.db	PropertyIndex_10142_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Tune Break Boost
+lang_multi_text.db	PropertyIndex_101_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Ignore Attribute 1 Damage Resistance
+lang_multi_text.db	PropertyIndex_102_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Ignore Attribute 2 Damage Resistance
+lang_multi_text.db	PropertyIndex_103_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Ignore Attribute 3 Damage Resistance
+lang_multi_text.db	PropertyIndex_104_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Ignore Attribute 4 Damage Resistance
+lang_multi_text.db	PropertyIndex_105_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Ignore Attribute 5 Damage Resistance
+lang_multi_text.db	PropertyIndex_106_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Ignore Attribute 6 Damage Resistance
+lang_multi_text.db	PropertyIndex_107_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Skill Status Poise Coefficient
+lang_multi_text.db	PropertyIndex_108_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Stamina Consumed by Climbing Jump (Once)
+lang_multi_text.db	PropertyIndex_109_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Gliding Stamina Consumption Speed x/second
+lang_multi_text.db	PropertyIndex_10_AnotherName	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Base DEF
+lang_multi_text.db	PropertyIndex_10_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			DEF
+lang_multi_text.db	PropertyIndex_110_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Quality
+lang_multi_text.db	PropertyIndex_111_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Coefficient of Friction
+lang_multi_text.db	PropertyIndex_112_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Gravity Coefficient
+lang_multi_text.db	PropertyIndex_113_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Movement Speed
+lang_multi_text.db	PropertyIndex_114_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Echo Skill DMG Bonus
+lang_multi_text.db	PropertyIndex_115_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Basic Attack Speed
+lang_multi_text.db	PropertyIndex_116_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Heavy Attack Speed
+lang_multi_text.db	PropertyIndex_117_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Status Accumulation Value I Limit
+lang_multi_text.db	PropertyIndex_118_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Status Accumulation Value I
+lang_multi_text.db	PropertyIndex_119_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Status Accumulation Value II Limit
+lang_multi_text.db	PropertyIndex_11_Dec	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Increases the amount of Resonance Energy gained when using Normal Attack, Resonance Skill, Forte Circuit, and Intro Skill.
+lang_multi_text.db	PropertyIndex_11_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Energy Regen
+lang_multi_text.db	PropertyIndex_120_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Status Accumulation Value II
+lang_multi_text.db	PropertyIndex_121_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Status Accumulation Value III Limit
+lang_multi_text.db	PropertyIndex_122_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Status Accumulation Value III
+lang_multi_text.db	PropertyIndex_123_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Status Accumulation Value IV Limit
+lang_multi_text.db	PropertyIndex_124_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Status Accumulation Value IV
+lang_multi_text.db	PropertyIndex_125_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Status Accumulation Value V Limit
+lang_multi_text.db	PropertyIndex_126_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Status Accumulation Value V
+lang_multi_text.db	PropertyIndex_127_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Rage Limit
+lang_multi_text.db	PropertyIndex_128_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Rage
+lang_multi_text.db	PropertyIndex_129_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Rage Recovery
+lang_multi_text.db	PropertyIndex_12_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Cooldown Reduction
+lang_multi_text.db	PropertyIndex_130_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Empty Rage Punishment Time
+lang_multi_text.db	PropertyIndex_131_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Broken Rage Multiplier
+lang_multi_text.db	PropertyIndex_132_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Broken Rage Multiplier
+lang_multi_text.db	PropertyIndex_133_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Resilience Recovery Delay Time
+lang_multi_text.db	PropertyIndex_138_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Weak Point Accumulator Value
+lang_multi_text.db	PropertyIndex_138_Name_Soaring	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Max Flight STA
+lang_multi_text.db	PropertyIndex_13_Dec	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Boosts the effect of Resonance Energy.
+lang_multi_text.db	PropertyIndex_13_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Concert Sublimation
+lang_multi_text.db	PropertyIndex_141_Dec	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Scales up the Off-Tune Level accumulated on targets through certain skills.
+lang_multi_text.db	PropertyIndex_141_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Off-Tune Buildup Rate
+lang_multi_text.db	PropertyIndex_142_Dec	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Tune Break Boost increases Tune Break DMG and the DMG dealt to Interfered targets
+lang_multi_text.db	PropertyIndex_142_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Tune Break Boost
+lang_multi_text.db	PropertyIndex_14_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Resonance Skill DMG Bonus
+lang_multi_text.db	PropertyIndex_15_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			General DMG Bonus
+lang_multi_text.db	PropertyIndex_16_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			General DMG Reduction
+lang_multi_text.db	PropertyIndex_17_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Basic Attack DMG Bonus
+lang_multi_text.db	PropertyIndex_18_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Heavy Attack DMG Bonus
+lang_multi_text.db	PropertyIndex_19_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Resonance Liberation DMG Bonus
+lang_multi_text.db	PropertyIndex_1_Dec	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			This is your Level
+lang_multi_text.db	PropertyIndex_1_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Level
+lang_multi_text.db	PropertyIndex_20_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Intro Skill DMG Bonus
+lang_multi_text.db	PropertyIndex_21_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Physical DMG Bonus
+lang_multi_text.db	PropertyIndex_22_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Glacio DMG Bonus
+lang_multi_text.db	PropertyIndex_23_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Fusion DMG Bonus
+lang_multi_text.db	PropertyIndex_24_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Electro DMG Bonus
+lang_multi_text.db	PropertyIndex_25_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Aero DMG Bonus
+lang_multi_text.db	PropertyIndex_26_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Spectro DMG Bonus
+lang_multi_text.db	PropertyIndex_27_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Havoc DMG Bonus
+lang_multi_text.db	PropertyIndex_28_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Physical RES
+lang_multi_text.db	PropertyIndex_29_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Glacio RES
+lang_multi_text.db	PropertyIndex_2_AnotherName	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Base HP
+lang_multi_text.db	PropertyIndex_2_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			HP
+lang_multi_text.db	PropertyIndex_30_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Fusion RES
+lang_multi_text.db	PropertyIndex_31_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Electro RES
+lang_multi_text.db	PropertyIndex_32_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Aero RES
+lang_multi_text.db	PropertyIndex_33_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Spectro RES
+lang_multi_text.db	PropertyIndex_34_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Havoc RES
+lang_multi_text.db	PropertyIndex_35_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Healing Bonus
+lang_multi_text.db	PropertyIndex_36_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Incoming Healing Bonus
+lang_multi_text.db	PropertyIndex_37_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Physical DMG Reduction
+lang_multi_text.db	PropertyIndex_38_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Glacio DMG Reduction
+lang_multi_text.db	PropertyIndex_39_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Fusion DMG Reduction
+lang_multi_text.db	PropertyIndex_3_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			HP
+lang_multi_text.db	PropertyIndex_40_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Electro DMG Reduction
+lang_multi_text.db	PropertyIndex_41_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Aero DMG Reduction
+lang_multi_text.db	PropertyIndex_42_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Spectro DMG Reduction
+lang_multi_text.db	PropertyIndex_43_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Havoc DMG Reduction
+lang_multi_text.db	PropertyIndex_44_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Reaction Amplification Coefficient I
+lang_multi_text.db	PropertyIndex_45_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Reaction Amplification Coefficient II
+lang_multi_text.db	PropertyIndex_46_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Reaction Amplification Coefficient III
+lang_multi_text.db	PropertyIndex_47_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Reaction Amplification Coefficient IV
+lang_multi_text.db	PropertyIndex_48_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Reaction Amplification Coefficient V
+lang_multi_text.db	PropertyIndex_49_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Reaction Amplification Coefficient VI
+lang_multi_text.db	PropertyIndex_4_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Shield
+lang_multi_text.db	PropertyIndex_50_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Reaction Amplification Coefficient VII
+lang_multi_text.db	PropertyIndex_51_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Reaction Amplification Coefficient VIII
+lang_multi_text.db	PropertyIndex_52_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Reaction Amplification Coefficient IX
+lang_multi_text.db	PropertyIndex_53_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Reaction Amplification Coefficient X
+lang_multi_text.db	PropertyIndex_54_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Reaction Amplification Coefficient XI
+lang_multi_text.db	PropertyIndex_55_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Reaction Amplification Coefficient XII
+lang_multi_text.db	PropertyIndex_56_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Reaction Amplification Coefficient XIII
+lang_multi_text.db	PropertyIndex_57_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Reaction Amplification Coefficient XIV
+lang_multi_text.db	PropertyIndex_58_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Reaction Amplification Coefficient XV
+lang_multi_text.db	PropertyIndex_59_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Max Resonance Energy
+lang_multi_text.db	PropertyIndex_5_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Shield Break Rate
+lang_multi_text.db	PropertyIndex_60_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Resonance Energy
+lang_multi_text.db	PropertyIndex_61_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Forte Gauge I Limit
+lang_multi_text.db	PropertyIndex_62_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Forte Gauge I
+lang_multi_text.db	PropertyIndex_63_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Forte Gauge II Limit
+lang_multi_text.db	PropertyIndex_64_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Forte Gauge II
+lang_multi_text.db	PropertyIndex_65_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Forte Gauge III Limit
+lang_multi_text.db	PropertyIndex_66_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Forte Gauge III
+lang_multi_text.db	PropertyIndex_67_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Forte Gauge IV Limit
+lang_multi_text.db	PropertyIndex_68_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Forte Gauge IV
+lang_multi_text.db	PropertyIndex_69_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Max STA
+lang_multi_text.db	PropertyIndex_6_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Shield Break Rate
+lang_multi_text.db	PropertyIndex_70_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			STA
+lang_multi_text.db	PropertyIndex_71_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Stamina Recovery Speed
+lang_multi_text.db	PropertyIndex_72_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Empty Stamina Penalty Time
+lang_multi_text.db	PropertyIndex_73_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Running Stamina Consumption Speed
+lang_multi_text.db	PropertyIndex_74_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Swimming Stamina Consumption Speed
+lang_multi_text.db	PropertyIndex_75_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Fast Swimming Stamina Consumption Speed
+lang_multi_text.db	PropertyIndex_76_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Climbing Stamina Consumption Speed
+lang_multi_text.db	PropertyIndex_77_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Fast Climbing Stamina Consumption
+lang_multi_text.db	PropertyIndex_78_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Max Vibration Strength
+lang_multi_text.db	PropertyIndex_79_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Max Vibration Strength
+lang_multi_text.db	PropertyIndex_7_AnotherName	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Base ATK
+lang_multi_text.db	PropertyIndex_7_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			ATK
+lang_multi_text.db	PropertyIndex_80_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Vibration Strength Recovery Rate
+lang_multi_text.db	PropertyIndex_81_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Vibration Strength Exhaustion
+lang_multi_text.db	PropertyIndex_82_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Vibration Strength Reduction Multiplier
+lang_multi_text.db	PropertyIndex_83_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Vibration Strength Reduction RES Multiplier
+lang_multi_text.db	PropertyIndex_84_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Max Poise
+lang_multi_text.db	PropertyIndex_85_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Poise
+lang_multi_text.db	PropertyIndex_86_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Poise Recovery Rate
+lang_multi_text.db	PropertyIndex_87_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Poise Reduction Multiplier
+lang_multi_text.db	PropertyIndex_88_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Poise Reduction RES Multiplier
+lang_multi_text.db	PropertyIndex_89_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Attribute 1 Energy Value
+lang_multi_text.db	PropertyIndex_8_Dec	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			The chance of triggering a Critical Hit when dealing damage.
+lang_multi_text.db	PropertyIndex_8_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Crit. Rate
+lang_multi_text.db	PropertyIndex_90_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Attribute 2 Energy Value
+lang_multi_text.db	PropertyIndex_91_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Attribute 3 Energy Value
+lang_multi_text.db	PropertyIndex_92_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Attribute 4 Energy Value
+lang_multi_text.db	PropertyIndex_93_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Attribute 5 Energy Value
+lang_multi_text.db	PropertyIndex_94_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Attribute 6 Energy Value
+lang_multi_text.db	PropertyIndex_95_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Special Damage Multiplier
+lang_multi_text.db	PropertyIndex_96_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Quick Climb Stamina Consumption x/Frame
+lang_multi_text.db	PropertyIndex_97_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Elemental Attribute Type
+lang_multi_text.db	PropertyIndex_98_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Vulnerability Time
+lang_multi_text.db	PropertyIndex_99_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			DEF Penetration Rate
+lang_multi_text.db	PropertyIndex_9_Dec	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			The DMG Multiplier when triggering a Critical Hit.
+lang_multi_text.db	PropertyIndex_9_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Crit. DMG
+lang_multi_text.db	RoleTag1	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Support and Healer
+lang_multi_text.db	RoleTag10	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Stagnation
+lang_multi_text.db	RoleTag10_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Slows down targets within a certain range
+lang_multi_text.db	RoleTag11	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Resonance Liberation Regeneration
+lang_multi_text.db	RoleTag11_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Restores the Resonance Energy of a specific Resonator in the team
+lang_multi_text.db	RoleTag12	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Vibration Strength Reduction
+lang_multi_text.db	RoleTag12_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Reduces the Vibration Strength of targets more effectively
+lang_multi_text.db	RoleTag13	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			DMG Amplification
+lang_multi_text.db	RoleTag13_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Provides DMG Amplification for a specific Resonator in the team
+lang_multi_text.db	RoleTag14	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Havoc DMG Amplification
+lang_multi_text.db	RoleTag14_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Provides Havoc DMG Amplification for a specific Resonator in the team
+lang_multi_text.db	RoleTag15	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Aero DMG Amplification
+lang_multi_text.db	RoleTag15_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Provides Aero DMG Amplification for a specific Resonator in the team
+lang_multi_text.db	RoleTag16	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Electro DMG Amplification
+lang_multi_text.db	RoleTag16_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Provides Electro DMG Amplification for a specific Resonator in the team
+lang_multi_text.db	RoleTag17	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Fusion DMG Amplification
+lang_multi_text.db	RoleTag17_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Provides Fusion DMG Amplification for a specific Resonator in the team
+lang_multi_text.db	RoleTag18	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Glacio DMG Amplification
+lang_multi_text.db	RoleTag18_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Provides Glacio DMG Amplification for a specific Resonator in the team
+lang_multi_text.db	RoleTag19	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Spectro DMG Amplification
+lang_multi_text.db	RoleTag19_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Provides Spectro DMG Amplification for a specific Resonator in the team
+lang_multi_text.db	RoleTag1_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Improves team survivability
+lang_multi_text.db	RoleTag2	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Main Damage Dealer
+lang_multi_text.db	RoleTag20	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Basic Attack DMG Amplification
+lang_multi_text.db	RoleTag20_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Provides Basic Attack DMG Amplification for a specific Resonator in the team
+lang_multi_text.db	RoleTag21	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Heavy Attack DMG Amplification
+lang_multi_text.db	RoleTag21_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Provides Heavy Attack DMG Amplification for a specific Resonator in the team
+lang_multi_text.db	RoleTag22	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Resonance Skill DMG Amplification
+lang_multi_text.db	RoleTag22_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Provides Resonance Skill DMG Amplification for a specific Resonator in the team
+lang_multi_text.db	RoleTag23	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Resonance Liberation DMG Amplification
+lang_multi_text.db	RoleTag23_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Provides Resonance Liberation DMG Amplification for a specific Resonator in the team
+lang_multi_text.db	RoleTag24	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Aero Erosion
+lang_multi_text.db	RoleTag24_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Utilizes Aero Erosion for combat advantage
+lang_multi_text.db	RoleTag25	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Electro Flare
+lang_multi_text.db	RoleTag25_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Utilizes Electro Flare for combat advantage
+lang_multi_text.db	RoleTag26	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Glacio Chafe
+lang_multi_text.db	RoleTag26_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Utilizes Glacio Chafe for combat advantage
+lang_multi_text.db	RoleTag27	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Fusion Burst
+lang_multi_text.db	RoleTag27_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Utilizes Fusion Burst for combat advantage
+lang_multi_text.db	RoleTag28	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Spectro Frazzle
+lang_multi_text.db	RoleTag28_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Utilizes Spectro Frazzle for combat advantage
+lang_multi_text.db	RoleTag29	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Havoc Bane
+lang_multi_text.db	RoleTag29_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Utilizes Havoc Bane for combat advantage
+lang_multi_text.db	RoleTag2_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Powerful damage dealer
+lang_multi_text.db	RoleTag3	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Concerto Efficiency
+lang_multi_text.db	RoleTag30	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Interruption Resistance Boost
+lang_multi_text.db	RoleTag30_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Boosts the interruption resistance of a specific Resonator in the team
+lang_multi_text.db	RoleTag31	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Coordinated Attack DMG Amplification
+lang_multi_text.db	RoleTag31_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Provides Coordinated Attack DMG Amplification for a specific Resonator in the team
+lang_multi_text.db	RoleTag32	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Echo Skill DMG Amplification
+lang_multi_text.db	RoleTag32_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Provides Echo Skill DMG Amplification for a specific Resonator in the team
+lang_multi_text.db	RoleTag33	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Tune Rupture Response
+lang_multi_text.db	RoleTag33_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Deals Tune Rupture DMG to targets
+lang_multi_text.db	RoleTag34	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Tune Break Boost
+lang_multi_text.db	RoleTag34_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Provides additional Tune Break Boost for a specific Resonator in the team
+lang_multi_text.db	RoleTag35	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Off-Tune Buildup Efficiency
+lang_multi_text.db	RoleTag35_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Boosts the Off-Tune Buildup Rate for a specific Resonator in the team
+lang_multi_text.db	RoleTag36	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Tune Strain Response
+lang_multi_text.db	RoleTag36_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Gains total DMG increase from Tune Break Boost
+lang_multi_text.db	RoleTag37	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Echo Skill DMG
+lang_multi_text.db	RoleTag37_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Deals higher Echo Skill DMG
+lang_multi_text.db	RoleTag38	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Hack Response
+lang_multi_text.db	RoleTag38_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Deals Hack DMG to targets.
+lang_multi_text.db	RoleTag3_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Quick concerto energy regeneration
+lang_multi_text.db	RoleTag4	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Basic Attack DMG
+lang_multi_text.db	RoleTag4_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Deals higher Basic Attack DMG
+lang_multi_text.db	RoleTag5	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Heavy Attack DMG
+lang_multi_text.db	RoleTag5_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Deals higher Heavy Attack DMG
+lang_multi_text.db	RoleTag6	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Resonance Skill DMG
+lang_multi_text.db	RoleTag6_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Deals higher Resonance Skill DMG
+lang_multi_text.db	RoleTag7	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Resonance Liberation Damage
+lang_multi_text.db	RoleTag7_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Deals higher Resonance Liberation DMG
+lang_multi_text.db	RoleTag8	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Traction
+lang_multi_text.db	RoleTag8_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Pulls targets within range towards a specific position
+lang_multi_text.db	RoleTag9	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Coordinated Attack
+lang_multi_text.db	RoleTag9_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			Excels at Coordinated Attacks
+lang_property.db	1	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Level
+lang_property.db	10	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			The chance of triggering a critical hit when dealing damage.
+lang_property.db	104	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Defense Penetration Ratio
+lang_property.db	11	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Critical DMG
+lang_property.db	118	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Movement Speed
+lang_property.db	119	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Wutrelic skill DMG bonus
+lang_property.db	12	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			The DMG Multiplier when dealing a critical hit.
+lang_property.db	120	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Normal Attack Speed
+lang_property.db	121	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Charged Attack Speed
+lang_property.db	13	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Defense
+lang_property.db	139	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Level
+lang_property.db	14	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Resonance Efficiency
+lang_property.db	140	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			HP
+lang_property.db	141	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			HP
+lang_property.db	142	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Shield
+lang_property.db	143	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			DEF Down Multiplier
+lang_property.db	144	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Passive DEF Down Multiplier
+lang_property.db	145	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Attack
+lang_property.db	146	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Crit. Rate
+lang_property.db	147	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Critical DMG
+lang_property.db	148	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Defense
+lang_property.db	149	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Resonance Efficiency
+lang_property.db	15	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Increases the amount of resonance liberation energy gained per use of Punch, Resonance Skill, Combat Ability, and Resonance Energy.
+lang_property.db	150	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Cooldown Reduction
+lang_property.db	151	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Concerto Sublimation
+lang_property.db	152	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Resonance skill damage bonus
+lang_property.db	153	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			General DMG bonus
+lang_property.db	154	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			General Injury Reduction
+lang_property.db	155	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Normal Attack bonus
+lang_property.db	156	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Charged Attack bonus
+lang_property.db	157	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Resonance liberation DMG bonus
+lang_property.db	158	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Combo skill DMG bonus
+lang_property.db	159	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Physical DMG bonus
+lang_property.db	16	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Cooldown Reduction
+lang_property.db	160	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Frozen DMG bonus
+lang_property.db	161	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Smelt DMG bonus
+lang_property.db	162	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Conduction DMG bonus
+lang_property.db	163	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Aerodynamic DMG bonus
+lang_property.db	164	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Diffusion DMG bonus
+lang_property.db	165	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Dissociation DMG bonus
+lang_property.db	166	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Physical DMG Resistance
+lang_property.db	167	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Frozen DMG Resistance
+lang_property.db	168	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Smelt DMG Resistance
+lang_property.db	169	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Conduction DMG Resistance
+lang_property.db	17	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Concerto Sublimation
+lang_property.db	170	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Aerodynamic DMG Resistance
+lang_property.db	171	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Diffusion DMG Resistance
+lang_property.db	172	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Dissociation DMG Resistance
+lang_property.db	173	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Healing Effect bonus
+lang_property.db	174	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Recovery Effect bonus
+lang_property.db	175	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Physical DMG Immunity
+lang_property.db	176	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Element 1 DMG Immunity
+lang_property.db	177	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Element 2 DMG Immunity
+lang_property.db	178	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Element 3 DMG Immunity
+lang_property.db	179	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Element 4 DMG Immunity
+lang_property.db	18	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Boosts the effect of resonant energy.
+lang_property.db	180	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Element 5 DMG Immunity
+lang_property.db	181	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Element 6 DMG Immunity
+lang_property.db	182	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Reaction increase factor 1
+lang_property.db	183	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Reaction increase factor 2
+lang_property.db	184	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Reaction increase factor 3
+lang_property.db	185	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Reaction increase factor 4
+lang_property.db	186	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Reaction increase factor 5
+lang_property.db	187	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Reaction increase factor 6
+lang_property.db	188	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Reaction increase factor 7
+lang_property.db	189	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Reaction increase factor 8
+lang_property.db	19	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Resonance skill damage bonus
+lang_property.db	190	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Reaction increase factor 9
+lang_property.db	191	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Reaction increase factor 10
+lang_property.db	192	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Reaction increase factor 11
+lang_property.db	193	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Reaction increase factor 12
+lang_property.db	194	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Reaction increase factor 13
+lang_property.db	195	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Reaction increase factor 14
+lang_property.db	196	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Reaction increase factor 15
+lang_property.db	197	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Resonance energy limit
+lang_property.db	198	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Resonance energy
+lang_property.db	199	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Special energy 1 limit
+lang_property.db	2	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			A Level
+lang_property.db	20	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			General DMG bonus
+lang_property.db	200	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Special energy 1
+lang_property.db	201	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Special energy 2 limit
+lang_property.db	202	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Special energy 2
+lang_property.db	203	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Special energy 3 limit
+lang_property.db	204	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Special energy 3
+lang_property.db	205	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Special energy 4 limit
+lang_property.db	206	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Special energy 4
+lang_property.db	207	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Stamina Limit
+lang_property.db	208	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Stamina
+lang_property.db	209	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Stamina Recovery
+lang_property.db	21	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			General Injury Reduction
+lang_property.db	210	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Zero stamina penalty time
+lang_property.db	216	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Max Plangency
+lang_property.db	217	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Max Plangency
+lang_property.db	218	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Plangency Recovery Rate
+lang_property.db	219	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Extra zero Plangency time
+lang_property.db	22	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Normal Attack bonus
+lang_property.db	220	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Plangency Reduction multiplier
+lang_property.db	221	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Passive Plangency Reduction multiplier
+lang_property.db	222	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Max Toughness
+lang_property.db	223	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Toughness
+lang_property.db	224	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Toughness Recovery Speed
+lang_property.db	225	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Toughness Reduction multiplier
+lang_property.db	226	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Passive Toughness Reduction multiplier
+lang_property.db	23	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Charged Attack bonus
+lang_property.db	237	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Defense Penetration Ratio
+lang_property.db	24	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Resonance liberation DMG bonus
+lang_property.db	25	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Combo skill DMG bonus
+lang_property.db	251	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Movement Speed
+lang_property.db	252	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Wutrelic skill DMG bonus
+lang_property.db	253	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Normal Attack Speed
+lang_property.db	254	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Charged Attack Speed
+lang_property.db	26	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Physical DMG bonus
+lang_property.db	27	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Frozen DMG bonus
+lang_property.db	28	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Smelt DMG bonus
+lang_property.db	29	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Conduction DMG bonus
+lang_property.db	3	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			HP
+lang_property.db	30	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Aerodynamic DMG bonus
+lang_property.db	31	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Diffusion DMG bonus
+lang_property.db	32	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Dissociation DMG bonus
+lang_property.db	33	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Physical DMG Resistance
+lang_property.db	34	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Frozen DMG Resistance
+lang_property.db	35	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Smelt DMG Resistance
+lang_property.db	36	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Conduction DMG Resistance
+lang_property.db	37	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Aerodynamic DMG Resistance
+lang_property.db	38	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Diffusion DMG Resistance
+lang_property.db	39	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Dissociation DMG Resistance
+lang_property.db	4	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			HP
+lang_property.db	40	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Healing Effect bonus
+lang_property.db	41	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Recovery Effect bonus
+lang_property.db	42	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Physical DMG Immunity
+lang_property.db	43	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Element 1 DMG Immunity
+lang_property.db	44	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Element 2 DMG Immunity
+lang_property.db	45	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Element 3 DMG Immunity
+lang_property.db	46	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Element 4 DMG Immunity
+lang_property.db	47	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Element 5 DMG Immunity
+lang_property.db	48	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Element 6 DMG Immunity
+lang_property.db	49	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Reaction increase factor 1
+lang_property.db	5	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Shield
+lang_property.db	50	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Reaction increase factor 2
+lang_property.db	51	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Reaction increase factor 3
+lang_property.db	52	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Reaction increase factor 4
+lang_property.db	53	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Reaction increase factor 5
+lang_property.db	54	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Reaction increase factor 6
+lang_property.db	55	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Reaction increase factor 7
+lang_property.db	56	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Reaction increase factor 8
+lang_property.db	57	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Reaction increase factor 9
+lang_property.db	58	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Reaction increase factor 10
+lang_property.db	59	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Reaction increase factor 11
+lang_property.db	6	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			DEF Down Multiplier
+lang_property.db	60	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Reaction increase factor 12
+lang_property.db	61	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Reaction increase factor 13
+lang_property.db	62	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Reaction increase factor 14
+lang_property.db	63	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Reaction increase factor 15
+lang_property.db	64	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Resonance energy limit
+lang_property.db	65	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Resonance energy
+lang_property.db	66	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Special energy 1 limit
+lang_property.db	67	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Special energy 1
+lang_property.db	68	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Special energy 2 limit
+lang_property.db	69	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Special energy 2
+lang_property.db	7	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Passive DEF Down Multiplier
+lang_property.db	70	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Special energy 3 limit
+lang_property.db	71	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Special energy 3
+lang_property.db	72	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Special energy 4 limit
+lang_property.db	73	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Special energy 4
+lang_property.db	74	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Stamina Limit
+lang_property.db	75	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Stamina
+lang_property.db	76	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Stamina Recovery
+lang_property.db	77	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Zero stamina penalty time
+lang_property.db	8	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Attack
+lang_property.db	83	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Max Plangency
+lang_property.db	84	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Max Plangency
+lang_property.db	85	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Plangency Recovery Rate
+lang_property.db	86	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Extra zero Plangency time
+lang_property.db	87	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Plangency Reduction multiplier
+lang_property.db	88	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Passive Plangency Reduction multiplier
+lang_property.db	89	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Max Toughness
+lang_property.db	9	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Crit. Rate
+lang_property.db	90	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Toughness
+lang_property.db	91	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Toughness Recovery Speed
+lang_property.db	92	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Toughness Reduction multiplier
+lang_property.db	93	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			Passive Toughness Reduction multiplier

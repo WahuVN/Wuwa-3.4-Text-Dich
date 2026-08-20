@@ -1,0 +1,4 @@
+﻿dbfile	key	version	category	folder	speaker	mission	trung_cn	anh_en	nhat_jp	viet_vi
+lang_mail.db	1	3.4	Thư	Thư			全部邮件	Mail	メール	Tất cả thư
+lang_mail.db	2	3.4	Thư	Thư			重要邮件			Thư quan trọng
+lang_mail.db	3	3.4	Thư	Thư			已读邮件			Thư đã đọc

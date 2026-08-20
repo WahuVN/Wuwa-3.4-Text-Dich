@@ -1,0 +1,2090 @@
+@@ lang_multi_text.db||MultiText||YBWH_35_41
+Không thành vấn đề~
+
+@@ lang_multi_text.db||MultiText||YBWH_35_5
+Chính là tôi.
+
+@@ lang_multi_text.db||MultiText||YBWH_35_6
+Cứ gọi tôi là Tế Hành. Giống nghiên cứu viên Baizhi, tôi được điều từ Kim Châu đến chi viện Huyền Phương Thành.
+
+@@ lang_multi_text.db||MultiText||YBWH_3_10
+Thì ra Baizhi cũng đến Huyền Phương Thành à?
+
+@@ lang_multi_text.db||MultiText||YBWH_3_12
+Hề hề, Baizhi lúc nào cũng để bụng {PlayerName} và Yangyang đấy~ Theo tớ thì, chuyến đi Huyền Phương Thành lần này biết đâu là do cậu ấy tự nguyện xin đi cũng nên...
+
+@@ lang_multi_text.db||MultiText||YBWH_3_13
+…Chỉ là làm theo điều động thôi.
+
+@@ lang_multi_text.db||MultiText||YBWH_3_22
+…
+
+@@ lang_multi_text.db||MultiText||YBWH_3_24
+Rõ! Baizhi tốt thật đấy~
+
+@@ lang_multi_text.db||MultiText||YBWH_3_25
+Rõ! Baizhi tốt thật đấy~
+
+@@ lang_multi_text.db||MultiText||YBWH_3_27
+Rõ! Baizhi tốt thật đấy~
+
+@@ lang_multi_text.db||MultiText||YBWH_3_4
+Không được không được... Cứ nghĩ đến việc không thể cùng Yangyang, Baizhi và {PlayerName} đến Huyền Phương Thành, vẫn thấy hơi tiếc...
+
+@@ lang_multi_text.db||MultiText||YBWH_3_9
+Thì ra Baizhi cũng đến Huyền Phương Thành à?
+
+@@ lang_multi_text.db||MultiText||YBWH_65_1
+Ừm, đúng là những thứ này. Không có vấn đề gì.
+
+@@ lang_multi_text.db||MultiText||YBWH_80_10
+Nói ra thì, bên này cũng chuẩn bị một phần quà cho nghiên cứu viên Baizhi, chỉ là... Baizhi đã về Kim Châu rồi, tôi vẫn đang nghĩ, hay là gửi thẳng đến Viện Nghiên Cứu Hoa Tư Kim Châu sẽ hợp lý hơn.
+
+@@ lang_multi_text.db||MultiText||YBWH_85_1
+Bạn đã vào cuộc trò chuyện với Baizhi.
+
+@@ lang_multi_text.db||MultiText||YBWH_85_13
+Baizhi đã gửi cho bạn một tọa độ.
+
+@@ lang_multi_text.db||MultiText||YBWH_85_16
+Không thành vấn đề XD
+
+@@ lang_multi_text.db||MultiText||YBWH_85_3
+Baizhi, có rảnh không?
+
+@@ lang_multi_text.db||MultiText||YBWH_85_6
+(Kể cho Baizhi về chuyện món quà.)
+
+@@ lang_multi_text.db||MultiText||YBWH_95_1
+…
+
+@@ lang_multi_text.db||MultiText||YBWH_95_15
+Nghĩ đi nghĩ lại, thôi thì tôi tự cho mình nghỉ phép vậy.
+
+@@ lang_multi_text.db||MultiText||YBWH_95_2
+Baizhi.
+
+@@ lang_multi_text.db||MultiText||YBWH_95_8
+…
+
+@@ lang_multi_text.db||MultiText||YBWH_97_18
+Hai người trò chuyện về những chuyện xảy ra gần đây, nhắc đến sự thay đổi của Yangyang, tình trạng của Chixia, và cả những người đồng hành khác đang phân tán ở Kim Châu và Huyền Phương Thành...
+
+@@ lang_multi_text.db||MultiText||YBWH_97_2
+…
+
+@@ lang_multi_text.db||MultiText||YBWH_97_6
+Kiểu phán đoán này, đúng là rất "Baizhi"...
+
+@@ lang_multi_text.db||MultiText||YBWP_10_27
+Ừm, nếu không còn thắc mắc nào khác thì chúng ta quay lại chuyện Cơ Khôi.
+
+@@ lang_multi_text.db||MultiText||YBWP_10_37
+…
+
+@@ lang_multi_text.db||MultiText||YBWP_15_7
+…
+
+@@ lang_multi_text.db||MultiText||YBWP_1_21
+...Baizhi nói trước đây cậu từng tiếp xúc với không ít Cơ Khôi ở Huyền Phương Thành. Tôi muốn nghe cậu kể lại quá trình khi đó, càng đầy đủ càng tốt.
+
+@@ lang_multi_text.db||MultiText||YBWP_25_1
+…Chậc, rắc rối rồi.
+
+@@ lang_multi_text.db||MultiText||YBWP_35_7
+…
+
+@@ lang_multi_text.db||MultiText||YBWP_43_1
+…May là không trúng chỗ hiểm.
+
+@@ lang_multi_text.db||MultiText||YBWP_43_11
+May mà trước đó cậu đã nhắn cho tôi, nên tôi mới có thể lần theo tin nhắn ấy để hồi âm. Chậc… nghĩ kỹ thì cũng xem như cậu đã cứu tôi một mạng.
+
+@@ lang_multi_text.db||MultiText||YBWP_43_12
+…
+
+@@ lang_multi_text.db||MultiText||YBWP_70_1
+…
+
+@@ lang_multi_text.db||MultiText||YBWP_70_11
+…
+
+@@ lang_multi_text.db||MultiText||YBWP_70_21
+…Chậc… xem ra tôi lại lỡ lời rồi.
+
+@@ lang_multi_text.db||MultiText||YangYang_Shengtai_10_27
+Bất kể hắn từng có thân phận gì, với chúng ta lúc này, hắn chỉ là một “kẻ địch” cần phải ngăn chặn.
+
+@@ lang_multi_text.db||MultiText||YangYang_Shengtai_10_4
+(Kể cho Yangyang về chuyện Cửu Ngô)
+
+@@ lang_multi_text.db||MultiText||YangYang_Shengtai_1_4
+Lương Vũ đã dọn trống nhà mình, bảo rằng nếu là chúng ta thì muốn ở bao lâu cũng được… Tôi khuyên mãi không được, đành nhận lấy chìa khóa.
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_10_2
+Nói thì dễ, con bé Tiểu Phương Yangyang mà có mệnh hệ gì...
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_10_3
+Không sao đâu không sao đâu, tôi đã đến Học viện Nghiên cứu Hoa Tư hỏi thăm rồi, họ nói tình hình của Chixia đã ổn định lại rồi...
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_10_4
+Thế còn Yangyang? Con bé đó bây giờ vẫn chưa có tin tức gì sao?
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_130_1
+Cơ Khôi gặp trục trặc... Sao có thể chứ... Hay là tin đồn nhảm thôi...
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_140_1
+Cơ Khôi gặp trục trặc... Sao có thể chứ... Hay là tin đồn nhảm thôi...
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_140_3
+Cơ Khôi trong Địa Giới, không cả ngàn thì cũng vài trăm, nếu chúng thật sự bắt đầu hại người thì trong thành cũng chẳng an toàn đâu!
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_140_5
+Cậu ngốc à! Ra khỏi làng lỡ bị Cơ Khôi để mắt tới thì sao? Gặp Tàn Tượng thì sao? Có phải Người Cộng Hưởng đâu...
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_160_4
+Đám Cơ Khôi đó bỗng nhiên phát điên... Bọn anh không kịp phản ứng nên mới...
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_170_1
+Hừ… ha… ha ha ha ha— Tôi biết mà… Tôi biết mà…
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_180_1
+Hừ… ha… ha ha ha ha— Tôi biết mà… Tôi biết mà… Đám Cơ Khôi đó chắc chắn có vấn đề! Cuối cùng chúng cũng lộ bộ mặt thật rồi!
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_180_3
+Điên? Ai điên chứ? Cái đêm hai mươi năm trước… Tôi không quên được… cả đời này cũng không thể quên…
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_180_4
+Nhất định là Cơ Khôi... Là Cơ Khôi làm — Chúng đã ngụy trang lâu đến vậy! Lần này, mọi người rồi sẽ nhìn rõ chúng thôi!
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_1_2
+Haiz... Nói thì dễ, con bé Tiểu Phương Yangyang mà có mệnh hệ gì...
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_20_1
+Nghe nói Yangyang đã đến Địa Giới Huyền Phương... Đó là nơi thế nào vậy?
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_255_3
+Mọi người... đều bị Cơ Khôi...
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_300_3
+Nơi ông ấy đến cũng là Cữu Đình... Cũng có nghĩa là, Cơ Khôi ở không chỉ một tòa Cữu Đình đã xuất hiện dị thường...
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_300_4
+Haiz… Sư phụ Thẩm Uyên tuy ít nói, nhưng kỹ thuật và kiến thức của ông ấy là xuất sắc nhất trong số chúng ta…
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_300_5
+Đúng vậy... Nếu ông ấy còn ở đây, biết đâu còn có cách nào đó đối phó với đám Cơ Khôi này...
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_30_1
+Yangyang đã đến Địa Giới Huyền Phương... Đó là nơi thế nào vậy?
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_30_4
+Chuyện này... Yangyang sẽ không sao chứ...? Tôi nghe nói con bé đi cùng Chixia, nhưng nghe chị Phàn Hoa kể, lúc Chixia trở về thì đã...
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_320_2
+Những trinh sát được phái đến đó trước đây đều chưa trở về… Vệ Trưởng đã cử Lương Diên đến do thám, e rằng nơi ấy đã bị đám Cơ Khôi dị thường chiếm giữ…
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_320_4
+Khả năng rất cao... là như vậy. Vệ Trưởng đã hạ lệnh, không cho phép bất kỳ ai đến gần Huyền Thiên Cấu, bảo là phải đợi Trấn Huyền Tư Kỵ có tin tức thì mới có thể tính đến đối sách...
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_330_2
+Tôi không sao... Cảm ơn mọi người, tôi đang bảo trì thì Cơ Khôi đó đột nhiên...
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_350_1
+Một thanh trường kiếm đã hư hỏng nặng; sau trận chiến ác liệt, thân kiếm sứt mẻ nghiêm trọng. Trên chuôi vẫn còn vết máu đã khô.
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_360_1
+Tần số còn sót lại sau khi Tàn Tượng chết đi vô cùng hỗn loạn.
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_40_1
+Vết thương của Chixia hình như đã ổn định lại rồi...
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_40_2
+Đúng vậy... Nhờ có nghiên cứu viên Baizhi...
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_440_1
+Một Cơ Khôi bất động, tại phần lõi có dấu vết giống như bị mũi thương phá hủy, rõ ràng đã hư hỏng rồi.
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_490_1
+Huyền Linh à… sao các em vẫn chưa trở về…
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_500_1
+Huyền Linh à… sao các em vẫn chưa trở về…
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_500_2
+Liêm Thanh nói cô ấy sẽ nhờ các em truyền tin về tình hình của mình…
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_500_3
+Tôi xin các em… mau trở về đi…
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_500_4
+Để tôi biết… Liêm Thanh vẫn bình an…
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_50_1
+Vết thương của Chixia hình như đã ổn định lại rồi...
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_50_2
+Đúng vậy... Nhờ có nghiên cứu viên Baizhi... Đây là lần đầu tôi thấy cô ấy sốt ruột đến mức đó...
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_50_4
+May mà Chixia đã trụ qua được... Sau này chúng ta thay phiên nhau chăm sóc cô ấy đi, cũng nên để Baizhi nghỉ ngơi chút rồi.
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_520_2
+Tôi nhớ hình như có một cô gái tên Nhược Vân? Cô ấy cũng xuất thân từ làng Hàm Linh…
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_550_1
+Này này, cậu thấy không? Vừa rồi có một người cực kỳ xinh đẹp đi ngang qua…
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_550_2
+Khoan đã, hình như tôi biết cô ấy… đó chẳng phải hội trưởng Thương hội Chiêu Minh của Mộng Châu sao?
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_560_1
+Hừm… Tôi có thể cảm nhận được chúng… chúng…
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_570_1
+Hừm… Tôi có thể cảm nhận được chúng… ánh mắt của đám Cơ Khôi đó; nhất định chúng sẽ đến đây!
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_570_5
+Mọi người không hiểu… không hiểu đâu… nếu không chạy, tất cả chúng ta sẽ chết ở đây…
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_590_2
+Đến nước này rồi mà cậu còn nghĩ đến chuyện ăn uống sao!?
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_600_1
+Nhan Lãng, A Dục… đường xuống suối vàng xa xôi, để tôi tiễn hai người một đoạn…
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_600_2
+Hãy an nghỉ. Chặng đường còn lại, cứ để chúng tôi thay hai người bước tiếp.
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_610_1
+Tôi thấy Kỵ Sứ Lương Vũ lại đưa về một nhóm dân thường… còn có cả người Kim Châu nữa…
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_630_2
+Đúng vậy, tôi còn đến hỏi người của Quân Sách Phủ, nhưng họ cứ ấp a ấp úng không chịu nói.
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_640_2
+Đúng vậy, tôi còn đến hỏi người của Quân Sách Phủ, nhưng họ cứ ấp a ấp úng không chịu nói.
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_650_1
+Vệ Trưởng, Thanh Tiêu Tư Kỵ đã có tin tức gì chưa……?
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_650_3
+Thanh Tiêu Tư Kỵ… mong cô ấy bình an vô sự.
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_650_4
+Thực lực của cô ấy thì không cần lo, nhưng giờ cũng chỉ đành đi bước nào tính bước ấy thôi…
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_690_4
+Đừng… đừng lo. Khi họ bị mắc kẹt, Thanh Tiêu Tư Kỵ cũng ở đó; cô ấy nhất định sẽ bảo vệ họ an toàn.
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_70_4
+Giá mà Tham Sự Changli cũng ở đây thì tốt... Nhưng mấy hôm trước cô ấy vừa lên đường đến Minh Đình... Chẳng biết khi nào mới trở về...
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_750_4
+Cô nương Yangyang, {PlayerName}… hai vị định ra tiền tuyến chống địch phải không?
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_750_5
+Chúc hai vị ra quân thắng lợi, rồi… bình an trở về.
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_800_1
+Đội ơn Tuế Chủ đoái hoài, ban thiếp triệu mời, lòng cảm khái vô cùng.\nKẻ làm nghề buôn, gom sức muôn người mà dựng thành, kết vạn tấm lòng mà lập chợ. Nếu được nương theo gót các bậc hiền tài, san sẻ ưu tư của thiên hạ, đó là tâm nguyện của Chiêu Minh, cũng là điều vạn hạnh.\nTrước xin phúc đáp, kính mong bảo trọng.\n\nThương hội Chiêu Minh, Suisui kính bút.
+
+@@ lang_multi_text.db||MultiText||ZXSTSPH_YYZX_870_1
+Hình ảnh của Yangyang...
+
+@@ lang_multi_text.db||MultiText||ZheZhi_Shengtai_2_4
+…
+
+@@ lang_multi_text_1sthalf.db||MultiText||LHLZTC_1_1
+Hỡi người đang truy tìm con đường phía trước, bạn đã đặt chân lên đỉnh núi của Kim Châu, cũng đã lắng nghe tiếng sóng của Hắc Hải Ngạn. Băng qua bão tố, bạn nghe được phúc âm song sinh nhất thể của Laguna, cũng tận hưởng vinh quang tối thượng nơi đấu trường Thất Khâu. Xuyên qua "đô thành hổ phách" ấy, tại Lahailo thần bí, bạn đối diện với thâm không, lấy "Dũng Khí" chống lại "Hư Vô". Giờ đây, con đường phía trước đã hiện rõ, lên đường thôi, để chúng ta trở lại Hoàng Long, tiến về Mộng Châu.
+
+@@ lang_multi_text_1sthalf.db||MultiText||LHLZTC_1_10
+Và giữa lúc mọi người hân hoan ăn mừng, bạn đã nhạy bén nhận ra sự bất thường, một mình điều tra và cuối cùng cứu được Iuno, người vốn đã bị xóa bỏ khỏi sự tồn tại.
+
+@@ lang_multi_text_1sthalf.db||MultiText||LHLZTC_1_11
+Cuối cùng, dưới sự chi viện của đông đảo bạn đồng hành, bạn đã dẫn dắt mọi người đẩy lùi thành công Minh Thức đang mưu đồ phục sinh. Tháp Lê Na Tịch đón chào bình minh không còn thần linh, chỉ thuộc riêng về con người.
+
+@@ lang_multi_text_1sthalf.db||MultiText||LHLZTC_1_12
+Từ biệt tháp Lê Na Tịch, bạn tiếp đó đến một đô thị hoang tàn tồn tại trong Sonora — thành Tuệ Ba. Tại đây bạn đã tình cờ gặp thiếu nữ tên Chisa, và cùng nàng phá giải lời nguyền không ngừng lặp lại nơi này.
+
+@@ lang_multi_text_1sthalf.db||MultiText||LHLZTC_1_13
+Sau đó, để giải quyết vấn đề đột nhiên xuất hiện là tần số bị thất thoát của bản thân, bạn đến Lahailo và làm quen với Lynae, cô gái có thân thế trắc trở. Các bạn đã cùng nhau đẩy lùi lũ Hư Đản Trùng tập kích Học viện Tinh Cự.
+
+@@ lang_multi_text_1sthalf.db||MultiText||LHLZTC_1_14
+Tiếp đó, bạn cùng Mornye, cô học muội năm xưa, đã ngăn chặn thành công cuộc khủng hoảng lõi lò rơi xuống, Lahailo cũng đón chào "lần mặt trời mọc thứ hai".
+
+@@ lang_multi_text_1sthalf.db||MultiText||LHLZTC_1_15
+Sau đó, dưới sự giúp đỡ của thiếu nữ thần bí Aemeath, bạn đã phát hiện ra sự thật về việc tần số của bản thân bị thất thoát.
+
+@@ lang_multi_text_1sthalf.db||MultiText||LHLZTC_1_16
+Điều khiến bạn bất ngờ hơn nữa là, Aemeath từng được bạn cứu, và bạn cùng cô ấy từng sống bên nhau một khoảng thời gian. Cô gái kiên cường và dũng cảm này đã kế thừa ý chí của bạn, vì cứu lấy thế giới mà chọn hy sinh chính mình.
+
+@@ lang_multi_text_1sthalf.db||MultiText||LHLZTC_1_17
+Bạn cùng Luuk Herssen kết bạn đồng hành đi tìm cách cứu Aemeath trở về, trong lúc tìm hiểu quá khứ của Luuk Herssen, cũng đã vạch trần lớp ngụy trang của hội trưởng Tàn Tinh Hội.
+
+@@ lang_multi_text_1sthalf.db||MultiText||LHLZTC_1_18
+Để tiếp tục phá vỡ âm mưu của hội trưởng, bạn cùng Sigrika mạo hiểm nơi mặt tối của Học viện, giúp cô ấy chiến thắng tâm ma đồng thời cũng hóa giải cuộc khủng hoảng ở mặt tối.
+
+@@ lang_multi_text_1sthalf.db||MultiText||LHLZTC_1_2
+Tại Kim Châu, bạn đã hợp sức cùng Jiyan và mọi người ở Kim Châu, dẹp yên cơn Tàn Tượng Triều ở Bắc Lạc Dã, và thu về một "A Bố nhỏ". Cuối cùng cũng thành công đánh bại và "hấp thụ" được kẻ "Vô Vọng Giả".
+
+@@ lang_multi_text_1sthalf.db||MultiText||LHLZTC_1_20
+Cuối cùng, dẫu Toại Giả đã rời đi, bạn vẫn hỗ trợ Lucilla tìm ra mục tiêu mới cho các học sinh — lợi dụng kỹ thuật mà Toại Giả để lại, phá vỡ sự phong tỏa của Thiên Không Hải.
+
+@@ lang_multi_text_1sthalf.db||MultiText||LHLZTC_1_21
+Đáng nói là, trong quãng thời gian ở Lahailo, bạn còn tình cờ quen biết Lucy và Rebecca đến từ Thành phố Đêm. Các bạn đã sát cánh chiến đấu với cơn Ác Mộng bám theo phía sau, đồng thời cũng giúp Lucy thực hiện tâm nguyện……
+
+@@ lang_multi_text_1sthalf.db||MultiText||LHLZTC_1_22
+Sóng triều rút đi, giờ đây trước mắt bạn là một thế giới hoàn toàn mới, một hành trình chưa biết đến.
+
+@@ lang_multi_text_1sthalf.db||MultiText||LHLZTC_1_3
+Lại dưới sự dẫn dắt của một "người đưa đò" — Changli, bạn đã chấm dứt sự rối loạn thời gian ở núi Thừa Tiêu, và giữa Tuế Chủ "Giác" của Kim Châu cùng Lệnh Doãn Jinhsi, cũng đã hoàn thành sự kế thừa.
+
+@@ lang_multi_text_1sthalf.db||MultiText||LHLZTC_1_4
+Khi bạn muốn đi tìm quá khứ của chính mình, bạn đã gặp Shorekeeper ở Hắc Hải Ngạn, và lấy lại chức trách của mình với tư cách là người lãnh đạo Hắc Hải Ngạn.
+
+@@ lang_multi_text_1sthalf.db||MultiText||LHLZTC_1_5
+Để giải quyết sự dị thường của A Bố, bạn đã từ Hắc Hải Ngạn vượt qua vùng biển bão tố ấy, đến được Laguna của tháp Lê Na Tịch, và với tư cách nguyệt quế của lễ hội cuồng hoan, bạn đã nhận được khải thị liên quan đến Tuế Chủ.
+
+@@ lang_multi_text_1sthalf.db||MultiText||LHLZTC_1_6
+Bạn lần theo manh mối đến được Học viện Thần học Avinolin treo ngược trên bầu trời, và tại đây đã cứu được vật chứa của Minh Thức, cũng là cộng minh giả của Anh Bạch Lạp Đa, Cartethyia.
+
+@@ lang_multi_text_1sthalf.db||MultiText||LHLZTC_1_7
+Tiếp đó, bạn đến Thất Khâu, hỗ trợ đấu sĩ Lupa cùng Thánh Nữ Cartethyia phối hợp đánh bại âm mưu của Tàn Tinh Hội hòng lợi dụng kịch bản để ghi đè lên hiện thực của Thất Khâu.
+
+@@ lang_multi_text_1sthalf.db||MultiText||LHLZTC_1_8
+Để tìm bảo thạch Minh Thức, bạn đã đến trường thử nghiệm dưới đáy biển của Ẩn Hải Tu Hội, trong quá trình đó, bạn biết được lời hẹn ước năm xưa cùng nút thắt trong lòng hiện tại giữa Phrolova và bạn. Cuối cùng Fenlek bỏ mạng, bảo thạch Minh Thức cũng bị Tàn Tinh Hội thu hồi, còn Phrolova thì chìm xuống biển sâu, bặt vô âm tín.
+
+@@ lang_multi_text_1sthalf.db||MultiText||LHLZTC_1_9
+Sau đó, bạn nhận lời mời của Augusta, Tổng đốc Thất Khâu, cùng đến Thú Nguyên, chứng kiến bà dùng hành động để lý giải thế nào là bậc vương giả.
+
+@@ lang_multi_text_1sthalf.db||MultiText||LHLZTC_2_1
+Hu hu hu, tôi có rất nhiều câu chuyện phiêu lưu đấy nhé.
+
+@@ lang_multi_text_1sthalf.db||MultiText||LHLZTC_2_2
+Bạn muốn nghe câu chuyện nào đây?
+
+@@ lang_multi_text_1sthalf.db||MultiText||LHLZTC_2_6
+Để tôi nghĩ thêm đã.
+
+@@ lang_multi_text_1sthalf.db||MultiText||LHLZTC_3_1
+Chuyện kể chuyện kể, bạn có rất nhiều câu chuyện.
+
+@@ lang_multi_text_1sthalf.db||MultiText||LHLZTC_3_2
+Bạn muốn nghe chuyện gì nào?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_LLZQMXY_10_14
+Nhận lấy đi, Yangyang.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_LLZQMXY_10_20
+Chúc mừng em đã trưởng thành, Yangyang.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_LLZQMXY_10_25
+Nhưng, nói thật lòng nhé, Yangyang, có lẽ tự em không cảm nhận được đâu.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_LLZQMXY_10_34
+Rảnh thì viết thư về quê nhé, Yangyang.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_LLZQMXY_10_52
+Dưới sự dẫn dắt của nhân viên Hoa Tư Viện, Yangyang đã trải qua một loạt kiểm tra.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_LLZQMXY_10_53
+Trong lúc chờ đợi báo cáo kiểm tra phổ tần, Suisui tìm đến Yangyang, và trao lại món quà trưởng thành mẹ tặng cho Yangyang — một con ốc biển. Đợi Suisui rời đi, khi Yangyang ghé tai lắng nghe âm thanh trong con ốc biển, quầng sáng cô từng thấy lại một lần nữa xuất hiện...
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_LLZQMXY_11_52
+Nhanh nhanh nhanh, Yangyang, Baizhi, chúng ta sắp đến Vân Lăng Cốc rồi!
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_LLZQMXY_11_53
+Đừng đi vội thế, Chixia, chúng ta đến khảo sát địa hình, không phải đi du lịch.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_LLZQMXY_11_54
+Nhưng chẳng phải luồng tức của Yangyang đã linh cảm nơi đây sẽ hình thành khu vô âm sao? Không nhanh chân, lỡ có người bị mắc kẹt trong khu vô âm thì làm thế nào?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_LLZQMXY_11_56
+...Chixia, Baizhi, trong luồng tức... hình như có tin tức mới...
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_LLZQMXY_12_70
+<te href=750056>Người tế thanh</te>... không, Yangyang, chẳng bao lâu nữa, <ano=Tuần lễ>hành trình</ano> của ngươi sẽ bắt đầu, từ nay về sau, mong ngươi vẫn cứ…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_LLZQMXY_12_75
+Quầng sáng đưa Yangyang đến một Sonoro, nơi tái hiện lại chính là quang cảnh Vân Lăng Cốc năm xưa. Quầng sáng nói với Yangyang rằng, cuộc gặp gỡ giữa cô và cậu mang một ý nghĩa trọng đại không thể phai mờ, và nhắc nhở Yangyang rằng, hành trình của cô với tư cách là người tế thanh cũng sắp bắt đầu. Yangyang hỏi về thân phận của quầng sáng, quầng sáng trả lời cô rằng, mình chỉ là âm thanh còn sót lại của một cơn gió, rồi sau đó tan biến đi.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_LLZQMXY_1_5
+À phải rồi, Yangyang có ở bên cạnh cậu không?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_LLZQMXY_20_2
+...Này, Yangyang, đằng kia! Hình như có người!
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_LLZQMXY_20_4
+Nơi này không nên nán lại lâu, tôi đi đến chỗ đã định để thu thập dữ liệu, Yangyang, Chixia, hai người ở lại trông chừng {TA} nhé.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_LLZQMXY_20_5
+Đợi {TA} tỉnh dậy, chúng ta sẽ gặp nhau ở ■■■■.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_LLZQMXY_21_1
+Cậu… tỉnh rồi sao?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_LLZQMXY_2_14
+（Tình trạng của Yangyang... hình như vẫn khác với cộng minh lần hai của Jinhsi và Cartethyia...）
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_LLZQMXY_2_18
+Yangyang, bên Hoa Tư Nghiên Cứu Viện nói muốn tìm cậu.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_LLZQMXY_30_13
+Yangyang, báo cáo kiểm tra của cô đã có rồi, cô có muốn xem ngay bây giờ không?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_LLZQMXY_30_18
+Nhưng, Yangyang đã có được năng lực cộng minh mới...
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_LLZQMXY_30_21
+Huyền Linh Tước là sinh vật Hồi Âm đã tuyệt chủng từ rất lâu, giờ cũng không thể nào đối chiếu tần số của Yangyang với nó được.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_LLZQMXY_30_22
+Có lẽ còn một khả năng nữa, đó là sự thay đổi xảy ra trên người Yangyang, với phương thức kiểm tra hiện tại của Hoa Tư Nghiên Cứu Viện, không có cách nào xác minh được nó rốt cuộc là gì.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_LLZQMXY_30_27
+Cầm báo cáo này, là có thể đến Quân Sách Phủ trình diện rồi. Chúc cô thuận lợi, Yangyang kỵ sứ.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_LLZQMXY_30_28
+Yangyang từ Sonoro trở về hiện thực, cùng lúc đó, cậu cũng vừa kịp đến Hoa Tư Viện. Tuy nhiên, kết quả báo cáo kiểm tra phổ tần của Yangyang lại nằm ngoài dự liệu của cậu và cô ấy, báo cáo cho thấy nguồn cộng minh của Yangyang không hề thay đổi, đến cả Hoa Tư y sư cũng không biết phải giải thích hiện tượng này thế nào...
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_LLZQMXY_30_4
+Sao vậy, Yangyang?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_LLZQMXY_31_42
+Dù trên người xuất hiện hiện tượng tạm thời chưa thể giải thích, nhưng Yangyang lại không vì thế mà quá ưu tư. Điều cô biết là, mình đã có được sức mạnh mới, đôi cánh của mình đã cứng cáp hơn trước, và lúc này, cô dường như cũng đã có dũng khí, để nói với cậu những lời, mà cô đã sớm muốn nói ra từ lâu...
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_100_2
+…Đi tìm Jinhsi trước.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_10_1
+Hộc… hộc… {PlayerName}! Có bưu kiện chuyển phát nhanh cho cậu này! Từ Hoàng Long gửi đến!
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_10_11
+Khụ… ta, ta đương nhiên biết rồi! Bổn Bố hiểu chuyện chia sẻ nhất mà! À đúng rồi, Yangyang viết gì trong thư vậy?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_10_15
+Ơ!? Yangyang lại có chị gái sao? Chị cô ấy sẽ là người thế nào nhỉ, tò mò quá đi…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_10_18
+Vào một ngày yên bình sóng lặng, bạn nhận được một bưu kiện chuyển phát nhanh từ Hoàng Long, bên trong kèm theo lá thư mà Yangyang gửi cho bạn.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_10_4
+Hửm? Bưu kiện từ Hoàng Long? Là gì thế là gì thế? Có ai gửi đồ ăn cho cậu à?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_10_5
+Là thư của Yangyang.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_10_6
+Ồ ồ… là Yangyang à, cũng đúng là đến lúc này rồi…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_10_7
+Còn có hộp quà bánh ngọt cô ấy gửi cho cậu nữa.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_10_8
+Oa! Yangyang vạn tuế!
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_110_10
+Lâu rồi không gặp, Sanhua.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_110_11
+{PlayerName}…!? Cậu… đã trở về rồi…?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_110_13
+Sanhua, có thể dẫn tôi đi tìm Jinhsi không?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_110_15
+Khoan đã, mọi chuyện đều phải có trước có sau. Hơn nữa, chuyện này liên quan đến em gái tôi…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_110_16
+Xin lỗi, tôi cũng vì một người rất quan trọng…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_110_17
+Tôi phải biết Yangyang…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_110_19
+Chẳng lẽ… Cậu là…?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_110_21
+…Xin hãy thông cảm cho những gì Sanhua làm, tôi quả thực đã không nói cho cô ấy biết rốt cuộc tôi đã đi đâu.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_110_23
+Jinhsi, cô bị thương sao?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_110_24
+Không sao, chỉ là vài vết thương ngoài da thôi. So với thu hoạch của chuyến đi này, đây chỉ tính là một trò đùa nhỏ mà "vị đại nhân đó" bày ra cho tôi.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_110_25
+Thất lễ không ra đón, tiểu thư Suisui. Rất xin lỗi vì lần đầu cô đến Kim Châu đã phải gặp chuyện thế này.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_110_26
+…Nếu lời thị vệ Sanhua là thật, tôi cũng xin lỗi vì sự đường đột lúc nãy. Nhưng tôi đến Kim Châu thăm em gái, lại hay tin em ấy đang mất tích, mong mọi người hiểu cho tâm trạng của tôi.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_110_27
+Tôi biết, việc này cấp bách. Đã vậy {PlayerName} cũng đến rồi, tôi sẽ nói luôn một thể.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_110_28
+Mấy ngày gần đây, Kim Châu có nhiều người mất liên lạc, mọi manh mối đều chỉ về địa giới Huyền Phương. Yangyang và Chixia kết bạn đồng hành đến thành Huyền Phương điều tra, nhưng Chixia trở về với trọng thương, còn Yangyang thì bặt vô âm tín từ đó.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_110_29
+Sau khi biết chuyện này, tôi lập tức phái tín sứ đi đường khác đến Biên Đình Mộng Châu, nhưng phía bên kia mãi vẫn chưa hồi đáp. Tôi cũng cố phái tinh nhuệ Dạ Quy thám thính lại thành Huyền Phương, nhưng giờ cổng thành đóng chặt không mở, người ngoài căn bản không thể biết trong thành rốt cuộc đã xảy ra chuyện gì.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_110_3
+Sanhua thị vệ, tôi đã ngồi đây đủ hai canh giờ rồi, có thể dẫn tôi đi gặp Kim Lệnh Doãn được chưa?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_110_32
+Nhưng chắc chắn cô vẫn còn cách.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_110_34
+Ừm… vì tôi không chỉ là Lệnh Doãn, mà còn là cộng hưởng giả của Tuế Chủ Giác.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_110_38
+Quá trình trong đó… không quan trọng, dù sao cũng đã kết thúc rồi. Còn thứ tôi cuối cùng lấy được, nói đơn giản, chính là "chìa khóa dự phòng".
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_110_39
+…Nhìn là biết, chuyến đi này của cô không hề dễ dàng.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_110_4
+Đúng như tôi đã nói trước đó, Lệnh Doãn hiện không có mặt ở Biên Đình… mong ngài thứ lỗi.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_110_40
+Dù sao đây cũng là thứ chỉ được sử dụng trong “tình huống khẩn cấp”. Còn thế nào mới được tính là khẩn cấp, cứ để tôi tự phán đoán.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_110_41
+{PlayerName}, cậu có mối liên hệ sâu sắc với Giác, nên chắc cũng có thể tùy ý sử dụng thứ ngài ấy để lại.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_110_42
+Việc không nên chậm trễ, {PlayerName}, chúng ta đi thôi. Tiểu thư Suisui, phiền cô đợi thêm một thời gian nữa…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_110_46
+Jinhsi, cô cần ở lại Kim Châu.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_110_47
+Vô Tướng Huyên Chủ vẫn có khả năng quay lại; Kim Châu không thể thiếu cô.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_110_49
+Tin tôi đi.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_110_52
+Hơn nữa, mọi người không nghĩ tôi sẽ chỉ ngồi chờ mà chẳng làm gì đấy chứ?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_110_53
+…Được rồi. {PlayerName}, tiểu thư Suisui, với tư cách Lệnh Doãn, tôi hứa sẽ chịu mọi trách nhiệm cho những việc hai người làm tại Huyền Phương Thành.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_110_66
+Xin hãy đưa Yangyang… đưa con dân Kim Châu về bình an.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_110_67
+Tôi tuy không thể phái người, nhưng tôi có thể lấy thân phận người cộng hưởng của Giác, với tư cách cá nhân mà đến đó.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_110_68
+Bạn gặp Sanhua tại Biên Đình và thấy cô đang tiếp một vị khách đặc biệt: Suisui, người chị mà Yangyang từng nhắc trong thư, nay đến Kim Châu tìm em gái. Cùng lúc đó, Jinhsi trở về Biên Đình, giải thích cho bạn và Suisui tình hình của Kim Châu cùng Huyền Phương Thành, rồi trao cho bạn một tần số đặc biệt. Bạn hứa với Jinhsi sẽ đưa Yangyang và người dân Kim Châu trở về an toàn; Suisui cũng quyết định đồng hành cùng bạn đến vùng Huyền Phương để tìm em gái.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_110_8
+Được thôi, vậy hãy nói cho tôi biết Kim Lệnh Doãn giờ đang ở đâu, tôi tự đi tìm cô ấy là được.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_110_9
+Cái này… xin thứ cho tôi không thể tuân lệnh.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_111_54
+{PlayerName}, Chixia hiện đang dưỡng thương ở Viện Nghiên cứu Hoa Tư, trước khi lên đường, hãy đến thăm cô ấy nhé. Nếu muốn biết thêm tin tức về thành Huyền Phương, cũng có thể đến đó hỏi Tương Lý Thủ tịch và Baizhi.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_111_55
+Còn tiểu thư Suisui thì…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_111_56
+Cho tôi xin cô một chút thời gian được không? Tôi có vài chuyện muốn hỏi Kim Lệnh Doãn.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_111_57
+Không thành vấn đề, miễn là chuyện tôi có thể trả lời.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_111_59
+…{PlayerName}, nhờ cậu.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_120_1
+{PlayerName}, cậu đến rồi.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_120_2
+Vừa nãy Zhezhi đến thăm Chixia, tiện thể kể cho tôi tình hình của cậu. Nhìn dáng vẻ cậu, chắc là đã gặp Kim Lệnh Doãn rồi nhỉ.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_120_21
+…Cứ yên tâm, Chixia, tôi sẽ đưa Yangyang về.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_120_24
+Xin lỗi, {PlayerName}… sau khi xảy ra chuyện, tôi cũng muốn đi tìm Yangyang ngay, nhưng Chixia thành ra như vậy, tôi không thể…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_120_25
+Cảm ơn cậu đã chăm sóc cô ấy.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_120_26
+Cậu không cần phải xin lỗi.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_120_27
+Đúng vậy, nghiên cứu viên Baizhi, nếu không có cô, vết thương của Chixia không những không thể ổn định nhanh như vậy, mà còn có thể để lại di chứng không thể đảo ngược.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_120_28
+{PlayerName}, thị vệ Sanhua đã kể cho tôi nghe chuyện của cậu. Tiếp theo, chắc cậu sẽ lên đường đến Huyền Phương Thành phải không?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_120_35
+Theo lời Chixia, khi Yangyang bị Tàn Tượng vây khốn, cổng thành Huyền Phương không biết vì sao lại mở ra, Yangyang vì muốn cô ấy về an toàn, đã một mình xuyên qua cổng núi đó.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_120_36
+Vậy nên… Yangyang giờ chắc vẫn còn ở trong thành Huyền Phương.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_120_37
+Sau khi vào Viện Nghiên cứu Hoa Tư, tôi cũng vài lần xin Mộng Châu cho nghiên cứu nguyên lý kỹ thuật mà thành Huyền Phương dựa vào, nhưng đơn xin của tôi đều bị bác bỏ. Về nội tình thành Huyền Phương, tôi cũng không thể biết thêm gì nữa, thật ngại quá.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_120_38
+Nhưng mà… có lần tôi tra cứu tư liệu cũ ở viện nghiên cứu, đã tìm thấy một bản báo cáo liên quan đến thành Huyền Phương.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_120_39
+Nội dung trên đó quá mơ hồ, nhưng trong đó vẫn có một manh mối, không biết có giúp gì được cho cậu không.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_120_4
+Baizhi, Chixia cô ấy…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_120_43
+Chixia…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_120_44
+Trước khi lên đường, bạn đến Viện Nghiên cứu Hoa Tư thăm Chixia. Sau khi biết Chixia đã qua cơn nguy hiểm, bạn nghe được từ Baizhi và Xiangli Yao một số tin tức về thành Huyền Phương. Đồng thời, Xiangli Yao nói cho bạn biết, Tắc Đình dường như cũng từng tham gia vào việc xây dựng thành Huyền Phương.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_120_6
+Chixia cô ấy… nghe Dạ Quy đưa cô ấy về kể lại, cô ấy mang trọng thương, một mạch xuyên qua Mộng Quật, cho đến khi trình bày xong tình hình của Yangyang mới không chống đỡ nổi mà hôn mê.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_130_1
+Thành Huyền Phương lịch sử lâu đời, nhân quả liên lụy phức tạp, nếu kể hết từng chuyện một, e rằng sẽ làm chậm hành trình của cậu.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_130_3
+Ừm, tìm Yangyang là quan trọng.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_130_4
+Chixia cứ giao cho chúng ta, Viện Nghiên cứu Hoa Tư sẽ chăm sóc tốt cho cô ấy.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_131_1
+Haiz… mong Yangyang bình an vô sự…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_140_10
+Yangyang cũng từng nói với tôi câu y hệt.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_140_11
+Hửm? Yangyang nó…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_140_15
+Nghe có vẻ, nàng rất hiểu Yangyang nhỉ?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_140_16
+Sau khi gặp Yangyang, hành trình của tôi mới chính thức bắt đầu.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_140_17
+Dù tôi đã tiến bao xa, dù tôi đã đặt chân đến bao nhiêu nơi. Cuộc gặp gỡ với cô ấy, mãi mãi là điểm khởi đầu của hành trình này.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_140_18
+Vậy nên, dù là vì tất cả những người quan tâm đến cô ấy, hay vì chính bản thân tôi, tôi nhất định sẽ tìm được cô ấy, đưa cô ấy về.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_140_25
+À, cậu đến rồi. Đừng để ý, con chim ngốc này tôi nuôi đã nhiều năm, Thủy Giảo là tên của nó.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_140_26
+Nó… tâm trạng có chút không tốt, chắc là vì không gặp được Yangyang.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_140_27
+Hồi còn ở quê, nó với Yangyang chơi thân lắm, có lần, Yangyang còn…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_140_29
+Suisui đang đợi bạn ở cổng Viện Nghiên cứu Hoa Tư. Bạn bày tỏ với cô quyết tâm nhất định sẽ tìm được Yangyang.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_140_3
+Vừa nãy, cậu đang nghĩ gì vậy?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_140_5
+Nhớ lại ngày Yangyang nói với tôi và mẹ rằng em ấy sẽ rời nhà để đến Kim Châu. Tôi bảo, nếu em đã tìm được con đường mình muốn đi thì đừng bận tâm điều gì khác, cứ bước tiếp.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_140_6
+Nhưng điều tôi nói, không phải là điều tôi nghĩ.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_140_7
+Điều đó cho thấy cô rất yêu thương cô ấy.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_140_9
+Trước khi đến Kim Châu, tôi còn có chút lo lắng. Bao nhiêu năm không gặp, không biết chúng ta có còn là dáng vẻ mà cả hai từng quen thuộc hay không. Không ngờ…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_141_20
+Từ Kim Châu đi đường đến địa giới Huyền Phương, cần phải xuyên qua Mộng Quật ở phía bắc Vân Lăng Cốc. Cậu chắc chưa từng đến, để tôi dẫn đường cho.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_150_1
+Nói mới nhớ, cậu và Jinhsi nói riêng chuyện gì vậy?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_150_2
+Vài trao đổi thông tin cần thiết. Tôi phải nói khô cả miệng, cô ấy mới đồng ý cấp cho tôi một phần quyền hạn.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_150_3
+Ngoài ra, thì là nói về chuyện của cậu.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_150_4
+Tôi?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_150_5
+Tuy mục đích chúng ta giống nhau, nhưng tôi luôn phải biết người đồng hành với mình, có thể để tôi gửi gắm niềm tin hay không.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_150_6
+Thêm nữa, Yangyang thường nhắc đến tên cậu trong thư, tôi cũng không khỏi tò mò, rốt cuộc là ai lại khiến em gái tôi phải nhớ nhung mãi vậy?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_150_7
+Vậy giờ cô đã có câu trả lời trong lòng chưa?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_150_8
+…Cái đó thì còn phải xem biểu hiện sau này của cậu.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_160_1
+Những cái này… chắc là dấu vết Yangyang và Chixia để lại khi chiến đấu trước đó…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_170_6
+Bạn dùng tần số Jinhsi trao để mở cổng vào vùng Huyền Phương.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_180_2
+Ừm… tạm thời cũng chưa gặp "Cơ Khôi" mà Xiangli Yao nói đến.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_180_4
+Cô rất quen thuộc nơi này à?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_190_10
+Cô suy nghĩ rất chu đáo.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_190_11
+Cậu nói vậy… lại khiến tôi cảm thấy chúng ta chắc chắn sẽ thất lạc nhau mất…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_190_12
+Chỉ là vài thói quen hình thành khi buôn bán thôi, tôi luôn chuẩn bị trước cho tình huống tệ nhất.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_190_13
+Dù sao, nhiệm vụ ưu tiên nhất vẫn là tìm được Yangyang, chúng ta đều không muốn phân tâm vì chuyện khác, đúng không?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_190_14
+Với lại, tạm coi như một món quà tôi tặng, đừng làm mất đấy nhé?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_190_17
+Bạn và Suisui đến Tỉnh Sạn ở Lạc Uyên Nam Khâu, phát hiện nơi đây không còn một bóng người. Để đề phòng bất trắc, Suisui giao cho bạn một trong hai máy phát tín hiệu ghép cặp.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_190_5
+Cái này cho cậu, {PlayerName}.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_1_1
+Rover:\n       Không biết cậu sống ở Học viện Tinh Cự có ổn không? Ánh nắng đang chiếu rọi tôi hôm nay, phải mất bao lâu mới đến được chỗ cậu nhỉ?\n       Gần đây… thỉnh thoảng tôi lại mơ một giấc mơ. Mơ thấy mình một mình ở Vân Lăng Cốc, không ngừng chạy mãi chạy mãi… Mỗi khi tôi tưởng như sắp tìm được thứ gì đó, thì lại luôn bị một điều gì đó đẩy về hiện thực.\n       Đoạn này… có giống như đang than vãn không? Xin lỗi, thỉnh thoảng, cũng để tôi viết một chút nhé.\n       À đúng rồi, ít lâu trước, chị gái nói sẽ đến Kim Châu thăm tôi. Chúng tôi đã mấy năm không gặp nhau, không biết bây giờ chị đã thành người thế nào, nhưng tôi nghĩ, theo tính cách của chị, chắc vẫn là dáng vẻ trong ký ức của tôi thôi. Nếu có thể giới thiệu hai người quen nhau thì tốt biết mấy, chắc chắn hai người sẽ trở thành bạn tốt.\n       Đến khi cậu nhận được lá thư này, chắc tôi sắp phải hỗ trợ Chixia làm nhiệm vụ rồi. Gần đây Kim Châu có chút không yên, nhưng cậu đừng lo, giống như cậu đã dùng biết bao câu chuyện để mài giũa thanh kiếm của mình, tôi nghĩ, kể từ lần đầu chúng ta gặp nhau, tôi cũng đã trưởng thành ít nhiều.\n       Vậy nên, đợi lần sau, hãy để tôi kể cho cậu nghe về "cuộc phiêu lưu" lần này của tôi nhé, Rover.\n<alignright/>Yangyang\n\n       <i>Cũng đã mang chút bánh ngọt hợp mùa cho A Bố, hãy cùng ăn với những người bạn ở Rah.iro nhé, hy vọng hợp khẩu vị mọi người.</i>
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_20_1
+(Viết thư cho Yangyang, nên viết gì đây…)
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_20_10
+Sau khi Đạo Giả biến mất, phía nhà đầu tư của Thâm Không Liên Hợp từng muốn đóng cửa Học bộ Rabel… nhưng dưới sự tranh đấu bằng lý lẽ của Hiệu trưởng Lucilla, và hành động thực tế của mọi người trong học viện, Học bộ Rabel đã được giữ lại.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_20_17
+Yangyang, gần đây cậu vẫn ổn chứ?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_20_6
+(Hỏi thăm tình hình gần đây của Yangyang)
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_230_12
+Trong lúc tìm kiếm, Suisui phát hiện một con Lương Diên đậu gần Tỉnh Sạn, ngậm trong mỏ một lá thư. Ngay khi cô định trao đổi với bạn về manh mối này, xung quanh Tỉnh Sạn đột nhiên bắt đầu dâng lên màn sương mù dày đặc.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_235_7
+(Đây chắc chính là "Cơ Khôi dị thường" mà Chixia bọn họ nhắc đến…)
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_240_3
+Suisui? Hỏng rồi…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_240_7
+Suisui, chúng ta phải áp sát lại gần…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_250_2
+Nó hình như… muốn dẫn đường cho mình?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_260_10
+Kim Châu…? Cậu xuyên qua cổng núi phía nam để đến địa giới Huyền Phương à? Chẳng lẽ… Kim Châu đã biết tình hình ở đây rồi? Họ phái viện binh đến sao!?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_260_11
+Tôi tên {PlayerName}, theo một nghĩa nào đó cũng coi như viện binh vậy.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_260_14
+Chẳng lẽ — cậu chính là {PlayerName}, người mà trong trận Bắc Lạc Dã trước đây, đã cùng Jiyan tướng quân đẩy lui Minh Thức Vô Tướng Huyên Chủ…?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_260_15
+Tôi đến đây, cũng vì được Lệnh Doãn Kim Châu ủy thác. Có thể cho tôi biết tình hình hiện giờ của địa giới Huyền Phương không?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_260_18
+…Tôi tên Lương Vũ, Hậu Huyền Tam Kỵ trực thuộc Quân Sách Phủ thành Huyền Phương, Mộng Châu — <te href=750046>Hậu Huyền Tam Kỵ</te> — nói vậy thôi, chứ giờ Hậu Huyền Tam Kỵ, cũng chỉ còn mình tôi…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_260_26
+Kể cả tôi, chỉ có lác đác vài người thoát ra khỏi đó. Rồi thì…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_260_33
+(Tất cả mọi người đều không thể ra khỏi thành… vậy Yangyang chắc vẫn còn ở trong thành…)
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_260_35
+Ngoài tôi ra, cậu còn gặp ai khác từ Kim Châu đến không?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_260_36
+Người cậu nói… chẳng lẽ là…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_260_37
+Có một thiếu nữ tên Yangyang, cô ấy tự xưng là Đạp Bạch Dạ Quy của Kim Châu, hai ngày trước, khi di chuyển dân thường ngoài thành, cô ấy từng đồng hành với chúng ta một đoạn.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_260_38
+Đúng vậy, cậu biết cô ấy giờ đang ở đâu không?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_260_40
+Sau đó, tôi cũng phái vài trinh sát lùng sục quanh Huyền U Đông Nhạc, nhưng không tìm thấy tung tích cô ấy…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_260_44
+…Trên người cậu có mang theo thứ gì liên quan đến cô ấy không?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_260_45
+(Nói mới nhớ, thứ Suisui đưa cho tôi lúc trước… một lá… thư?)
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_260_48
+Dưới sự dẫn đường của Lương Diên, bạn đã thành công thoát khỏi màn sương mù, nhưng lại thất lạc Suisui giữa đường. Lúc này, một Định Huyền Vệ tên Lương Vũ đang lảng vảng gần Tỉnh Sạn, qua trò chuyện với cô, bạn biết được cuộc khủng hoảng mà địa giới Huyền Phương đang trải qua — Cơ Khôi phản loạn, Tàn Tượng chạy thoát ra ngoài. Tin tốt là, mấy ngày trước, Yangyang từng đồng hành với Lương Vũ một đoạn, mà lá thư Suisui phát hiện trước đó, dường như chính là do Yangyang viết.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_260_6
+Đừng kích động, tôi không có ác ý.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_260_7
+Cậu… trông không giống người địa giới Huyền Phương, cậu là ai? Sao lại xuất hiện ở đây?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_260_8
+Tôi đến tìm một người từ Kim Châu.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_263_1
+Cậu chắc có mang theo thiết bị đầu cuối bên người nhỉ, đợi chút, tôi chia sẻ quyền hạn cho cậu.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_263_3
+Trên lá thư này còn lưu lại tần số của cô ấy, chắc có thể nhờ đó truy vết một phần hành tung trước đây của cô ấy. Tôi dẫn cậu đến Tứ Minh Tỉnh, ở đó có thiết bị kết nối với "Tuần Tiêu Hoàn".
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_264_4
+(Chỉ số trên thiết bị định vị bình thường, chứng tỏ Suisui hiện vẫn bình an vô sự…)
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_264_5
+Cô nói rằng cô từng đồng hành với Yangyang một đoạn sao?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_264_6
+Đúng vậy. Cô ấy… Tôi cũng mong cô ấy được bình an.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_264_7
+(Theo lời cô ấy nói, việc cấp bách trước mắt là tìm được Yangyang…)
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_266_1
+À đúng rồi, tôi cũng mở khóa quyền hạn "Vân Bạch Cơ Kỵ" cho cậu luôn nhé.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_266_6
+Ừm… đã vậy cậu đã có phương tiện di chuyển của riêng mình rồi, thì tôi chia sẻ chức năng cho cậu vậy.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_280_10
+…Đi đi, tôi chặn hậu cho.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_280_13
+…Những người còn lại tôi sẽ đi cứu, không cần lo.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_280_15
+…Ai còn cử động được, theo tôi xông ra khỏi đây!
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_280_19
+Lương Vũ kỵ sứ — đằng kia có người đang giao chiến với cơ khôi…!
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_280_2
+Như vậy… Chixia sẽ an toàn rồi…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_280_22
+Này!? Cô không sao chứ?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_280_23
+Tôi…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_280_24
+Để đảm bảo an toàn cho Chixia, Yangyang đã dẫn dụ Cơ Khôi và Tàn Tượng tiến vào địa giới Huyền Phương. Ngay khi cô sắp rơi vào trạng thái siêu tần, một Lương Diên đã dẫn theo các Định Huyền Vệ đến từ địa giới Huyền Phương, cứu cô thoát nạn.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_280_4
+Lương Vũ, mấy cỗ cơ khôi này… hình như có gì đó…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_290_4
+Cháu chẳng phải đã nói rồi sao? Hiện giờ hoàn toàn không liên lạc được với Tuế Chủ…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_290_5
+Mình đang ở…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_290_7
+Cô là…?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_290_8
+Yangyang tỉnh dậy sau cơn mê man, phát hiện mình đang ở trong một căn nhà cũ. Bên ngoài, một Định Huyền Vệ đang trò chuyện gì đó với một cụ già…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_291_12
+Xin lỗi. Về vụ những lữ khách Kim Châu mất tích, Quân Sách Phủ vẫn chưa nhận được thông tin liên quan. Hơn nữa, trong tình hình hiện tại, e rằng tạm thời rất khó điều người hỗ trợ cô điều tra.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_291_13
+Không cần xin lỗi, tuy chưa có chứng cứ, nhưng tôi mơ hồ cảm thấy, chuỗi sự kiện này… hẳn là tồn tại một mối liên hệ nào đó.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_291_14
+Huống hồ chúng ta còn là đồng đội, vốn nên giúp đỡ lẫn nhau. Có gì tôi giúp được thì cứ nói.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_291_18
+Vậy trước đó, tôi đi xác nhận tình hình của mọi người một chút vậy.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_291_20
+Sau khi trao đổi ngắn gọn thông tin với Lương Vũ, Yangyang chủ động xin hỗ trợ các Định Huyền Vệ, dẫn dân làng rút lui đến nơi an toàn.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_291_4
+Nếu tất cả những chuyện này là do có kẻ ngấm ngầm mưu tính… kẻ làm được việc như thế, tôi biết cũng chỉ có…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_294_11
+Hửm? Cô tỉnh rồi à? Lúc trước cô suýt bị siêu tần và đã hôn mê mấy canh giờ. Thế nào, cơ thể có chỗ nào khó chịu không?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_294_12
+Tôi không sao… chỉ là vẫn chưa rõ tình hình hiện giờ…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_294_13
+…Tôi tên Lương Vũ, <te href=750047>Hậu Huyền kỵ sứ</te> thuộc Quân Sách Phủ Huyền Phương thành. Đây là thôn Hàm Linh, tựa lưng vào Huyền U Đông Nhạc, những người ở đây gần như đều là dân bản địa vùng đất Huyền Phương.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_294_14
+Lương Vũ… Hậu Huyền kỵ sứ… thôn Hàm Linh…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_294_15
+Đến lượt tôi hỏi cô: cô là ai? Vì sao lại xuất hiện ở đây? Tại sao lại giao chiến với Cơ Khôi?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_294_16
+…Tôi tên Yangyang, là Đạp Bạch dưới trướng Dạ Quy của Kim Châu. Sở dĩ tôi đến vùng đất Huyền Phương, là để hỗ trợ Kim Tuần Úy điều tra vụ án người Kim Châu mất tích gần đây.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_294_17
+Tôi và đồng bạn lần theo manh mối xuyên qua Mộng Quật, nhưng ở ngoài sơn môn lại gặp phải Tàn Tượng quy mô lớn… lúc này sơn môn đột nhiên mở ra, để giúp đồng bạn thoát thân, tôi mới một mình vào thành.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_294_18
+Chuyện sau đó… hai người hẳn cũng đã thấy cả rồi.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_294_21
+Rốt cuộc đã xảy ra chuyện gì? Tôi nhớ… cơ khôi ở Huyền Phương thành, lẽ ra là vũ khí giúp binh sĩ chống lại Tàn Tượng, sao lại đột nhiên bắt đầu tấn công con người?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_294_22
+Tôi không biết… không ai biết vì sao cả…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_294_23
+Lương Vũ kể sơ lược cho Yangyang nghe về diễn biến của sự việc.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_296_1
+Cô nói… A Trọng nó…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_297_3
+Được… Tôi biết rồi.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_299_1
+Này, này! Chị từ Kim Châu đến đúng không? Chị có quen chú Đổng không?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_299_3
+Chị có quen. Em từng gặp chú ấy sao?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_299_6
+Haiz… vùng Huyền Phương ra nông nỗi này, chắc chú ấy cũng khó quay lại. Em vẫn còn muốn nghe chú ấy kể tuồng nữa mà…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_300_14
+(Nói ra thì… trước đó nó cũng đã dẫn Lương Vũ và mọi người đến giúp tôi…)
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_300_15
+Trong cuộc trò chuyện với một cụ già, Yangyang đã biết được lai lịch của Lương Diên, cùng truyền thuyết về Huyền Linh Tước.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_300_2
+(Lương Diên… đây là tên của em sao?)
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_302_20
+Để tôi giúp tìm thử, tôi cũng khá giỏi tìm người.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_302_22
+Thằng bé… từ sau khi Lương Vũ trở về là biến mất…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_302_23
+Tôi đã hỏi mấy đứa trẻ khác, đều nói không biết nó ở đâu…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_302_24
+A Ngạn… Tôi không thấy nó, nó là vì… haiz…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_30_13
+Ở một nơi nào đó nơi biên giới Kim Châu, Yangyang đang đọc thư của bạn. Cùng lúc đó, Chixia ở cách đó không xa đang giục Yangyang, hai người bắt đầu tiến về đích đến của mình.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_30_4
+Này —! Yangyang, đi được rồi đấy!
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_30_7
+(Giấc mơ mà Yangyang mơ thấy…)
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_310_1
+Là cô sao? Có thể một mình cầm chân hơn chục Cơ Khôi lâu đến vậy, thân thủ quả thật rất giỏi.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_310_18
+Người thật sự có thực lực đơn thương độc mã chống lại tàn tượng mạnh mẽ, ngoài Định Huyền Vệ Trưởng ra, thì cũng chỉ có Hậu Huyền Tam Kỵ, cùng với vị Trấn Huyền Tư Kỵ hành tung bất định kia...
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_310_19
+Trong cuộc trò chuyện với Định Huyền Vệ Nhan Lãng, Yangyang biết được hai người đồng đội của Lương Vũ đều đã tử nạn không lâu trước đó trong cuộc tập kích của Cơ Khôi. Vì quan tâm đến lớp hậu bối, Nhan Lãng mong Yangyang có thể chăm sóc cho cô.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_310_2
+Nghe Lương Vũ nói, cô là Đạp Bạch đến từ Kim Châu? Không hổ là người chiến đấu ở tuyến đầu chống Triều Tàn Tượng, binh sĩ nào cũng thuộc hàng tinh nhuệ.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_310_3
+Tôi… cũng không đến mức ấy. Chỉ là khi giao chiến với Tàn Tượng ở đây, tôi thấy chúng nhanh nhẹn, ra đòn hiểm hóc, như thể đã trải qua vô số trận chiến—hoàn toàn khác với Tàn Tượng bên ngoài.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_310_6
+Nhưng bây giờ, cơ khôi phản loạn, Trấn Huyền Tư Kỵ bị vây khốn trong Cữu Đình, Hậu Huyền Tam Kỵ cũng chỉ còn lại một mình Lương Vũ... Nói thật, dù có lui về giữ Huyền Phương Thành, chúng ta cũng không thể nào cản nổi đợt tấn công của cơ khôi và tàn tượng.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_312_2
+(Nó… hình như muốn dẫn mình đi đâu đó…?)
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_321_11
+Huyền Linh… Các em có phải đã biết chuyện gì sắp xảy ra rồi không?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_321_13
+Các em là những sinh linh để mọi người gửi gắm niềm an ủi, là nhịp cầu nối liền tâm ý.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_321_14
+Đừng để mọi người nhìn thấy các em là nghĩ đến điềm gở; đừng trở thành sứ giả mang hung tin.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_321_47
+Yangyang theo cậu bé đến từ đường của làng Hàm Linh, phát hiện một thanh trường kiếm được thờ phụng tại đây. Trong lúc mơ hồ, Yangyang thấy được một đoạn ký ức từ quá khứ. Qua cuộc trò chuyện với trưởng làng, Yangyang biết được thanh trường kiếm này từng thuộc về một chiến sĩ vô danh đã tham gia trận chiến Vân Uyên…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_322_38
+Không thành vấn đề, thưa trưởng làng, tôi sẽ nói với Lương Vũ.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_322_39
+Haiz... Cô nói đúng, cô nương Yangyang. Cơ khôi là món quà của Tuế Chủ ban tặng, chúng ta dựa vào món quà này, bình yên trải qua hơn hai trăm năm tháng.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_322_42
+Vì lòng kính trọng đối với các liệt sĩ, trưởng làng mong Yangyang giao thanh kiếm cho Định Huyền Vệ để bảo quản chu đáo.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_323_17
+Không thành vấn đề, chị hứa với em, nhưng em cũng phải hứa với chị, trước lúc đó, phải bảo vệ tốt chị của em.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_33_12
+Hơ… đây là lần đầu tôi đi công tác xa thế này đấy. Tóm lại, phải đưa những người mất tích đó về an toàn! Đúng không, Yangyang?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_33_8
+Cái này cũng phải nhờ <te href=750055>Lưu Tức</te> của Yangyang cậu đấy! Nếu cậu không xâu chuỗi những manh mối vụn vặt ấy lại, không biết chúng ta phải lượn quanh Kim Châu bao nhiêu vòng nữa!
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_33_9
+Quá đáng rồi, Chixia… Theo kết quả điều tra của Kim Tuần Úy, họ đều vì nhiều lý do khác nhau mà muốn đến Mộng Châu, còn địa giới Huyền Phương lại nằm trên con đường bắt buộc phải qua.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_345_11
+Nói ra thì, trước đó tôi chưa kịp cảm ơn hai người đã ra tay cứu giúp, còn đặc biệt dọn phòng cho tôi nghỉ ngơi.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_345_18
+Yangyang mang trường kiếm tìm đến Lương Vũ, và nói cho cô biết tâm nguyện của trưởng làng. Vì lo âu mà Lương Vũ đã từ chối lời thỉnh cầu bảo quản thanh kiếm, nên Yangyang quyết định thay cô cất giữ. Thấy Lương Vũ lúc này đang chìm trong nỗi mất mát vì sự thương vong của đồng đội, Yangyang quyết định trò chuyện cùng cô…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_350_35
+…Trong trận Bắc Lạc Dã ấy, mọi người cũng nghĩ như vậy sao?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_350_67
+Yangyang dùng những lời ngắn gọn để trấn an cảm xúc của Lương Vũ, rồi cất tiếng hát bài dân ca mà trước đó cô đã nghe được từ Lương Vũ. Bầu không khí căng thẳng ngột ngạt trong làng được tiếng hát của Yangyang xua tan đi ít nhiều.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_355_62
+Định Huyền Vệ Minh Dục báo cáo với Lương Vũ về hướng di chuyển của Cơ Khôi. Yangyang chủ động xin nhận nhiệm vụ, thay nhóm trinh sát đã lâu chưa trở về đến Huyền U Đông Nhạc dò tìm tuyến rút lui an toàn.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_370_2
+(Chixia chắc sẽ rất thích, không biết giờ cô ấy đã thoát hiểm chưa...)
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_40_3
+Không giống không giống, người tinh mắt nhìn là ra ngay mà, cười cũng có nhiều kiểu lắm. Ví dụ nụ cười theo thói quen, với nụ cười phát ra từ tận đáy lòng chắc chắn khác nhau. Thứ có thể khiến Yangyang cười từ tận đáy lòng, để tôi nghĩ xem…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_40_4
+…Giờ vẫn nên chuyên tâm làm nhiệm vụ đi, Chixia.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_410_1
+Đứng lại! Cô là ai!? Hãy khai rõ thân phận!
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_410_2
+Yangyang kể sơ lược đầu đuôi câu chuyện cho các lính gác nghe.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_420_14
+Tại doanh trại tạm thời, một người thợ tìm đến Yangyang, khẩn cầu cô nhờ Lương Diên gửi giúp một bức thư nhà. Yangyang đồng ý lời thỉnh cầu của người thợ, đồng thời cũng mong anh có thể bình an gặp lại người thân. Vài bóng hình quan trọng lướt qua tâm trí Yangyang, cô quyết định cầm bút, ghi lại những gì mình đã trải qua, để phòng khi cần đến…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_440_19
+Hai người—
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_440_2
+Yangyang, nhờ có cô, chúng ta mới có thể tránh được cơ khôi và tàn tượng dọc đường. Suốt chặng đường tuy có nguy hiểm nhưng không xảy ra sự cố, thật là đại phúc.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_440_23
+...Nhan Lãng, Minh Dục, phiền hai người đi hỗ trợ Yangyang.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_440_29
+Nhờ sự giúp đỡ của Yangyang, các Định Huyền Vệ đã hộ tống thành công dân làng đến doanh trại tạm thời. Ngay khi mọi người chuẩn bị thở phào nhẹ nhõm, một toán Cơ Khôi và Tàn Tượng ngoài dự liệu bất ngờ tập kích về phía doanh trại. Trong tình thế cấp bách, Yangyang cùng hai Định Huyền Vệ khác quyết định làm mồi nhử, câu giờ cho những người còn lại rút lui.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_440_6
+Không thành vấn đề, có lẽ trong khoảng thời gian này, phía Mộng Châu đã phái người đến chi viện cũng nên.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_460_13
+Sau một trận kịch chiến dài đằng đẵng, Yangyang và mọi người đã thành công câu giờ cho cuộc rút lui. Tuy nhiên, Minh Dục và Nhan Lãng, những người ở lại hỗ trợ Yangyang, cũng vì thế mà tử nạn. Đúng lúc Yangyang đang mặc niệm cho hai người, một tiếng hát vọng đến bên tai cô. Khi Yangyang quay lại nhìn, lại phát hiện mình đã lạc vào giữa một chiến trường…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_464_20
+Huyền Linh… hãy cho tôi biết… Uyên Thành… đã giữ được chưa?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_464_21
+Xin cậu… Tôi còn vài lời… muốn gửi…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_464_22
+Yangyang băng qua chiến trường được tạo thành bởi Sonora này, một Định Huyền Vệ đầy thương tích trong hơi thở hấp hối đã cất tiếng gọi cô…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_481_2
+Tốt quá… Các em vẫn chưa…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_481_4
+Hứa với tôi… hãy đi xem… còn ai sống sót không…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_490_11
+Âm thanh của chiến trường không ngừng ùa vào tâm trí Yangyang, những tiếng động hỗn tạp khiến cô đau đầu như búa bổ, khổ sở vô cùng. Đúng lúc này, một tiếng hát mơ hồ thoáng có thoáng không lại từ nơi xa vọng đến…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_50_8
+…Cẩn thận một chút, Chixia.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_510_20
+Nhiệm vụ của chúng ta là chi viện cho chiến tuyến phía tây số hai. Các đồng đội Thiên Công, chuẩn bị khởi động Nhận Ngẫu.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_510_31
+Trên chiến trường, vô số người gọi tên Huyền Linh Tước, mong Huyền Linh Tước có thể mang đi âm thanh cuối cùng của họ. Yangyang nhìn chiến trường sắp chìm vào tĩnh lặng chết chóc này, thay Huyền Linh Tước cất lên bài dân ca mà mọi người đều quen thuộc. Theo tiếng hát của Yangyang, Lưu Tức bắt đầu thổi qua chiến trường. Tàn hưởng của những người đã khuất theo Lưu Tức, được đưa về hướng của quê nhà. Cùng lúc đó, một người thợ trẻ đến từ Trác Quân Đường mang theo một loạt đao ngẫu chiến đấu, gia nhập chiến trường…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_520_32
+Yangyang bị một lời chào kéo từ Sonora trở về hiện thực, một Thiên Công thợ tự xưng là Mộc Ngu xuất hiện trước mặt cô. Hắn nói rằng, trong Huyền Thiên Cấu ở đỉnh Phương Kình Tây, có lẽ ẩn giấu manh mối về vụ loạn của Cơ Khôi. Dù Yangyang có chút linh cảm khác lạ, cô vẫn quyết định tạm thời đồng hành cùng Mộc Ngu, cùng đến Huyền Thiên Cấu điều tra cho ra lẽ.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_520_7
+Đương nhiên là không thành vấn đề. Ta tên Mộc Ngu, là thợ thuộc Bộ Thiên Công của Huyền Phương Thành. Nếu cô nương không tin, trên người ta có lệnh bài làm chứng.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_53_2
+Chixia, có gì đó không ổn, rút vũ khí ra đi.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_53_3
+Yangyang? Cậu cảm nhận được gì sao!?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_53_7
+Trước trạm gác không một bóng người, thông qua Lưu Tức, Yangyang cảm nhận được nguy hiểm đang áp sát cô và Chixia.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_580_32
+Nhờ vào cảnh tượng thấy được trên chiến trường năm xưa, Yangyang đã nhận ra thân phận thật sự của Mộc Ngu. Trước sự chất vấn của Yangyang, Mộc Ngu cũng cởi bỏ ngụy trang, thẳng thắn thừa nhận những gì mình đã làm. Thấy Mộc Ngu mang thái độ khinh miệt cực độ với sinh mệnh, Yangyang không thể nhịn thêm, rút kiếm lao về phía Mộc Ngu…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_600_11
+Tôi biết cậu định nói gì rồi! Chúng ta đi thôi! Cứ coi như tạo bất ngờ cho mọi người!
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_600_5
+Cái bụng của cậu bắt đầu nhớ quê rồi à?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_600_6
+Không nhịn được mà! Bánh Yangyang gửi tới ngon như vậy, khơi dậy hồi ức đẹp của ta ở Kim Châu cũng là bình thường thôi!
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_600_8
+(Thư hồi âm của Yangyang vẫn chưa tới, Yangyang, Chixia, Baizhi… và cả Jinhsi nữa, không biết mọi người sống thế nào rồi nhỉ?)
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_70_2
+Chixia —! Cậu không sao chứ!?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_70_4
+Yangyang? Yangyang — cậu định làm gì vậy!?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_70_5
+Yangyang!
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_70_6
+…Chixia…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_70_8
+Yangyang?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_80_11
+Tôi biết cậu định nói gì rồi! Chúng ta đi thôi! Cứ coi như tạo bất ngờ cho mọi người!
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_80_18
+A Bố lại một lần nữa lảm nhảm về những món ngon của Kim Châu, bạn mãi vẫn chưa đợi được thư hồi âm của Yangyang nên cũng nảy ra ý định trở về Hoàng Long. Được A Bố cổ vũ, bạn quyết định về Hoàng Long một chuyến, vừa điều tra manh mối về Tắc Đình, vừa đi thăm nhóm bạn bè đã lâu không gặp.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_80_5
+Cái bụng của cậu bắt đầu nhớ quê rồi à?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_80_6
+Không nhịn được mà! Bánh Yangyang gửi tới ngon như vậy, khơi dậy hồi ức đẹp của ta ở Kim Châu cũng là bình thường thôi!
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_80_8
+(Thư hồi âm của Yangyang vẫn chưa tới, Yangyang, Chixia, Baizhi… và cả Jinhsi nữa, không biết mọi người sống thế nào rồi nhỉ?)
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_81_1
+A, {PlayerName}, đến vừa đúng lúc. Bọn tôi vừa mới nói, nếu cậu còn không đến, thì phải chủ động đi tìm cậu rồi.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_81_12
+À đúng rồi, Lucilla hình như còn có một số sắp xếp「đặc biệt」nữa, cậu cứ chờ mà xem nhé.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_81_13
+Khi bạn đứng dậy chuẩn bị lên đường về Hoàng Long, bạn gặp Hiyuki, Mornye và Luuk Herssen đến chào tạm biệt. Hiyuki nhắc bạn rằng Lucilla dường như đã chuẩn bị cho bạn một buổi lễ nho nhỏ.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_81_2
+Mọi người đến để…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_81_4
+Tiền bối, tôi…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_82_11
+Giờ các bên đều đang chú ý đến tình hình Vi Nguyên, theo cách nói của Lucilla thì đó là "thế giới người lớn khá phức tạp và phiền phức", sự xuất hiện của Chước Anh Vu Nữ chỉ khiến mọi chuyện càng thêm phức tạp.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_82_13
+Họ sẽ giúp tớ chuẩn bị một thân phận thuận tiện cho việc hành động, để tớ có thể đến chỗ tần số còn sót lại.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_82_14
+tần số còn sót lại……Cậu có manh mối gì không?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_82_2
+Ừm, Hiyuki, tình hình ở Vi Nguyên……
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_82_3
+Không có tin gì đáng giá cả, Lucilla đã giúp tớ dò hỏi rồi, ở trung tâm cũ của Vi Nguyên có sót lại một số tần số kỳ lạ, các bên cũng đang điều tra.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_82_4
+Con bạch điểu tớ để lại hình như vẫn còn, tớ miễn cưỡng cảm nhận được tần số bất ổn của nó.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_83_12
+Haha, cái đó còn phải xem học viện có chịu cho người ta đi hay không — tôi nghĩ hiệu trưởng Lucilla sẽ chẳng gật đầu đâu, bà ấy còn giao cho bọn tôi cả đống việc đấy.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_84_19
+Mornye, cảm ơn cậu vì tất cả những gì cậu đã làm bấy lâu nay.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_84_21
+Vậy thì, xin cho phép tôi đưa ra một thỉnh cầu, xem như… chút đáp lễ tôi muốn xin tiền bối vậy.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_84_28
+Mornye, cảm ơn cậu vì tất cả những gì cậu đã làm bấy lâu nay.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_85_33
+Hiệu trưởng Lucilla, nhất……nhất định phải nói vậy sao?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_85_34
+Lucilla dẫn theo mọi người mà bạn quen thuộc, tổ chức cho bạn một buổi lễ tốt nghiệp đặc biệt. Bạn mang theo lời chúc phúc của mọi người rời khỏi Học Viện Tinh Cự, bước lên cuộc hành trình mới.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_86_18
+Nếu có dịp, tôi cũng muốn làm quen với vị Lệnh Doãn tên Jinhsi ấy. Tôi nghĩ, cô ấy gánh vác không ít áp lực, nhưng cô ấy đã làm rất tốt.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_86_33
+Yangyang là người rất dịu dàng, ở cạnh rất thoải mái……Chixia rất nghĩa khí, à đúng rồi, cô ấy còn có một cái tên khác……
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_86_34
+Jinhsi là Lệnh Doãn của Kim Châu, mọi người ở Kim Châu đều rất tin tưởng cô ấy……
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_86_7
+Sẽ có dịp mà, hơn nữa tôi nghe hiệu trưởng Lucilla nói, bà ấy còn muốn mời cậu quay về làm trợ giảng đấy.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_87_12
+……Chisa?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_87_13
+……Chisa?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_87_29
+Đến lúc đó……Cậu nhất định sẽ gặp một Hủ Diệp Chisa rạng rỡ lấp lánh, đã sống một cuộc đời học sinh không còn gì tiếc nuối.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_87_31
+Chisa, không có gì có thể trói buộc được cậu.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_87_33
+Chisa, không có gì có thể trói buộc được cậu.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_89_10
+Aemeath, cậu định tiếp tục con đường "cứu độ" à?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_89_14
+Biết đâu, trước khi chúng ta gặp lại, cậu đã nghe được truyền thuyết về "vị Aemeath ấy" rồi đấy?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_89_16
+Aemeath chúng tôi chắc chắn không thành vấn đề!
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_89_23
+Aemeath, cậu định tiếp tục con đường "cứu độ" à?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_89_25
+Aemeath chúng tôi chắc chắn không thành vấn đề!
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_89_8
+Tôi muốn gặp vị Shorekeeper luôn dõi theo cậu, cũng muốn chơi game đối kháng với Camellya một lần nữa!
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_90_11
+Ơ? Cậu không biết sao? Chixia đến giờ vẫn hôn mê bất tỉnh, còn Yangyang thì……cô ấy mất tích rồi, bây giờ……
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_90_12
+……Zhezhi, phiền cậu kể lại tình hình cụ thể được không?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_90_14
+Chixia và Yangyang đang điều tra vụ án này, nhưng hai ngày trước, sau khi ra khỏi thành……Chixia không rõ vì lý do gì mà bị thương nặng, được Dạ Quy đưa về. Còn Yangyang thì……không ở cùng Chixia……
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_90_16
+Đừng tự trách, Zhezhi, cậu đã giúp rất nhiều rồi.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_90_2
+Nhưng cứ có cảm giác……bầu không khí trong thành không được tươi sáng cho lắm……có phải liên quan đến chuyện mà Yangyang nhắc trong thư không nhỉ……?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_90_21
+Yangyang, cô ấy nhất định……nhất định sẽ không sao đâu……
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_90_22
+Bạn trở về Kim Châu, mọi thứ trước mắt vẫn quen thuộc như trong ký ức của bạn. Tuy nhiên, bầu không khí trong thành Kim Châu lại có phần căng thẳng. Bạn gặp Zhezhi bên cạnh Phàn Hoa Phạn Quán, cô ấy nói với bạn rằng trước đó Yangyang đã đến Huyền Phương địa giới, nay không rõ tung tích, còn Chixia thì bị thương nặng khi chiến đấu với Tàn Tượng. Trong lúc sốt ruột, sau khi trấn an Zhezhi, bạn quyết định đến thẳng Biên Đình để hỏi Jinhsi về tình hình cụ thể.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_90_4
+Tóm lại, đi tìm Yangyang và mọi người trước đã……
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_90_6
+Zhezhi……?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_90_7
+Lâu rồi không gặp, Zhezhi.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_90_8
+Tốt quá rồi……có {PlayerName} ở đây, thì mọi chuyện nhất định sẽ được giải quyết ổn thỏa……chắc cậu nghe tin về chuyện của Yangyang và Chixia nên mới quay về đúng không!
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_90_9
+Yangyang và Chixia……
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_91_24
+Cảm ơn, Lynae.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_91_25
+Cảm ơn, Lynae.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_SYYLFML_91_9
+"Lynae" sau này sẽ trở thành một người thế nào đây……ừm, hình như vẫn phải suy nghĩ thêm một chút.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_100_1
+Mộc Ngẫu lợi dụng con tin để trốn khỏi Huyền Thiên Cấu, còn ngay lúc này, con cơ khôi lỗi khổng lồ ở nơi sâu nhất Huyền Thiên Cấu đang chắn giữa bạn và Yangyang.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_120_21
+……À đúng rồi! Cậu đã đến Kim Châu gặp Chixia chưa? Cô ấy thế nào rồi? Trước đó cô ấy bị thương khi chiến đấu với Tàn Tượng…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_120_23
+Baizhi đang chăm sóc cô ấy.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_120_35
+Sau khi đánh bại Vạn Ngoa Lao, Yangyang vì kiệt sức mà ngất đi. Bạn lặng lẽ ở bên cạnh chờ cô ấy tỉnh lại. Yangyang cứ ngỡ tất cả chỉ là ảo giác, nhưng bạn nói với cô ấy rằng ngay lúc này bạn đã thật sự đến bên cạnh cô ấy.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_121_34
+L-Lương Vũ—!? Cậu cũng—
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_121_36
+Không có gì nghiêm trọng chứ, Yangyang?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_121_41
+Đừng nói nữa, Yangyang. Cậu xin lỗi ai cũng được, nhưng đừng xin lỗi tôi. Trách nhiệm của tôi, sơ suất của tôi, hãy để tự tôi gánh vác.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_121_44
+Suisui cũng đang ở vùng Huyền Phương.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_121_48
+(Kiểm tra hướng di chuyển trên máy định vị…)
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_121_52
+Tôi đồng ý. Trước hết phải tổng hợp toàn bộ thông tin mọi người đã thu thập được.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_121_56
+Kẻ chủ mưu đằng sau cuộc bạo loạn Cơ Khôi giờ đã lộ diện. Từ lời cậu, Yangyang biết Suisui cũng đã đến vùng Huyền Phương. Sau khi bàn bạc, ba người quyết định trở về Huyền Phương Thành để gặp Suisui.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_130_14
+Lâu rồi không gặp, Yangyang.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_140_12
+Ôi... Yangyang, sao em gầy đi nhiều thế này! Có phải đến Kim Châu rồi, không có ai quản, nên không chịu ăn uống đàng hoàng không?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_140_13
+Thế này không được đâu, không được đâu... Yangyang phải ăn nhiều thêm chút, chị ôm mới thấy thoải mái chứ~
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_140_15
+Sao thế? Từ khi nào Yangyang lại trở nên ngại ngùng thế này?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_140_18
+Haiz... bao nhiêu năm không gặp, Yangyang chẳng còn quấn quýt chị nữa, chị buồn quá đi mất...
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_140_2
+Yangyang, {PlayerName}, tôi cần đi báo cáo với Định Huyền Vệ Trưởng; hai người cứ đi gặp vị cộng sự kia trước.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_140_34
+...Xin lỗi nhé, {PlayerName}, Yangyang. Trước đây có một chuyện, tôi vẫn giấu hai người.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_140_36
+Bạn và Yangyang đã gặp được Suisui tại Huyền Phương Thành. Sau vài lời chào hỏi, Suisui xin lỗi bạn và Yangyang vì trước đó đã giấu hai người một số chuyện, rồi bắt đầu kể lại những gì cô trải qua sau khi bị lạc khỏi bạn.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_140_8
+Yangyang, nhìn phía sau cậu kìa...
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_180_12
+Trên đường thăm dò, Suisui vốn định vòng tránh làn sương Ẩn Tức, nhưng đột nhiên bị đám cơ khôi dị thường vây quanh. Trong lúc nguy cấp, từ trong sương vọng ra một giọng nói thần bí. Bất đắc dĩ, Suisui đành đi theo giọng nói ấy tiến vào sương Ẩn Tức.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_190_46
+Sau khi băng qua màn sương mờ, Suisui gặp được chủ nhân của giọng nói. Người này biệt hiệu «Quỷ Miêu Khiết Đăng», trước đó nhận Suisui thuê, đến vùng Huyền Phương điều tra tình hình. Hóa ra, từ trước khi biết Yangyang mất tích, Suisui đã có ý định đến vùng Huyền Phương. Sau khi trao đổi một hồi tình báo với «Quỷ Miêu Khiết Đăng», Suisui khẽ thở dài, quyết định tiến vào Vụ Ẩn Các để hoàn thành lời hẹn ước trước đây với một người.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_1_1
+Dấu vết tần số chỉ đến hướng tây bắc của Huyền U Đông Nhạc là đứt……có lẽ đã đến nơi mà「Tuần Tiêu Hoàn」không giám sát được, cũng có thể……
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_1_12
+Để tôi đi cùng cậu. Nếu Yangyang thật sự đã đến Huyền Thiên Cấu, nghĩa là cô ấy chắc chắn đã nhận ra ở đó có điều gì đó.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_1_18
+Huyền Thiên Cấu? Yangyang có nhắc đến nơi đó sao?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_1_19
+Lần theo tần số của Yangyang, bạn đã biết được hành tung của cô ấy tại vùng Huyền Phương trong mấy ngày qua. Dựa vào manh mối Yangyang để lại trong thư, bạn quyết định đến Huyền Thiên Cấu ở Phương Kình Tây Phong để tìm hiểu. Lương Vũ cũng chọn đồng hành cùng bạn nhằm điều tra chân tướng vụ Cơ Khôi bạo loạn.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_1_7
+Cậu nghĩ……Yangyang đã đến Huyền Thiên Cấu sao?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_208_1
+Đó là… cái bóng của tôi sao?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_210_17
+Ngài để tôi đến địa giới Huyền Phương, là muốn tôi lấy nó đi, rồi trao đến chỗ "ngài" mà giờ chẳng biết đang ở nơi nao.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_210_19
+"Túc Kính" này, có phải chỉ mình ngài mới dùng được? Nếu như tôi muốn —
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_210_23
+Ngài…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_210_24
+Xin lỗi nhé, tôi đã chuẩn bị sẵn "chìa khóa dự phòng".
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_210_26
+…Tiểu thư Suisui, ý cô là, cô có một giao dịch với Tuế Chủ Tâm Nguyệt Hồ?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_210_38
+Tiểu thư Suisui, cô đang nghĩ, liệu chiếc "Túc Kính" ấy có thể dùng để tìm Yangyang, phải không?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_210_4
+Người ở đây… hẳn không phải là ngài thật, tôi nói không sai chứ… Tuế Chủ của Mộng Châu — "Tâm".
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_210_56
+Trong Sonora ẩn giấu tại Vụ Ẩn Các, Suisui đã gặp một tần số do Tuế Chủ Mộng Châu Tâm Nguyệt Hồ để lại, và ngài ấy cũng chính là đối tác giao dịch của Suisui. Tuy nhiên, Suisui vì lo cho Yangyang nên định thay đổi nội dung đã hẹn ước với Tâm Nguyệt Hồ, muốn dùng tín vật Tuế Chủ cất giữ tại đây vào việc khác, vì thế bị Tâm Nguyệt Hồ tước đi tư cách đối tác giao dịch. Nhưng nhờ vào tần số mà Jinhsi đã trao cho trước đó, Suisui đã thành công ở lại trong Sonora của Tâm Nguyệt Hồ. Để thuyết phục Tâm Nguyệt Hồ, Suisui tiến sâu vào bên trong Sonora.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_210_9
+Khoan đã, trước hết, tôi có lời muốn nói.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_212_5
+(E rằng, chính là buổi mà năm xưa ở Mộng Châu, tôi từng tham dự…)
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_212_6
+(Tôi đã ký khế ước với Tâm vào lúc đó, ngài ấy muốn dùng cách này để nhắc nhở tôi sao?)
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_214_2
+Đây là… lẽ nào… là "đạo cụ giải đề" hay gì đó để lại cho tôi?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_214_3
+…Hay là, ngài chỉ muốn tôi đưa ra lựa chọn giống với ngài?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_214_4
+Nếu ngài không cần, thì tôi thu lấy cũng được chứ?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_214_5
+Vậy thì, ngài muốn tôi đưa ra đáp án gì đây…?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_228_1
+Trò mèo vờn chuột sắp kết thúc rồi… không, bắt hồ ly… không, tôi là mèo à?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_229_2
+Cũng có nghĩa là, mọi hành động của tôi đều bị theo dõi sao?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_230_2
+Sau một hồi truy đuổi, Suisui đã thành công tiếp cận tín vật Tuế Chủ, thế nhưng ngay khi cô sắp lấy được, Sonora lại một lần nữa bắt đầu biến ảo…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_240_27
+Tâm Nguyệt Hồ mượn Sonora tái hiện lại cảnh tượng, mong Suisui hiểu được hoàn cảnh của ngài ấy lúc này, và triển khai một cuộc suy diễn dựa trên hiện thực…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_250_5
+Đồng minh… không, Suisui —
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_260_5
+Suisui đã lấy được tín vật Tuế Chủ và rời khỏi Vụ Ẩn Các. Cùng lúc đó, cô cảm nhận được dị tượng truyền đến từ Kình Tây Phong. Vì vậy, cô nhờ Thủy Giáo mang tín vật Tuế Chủ đến tận tay cậu.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_270_14
+Yangyang, {PlayerName}, hai người hẳn từng nghe qua «<te href=750057>Hội Tương trợ Quy Hồn</te>» rồi chứ, tuy giờ đã bị diệt vong, nhưng thủ lĩnh của nó là «<te href=750058>Yển Sư</te>», chính là xuất thân từ Trác Quân Đường.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_270_16
+(Yinlin...)
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_270_27
+Có điều, giờ ít nhất chúng ta cũng đã biết kẻ cần ngăn chặn là ai.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_270_31
+Cậu cùng Yangyang, Suisui trao đổi những thông tin mỗi người thu thập được. Kết hợp với tình báo sẵn có, Suisui cho rằng tổ chức cơ quan thuật bám rễ ở Mộng Châu — Trác Quân Đường có nghi vấn trọng đại. Để có thêm manh mối, các cậu quyết định đi tìm Định Huyền Vệ trưởng và Lương Vũ.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_270_4
+Cảm ơn cậu đã tìm được Yangyang, rốt cuộc, tôi lại chẳng giúp được gì trong chuyện này...
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_295_20
+Tôi nhớ Xiangli Yao từng nói với tôi... từng có một nhóm người của Tắc Đình đến Mộng Châu...
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_313_19
+Tôi nghe thấy một khúc ca…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_313_20
+Đây chính là điều mà cậu vừa nói…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_313_26
+{PlayerName}, cậu cũng nghe thấy chứ?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_313_27
+Cô nương Yangyang…! Cô đã bình an trở về rồi sao?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_313_30
+Đúng rồi, thanh kiếm mà bác giao cho Lương Vũ giữ… tuy giữa đường gặp chút trắc trở, nhưng cháu đã mang về nguyên vẹn rồi.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_313_31
+Cái này… cảm ơn, cảm ơn cô nương Yangyang…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_313_34
+Trong thành, bạn cùng Yangyang gặp được thôn trưởng của thôn Hàm Linh. Yangyang đã hoàn trả trường kiếm nguyên vẹn cho thôn trưởng. Thế nhưng, khi bạn và Yangyang đặt lại thanh kiếm lên tế đàn, một khúc ca vang lên từ phía sau lưng hai người, và lần này, bạn cùng Yangyang cùng nhau bước vào một Sonora.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_31_21
+Có thể sẽ giúp ích cho việc tìm Yangyang.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_31_24
+Coi như là vì Yangyang, dù có bị đau bụng, A Bố tôi cũng chẳng màng…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_320_3
+(Tại sao… khi nhìn thấy chúng, trong lòng mình… lại dâng lên một cảm giác…)
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_322_4
+Cái tên đánh cờ dở tệ này, nước cờ đó chắc là nước hay nhất cả đời ông rồi nhỉ.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_323_3
+Để mẹ nghĩ xem còn gì nữa… haiz, tóm lại con phải sống cho thật tốt…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_323_4
+Đợi mẹ trở về, hoặc là… đợi thư từ Quân Sách Phủ gửi tới.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_324_3
+Hay cậu có thể nói với cô ấy rằng tôi luôn muốn trở thành đồ đệ của cô ấy không?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_330_10
+(Cô ấy… chính là người mình từng thấy trong ký ức trước đây… chẳng lẽ cô ấy là… người thân của Lương Vũ?)
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_330_46
+Trong Sonora, bạn cùng Yangyang gặp được Linh Phường — tổ tiên của Lương Vũ hai trăm năm trước. Chồng của Linh Phường bị Tàn Tượng giết hại, còn nàng lúc này cũng sắp phải bước ra chiến trường. Trước lúc lên đường, để cảm tạ Yangyang đã an ủi mình, Linh Phường lại một lần nữa cất lên khúc ca quen thuộc ấy…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_330_6
+Cô là… Lương Vũ…?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_330_8
+Lương Vũ? Lương… Vũ… cái tên hay thật, đọc lên rất êm tai. Tiếc là tôi không tên như vậy.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_330_9
+Tôi tên Linh Phường. Hai vị cũng vừa nhập ngũ sao? Xem ra tình hình thật sự đã đến bước đường cùng, Quân Sách Phủ đến quân phục cũng không phát nổi nữa.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_340_2
+{PlayerName}, Yangyang, nghe thấy không!
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_34_4
+Hiện vẫn chưa thể ghép lại toàn cảnh sự việc.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_350_5
+Mọi người hãy cố hết sức đi chi viện cho những Định Huyền Vệ khác…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_350_7
+Mặt chính diện… cứ giao cho tôi.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_35_2
+Dấu vết trên đống tàn tích này... là do Yangyang để lại.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_35_4
+(Yangyang... đợi chị thêm chút nữa...)
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_360_2
+Tâm Nguyệt Hồ… xin hãy cho tôi mượn sức mạnh của ngài một lần…!
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_361_2
+(Mình tuyệt đối không thể cản trở {TA}…!)
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_361_4
+(Mình phải… bảo vệ tất cả mọi người!)
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_362_2
+(Yangyang… vẫn luôn ở những nơi như thế này…)
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_364_1
+{PlayerName}! Cậu không sao chứ!?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_36_2
+Yangyang con bé... một mình...
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_37_1
+Có người từng xử lý vết thương ở đây... là Yangyang — con bé bị thương rồi...
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_380_10
+…Trước khi hai người trở về, chúng tôi nhất định sẽ giữ vững nơi này!
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_380_12
+…Tôi biết rồi, {PlayerName}, chúng ta đi thôi!
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_380_13
+…Yangyang!
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_380_16
+…Xin lỗi, tôi đến muộn rồi.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_380_18
+Thanh Tiêu — vị Trấn Huyền tư kỵ trước đó bị mắc kẹt trong Cữu Đình — cuối cùng đã kịp đến, giúp giảm bớt áp lực nơi chiến tuyến chính diện. Mọi người cũng nhận ra sự biến đổi khác thường của Cữu Đình ở không xa. Sau khi bàn bạc ngắn gọn, bạn và Yangyang quyết định tiến vào Cữu Đình, trực diện đối mặt với kẻ đã gây ra chuỗi khủng hoảng này — Mộc Ngung.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_380_8
+Nếu cậu tìm được vị trí của kẻ chủ mưu, hãy trực tiếp đến đó tiêu diệt nguồn cơn của mọi chuyện.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_380_9
+Thanh Tiêu tư kỵ nói phải, Yangyang, {PlayerName}, hai người đi đi, nơi này giao cho chúng ta!
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_390_16
+Xin lỗi… Tôi không hiểu rốt cuộc ngài đang nói gì…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_390_17
+Nhưng dù thế nào, tôi cũng sẽ không để {TA} một mình đối mặt.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_390_28
+Yangyang, sao vậy?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_390_30
+Yangyang cùng bạn bước vào tòa Cữu Đình dị thường, ngay lúc này, một quầng sáng thần bí hiện ra trước mặt Yangyang. Quầng sáng gọi Yangyang là "kẻ tế thanh", đồng thời khuyên cô đừng tiếp tục tiến bước, nếu không, cô sẽ bước vào con đường không lối về, con đường buộc phải từ bỏ tất cả. Thế nhưng, Yangyang không muốn để bạn một mình đối mặt hiểm nguy, nên đã kiên định chọn cùng bạn đồng hành.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_39_2
+Là Yangyang, là con bé để lại.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_400_61
+Bạn và Yangyang tiến sâu vào Cữu Đình, gặp Mộc Ngung đang ở đó. Hắn bày tỏ sự bất tín với Tuế Chủ, sự căm ghét và chối bỏ tình cảm, đồng thời tiết lộ chân tướng vụ Cơ Khôi mất kiểm soát. Tuy nhiên, cả bạn lẫn Yangyang đều không chấp nhận luận điệu hoang đường ấy. Lúc này, Cơ Khôi khổng lồ chứa vô số Tàn Hưởng của người đã khuất—Thiên Khôi Trùng Lâu—từ từ khởi động. Muốn ngăn Mộc Ngung, trước hết hai người phải đánh tan ý chí méo mó trước mắt.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_40_10
+Yangyang đâu rồi!?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_40_11
+Yangyang... hóa ra con bé tên là thế.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_40_23
+Đây là... Vân Bạch Cơ Kỵ của Yangyang...
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_40_25
+Cậu lần theo dấu vết Yangyang để lại, một mạch đến được Huyền Thiên Cấu, nhưng chỉ phát hiện một cỗ Vân Bạch Cơ Kỵ bị hư hỏng và chiếc mũ Yangyang bỏ lại. Cùng lúc đó, Mộc Ngộ đang định rời khỏi Huyền Thiên Cấu thì chạm mặt các cậu. Qua cuộc trò chuyện với hắn, cậu biết được Yangyang giờ lành ít dữ nhiều. Phẫn nộ, cậu định trực tiếp chế phục Mộc Ngộ, nhưng bị hắn tẩu thoát vào sâu trong Huyền Thiên Cấu.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_40_3
+Đây là... của Yangyang...
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_40_8
+Ừm... trong đám Hậu Huyền Kỵ Sứ lại còn có kẻ sống sót lọt lưới, xem ra ta vẫn đánh giá thấp thực lực của vị Trấn Huyền Tư Kỵ đó rồi.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_432_3
+Yangyang… dáng vẻ của cậu…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_432_4
+Mọi người… đã gửi gắm thanh âm cuối cùng cho tôi…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_443_1
+…Yangyang!
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_460_13
+Chừng này đủ chưa? Nếu chưa đủ thì em lại vào thành một chuyến nữa…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_460_14
+Em cũng muốn trở thành Định Huyền Vệ…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_470_2
+{PlayerName}, Yangyang, hai người đến rồi.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_470_21
+Phải báo bình an cho Baizhi và mọi người mới được.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_470_23
+Ừ, em cũng muốn biết Chixia hồi phục thế nào rồi.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_471_1
+{PlayerName}, chúng ta tìm chỗ nào đó gọi liên lạc cho Baizhi đi.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_471_2
+Để em kiểm tra hộp thư thoại xem, chín mươi chín cuộc gọi nhỡ...!? Baizhi, Zhezhi, Taoqi, chị, Jianxin, và cả Kim Lệnh Doãn...!?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_472_26
+Sí Sí Sí Chixia!? Cậu không sao chứ!? Baizhi tỷ, Chixia ngã từ trên giường xuống rồi!
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_472_28
+Cậu còn nói tôi kìa Baizhi! Cậu cũng có — hự…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_472_29
+À, Baizhi…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_472_30
+Baizhi! Cậu liên lạc được với Yangyang họ rồi à? Tuyệt quá! Yangyang, {PlayerName}, các cậu nghe thấy tớ nói không…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_472_33
+Các cậu cũng nghe thấy rồi đấy, không cần lo cho Chixia đâu, thêm vài hôm nữa, chắc cậu ấy lại nhảy nhót tưng bừng cho xem.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_472_34
+Yangyang, {PlayerName}, tuy không biết mấy hôm nay các cậu đã trải qua những gì ở Huyền Phương Thành...
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_472_39
+Ừ, chỉ tiện đường ghé qua thôi. {PlayerName}, xem ra cậu đã tìm được Yangyang rồi. Nhưng... hình như các cậu lại vướng vào một bí ẩn mới cùng Huyền Phương Thành à?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_472_43
+Yangyang, {PlayerName}, sau này các cậu có dự định gì không?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_472_46
+Còn Yangyang... khi nào cậu rảnh, giải thích cho tớ và Chixia cái "tạo hình mới" này là chuyện thế nào nhé. Tốt nhất là đợi Chixia lành hẳn thương đã, kẻo cậu ấy lại kinh ngạc quá mà tổn thương gân cốt.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_472_48
+Ừ, mình biết rồi, Baizhi.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_473_1
+Tuyệt quá, Chixia có vẻ không sao.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_473_6
+{PlayerName}, Yangyang, tiếp theo nếu rảnh, hai vị có thể ghé qua Quân Sách Phủ một chuyến không?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_473_9
+Em muốn tiện đường ghé Viện Nghiên Cứu Hoa Tư thăm Lương Vũ. Nếu {PlayerName} còn việc khác, lát nữa chúng ta gặp nhau ở Quân Sách Phủ nhé.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_474_28
+Sau khi sóng gió lắng xuống, cậu gặp lại Suisui trong Huyền Phương Thành. Cậu hỏi Suisui, vì sao ban đầu lại yên tâm giao tín vật của Tuế Chủ cho mình, Suisui lại nói, đó chỉ là một niềm tin dựa trên trực giác.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_474_5
+Lần sau có dịp, tôi và Yangyang sẽ dẫn cậu dạo Kim Châu một vòng cho đã.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_474_7
+Tôi không kiên nhẫn được như Yangyang đâu, nếu cậu không định ra một thời gian cụ thể, thì tôi cứ mặc định là có thể chiếm dụng lịch trình của cậu bất cứ lúc nào đấy nhé?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_480_23
+{PlayerName}, Yangyang, tuyệt quá, hai người đều bình an vô sự...
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_480_35
+Hê hê, vốn định đợi Changli lão sư từ Minh Đình về rồi mới liên lạc với các cậu, nhưng tôi vẫn hơi nôn nóng.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_480_39
+Vậy thì, Yangyang, ý nguyện của em thế nào?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_480_45
+...Yangyang, em không cần xem thường bản thân như vậy. Sức mạnh mà em có hiện giờ, ừm... theo lời Changli lão sư nói, thì "chắc chắn có thể trở thành một nước cờ quan trọng trên bàn cờ" đấy.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_480_47
+Vì vậy, tôi tôn trọng quyết định của em. Vệ Trưởng Thu Hồng, ý ngài thế nào?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_480_48
+Cầu còn chẳng được, giờ trong địa giới vẫn còn vô số tàn tượng trốn thoát từ Cữu Đình lang thang khắp nơi, đang là lúc cấp thiết cần chiến lực. Năng lực của Yangyang lại càng giúp được rất nhiều.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_480_49
+Yangyang, trong thời gian này, cô có thể đảm nhận chức Hậu Huyền Kỵ Sứ được không? Tôi nghĩ Lương Vũ biết tin chắc cũng sẽ rất vui.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_480_51
+Yangyang, sau này tôi sẽ bàn với Jiyan tướng quân, tạm thời điều em về dưới trướng Quân Sách Phủ ở Huyền Phương địa giới.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_480_52
+{PlayerName}, cậu phải thay mặt người Kim Châu chúng tôi chăm sóc tốt cho Yangyang đấy nhé?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_480_59
+A, là cậu à...
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_480_61
+Con Lương Diên này... trước đây tôi chưa từng thấy bao giờ...
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_480_65
+Nhưng con Lương Diên này... với con mắt lâu năm của tôi, ít nhất cũng là tác phẩm của hai trăm năm trước.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_480_67
+Tôi có thể cảm nhận được từ nó, một nỗi... hoài niệm sâu sắc.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_480_71
+Dù sao đi nữa, cảm ơn cậu... tâm nguyện của cậu, giờ đã ở trong lòng tôi.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_480_73
+Bay đi, bay đến bất cứ nơi nào cậu muốn đến.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_480_76
+Làm phiền nhé, người bạn của tôi.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_480_81
+Định Huyền Vệ Trưởng đã kết nối cho bạn và Yangyang một cuộc liên lạc từ Jinhsi. Vì nhiều mục đích và ý nguyện khác nhau, bạn và Yangyang đều quyết định tạm thời ở lại địa giới Huyền Phương. Sau khi cuộc liên lạc kết thúc, con Lương Diên từng nhiều lần giúp đỡ bạn và Yangyang lại bay tới bên cạnh Yangyang. Sau khi Yangyang cảm ơn Lương Diên, cô thả nó bay trở lại bầu trời. Lương Diên lượn vòng rất lâu trên địa giới Huyền Phương, cuối cùng đáp xuống một vùng tối tăm tĩnh lặng…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_493_7
+Nếu không có hai người… Chúng tôi không dám tưởng tượng kết cục sẽ ra sao.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_61_11
+Có, có! Hai người phải nhanh lên! Trước đó tôi thấy một số người bị đưa vào sâu trong xưởng, rồi không còn thấy họ trở ra nữa…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_61_4
+Mọi người… chính là những người Kim Châu mất tích mà Yangyang nhắc đến…
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_61_5
+Cô Yangyang!? Cô ấy cũng đến đây à?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_61_6
+Mọi người bị bắt đến đây bằng cách nào?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_640_1
+Cơ Khôi dị thường và Tàn Tượng đang tụ tập ngoài thành… {PlayerName}, cậu đã sẵn sàng chưa?
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_90_2
+Có điều, chút biến số này vẫn nằm trong tầm kiểm soát.
+
+@@ lang_multi_text_1sthalf.db||MultiText||Main_HuangLong_XLZHDLY_90_5
+Yangyang...!
+
+@@ lang_multi_text_1sthalf.db||MultiText||STNPC_XFDJPYNPCZX_10_4
+Nói mới nhớ, con trai ông chẳng phải cũng một lòng muốn tòng quân sao? Theo tôi, hay là bảo nó dẹp ý định đó đi, gửi đến Mộng Châu Thành học hành, tìm một con đường công danh ổn định…
+
+@@ lang_multi_text_1sthalf.db||MultiText||STNPC_XFDJPYNPCZX_10_5
+Tôi khuyên nó từ lâu rồi… Thằng nhóc cứng đầu ấy chẳng bao giờ chịu nghe lời người lớn… Mỗi người một chí, cứ để nó đi vậy…
+
+@@ lang_multi_text_1sthalf.db||MultiText||STNPC_XFDJPYNPCZX_130_6
+Nghe nói cô nương Dạ Quy tên Yangyang ấy hình như sẽ ở lại đây một thời gian, cô ấy chín chắn điềm đạm, nếu hai đứa kết bạn được với nhau thì tốt biết mấy…
+
+@@ lang_multi_text_1sthalf.db||MultiText||STNPC_XFDJPYNPCZX_180_1
+Cậu nghe nói chưa? Vị Dạ Quy tên Yangyang ấy hình như sẽ tạm thời thay quyền Hậu Huyền Kỵ Sứ…
+
+@@ lang_multi_text_1sthalf.db||MultiText||STNPC_XFDJPYNPCZX_190_1
+Cậu nghe nói chưa? Vị Dạ Quy tên Yangyang ấy hình như sẽ tạm thời thay quyền Hậu Huyền Kỵ Sứ…
+
+@@ lang_multi_text_1sthalf.db||MultiText||STNPC_XFDJPYNPCZX_190_6
+Cũng phải… Sao lại quên mất chuyện này nhỉ, nhân tài xuất chúng thế này, chắc chắn Tướng quân Jiyan cũng sẽ rất coi trọng… Cậu nói xem liệu Vệ trưởng Thu Hồng có cố gắng giữ cô ấy lại không?
+
+@@ lang_multi_text_1sthalf.db||MultiText||STNPC_XFDJPYNPCZX_20_1
+Thanh Chỉ… cứ yên tâm, tôi sẽ chăm sóc tốt cho Thanh Ngạn…
+
+@@ lang_multi_text_1sthalf.db||MultiText||STNPC_XFDJPYNPCZX_320_3
+Vậy thì tốt, ít nhất cũng có thể ăn nói với phía Kim Châu…
+
+@@ lang_multi_text_1sthalf.db||MultiText||STNPC_XFDJPYNPCZX_556_1
+Các cậu vẫn còn lâu mới luyện tới nơi tới chốn.
+
+@@ lang_multi_text_1sthalf.db||MultiText||STNPC_XFDJPYNPCZX_560_6
+Nghe nói, Yangyang kỵ sứ mới đến trước kia là người Dạ Quy Đạp Bạch, không biết Dạ Quy thường ngày luyện tập theo cách nào...
+
+@@ lang_multi_text_1sthalf.db||MultiText||STNPC_XFDJPYNPCZX_565_1
+…Đa tạ đã nhường. Chúng ta dừng ở đây thôi.
+
+@@ lang_multi_text_1sthalf.db||MultiText||STNPC_XFDJPYNPCZX_630_2
+Mình làm được… Mình làm được… cố thêm chút nữa… Mình làm được…
+
+@@ lang_multi_text_1sthalf.db||MultiText||STNPC_XFDJPYNPCZX_630_3
+Hay là… mai mình ra chợ xem thử bộ đồ chống chém nhập từ Tân Liên Bang nhỉ?
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_10_2
+Nói thì dễ, con bé Tiểu Phương Yangyang mà có mệnh hệ gì...
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_10_3
+Không sao đâu không sao đâu, tôi đã đến Học viện Nghiên cứu Hoa Tư hỏi thăm rồi, họ nói tình hình của Chixia đã ổn định lại rồi...
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_10_4
+Thế còn Yangyang? Con bé đó bây giờ vẫn chưa có tin tức gì sao?
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_130_1
+Cơ Khôi gặp trục trặc... Sao có thể chứ... Hay là tin đồn nhảm thôi...
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_140_1
+Cơ Khôi gặp trục trặc... Sao có thể chứ... Hay là tin đồn nhảm thôi...
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_140_3
+Cơ Khôi trong Địa Giới, không cả ngàn thì cũng vài trăm, nếu chúng thật sự bắt đầu hại người thì trong thành cũng chẳng an toàn đâu!
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_140_5
+Cậu ngốc à! Ra khỏi làng lỡ bị Cơ Khôi để mắt tới thì sao? Gặp Tàn Tượng thì sao? Có phải Người Cộng Hưởng đâu...
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_160_4
+Đám Cơ Khôi đó bỗng nhiên phát điên... Bọn anh không kịp phản ứng nên mới...
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_170_1
+Hừ… ha… ha ha ha ha— Tôi biết mà… Tôi biết mà…
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_180_1
+Hừ… ha… ha ha ha ha— Tôi biết mà… Tôi biết mà… Đám Cơ Khôi đó chắc chắn có vấn đề! Cuối cùng chúng cũng lộ bộ mặt thật rồi!
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_180_3
+Điên? Ai điên chứ? Cái đêm hai mươi năm trước… Tôi không quên được… cả đời này cũng không thể quên…
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_180_4
+Nhất định là Cơ Khôi... Là Cơ Khôi làm — Chúng đã ngụy trang lâu đến vậy! Lần này, mọi người rồi sẽ nhìn rõ chúng thôi!
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_1_2
+Haiz... Nói thì dễ, con bé Tiểu Phương Yangyang mà có mệnh hệ gì...
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_20_1
+Nghe nói Yangyang đã đến Địa Giới Huyền Phương... Đó là nơi thế nào vậy?
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_255_3
+Mọi người... đều bị Cơ Khôi...
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_300_3
+Nơi ông ấy đến cũng là Cữu Đình... Cũng có nghĩa là, Cơ Khôi ở không chỉ một tòa Cữu Đình đã xuất hiện dị thường...
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_300_4
+Haiz… Sư phụ Thẩm Uyên tuy ít nói, nhưng kỹ thuật và kiến thức của ông ấy là xuất sắc nhất trong số chúng ta…
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_300_5
+Đúng vậy... Nếu ông ấy còn ở đây, biết đâu còn có cách nào đó đối phó với đám Cơ Khôi này...
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_30_1
+Yangyang đã đến Địa Giới Huyền Phương... Đó là nơi thế nào vậy?
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_30_4
+Chuyện này... Yangyang sẽ không sao chứ...? Tôi nghe nói con bé đi cùng Chixia, nhưng nghe chị Phàn Hoa kể, lúc Chixia trở về thì đã...
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_320_2
+Những trinh sát được phái đến đó trước đây đều chưa trở về… Vệ Trưởng đã cử Lương Diên đến do thám, e rằng nơi ấy đã bị đám Cơ Khôi dị thường chiếm giữ…
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_320_4
+Khả năng rất cao... là như vậy. Vệ Trưởng đã hạ lệnh, không cho phép bất kỳ ai đến gần Huyền Thiên Cấu, bảo là phải đợi Trấn Huyền Tư Kỵ có tin tức thì mới có thể tính đến đối sách...
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_330_2
+Tôi không sao... Cảm ơn mọi người, tôi đang bảo trì thì Cơ Khôi đó đột nhiên...
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_350_1
+Một thanh trường kiếm đã hư hỏng nặng; sau trận chiến ác liệt, thân kiếm sứt mẻ nghiêm trọng. Trên chuôi vẫn còn vết máu đã khô.
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_40_1
+Vết thương của Chixia hình như đã ổn định lại rồi...
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_40_2
+Đúng vậy... Nhờ có nghiên cứu viên Baizhi...
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_440_1
+Một Cơ Khôi bất động, tại phần lõi có dấu vết giống như bị mũi thương phá hủy, rõ ràng đã hư hỏng rồi.
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_490_1
+Huyền Linh à……sao các em vẫn chưa trở về……
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_500_1
+Huyền Linh à……sao các em vẫn chưa trở về……
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_500_2
+Liêm Thanh nói cô ấy sẽ nhờ các em truyền đạt tình hình của mình…
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_500_3
+Tôi xin các em… mau trở về đi…
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_500_4
+Hãy cho tôi biết… Liêm Thanh vẫn bình an…
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_50_1
+Vết thương của Chixia hình như đã ổn định lại rồi...
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_50_2
+Đúng vậy... Nhờ có nghiên cứu viên Baizhi... Đây là lần đầu tôi thấy cô ấy sốt ruột đến mức đó...
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_50_4
+May mà Chixia đã trụ qua được... Sau này chúng ta thay phiên nhau chăm sóc cô ấy đi, cũng nên để Baizhi nghỉ ngơi chút rồi.
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_520_2
+Tôi nhớ hình như có một cô gái tên Nhược Vân? Cô ấy cũng xuất thân từ làng Hàm Linh…
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_550_1
+Này này, cậu thấy không? Vừa rồi có một người cực kỳ xinh đẹp đi ngang qua……
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_550_2
+Khoan đã, tôi hình như biết cô ấy… đó chẳng phải hội trưởng Thương hội Chiêu Minh của Mộng Châu sao?
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_560_1
+Xì……Tôi có thể cảm nhận được chúng……chúng……
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_570_1
+Xì……Tôi có thể cảm nhận được chúng……ánh mắt của lũ Cơ Khôi đó, nhất định chúng sẽ đến đây!
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_570_5
+Mọi người không hiểu… không hiểu đâu… nếu không chạy, tất cả chúng ta sẽ chết ở đây…
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_590_2
+Đến nước này rồi mà cậu còn nghĩ đến chuyện ăn uống!?
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_600_1
+Nhan Lãng, A Dục… đường xuống suối vàng xa xôi, để tôi tiễn hai cậu một đoạn…
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_600_2
+An nghỉ nhé. Chặng đường còn lại, cứ để chúng tôi thay hai cậu bước tiếp.
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_610_1
+Tôi thấy Kỵ Sứ Lương Vũ lại đưa về một nhóm dân thường……còn có cả người của Kim Châu nữa……
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_630_2
+Đúng vậy, tôi còn đến hỏi người của Quân Sách Phủ, mà họ đều ấp a ấp úng không chịu nói.
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_640_2
+Đúng vậy, tôi còn đến hỏi người của Quân Sách Phủ, mà họ đều ấp a ấp úng không chịu nói.
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_650_1
+Vệ Trưởng, Thanh Tiêu Tư Kỵ đã có tin tức gì chưa……?
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_650_3
+Thanh Tiêu Tư Kỵ… mong cô ấy bình an vô sự.
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_650_4
+Thực lực của cô ấy thì không cần lo, nhưng giờ cũng chỉ đành đi bước nào tính bước ấy thôi…
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_690_4
+Đừng… đừng lo. Khi họ bị mắc kẹt, Thanh Tiêu Tư Kỵ cũng ở đó; cô ấy nhất định sẽ bảo vệ họ an toàn.
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_70_4
+Giá mà Tham Sự Changli cũng ở đây thì tốt... Nhưng mấy hôm trước cô ấy vừa lên đường đến Minh Đình... Chẳng biết khi nào mới trở về...
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_750_4
+Cô nương Yangyang, {PlayerName}… hai vị định ra tiền tuyến chống địch đúng không?
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_750_5
+Chúc hai vị ra quân đại thắng, rồi… bình an trở về.
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_800_1
+Đội ơn Tuế Chủ đoái hoài, ban thiếp triệu mời, lòng cảm khái vô cùng.\nKẻ làm nghề buôn, gom sức muôn người mà dựng thành, kết vạn tấm lòng mà lập chợ. Nếu được nương theo gót các bậc hiền tài, san sẻ ưu tư của thiên hạ, đó là tâm nguyện của Chiêu Minh, cũng là điều vạn hạnh.\nTrước xin phúc đáp, kính mong bảo trọng.\n\nThương hội Chiêu Minh, Suisui kính bút.
+
+@@ lang_multi_text_1sthalf.db||MultiText||ZXSTSPH_YYZX_870_1
+Hình ảnh của Yangyang...
+
+@@ lang_occupation.db||OccupationConfig||222
+Suisui
+
+@@ lang_occupation.db||OccupationConfig||232
+Yangyang: Xuanling
+
+@@ lang_occupation.db||OccupationConfig||234
+『Rover』
+
+@@ lang_occupation.db||OccupationConfig||236
+『Rover』
+
+@@ lang_occupation.db||OccupationConfig||238
+『Rover』
+
+@@ lang_occupation.db||OccupationConfig||240
+『Rover』
+
+@@ lang_occupation.db||OccupationConfig||242
+『Rover』
+
+@@ lang_occupation.db||OccupationConfig||244
+『Rover』
+
+@@ lang_occupation.db||OccupationConfig||246
+『Rover』
+
+@@ lang_speaker.db||Speaker||7118
+Thư của Yangyang
+
+@@ lang_speaker.db||Speaker||7120
+？？？（Zhezhi）
+
+@@ lang_speaker.db||Speaker||7121
+？？？（Suisui）
+
+@@ lang_speaker.db||Speaker||7122
+？？？（Suisui）&{PlayerName}
+
+@@ lang_speaker.db||Speaker||7123
+Suisui
+
+@@ lang_speaker.db||Speaker||7159
+？？？（Giọng của Baizhi）
+
+@@ lang_speaker.db||Speaker||7160
+？？？（Giọng của Yangyang）
+
+@@ lang_speaker.db||Speaker||7166
+Yangyang&{PlayerName}
+
+@@ lang_speaker.db||Speaker||7177
+Xiangli Yao
+
+@@ lang_speaker.db||Speaker||7285
+Yangyang&Lương Vũ&Mọi người
+
+@@ lang_speaker.db||Speaker||7372
+{message}Baizhi
+
+@@ lang_speaker.db||Speaker||7660
+Yangyang: Xuanling
+
+@@ lang_speaker.db||Speaker||7712
+{message}Yangyang: Xuanling

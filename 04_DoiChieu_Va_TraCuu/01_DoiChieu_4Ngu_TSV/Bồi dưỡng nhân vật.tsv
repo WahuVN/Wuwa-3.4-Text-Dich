@@ -1,0 +1,99 @@
+﻿dbfile	key	version	category	folder	speaker	mission	trung_cn	anh_en	nhat_jp	viet_vi
+lang_multi_text.db	RoleProject_Access_01	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			可通过唤取获得	Convene	集音で獲得	Có thể nhận qua việc triệu hồi
+lang_multi_text.db	RoleProject_Access_02	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			印造获得	Crafting	製造で獲得	Nhận qua chế tạo
+lang_multi_text.db	RoleProject_Access_03	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			先约电台获取	Pioneer Podcast	先駆ラジオで獲得	Nhận qua Đài Phát Thanh Tiên Phong
+lang_multi_text.db	RoleProject_Access_04	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			可通过任务获得	Quests	任務で獲得	Có thể nhận qua nhiệm vụ
+lang_multi_text.db	RoleProject_Access_None	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			暂无获取途径	Currently unobtainable	獲得不可	Tạm thời không có cách nhận
+lang_multi_text.db	RoleProject_Button01	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			前往培养	Upgrade	育成	Đến bồi dưỡng
+lang_multi_text.db	RoleProject_Button02	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			前往查看	View	詳細	Đến xem
+lang_multi_text.db	RoleProject_Button03	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			前往	Go	移動	Đến
+lang_multi_text.db	RoleProject_Button04	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			前往替换	Switch	変更	Đến thay đổi
+lang_multi_text.db	RoleProject_Button05	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			前往装备	Equip	装備	Đến trang bị
+lang_multi_text.db	RoleProject_Button06	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			前往查看	View	詳細	Đến xem
+lang_multi_text.db	RoleProject_Button_SkillUpgradeBasic	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			切换为基础方案	Show Basic Plan	基礎プランに切り替え	Chuyển sang phương án cơ bản
+lang_multi_text.db	RoleProject_Button_SkillUpgradePrefect	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			切换为完美方案	Show Complete Plan	完全プランに切り替え	Chuyển sang phương án hoàn hảo
+lang_multi_text.db	RoleProject_Button_WeaponRecommend	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			查看推荐武器	View Weapon Recommendations	オススメ武器を表示	Xem vũ khí đề xuất
+lang_multi_text.db	RoleProject_Button_WeaponUpgrade	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			查看武器培养	View Weapon Upgrade	武器育成を表示	Xem bồi dưỡng vũ khí
+lang_multi_text.db	RoleProject_COST4	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			COST4	COST 4	COST4	COST 4
+lang_multi_text.db	RoleProject_CancelRoleButton	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			取消设置	Cancel Settings	設定解除	Hủy cài đặt
+lang_multi_text.db	RoleProject_ChoseRoleTitle	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			选择培养目标	Set Focus	目標に設定	Lựa chọn mục tiêu bồi dưỡng
+lang_multi_text.db	RoleProject_ChoseRole_FinishTips	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			已完成共鸣者培养	Resonator Ascension Complete	共鳴者育成完了	Đã hoàn thành bồi dưỡng Cộng Hưởng Giả
+lang_multi_text.db	RoleProject_ChoseRole_ItemTips01	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			缺少角色/武器养成材料	Insufficient Resonator/Weapon EXP Material	キャラ/武器の育成素材が足りていません	Thiếu Nguyên Liệu Bồi Dưỡng Cộng Hưởng Giả/Vũ Khí
+lang_multi_text.db	RoleProject_ChoseRole_ItemTips02	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			已完成养成材料筹备	EXP Material Ready	必要な育成素材は揃っています	Đã chuẩn bị đủ Nguyên Liệu Bồi Dưỡng
+lang_multi_text.db	RoleProject_ChoseRole_PhantomTips01	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			合鸣效果未完整触发	Sonata Effect not fully activated	一部ハーモニー効果が未発動です	Hiệu Ứng Hợp Minh chưa được kích hoạt đầy đủ
+lang_multi_text.db	RoleProject_ChoseRole_PhantomTips02	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			声骸品质过低	Echo quality too low	音骸の品質が低すぎます	Phẩm chất Echo quá thấp
+lang_multi_text.db	RoleProject_ChoseRole_PhantomTips03	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			声骸等级待提升	Echo Level upgrade available	音骸レベルアップ可能	Cấp Echo chờ nâng cấp
+lang_multi_text.db	RoleProject_ChoseRole_PhantomTips04	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			辅音属性待解锁	Unlock Substats	サブステータス解放可能	Thuộc tính phụ âm chờ mở khóa
+lang_multi_text.db	RoleProject_ChoseRole_RoleTips01	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			共鸣者等级待提升	Resonator Level upgrade available	共鳴者レベルアップ可能	Cấp Cộng Hưởng Giả chờ nâng cấp
+lang_multi_text.db	RoleProject_ChoseRole_SkillTips01	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			技能等级待提升	Skill Level upgrade available	スキルレベルアップ可能	Cấp kỹ năng chờ nâng cấp
+lang_multi_text.db	RoleProject_ChoseRole_WeaponTips01	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			武器品质过低	Weapon quality too low	武器のレア度が低すぎます	Phẩm chất Vũ Khí quá thấp
+lang_multi_text.db	RoleProject_ChoseRole_WeaponTips02	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			武器等级待提升	Weapon Level upgrade available	武器レベルアップ可能	Cấp vũ khí chờ nâng cấp
+lang_multi_text.db	RoleProject_ChoseTargetButton	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			选择培养目标	Set Focus	育成目標の選択	Chọn Mục Tiêu Bồi Dưỡng
+lang_multi_text.db	RoleProject_ConfirmRoleButton	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			设为培养目标	Set as Focus Resonator	目標に設定	Đặt Làm Mục Tiêu Bồi Dưỡng
+lang_multi_text.db	RoleProject_Entrance	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			培养方案	Ascension Planner	育成プラン	Phương án bồi dưỡng
+lang_multi_text.db	RoleProject_GuideBookTips01	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			<color=#c25757>推荐替换更高品质武器</color>	<color=#c25757>Consider a weapon of higher quality</color>	<color=#c25757>より高品質な武器への変更を推奨</color>	<color=#c25757>Khuyến nghị thay bằng vũ khí phẩm chất cao hơn</color>
+lang_multi_text.db	RoleProject_GuideBookTitle00	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			所需材料	Required Materials	必要な素材	Nguyên liệu Cần Thiết
+lang_multi_text.db	RoleProject_GuideBookTitle01	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			前往培养	Upgrade	育成へ	Đến Bồi Dưỡng
+lang_multi_text.db	RoleProject_GuideBookTitle02	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			前往唤取	Convene	集音へ	Đến Triệu Hồi
+lang_multi_text.db	RoleProject_ItemCount	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			缺少数量:{0}	Required Quantity: {0}	不足：{0}	Số lượng còn thiếu: {0}
+lang_multi_text.db	RoleProject_ItemEnoughTips	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			已完成养成材料筹备	EXP Material Ready	必要な育成素材は揃っています	Đã hoàn tất Chuẩn bị Nguyên Liệu Bồi Dưỡng
+lang_multi_text.db	RoleProject_ItemSynthesisTips	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			可补齐	Replenishable	補充可	Có thể bổ sung
+lang_multi_text.db	RoleProject_ItemType01	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			共鸣者经验材料	Resonator EXP Material	共鳴者EXP素材	Tài liệu kinh nghiệm Cộng Hưởng Giả
+lang_multi_text.db	RoleProject_ItemType02	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			武器经验材料	Weapon EXP Material	武器EXP素材	Tài liệu kinh nghiệm vũ khí
+lang_multi_text.db	RoleProject_ItemType03	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			武器与技能素材	Weapon and Skill Material	武器・スキル素材	Nguyên liệu vũ khí và kỹ năng
+lang_multi_text.db	RoleProject_ItemType04	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			武器与技能素材	Weapon and Skill Material	武器・スキル素材	Nguyên liệu vũ khí và kỹ năng
+lang_multi_text.db	RoleProject_ItemType05	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			技能升级材料	Skill Upgrade Material	スキルレベルアップ素材	Vật liệu nâng cấp kỹ năng
+lang_multi_text.db	RoleProject_ItemType06	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			突破材料	Ascension Material	突破素材	Vật liệu đột phá
+lang_multi_text.db	RoleProject_ItemType07	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			共鸣者突破材料	Resonator Ascension Material	共鳴者突破素材	Vật liệu đột phá Cộng Hưởng Giả
+lang_multi_text.db	RoleProject_MaxLevel	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			已满级	Max level reached	レベルMAX	Đã đạt cấp tối đa
+lang_multi_text.db	RoleProject_Name	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			共鸣者培养方案	Resonator Ascension Planner	共鳴者育成プラン	Phương án bồi dưỡng Cộng Hưởng Giả
+lang_multi_text.db	RoleProject_NoneTarget	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			未选择培养目标	No Focus Resonator selected	育成目標未設定	Chưa chọn mục tiêu bồi dưỡng
+lang_multi_text.db	RoleProject_NoneTargetTips	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			未选择培养目标	No Focus Resonator selected	育成目標未設定	Chưa chọn Cộng Hưởng Giả để bồi dưỡng
+lang_multi_text.db	RoleProject_Phantom	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			声骸	Echoes	音骸	Echo
+lang_multi_text.db	RoleProject_PhantomRecommend	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			声骸推荐	Echo Recommendations	オススメ音骸	Echo đề xuất
+lang_multi_text.db	RoleProject_PhantomRecommend_Button01	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			切换方案	Switch Plan	プラン切り替え	Đổi phương án
+lang_multi_text.db	RoleProject_PhantomRecommend_Tips01	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			已选中该方案	Plan already selected	このプランを選択中	Đã chọn phương án này
+lang_multi_text.db	RoleProject_PhantomRecommend_Title	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			切换方案	Switch Plan	プラン切り替え	Đổi phương án
+lang_multi_text.db	RoleProject_PhantomUpgrade	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			声骸培养	Echoes Upgrade	音骸育成	Bồi dưỡng Echo
+lang_multi_text.db	RoleProject_Popular	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			<color=#d5b55e>当期</color>	<color=#d5b55e>Current</color>	<color=#d5b55e>今期</color>	<color=#d5b55e>Kỳ này</color>
+lang_multi_text.db	RoleProject_Prospect	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			<color=#5ed5af>预告</color>	<color=#5ed5af>Preview</color>	<color=#5ed5af>予告</color>	<color=#5ed5af>Thông báo</color>
+lang_multi_text.db	RoleProject_Review	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			<color=#84c6f5>预告</color>	<color=#84c6f5>Preview</color>	<color=#84c6f5>予告</color>	<color=#84c6f5>Thông báo</color>
+lang_multi_text.db	RoleProject_Role	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			角色	Resonator	キャラクター	Nhân vật
+lang_multi_text.db	RoleProject_RoleList	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			共鸣者列表	Resonator List	共鳴者一覧	Danh Sách Cộng Hưởng Giả
+lang_multi_text.db	RoleProject_RoleUpgrade	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			共鸣者培养	Resonator Upgrade	共鳴者育成	Bồi dưỡng Cộng Hưởng Giả
+lang_multi_text.db	RoleProject_Skill	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			技能	Skills	スキル	Kỹ năng
+lang_multi_text.db	RoleProject_SkillLevel01	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			<color=#36cd33>{0}</color>	<color=#36cd33>{0}</color>	<color=#36cd33>{0}</color>	<color=#36cd33>{0}</color>
+lang_multi_text.db	RoleProject_SkillLevel02	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			<color=#ffd12f>{0}</color>	<color=#ffd12f>{0}</color>	<color=#ffd12f>{0}</color>	<color=#ffd12f>{0}</color>
+lang_multi_text.db	RoleProject_SkillRecommand01	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			关键	Core	必須	Cốt Lõi
+lang_multi_text.db	RoleProject_SkillRecommand02	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			推荐	Recommended	推奨	Đề Xuất
+lang_multi_text.db	RoleProject_SkillRecommandButton	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			养成建议	Ascension Tips	レベル上げ推奨	Gợi Ý Bồi Dưỡng
+lang_multi_text.db	RoleProject_SkillUpgradeBasic	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			技能培养-基础方案	Skills Upgrade - Basic	スキル育成・基礎プラン	Bồi dưỡng kỹ năng - Phương án cơ bản
+lang_multi_text.db	RoleProject_SkillUpgradePrefect	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			技能培养	Skill Upgrade	スキル育成	Bồi dưỡng kỹ năng - Phương án hoàn hảo
+lang_multi_text.db	RoleProject_Target	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			培养目标	Focus Resonator	育成目標	Mục Tiêu Bồi Dưỡng
+lang_multi_text.db	RoleProject_TargetLevel	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			推荐等级：{0}	Suggested Level: {0}	推奨レベル：{0}	Cấp đề xuất: {0}
+lang_multi_text.db	RoleProject_TargetProperty	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			核心属性:{0}	Core Attribute: {0}	コアステータス：{0}	Thuộc tính cốt lõi: {0}
+lang_multi_text.db	RoleProject_Tips01	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			当前装备	Current Equipment	装備中の武器	Trang bị hiện tại
+lang_multi_text.db	RoleProject_Tips02	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			已装备	Equipped	装備中	Đã trang bị
+lang_multi_text.db	RoleProject_Tips03	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			暂无推荐数据	No available data	オススメデータなし	Tạm thời không có dữ liệu đề xuất
+lang_multi_text.db	RoleProject_Tips04	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			<color=#c25757>已达到当前可培养上限，请先提升索拉等级</color>	<color=#c25757>Max level reached. Please increase your SOL3 Phase</color>	<color=#c25757>現在の育成上限に到達しました。まずソラランクを上げてください</color>	<color=#c25757>Đã đạt giới hạn bồi dưỡng hiện tại, vui lòng nâng cấp cấp độ SOL3 trước</color>
+lang_multi_text.db	RoleProject_Tips05	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			请提升角色等级	Please increase Resonator Level	キャラLvを上げてください	Vui lòng nâng cấp cấp độ nhân vật
+lang_multi_text.db	RoleProject_Tips06	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			已满级	Max level reached	レベルMAX	Đã đạt cấp tối đa
+lang_multi_text.db	RoleProject_Tips07	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			尚未拥有	Not owned	未所持	Chưa sở hữu
+lang_multi_text.db	RoleProject_Tips08	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			<color=#c25757>推荐替换更高品质武器</color>	<color=#c25757>Consider switching to a weapon of higher quality</color>	<color=#c25757>より高品質な武器への変更を推奨</color>	<color=#c25757>Đề xuất thay đổi vũ khí phẩm chất cao hơn</color>
+lang_multi_text.db	RoleProject_Tips09	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			当前武器已达到等级上限	Max Level Reached	最大レベルに達しました	Vũ khí hiện tại đã đạt cấp độ tối đa
+lang_multi_text.db	RoleProject_Tips10	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			目标区域限时提前开放，提前到达可能影响剧情体验，是否确认前往？	The target area is open for early access for a limited time. Arriving early may influence your story experience. Proceed anyway?	目標地点は先行解放ステージになります。物語の体験に影響をもらたす可能性があります。それでも向かいますか？	Khu vực mục tiêu mở sớm có giới hạn thời gian, việc đến sớm có thể ảnh hưởng đến trải nghiệm cốt truyện, xác nhận muốn đến không?
+lang_multi_text.db	RoleProject_Tips11	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			已置顶	Pinned to top	ピン留め済み	Đã ghim
+lang_multi_text.db	RoleProject_Tips12	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			注：材料统计时已涵盖技能页所有可升级项目。	Note: The shown quantity reflects the total materials needed for all suggested skill upgrades.	※スキル画面内でレベルアップ可能な全項目の必要素材が表示されます。	Lưu ý: Thống kê nguyên liệu đã bao gồm tất cả các mục có thể nâng cấp trong trang kỹ năng.
+lang_multi_text.db	RoleProject_Tips13	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			已取消置顶	Unpinned	ピン留め解除済み	Đã bỏ ghim
+lang_multi_text.db	RoleProject_Tips14	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			已设置{0}为培养目标	{0} has been set as Focus Resonator	{0}を優先育成目標に設定済み	Đã đặt {0} làm mục tiêu bồi dưỡng
+lang_multi_text.db	RoleProject_Tips15	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			已取消设置培养目标	Focus Cancelled	優先育成目標から外しました	Đã hủy đặt mục tiêu bồi dưỡng
+lang_multi_text.db	RoleProject_Weapon	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			武器	Weapons	武器	Vũ khí
+lang_multi_text.db	RoleProject_WeaponRecommandButton	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			查看推荐	View Recommendations	オススメを表示	Xem khuyến nghị
+lang_multi_text.db	RoleProject_WeaponRecommend	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			武器推荐	Weapon Recommendations	オススメ武器	Vũ khí đề xuất
+lang_multi_text.db	RoleProject_WeaponRecommend_Title	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			使用率较高的武器	Popular Weapons	使用率が高い武器	Vũ khí có tỷ lệ sử dụng cao
+lang_multi_text.db	RoleProject_WeaponType01	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			武器类型：长刃	Weapon Type: Broadblade	武器種：長刃	Loại vũ khí: Đại Kiếm
+lang_multi_text.db	RoleProject_WeaponType02	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			武器类型：迅刀	Weapon Type: Sword	武器種：迅刀	Loại vũ khí: Kiếm
+lang_multi_text.db	RoleProject_WeaponType03	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			武器类型：佩枪	Weapon Type: Pistols	武器種：拳銃	Loại vũ khí: Súng Lục
+lang_multi_text.db	RoleProject_WeaponType04	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			武器类型：臂铠	Weapon Type: Gauntlets	武器種：手甲	Loại vũ khí: Găng Tay
+lang_multi_text.db	RoleProject_WeaponType05	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			武器类型：音感仪	Weapon Type: Rectifier	武器種：増幅器	Loại vũ khí: Rectifier
+lang_multi_text.db	RoleProject_WeaponUpgrade	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			武器培养	Weapon Upgrade	武器育成	Bồi dưỡng vũ khí

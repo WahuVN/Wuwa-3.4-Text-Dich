@@ -1,0 +1,1150 @@
+﻿dbfile	key	version	category	folder	speaker	mission	anh_en
+lang_multi_text.db	CharacAlbum_GuideDesc_Cantarella	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=Highlight>Cantarella</color> is reviewing the dishes. Has her sense of taste finally returned? Go chat with her at the <color=Highlight>Bar</color>.
+lang_multi_text.db	CharacAlbum_GuideDesc_Firework	3.4	Hội thoại/Cốt truyện	Chức năng khác			Bring the party to its climax and witness the most breathtaking fireworks that exist only for this very moment.\n(Unlocks after completing the Quest "The Answer Is Where a River of Stars Falls")
+lang_multi_text.db	CharacAlbum_GuideDesc_Jiyan	3.4	Hội thoại/Cốt truyện	Chức năng khác			Rarely one for festivities, <color=Highlight>Jiyan</color> now stands before a displayed Echo, quietly gazing at it. Go find him in the <color=Highlight>Lobby</color> and say hello.
+lang_multi_text.db	CharacAlbum_GuideDesc_Lynae	3.4	Hội thoại/Cốt truyện	Chức năng khác			You run into <color=Highlight>Lynae</color> in the <color=Highlight>Screening Room</color>. Did she… skip classes again? Maybe you should ask her yourself. (Unlocks after talking to Lumi in the Quest "The Answer Is Where a River of Stars Falls")
+lang_multi_text.db	CharacAlbum_GuideDesc_Yinlin	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=Highlight>Yinlin</color> is spotted on the <color=Highlight>second-floor balcony</color>. What identity is she wearing this time? Go find out for yourself.
+lang_multi_text.db	CharacAlbum_GuideDesc_Zani	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=Highlight>Zani</color> is enjoying a rare vacation, but she doesn't quite seem used to it. Go talk to her in the <color=Highlight>Outdoor Lounge</color>.
+lang_multi_text.db	CharacAlbum_TaskName_Cantarella	3.4	Hội thoại/Cốt truyện	Chức năng khác			Fest Guest: Cantarella
+lang_multi_text.db	CharacAlbum_TaskName_Firework	3.4	Hội thoại/Cốt truyện	Chức năng khác			Launch fireworks
+lang_multi_text.db	CharacAlbum_TaskName_Jiyan	3.4	Hội thoại/Cốt truyện	Chức năng khác			Fest Guest: Jiyan
+lang_multi_text.db	CharacAlbum_TaskName_Lynae	3.4	Hội thoại/Cốt truyện	Chức năng khác			Fest Guest: Lynae
+lang_multi_text.db	CharacAlbum_TaskName_Yinlin	3.4	Hội thoại/Cốt truyện	Chức năng khác			Fest Guest: Yinlin
+lang_multi_text.db	CharacAlbum_TaskName_Zani	3.4	Hội thoại/Cốt truyện	Chức năng khác			Fest Guest: Zani
+lang_multi_text.db	CharacAlbum_UnlockDesc_Cantarella	3.4	Hội thoại/Cốt truyện	Chức năng khác			Good food and travel always go hand in hand. May she set off on a journey filled with joy.
+lang_multi_text.db	CharacAlbum_UnlockDesc_Firework	3.4	Hội thoại/Cốt truyện	Chức năng khác			When the stars come cascading down, they will light the radiant path ahead of you.
+lang_multi_text.db	CharacAlbum_UnlockDesc_Jiyan	3.4	Hội thoại/Cốt truyện	Chức năng khác			Even when duty weighs heavy, who could turn down a grand festivity?
+lang_multi_text.db	CharacAlbum_UnlockDesc_Lynae	3.4	Hội thoại/Cốt truyện	Chức năng khác			A life sparked by impulse may yet lead to the brightest future.
+lang_multi_text.db	CharacAlbum_UnlockDesc_Yinlin	3.4	Hội thoại/Cốt truyện	Chức năng khác			There are moments when you can cast aside every disguise. After all, we're here for a great time.
+lang_multi_text.db	CharacAlbum_UnlockDesc_Zani	3.4	Hội thoại/Cốt truyện	Chức năng khác			Even doing nothing at all can be meaningful. That, too, is what a vacation is for.
+lang_multi_text.db	ChatBubble_Content_Attachment	3.4	Hội thoại/Cốt truyện	Chức năng khác			[Image]
+lang_multi_text.db	ChatBubble_Content_Expression	3.4	Hội thoại/Cốt truyện	Chức năng khác			[Emoji] {0}
+lang_multi_text.db	ChatBubble_Content_Input	3.4	Hội thoại/Cốt truyện	Chức năng khác			Typing
+lang_multi_text.db	ChatBubble_Desc_80810001	3.4	Hội thoại/Cốt truyện	Chức năng khác			WavesLine's default Bubble.
+lang_multi_text.db	ChatBubble_Desc_80810002	3.4	Hội thoại/Cốt truyện	Chức năng khác			A welcome gift for new WavesLine users. A chat bubble inspired by the Pangu Terminal.
+lang_multi_text.db	ChatBubble_Desc_80810003	3.4	Hội thoại/Cốt truyện	Chức năng khác			Back again, dear Passenger. Care to try our newest coffee this time?
+lang_multi_text.db	ChatBubble_Desc_80810004	3.4	Hội thoại/Cốt truyện	Chức năng khác			The thing about legends—everyone remembers them in their own way
+lang_multi_text.db	ChatBubble_Desc_80820001	3.4	Hội thoại/Cốt truyện	Chức năng khác			WavesLine's default Background.
+lang_multi_text.db	ChatBubble_Desc_80820002	3.4	Hội thoại/Cốt truyện	Chức năng khác			In this quiet moment, only the laughter of friends and the aroma of freshly ground coffee keep you company.
+lang_multi_text.db	ChatBubble_Desc_80820004	3.4	Hội thoại/Cốt truyện	Chức năng khác			I Really Want to Stay At Your House
+lang_multi_text.db	ChatBubble_Func_80810003	3.4	Hội thoại/Cốt truyện	Chức năng khác			Obtain to unlock WavesLine chat bubble
+lang_multi_text.db	ChatBubble_Func_80810004	3.4	Hội thoại/Cốt truyện	Chức năng khác			Obtain to unlock WavesLine chat bubble
+lang_multi_text.db	ChatBubble_Func_80820002	3.4	Hội thoại/Cốt truyện	Chức năng khác			Obtain to unlock WavesLine chat background
+lang_multi_text.db	ChatBubble_Func_80820004	3.4	Hội thoại/Cốt truyện	Chức năng khác			Obtain to unlock WavesLine chat background
+lang_multi_text.db	ChatBubble_GetWay_80810001	3.4	Hội thoại/Cốt truyện	Chức năng khác			Default
+lang_multi_text.db	ChatBubble_GetWay_80810002	3.4	Hội thoại/Cốt truyện	Chức năng khác			Default
+lang_multi_text.db	ChatBubble_GetWay_80810003	3.4	Hội thoại/Cốt truyện	Chức năng khác			Purchase WavesLine Special Pack: Golden Coffee Ring to unlock
+lang_multi_text.db	ChatBubble_GetWay_80810004	3.4	Hội thoại/Cốt truyện	Chức năng khác			Purchase at Illusive Coral Shop
+lang_multi_text.db	ChatBubble_GetWay_80820001	3.4	Hội thoại/Cốt truyện	Chức năng khác			Default
+lang_multi_text.db	ChatBubble_GetWay_80820002	3.4	Hội thoại/Cốt truyện	Chức năng khác			Purchase WavesLine Special Pack: Golden Coffee Ring to unlock
+lang_multi_text.db	ChatBubble_GetWay_80820004	3.4	Hội thoại/Cốt truyện	Chức năng khác			Purchase at Illusive Coral Shop
+lang_multi_text.db	ChatBubble_Name_80810001	3.4	Hội thoại/Cốt truyện	Chức năng khác			Default Bubble
+lang_multi_text.db	ChatBubble_Name_80810002	3.4	Hội thoại/Cốt truyện	Chức năng khác			Pangu Terminal
+lang_multi_text.db	ChatBubble_Name_80810003	3.4	Hội thoại/Cốt truyện	Chức năng khác			Namipon Kisses
+lang_multi_text.db	ChatBubble_Name_80810004	3.4	Hội thoại/Cốt truyện	Chức năng khác			The David Martinez
+lang_multi_text.db	ChatBubble_Name_80820001	3.4	Hội thoại/Cốt truyện	Chức năng khác			Default Background
+lang_multi_text.db	ChatBubble_Name_80820002	3.4	Hội thoại/Cốt truyện	Chức năng khác			Sweet Coffee Time
+lang_multi_text.db	ChatBubble_Name_80820004	3.4	Hội thoại/Cốt truyện	Chức năng khác			"I miss you all the time"
+lang_multi_text.db	ChatBubble_SettingUse	3.4	Hội thoại/Cốt truyện	Chức năng khác			Apply
+lang_multi_text.db	ChatExpression_100_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Food Please
+lang_multi_text.db	ChatExpression_101_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Cold Sweat
+lang_multi_text.db	ChatExpression_102_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Chill
+lang_multi_text.db	ChatExpression_103_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Pixelpuff
+lang_multi_text.db	ChatExpression_104_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Hooray
+lang_multi_text.db	ChatExpression_105_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Curious
+lang_multi_text.db	ChatExpression_106_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Splat
+lang_multi_text.db	ChatExpression_107_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Heart
+lang_multi_text.db	ChatExpression_108_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Polish Shoes
+lang_multi_text.db	ChatExpression_109_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Show Time
+lang_multi_text.db	ChatExpression_10_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Indifferent
+lang_multi_text.db	ChatExpression_110_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Anyone Here
+lang_multi_text.db	ChatExpression_111_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Smile
+lang_multi_text.db	ChatExpression_112_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Nope
+lang_multi_text.db	ChatExpression_113_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Annoyed
+lang_multi_text.db	ChatExpression_114_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Let's Go
+lang_multi_text.db	ChatExpression_115_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Oh Well...
+lang_multi_text.db	ChatExpression_116_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Tired
+lang_multi_text.db	ChatExpression_117_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Chilling
+lang_multi_text.db	ChatExpression_118_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Smile
+lang_multi_text.db	ChatExpression_119_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Gotcha
+lang_multi_text.db	ChatExpression_11_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Pat pat
+lang_multi_text.db	ChatExpression_120_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Surprise
+lang_multi_text.db	ChatExpression_121_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Wishing
+lang_multi_text.db	ChatExpression_122_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Working
+lang_multi_text.db	ChatExpression_123_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Salute
+lang_multi_text.db	ChatExpression_124_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Oh?
+lang_multi_text.db	ChatExpression_125_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Lecture
+lang_multi_text.db	ChatExpression_126_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Crestfallen
+lang_multi_text.db	ChatExpression_127_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Write a Letter
+lang_multi_text.db	ChatExpression_128_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Ready? Go!
+lang_multi_text.db	ChatExpression_129_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Clang Bang Hi
+lang_multi_text.db	ChatExpression_12_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Alert
+lang_multi_text.db	ChatExpression_130_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Fired Up
+lang_multi_text.db	ChatExpression_131_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Hug
+lang_multi_text.db	ChatExpression_132_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			What?
+lang_multi_text.db	ChatExpression_133_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Defeated
+lang_multi_text.db	ChatExpression_134_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Run!
+lang_multi_text.db	ChatExpression_135_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Bouncy
+lang_multi_text.db	ChatExpression_136_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Curled Up
+lang_multi_text.db	ChatExpression_137_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Shocked
+lang_multi_text.db	ChatExpression_138_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Take My Leave
+lang_multi_text.db	ChatExpression_139_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Whiff Whaff Hi
+lang_multi_text.db	ChatExpression_13_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Hmm?
+lang_multi_text.db	ChatExpression_140_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Snip Snap Hi
+lang_multi_text.db	ChatExpression_141_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Zig Zag Hi
+lang_multi_text.db	ChatExpression_142_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Tick Tack Hi
+lang_multi_text.db	ChatExpression_143_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Shocked
+lang_multi_text.db	ChatExpression_144_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Hungry
+lang_multi_text.db	ChatExpression_145_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Delicious
+lang_multi_text.db	ChatExpression_146_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Tummy Full
+lang_multi_text.db	ChatExpression_147_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Hello!
+lang_multi_text.db	ChatExpression_148_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Hear No Evil
+lang_multi_text.db	ChatExpression_149_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Eavesdropping
+lang_multi_text.db	ChatExpression_14_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Unhappy
+lang_multi_text.db	ChatExpression_150_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Awkward
+lang_multi_text.db	ChatExpression_151_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Ehehe!
+lang_multi_text.db	ChatExpression_152_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Pass Out
+lang_multi_text.db	ChatExpression_153_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Sleepy
+lang_multi_text.db	ChatExpression_154_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Awake
+lang_multi_text.db	ChatExpression_155_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Kudos
+lang_multi_text.db	ChatExpression_156_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Boo-hoo
+lang_multi_text.db	ChatExpression_157_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Hmph!
+lang_multi_text.db	ChatExpression_158_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Cheers
+lang_multi_text.db	ChatExpression_159_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Like
+lang_multi_text.db	ChatExpression_15_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Leaving
+lang_multi_text.db	ChatExpression_160_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Send Flowers
+lang_multi_text.db	ChatExpression_161_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Wish
+lang_multi_text.db	ChatExpression_162_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Cheer
+lang_multi_text.db	ChatExpression_163_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Headpat
+lang_multi_text.db	ChatExpression_164_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Stretch
+lang_multi_text.db	ChatExpression_165_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Thinking
+lang_multi_text.db	ChatExpression_166_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Angry
+lang_multi_text.db	ChatExpression_167_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Bow
+lang_multi_text.db	ChatExpression_168_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Sob
+lang_multi_text.db	ChatExpression_169_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Cuddle
+lang_multi_text.db	ChatExpression_16_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Take note
+lang_multi_text.db	ChatExpression_170_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Pat
+lang_multi_text.db	ChatExpression_171_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Stare
+lang_multi_text.db	ChatExpression_172_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Peekaboo
+lang_multi_text.db	ChatExpression_173_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Panic
+lang_multi_text.db	ChatExpression_174_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Upsy-daisy
+lang_multi_text.db	ChatExpression_175_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Play the piano
+lang_multi_text.db	ChatExpression_176_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Good-natured
+lang_multi_text.db	ChatExpression_177_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Bouquet
+lang_multi_text.db	ChatExpression_178_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Playtime
+lang_multi_text.db	ChatExpression_179_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Provoke
+lang_multi_text.db	ChatExpression_17_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Puzzled
+lang_multi_text.db	ChatExpression_180_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Oops
+lang_multi_text.db	ChatExpression_181_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Hahaha
+lang_multi_text.db	ChatExpression_182_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Let Me See
+lang_multi_text.db	ChatExpression_183_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Drawing
+lang_multi_text.db	ChatExpression_184_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			No Money
+lang_multi_text.db	ChatExpression_185_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Blushing
+lang_multi_text.db	ChatExpression_186_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			On It
+lang_multi_text.db	ChatExpression_187_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Studying
+lang_multi_text.db	ChatExpression_188_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Thinking
+lang_multi_text.db	ChatExpression_189_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Nice
+lang_multi_text.db	ChatExpression_18_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Stunned
+lang_multi_text.db	ChatExpression_190_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Analyzing
+lang_multi_text.db	ChatExpression_191_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Aim
+lang_multi_text.db	ChatExpression_192_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			I Have Monnaie
+lang_multi_text.db	ChatExpression_193_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Elegant
+lang_multi_text.db	ChatExpression_194_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Drink Tea
+lang_multi_text.db	ChatExpression_195_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Smirk
+lang_multi_text.db	ChatExpression_196_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Got You
+lang_multi_text.db	ChatExpression_197_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Interesting
+lang_multi_text.db	ChatExpression_198_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Look Around
+lang_multi_text.db	ChatExpression_199_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Turn Off
+lang_multi_text.db	ChatExpression_19_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Cheer up
+lang_multi_text.db	ChatExpression_1_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Hello
+lang_multi_text.db	ChatExpression_200_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Reliable
+lang_multi_text.db	ChatExpression_201_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			RUN!
+lang_multi_text.db	ChatExpression_202_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Wobble
+lang_multi_text.db	ChatExpression_203_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Let Me See
+lang_multi_text.db	ChatExpression_204_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Peek
+lang_multi_text.db	ChatExpression_205_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Bow
+lang_multi_text.db	ChatExpression_206_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Forward
+lang_multi_text.db	ChatExpression_207_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Upset
+lang_multi_text.db	ChatExpression_208_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Wink
+lang_multi_text.db	ChatExpression_209_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Sunglasses
+lang_multi_text.db	ChatExpression_20_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Envy
+lang_multi_text.db	ChatExpression_210_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Exclamation Mark
+lang_multi_text.db	ChatExpression_212_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Question Mark
+lang_multi_text.db	ChatExpression_21_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Distressed
+lang_multi_text.db	ChatExpression_22_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Angry
+lang_multi_text.db	ChatExpression_23_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Like
+lang_multi_text.db	ChatExpression_24_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			LOL
+lang_multi_text.db	ChatExpression_25_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Daydreaming
+lang_multi_text.db	ChatExpression_26_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Listening
+lang_multi_text.db	ChatExpression_27_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Drag away
+lang_multi_text.db	ChatExpression_28_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			No more
+lang_multi_text.db	ChatExpression_29_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Collect you
+lang_multi_text.db	ChatExpression_2_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Drink
+lang_multi_text.db	ChatExpression_30_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Leave it to me
+lang_multi_text.db	ChatExpression_31_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Amazing
+lang_multi_text.db	ChatExpression_32_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Escape
+lang_multi_text.db	ChatExpression_33_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Okay
+lang_multi_text.db	ChatExpression_34_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Don't provoke me
+lang_multi_text.db	ChatExpression_35_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Happy
+lang_multi_text.db	ChatExpression_36_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Got it
+lang_multi_text.db	ChatExpression_37_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Thinking
+lang_multi_text.db	ChatExpression_38_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			What did you say
+lang_multi_text.db	ChatExpression_39_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Chaotic
+lang_multi_text.db	ChatExpression_3_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Give you heart
+lang_multi_text.db	ChatExpression_40_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Go you
+lang_multi_text.db	ChatExpression_41_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Send flowers
+lang_multi_text.db	ChatExpression_42_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Cool
+lang_multi_text.db	ChatExpression_43_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Goodbye
+lang_multi_text.db	ChatExpression_44_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Hehe
+lang_multi_text.db	ChatExpression_45_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Good night
+lang_multi_text.db	ChatExpression_46_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Arrived
+lang_multi_text.db	ChatExpression_47_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Angry
+lang_multi_text.db	ChatExpression_48_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Check it out
+lang_multi_text.db	ChatExpression_49_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			What
+lang_multi_text.db	ChatExpression_4_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Like
+lang_multi_text.db	ChatExpression_50_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Tired
+lang_multi_text.db	ChatExpression_51_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			What to eat
+lang_multi_text.db	ChatExpression_52_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Hit
+lang_multi_text.db	ChatExpression_53_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Speechless
+lang_multi_text.db	ChatExpression_54_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Drink tea
+lang_multi_text.db	ChatExpression_55_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Hehe
+lang_multi_text.db	ChatExpression_56_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Go away
+lang_multi_text.db	ChatExpression_57_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Here I Am
+lang_multi_text.db	ChatExpression_58_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Sob
+lang_multi_text.db	ChatExpression_59_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Let's Go
+lang_multi_text.db	ChatExpression_5_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Helpless
+lang_multi_text.db	ChatExpression_60_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Greet
+lang_multi_text.db	ChatExpression_61_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Rich
+lang_multi_text.db	ChatExpression_62_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Wow
+lang_multi_text.db	ChatExpression_63_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Thanks
+lang_multi_text.db	ChatExpression_64_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Sleepy
+lang_multi_text.db	ChatExpression_65_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Clock Out
+lang_multi_text.db	ChatExpression_66_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Don't Rush
+lang_multi_text.db	ChatExpression_67_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			What
+lang_multi_text.db	ChatExpression_68_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Good Job
+lang_multi_text.db	ChatExpression_69_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Poof
+lang_multi_text.db	ChatExpression_6_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Uh...
+lang_multi_text.db	ChatExpression_70_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Relax
+lang_multi_text.db	ChatExpression_71_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Punch
+lang_multi_text.db	ChatExpression_72_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Okie
+lang_multi_text.db	ChatExpression_73_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Sad
+lang_multi_text.db	ChatExpression_74_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Pat
+lang_multi_text.db	ChatExpression_75_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Surprise
+lang_multi_text.db	ChatExpression_76_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Huh
+lang_multi_text.db	ChatExpression_77_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Get
+lang_multi_text.db	ChatExpression_78_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Lion Dance
+lang_multi_text.db	ChatExpression_79_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Hi
+lang_multi_text.db	ChatExpression_7_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Shy
+lang_multi_text.db	ChatExpression_80_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Alert
+lang_multi_text.db	ChatExpression_81_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			See Through
+lang_multi_text.db	ChatExpression_82_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Stare
+lang_multi_text.db	ChatExpression_83_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Electric Shock
+lang_multi_text.db	ChatExpression_84_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Flute
+lang_multi_text.db	ChatExpression_85_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Confused
+lang_multi_text.db	ChatExpression_86_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Excited
+lang_multi_text.db	ChatExpression_87_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Calm
+lang_multi_text.db	ChatExpression_88_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Carefree
+lang_multi_text.db	ChatExpression_89_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Hello
+lang_multi_text.db	ChatExpression_8_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			In Peace
+lang_multi_text.db	ChatExpression_90_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Draw
+lang_multi_text.db	ChatExpression_91_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Wink
+lang_multi_text.db	ChatExpression_92_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Shocked
+lang_multi_text.db	ChatExpression_93_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Light-Bulb
+lang_multi_text.db	ChatExpression_94_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Hug
+lang_multi_text.db	ChatExpression_95_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Please
+lang_multi_text.db	ChatExpression_96_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Cry
+lang_multi_text.db	ChatExpression_97_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Upset
+lang_multi_text.db	ChatExpression_98_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Hit
+lang_multi_text.db	ChatExpression_99_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Hmph
+lang_multi_text.db	ChatExpression_9_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Nod
+lang_multi_text.db	Chat_1_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Private chat
+lang_multi_text.db	Chat_2_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Current Team
+lang_multi_text.db	GachaAccumulateAllFinishProgressText	3.4	Hội thoại/Cốt truyện	Chức năng khác			<size=38><color=#6be2ec>All Completed</color></size>
+lang_multi_text.db	GachaAccumulateErrSelectParam	3.4	Hội thoại/Cốt truyện	Chức năng khác			Wrong variable selected for the reward
+lang_multi_text.db	GachaAccumulateNoConfig	3.4	Hội thoại/Cốt truyện	Chức năng khác			Configuration not found. Please check again.
+lang_multi_text.db	GachaAccumulateNoFinish	3.4	Hội thoại/Cốt truyện	Chức năng khác			Reward requirement(s) not met
+lang_multi_text.db	GachaAccumulateNoInTime	3.4	Hội thoại/Cốt truyện	Chức năng khác			This Collab Convene event has ended. Convertible rewards will be reissued via in-game Mail
+lang_multi_text.db	GachaAccumulateProgressText	3.4	Hội thoại/Cốt truyện	Chức năng khác			<size=34><color=#df6456>Current Total Convenes</color> </size> <size=50><color=#8df7fe>{0}</color></size><size=36><color=#df6456>/{1}</color></size>
+lang_multi_text.db	GachaAccumulateRewarded	3.4	Hội thoại/Cốt truyện	Chức năng khác			Reward claimed
+lang_multi_text.db	GachaAccumulateTipsProgressFinishText	3.4	Hội thoại/Cốt truyện	Chức năng khác			All Rewards Achieved
+lang_multi_text.db	GachaAccumulateTipsProgressText	3.4	Hội thoại/Cốt truyện	Chức năng khác			Tuning Rewards ({0}/{1})
+lang_multi_text.db	GachaAccumulateTipsProgressTipsText	3.4	Hội thoại/Cốt truyện	Chức năng khác			Convene <size=50><color=#f9f27e>{0}</color></size> more time(s) to obtain
+lang_multi_text.db	GachaAccumulateTipsText	3.4	Hội thoại/Cốt truyện	Chức năng khác			x{0}
+lang_multi_text.db	GachaAccumulateTipsUnTakeNumText	3.4	Hội thoại/Cốt truyện	Chức năng khác			{0} Reward(s) to claim
+lang_multi_text.db	GachaDropItemUp	3.4	Hội thoại/Cốt truyện	Chức năng khác			{0} (UP)
+lang_multi_text.db	GachaPoolDetailFiveRoleItemTitle	3.4	Hội thoại/Cốt truyện	Chức năng khác			5-Star Resonator
+lang_multi_text.db	GachaPoolDetailFiveWeaponItemTitle	3.4	Hội thoại/Cốt truyện	Chức năng khác			5-Star Weapon
+lang_multi_text.db	GachaPoolDetailFourRoleItemTitle	3.4	Hội thoại/Cốt truyện	Chức năng khác			4-Star Resonator
+lang_multi_text.db	GachaPoolDetailFourWeaponItemTitle	3.4	Hội thoại/Cốt truyện	Chức năng khác			4-Star Weapon
+lang_multi_text.db	GachaPoolDetailThreeWeaponItemTitle	3.4	Hội thoại/Cốt truyện	Chức năng khác			3-Star Weapon
+lang_multi_text.db	GachaPoolDetailTitle	3.4	Hội thoại/Cốt truyện	Chức năng khác			{0} Convene Details
+lang_multi_text.db	GachaPoolDetail_FiveStar_1	3.4	Hội thoại/Cốt truyện	Chức năng khác			5-Star Resonators\n◇ The base 5-Star Resonator drop rate is 0.80000%. The average drop rate (including the Guarantee) is 1.80000%.\n◇ Every time a 5-Star Resonator is obtained, there is a 50.00000% chance it will be the Featured 5-Star Resonator of this event banner, and a 50.00000% chance to be a random non-Featured 5-Star Resonator. All 5-Star non-Featured Resonators have equal drop rate.
+lang_multi_text.db	GachaPoolDetail_FiveStar_2	3.4	Hội thoại/Cốt truyện	Chức năng khác			5-Star Weapons\n◇ The base 5-Star Weapon drop rate is 0.80000%. The average drop rate (including the Guarantee) is 1.80000%.\n◇ Every time a 5-Star Weapon is obtained, it is guaranteed to be the Featured 5-Star Weapon of this event banner.
+lang_multi_text.db	GachaPoolDetail_FiveStar_3	3.4	Hội thoại/Cốt truyện	Chức năng khác			5-Star Resonators\n◇ The base 5-Star Resonator drop rate is 0.80000%. The average drop rate (including the Guarantee) is 1.80000%.\n◇ All 5-Star Resonators have equal drop rate.
+lang_multi_text.db	GachaPoolDetail_FiveStar_4	3.4	Hội thoại/Cốt truyện	Chức năng khác			5-Star Weapons\n◇ The base 5-Star Weapon drop rate is 0.80000%. The average drop rate (including the Guarantee) is 1.80000%.\n◇ Every time a 5-Star Weapon is obtained, it is guaranteed to be the Featured 5-Star Weapon of this event banner.
+lang_multi_text.db	GachaPoolDetail_FiveStar_5	3.4	Hội thoại/Cốt truyện	Chức năng khác			5-Star Resonators\n◇ The base 5-Star Resonator drop rate is 0.80000%. The average drop rate (including the Guarantee) is 2.40000%.\n◇ All 5-Star Resonators have equal drop rate.
+lang_multi_text.db	GachaPoolDetail_FiveStar_6	3.4	Hội thoại/Cốt truyện	Chức năng khác			5-Star Resonators\n◇ The base 5-Star Resonator drop rate is 0.80000%. The average drop rate (including the Guarantee) is 1.80000%.\n◇ Every time a 5-Star Resonator is obtained, it is guaranteed to be the Featured 5-Star Resonator of this event banner.
+lang_multi_text.db	GachaPoolDetail_FiveStar_7	3.4	Hội thoại/Cốt truyện	Chức năng khác			5-Star Resonators\n◇ The base 5-Star Resonator drop rate is 100%.\n◇ Every time a 5-Star Resonator is obtained, it is guaranteed to be the Featured 5-Star Resonator of this event banner.
+lang_multi_text.db	GachaPoolDetail_FourStar_1	3.4	Hội thoại/Cốt truyện	Chức năng khác			4-Star Resonators & Weapons\n◇ The base 4-Star Resonator or Weapon drop rate is 6.00000%. The average drop rate (including the Guarantee) is 12.00000%.\n◇ Every time a 4-Star item is obtained, there is a 50.00000% chance it will be a Featured 4-Star Resonator of this event banner. All Featured 4-Star Resonators have equal drop rate; and a 50.00000% chance to be a random non-Featured 4-Star item. All non-Featured 4-Star items have equal drop rate.
+lang_multi_text.db	GachaPoolDetail_FourStar_2	3.4	Hội thoại/Cốt truyện	Chức năng khác			4-Star Resonators & Weapons\n◇ The base 4-Star Resonator or Weapon drop rate is 6.00000%. The average drop rate (including the Guarantee) is 12.00000%.\n◇ Every time a 4-Star item is obtained, there is a 50.00000% chance it will be a Featured 4-Star Resonator of this event banner. All Featured 4-Star Resonators have equal drop rate; and a 50.00000% chance to be a random non-Featured 4-Star item. All non-Featured 4-Star items have equal drop rate.
+lang_multi_text.db	GachaPoolDetail_FourStar_3	3.4	Hội thoại/Cốt truyện	Chức năng khác			4-Star Resonators & Weapons\n◇ The base 4-Star Resonator or Weapon drop rate is 6.00000%. The average drop rate (including the Guarantee) is 12.00000%.\n◇ All 4-Star items have equal drop rate.
+lang_multi_text.db	GachaPoolDetail_FourStar_4	3.4	Hội thoại/Cốt truyện	Chức năng khác			4-Star Resonators & Weapons\n◇ The base 4-Star Resonator or Weapon drop rate is 6.00000%. The average drop rate (including the Guarantee) is 12.00000%.\n◇ All 4-Star items have equal drop rate.
+lang_multi_text.db	GachaPoolDetail_FourStar_5	3.4	Hội thoại/Cốt truyện	Chức năng khác			4-Star Resonators & Weapons\n◇ The base 4-Star Resonator or Weapon drop rate is 6.00000%. The average drop rate (including the Guarantee) is 11.80000%.\n◇ All 4-Star items have equal drop rate.
+lang_multi_text.db	GachaPoolDetail_FourStar_6	3.4	Hội thoại/Cốt truyện	Chức năng khác			4-Star Resonators & Weapons\n◇ The base 4-Star Resonator or Weapon drop rate is 6.00000%. The average drop rate (including the Guarantee) is 12.00000%.\n◇ All 4-Star items have equal drop rate.
+lang_multi_text.db	GachaPoolDetail_ThreeStar_1	3.4	Hội thoại/Cốt truyện	Chức năng khác			3-Star Weapons\n◇ The base 3-Star Weapon drop rate is 93.20000%.\n◇ All 3-Star Weapons have equal drop rate.
+lang_multi_text.db	GachaPoolDetail_ThreeStar_2	3.4	Hội thoại/Cốt truyện	Chức năng khác			3-Star Weapons\n◇ The base 3-Star Weapon drop rate is 93.20000%.\n◇ All 3-Star Weapons have equal drop rate.
+lang_multi_text.db	GachaPoolDetail_ThreeStar_3	3.4	Hội thoại/Cốt truyện	Chức năng khác			3-Star Weapons\n◇ The base 3-Star Weapon drop rate is 93.20000%.\n◇ All 3-Star Weapons have equal drop rate.
+lang_multi_text.db	GachaPoolDetail_ThreeStar_4	3.4	Hội thoại/Cốt truyện	Chức năng khác			3-Star Weapons\n◇ The base 3-Star Weapon drop rate is 93.20000%.\n◇ All 3-Star Weapons have equal drop rate.
+lang_multi_text.db	GachaPoolDetail_ThreeStar_5	3.4	Hội thoại/Cốt truyện	Chức năng khác			3-Star Weapons\n◇ The base 3-Star Weapon drop rate is 93.20000%.\n◇ All 3-Star Weapons have equal drop rate.
+lang_multi_text.db	GachaPoolDetail_ThreeStar_6	3.4	Hội thoại/Cốt truyện	Chức năng khác			3-Star Weapons\n◇ The base 3-Star Weapon drop rate is 93.20000%.\n◇ All 3-Star Weapons have equal drop rate.
+lang_multi_text.db	GachaPoolDropItemNormal	3.4	Hội thoại/Cốt truyện	Chức năng khác			{0}
+lang_multi_text.db	MechaAlbum_GuideDesc_EchoPresent	3.4	Hội thoại/Cốt truyện	Chức năng khác			Those majestic <color=Highlight>Echoes</color> displayed in the <color=Highlight>Lobby</color> elevate the festival to a whole new level. Go take a closer look and admire their unique beauty.
+lang_multi_text.db	MechaAlbum_GuideDesc_Fireworks	3.4	Hội thoại/Cốt truyện	Chức năng khác			A <color=Highlight>firework launcher</color> has been set up in the <color=Highlight>Garden</color>. Give it a try and paint the night sky with brilliant colors (Complete Quest "The Answer Is Where a River of Stars Falls" to unlock).
+lang_multi_text.db	MechaAlbum_GuideDesc_Motor	3.4	Hội thoại/Cốt truyện	Chức năng khác			Since your <color=Highlight>motorbike</color> is going on display, now's the time to swap in a different livery. Visit the <color=Highlight>Screening Room's stand</color> and see what works for you!
+lang_multi_text.db	MechaAlbum_GuideDesc_Phonograph	3.4	Hội thoại/Cốt truyện	Chức năng khác			No celebration is complete without music. Visit the <color=Highlight>phonograph</color> in the <color=Highlight>Lobby</color> and enjoy the melodies it has prepared.
+lang_multi_text.db	MechaAlbum_GuideDesc_Screen	3.4	Hội thoại/Cốt truyện	Chức năng khác			Lollo Logistics has installed a <color=Highlight>screen</color> in the <color=Highlight>Screening Room</color>, allowing you to switch between different channels.
+lang_multi_text.db	MechaAlbum_GuideDesc_StarObserve	3.4	Hội thoại/Cốt truyện	Chức năng khác			A <color=Highlight>telescope</color> awaits on the <color=Highlight>second-floor balcony</color> for stargazing. Be sure to give it a look. (Unlocks at Vibe Level 6)
+lang_multi_text.db	MechaAlbum_GuideDesc_Swing	3.4	Hội thoại/Cốt truyện	Chức năng khác			Lollo Logistics has repaired the <color=Highlight>swing</color> by the shore. Head to the <color=Highlight>seaside</color> and try it out for yourself. (Unlocks at Vibe Level 7)
+lang_multi_text.db	MechaAlbum_GuideDesc_WeaponPresent	3.4	Hội thoại/Cốt truyện	Chức năng khác			A wide array of <color=Highlight>weapons</color> is showcased in the <color=Highlight>Collection Gallery</color>. But remember, in a land of peace, they are for display only.
+lang_multi_text.db	MechaAlbum_TaskName_EchoPresent	3.4	Hội thoại/Cốt truyện	Chức năng khác			Echo Display Stand
+lang_multi_text.db	MechaAlbum_TaskName_Fireworks	3.4	Hội thoại/Cốt truyện	Chức năng khác			Nightglow Firework
+lang_multi_text.db	MechaAlbum_TaskName_Lock	3.4	Hội thoại/Cốt truyện	Chức năng khác			???
+lang_multi_text.db	MechaAlbum_TaskName_Motor	3.4	Hội thoại/Cốt truyện	Chức năng khác			Startorch Motorbike
+lang_multi_text.db	MechaAlbum_TaskName_Phonograph	3.4	Hội thoại/Cốt truyện	Chức năng khác			Philharmonic Phonograph
+lang_multi_text.db	MechaAlbum_TaskName_Screen	3.4	Hội thoại/Cốt truyện	Chức năng khác			Lollo Screen
+lang_multi_text.db	MechaAlbum_TaskName_StarObserve	3.4	Hội thoại/Cốt truyện	Chức năng khác			Stargaze Telescope
+lang_multi_text.db	MechaAlbum_TaskName_Swing	3.4	Hội thoại/Cốt truyện	Chức năng khác			Wave Swing
+lang_multi_text.db	MechaAlbum_TaskName_WeaponPresent	3.4	Hội thoại/Cốt truyện	Chức năng khác			Weapon Display Stand
+lang_multi_text.db	MechaAlbum_UnlockDesc_EchoPresent	3.4	Hội thoại/Cốt truyện	Chức năng khác			Gazing upon these Echoes, perhaps you can hear the breath of this world itself.
+lang_multi_text.db	MechaAlbum_UnlockDesc_Fireworks	3.4	Hội thoại/Cốt truyện	Chức năng khác			Though it cannot light up every corner of the night, it leaves behind a fleeting spark across the sky.
+lang_multi_text.db	MechaAlbum_UnlockDesc_Motor	3.4	Hội thoại/Cốt truyện	Chức năng khác			Visitors admire your motorbike as though they could see the long, winding road you traveled.
+lang_multi_text.db	MechaAlbum_UnlockDesc_Phonograph	3.4	Hội thoại/Cốt truyện	Chức năng khác			Time may never turn back, but music always carries the power to resonate across eras.
+lang_multi_text.db	MechaAlbum_UnlockDesc_Screen	3.4	Hội thoại/Cốt truyện	Chức năng khác			The screen set up by Lollo Logistics and Startorch Academy occasionally remind you of matters beyond the party.
+lang_multi_text.db	MechaAlbum_UnlockDesc_StarObserve	3.4	Hội thoại/Cốt truyện	Chức năng khác			We look into the darkness from afar just to seek the stars.
+lang_multi_text.db	MechaAlbum_UnlockDesc_Swing	3.4	Hội thoại/Cốt truyện	Chức năng khác			Seated on the swing by the sea, you can almost feel the rhythm of the tides.
+lang_multi_text.db	MechaAlbum_UnlockDesc_WeaponPresent	3.4	Hội thoại/Cốt truyện	Chức năng khác			Brilliance is the dream of the young; brilliance is the glory of those returning home.
+lang_multi_text.db	Motion_Title_1	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: I
+lang_multi_text.db	Motion_Title_2	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: II
+lang_multi_text.db	Motion_Title_3	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: III
+lang_multi_text.db	Motion_Title_4	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: IV
+lang_multi_text.db	PhotoFightReward_Room_01	3.4	Hội thoại/Cốt truyện	Chức năng khác			Complete As the Bamboo Leaf Falls - Normal Mode
+lang_multi_text.db	PhotoFightReward_Room_02	3.4	Hội thoại/Cốt truyện	Chức năng khác			Complete Night Flame of Black Alley - Normal Mode
+lang_multi_text.db	PhotoFightReward_Room_03	3.4	Hội thoại/Cốt truyện	Chức năng khác			Complete The Hour of Hope - Normal Mode
+lang_multi_text.db	PhotoFightReward_Room_04	3.4	Hội thoại/Cốt truyện	Chức năng khác			Complete Rebirth from the Abyss - Normal Mode
+lang_multi_text.db	PhotoFightReward_Room_05	3.4	Hội thoại/Cốt truyện	Chức năng khác			Complete Dance of Qingloong - Normal Mode
+lang_multi_text.db	PhotoFightReward_Room_06	3.4	Hội thoại/Cốt truyện	Chức năng khác			Complete Phantom of the Beyond - Normal Mode
+lang_multi_text.db	PhotoFightReward_Room_07	3.4	Hội thoại/Cốt truyện	Chức năng khác			Complete Crimson Waltz - Normal Mode
+lang_multi_text.db	PhotoFightReward_Room_08	3.4	Hội thoại/Cốt truyện	Chức năng khác			Complete Bright Moon in the Dark - Normal Mode
+lang_multi_text.db	PhotoFightReward_Room_09	3.4	Hội thoại/Cốt truyện	Chức năng khác			Complete As the Bamboo Leaf Falls - Hard Mode
+lang_multi_text.db	PhotoFightReward_Room_10	3.4	Hội thoại/Cốt truyện	Chức năng khác			Complete Night Flame of Black Alley - Hard Mode
+lang_multi_text.db	PhotoFightReward_Room_11	3.4	Hội thoại/Cốt truyện	Chức năng khác			Complete The Hour of Hope - Hard Mode
+lang_multi_text.db	PhotoFightReward_Room_12	3.4	Hội thoại/Cốt truyện	Chức năng khác			Complete Rebirth from the Abyss - Hard Mode
+lang_multi_text.db	PhotoFightReward_Room_13	3.4	Hội thoại/Cốt truyện	Chức năng khác			Complete Dance of Qingloong - Hard Mode
+lang_multi_text.db	PhotoFightReward_Room_14	3.4	Hội thoại/Cốt truyện	Chức năng khác			Complete Phantom of the Beyond - Hard Mode
+lang_multi_text.db	PhotoFightReward_Room_15	3.4	Hội thoại/Cốt truyện	Chức năng khác			Complete Crimson Waltz - Hard Mode
+lang_multi_text.db	PhotoFightReward_Room_16	3.4	Hội thoại/Cốt truyện	Chức năng khác			Complete Bright Moon in the Dark - Hard Mode
+lang_multi_text.db	PhotoFightReward_Title_01	3.4	Hội thoại/Cốt truyện	Chức năng khác			Normal Mode Rewards
+lang_multi_text.db	PhotoFightReward_Title_02	3.4	Hội thoại/Cốt truyện	Chức năng khác			Hard Mode Rewards
+lang_multi_text.db	PhotoFightTimeSlowNotReady	3.4	Hội thoại/Cốt truyện	Chức năng khác			Slow Motion on cooldown. Not available now.
+lang_multi_text.db	PhotoMemory_10101_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			Above towering cliffs that reach for the sky, a true dragon emerges from the clouds.
+lang_multi_text.db	PhotoMemory_10101_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			Above towering cliffs that reach for the sky, a true dragon emerges from the clouds.
+lang_multi_text.db	PhotoMemory_10101_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Traces of Mt. Firmament I
+lang_multi_text.db	PhotoMemory_10102_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			Dim lights cast a soft glow over the pool as snow gently falls from the sky.
+lang_multi_text.db	PhotoMemory_10102_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			Dim lights cast a soft glow over the pool as snow gently falls from the sky.
+lang_multi_text.db	PhotoMemory_10102_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Traces of Mt. Firmament II
+lang_multi_text.db	PhotoMemory_10103_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			As per the elders of Hongzhen, the enigmatic landscape, resembling the bones of dragons, holds a profound connection to Jué.
+lang_multi_text.db	PhotoMemory_10103_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			As per the elders of Hongzhen, the enigmatic landscape, resembling the bones of dragons, holds a profound connection to Jué.
+lang_multi_text.db	PhotoMemory_10103_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Traces of Mt. Firmament III
+lang_multi_text.db	PhotoMemory_10104_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			By the towering canopy of Tianqu Tree, myriad maple leaves adorn the surface of the pond. Legend has it that these fallen leaves shall one day return to the embrace of the tree's branches.
+lang_multi_text.db	PhotoMemory_10104_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			By the towering canopy of Tianqu Tree, myriad maple leaves adorn the surface of the pond. Legend has it that these fallen leaves shall one day return to the embrace of the tree's branches.
+lang_multi_text.db	PhotoMemory_10104_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Traces of Mt. Firmament IV
+lang_multi_text.db	PhotoMemory_10105_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			The morning light shines on the twin trees, while a waterfall conceals the grand palace.
+lang_multi_text.db	PhotoMemory_10105_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			The morning light shines on the twin trees, while a waterfall conceals the grand palace.
+lang_multi_text.db	PhotoMemory_10105_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Traces of Mt. Firmament V
+lang_multi_text.db	PhotoMemory_10106_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			The afterglow graces the mountain pass, while floating rocks knock on heaven's gate.
+lang_multi_text.db	PhotoMemory_10106_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			The afterglow graces the mountain pass, while floating rocks knock on heaven's gate.
+lang_multi_text.db	PhotoMemory_10106_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Traces of Mt. Firmament VI
+lang_multi_text.db	PhotoMemory_10107_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			The water of the deep pool seems to condense as an entrance to the hollows opens.
+lang_multi_text.db	PhotoMemory_10107_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			The water of the deep pool seems to condense as an entrance to the hollows opens.
+lang_multi_text.db	PhotoMemory_10107_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Traces of Mt. Firmament VII
+lang_multi_text.db	PhotoMemory_10108_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			At dawn, there are always people who confuse the mirage for the ascending sun.
+lang_multi_text.db	PhotoMemory_10108_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			At dawn, there are always people who confuse the mirage for the ascending sun.
+lang_multi_text.db	PhotoMemory_10108_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Traces of Mt. Firmament VIII
+lang_multi_text.db	PhotoMemory_10109_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			At the edge of Mt. Firmament, whispers of tides echo from the seaside ruins.
+lang_multi_text.db	PhotoMemory_10109_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			At the edge of Mt. Firmament, whispers of tides echo from the seaside ruins.
+lang_multi_text.db	PhotoMemory_10109_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Traces of Mt. Firmament IX
+lang_multi_text.db	PhotoMemory_101_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Mt. Firmament
+lang_multi_text.db	PhotoMemory_10201_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"This island, this planet, will one day bloom endlessly like summer blossoms."
+lang_multi_text.db	PhotoMemory_10201_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> Side Quest: Amidst the Stars\nHere bears witness, the start of the footprint.
+lang_multi_text.db	PhotoMemory_10201_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Amidst the Stars: I
+lang_multi_text.db	PhotoMemory_10202_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"I will remain here and fulfill my duties."
+lang_multi_text.db	PhotoMemory_10202_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> Side Quest: Amidst the Stars\nHere bears witness, the meaning of responsibility.
+lang_multi_text.db	PhotoMemory_10202_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Amidst the Stars: II
+lang_multi_text.db	PhotoMemory_10203_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Establishing codebase of current-generation Solaris."
+lang_multi_text.db	PhotoMemory_10203_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> Side Quest: Amidst the Stars\nHere bears witness, the rationality of absoluteness.
+lang_multi_text.db	PhotoMemory_10203_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Amidst the Stars: III
+lang_multi_text.db	PhotoMemory_10204_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"You shall venture further than others, and with it, bear greater solitude."
+lang_multi_text.db	PhotoMemory_10204_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> Side Quest: Amidst the Stars\nHere bears witness, the torch of the future.
+lang_multi_text.db	PhotoMemory_10204_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Amidst the Stars: IV
+lang_multi_text.db	PhotoMemory_10205_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"This cave is pitch dark… Are we really going in?"
+lang_multi_text.db	PhotoMemory_10205_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> Side Quest: Cerulean Echoes Adrift in the Winds\nHere bears witness, the soul that traces back.
+lang_multi_text.db	PhotoMemory_10205_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Amidst the Stars: V
+lang_multi_text.db	PhotoMemory_10206_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Whoa, there are so many Aetherfins here!"
+lang_multi_text.db	PhotoMemory_10206_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> Side Quest: Cerulean Echoes Adrift in the Winds\nHere bears witness, the fish that are displaced.
+lang_multi_text.db	PhotoMemory_10206_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Amidst the Stars: VI
+lang_multi_text.db	PhotoMemory_102_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			The Black Shores
+lang_multi_text.db	PhotoMemory_10301_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"If you gaze for long into the deep sky above the tower, the sky gazes also into you."
+lang_multi_text.db	PhotoMemory_10301_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> Gaze into Ragunna's deepest blue.\nObtainable after starting Side Quest "Traces of Tides."
+lang_multi_text.db	PhotoMemory_10301_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Traces of Tides I
+lang_multi_text.db	PhotoMemory_10302_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Forward, knights! Porto-Veno Castle shall honor your deeds."
+lang_multi_text.db	PhotoMemory_10302_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> Step into Ragunna's quietest night.\nObtainable after completing Traces of Tides I.
+lang_multi_text.db	PhotoMemory_10302_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Traces of Tides II
+lang_multi_text.db	PhotoMemory_10303_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"I've battled the current, wandering with the tides of the sea."
+lang_multi_text.db	PhotoMemory_10303_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> Soothe Ragunna's stillest water.\nObtainable after completing Traces of Tides I.
+lang_multi_text.db	PhotoMemory_10303_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Traces of Tides III
+lang_multi_text.db	PhotoMemory_10304_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"All things, save emotions, can be buried beneath the earth."
+lang_multi_text.db	PhotoMemory_10304_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> Reflect Ragunna's silent wind.\nObtainable after completing Traces of Tides I.
+lang_multi_text.db	PhotoMemory_10304_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Traces of Tides IV
+lang_multi_text.db	PhotoMemory_10305_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Money is salvation; money is ruin; money flows toward its owner's doom."
+lang_multi_text.db	PhotoMemory_10305_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> Look upon Ragunna's steadfast stone.\nObtainable after completing Traces of Tides I.
+lang_multi_text.db	PhotoMemory_10305_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Traces of Tides V
+lang_multi_text.db	PhotoMemory_10306_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Every cloud tenderly kisses your soul."
+lang_multi_text.db	PhotoMemory_10306_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> Caress Ragunna's softest cloud.\nObtainable after completing Traces of Tides I.
+lang_multi_text.db	PhotoMemory_10306_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Traces of Tides VI
+lang_multi_text.db	PhotoMemory_10307_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Remember that every wave once sang your name."
+lang_multi_text.db	PhotoMemory_10307_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			"<color=#c49e55>[Clue]</color> Remember Ragunna's dearest soul.\nObtainable after completing Traces of Tides I-VI.
+lang_multi_text.db	PhotoMemory_10307_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Traces of Tides VII
+lang_multi_text.db	PhotoMemory_10308_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Square as the chessboard, round as the pieces. Motion grants the game life and stillness brings death."
+lang_multi_text.db	PhotoMemory_10308_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> Nourish Ragunna's oldest tree.\nUnlocked after discovering the secret in the depths of the Oakheart Highcourt.
+lang_multi_text.db	PhotoMemory_10308_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Traces of Tides: VIII
+lang_multi_text.db	PhotoMemory_10309_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"This may be the world's end, but the end leads to no place. So, stop."
+lang_multi_text.db	PhotoMemory_10309_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> Cross Ragunna's most turbulent sea.\nUnlocked after completing Exploration Quest "Where Wind Returns to Celestial Realms."
+lang_multi_text.db	PhotoMemory_10309_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Traces of Tides: IX
+lang_multi_text.db	PhotoMemory_103_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Rinascita
+lang_multi_text.db	PhotoMemory_10401_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Grandeur, sanctity, and miracles... none can fully capture the essence of this place. This is Avinoleum. This is... Ragunna."
+lang_multi_text.db	PhotoMemory_10401_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> From here, gaze upon the magnificent reflection.\nObtainable after proceeding with Side Quest "Avinoleum Footsteps."
+lang_multi_text.db	PhotoMemory_10401_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Acropolis Documentarian I
+lang_multi_text.db	PhotoMemory_10402_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"During the Carnevale, Acolytes line the banks of the waterway. The air hums with the energy of plays and dances that stretch on late into the night."
+lang_multi_text.db	PhotoMemory_10402_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> From here, seek the lingering memory of the feast.\nObtainable after proceeding with Side Quest "Avinoleum Footsteps."
+lang_multi_text.db	PhotoMemory_10402_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Acropolis Documentarian II
+lang_multi_text.db	PhotoMemory_10403_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"The manuscripts stored here are nearly as ancient as Rinascita itself. Among them lies the Sentinel's first ever blessing."
+lang_multi_text.db	PhotoMemory_10403_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> From here, step into the spiral of thought.\nObtainable after proceeding with Side Quest "Avinoleum Footsteps."
+lang_multi_text.db	PhotoMemory_10403_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Acropolis Documentarian III
+lang_multi_text.db	PhotoMemory_10404_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Circling dragons, blooming flowers, and vibrant vines... This is a resting place shared by both humans and Echoes alike."
+lang_multi_text.db	PhotoMemory_10404_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> From here, recall the forgotten paradise.\nObtainable after proceeding with Side Quest "Avinoleum Footsteps."
+lang_multi_text.db	PhotoMemory_10404_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Acropolis Documentarian IV
+lang_multi_text.db	PhotoMemory_10405_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"The devout gaze upon the crowned maiden, waiting as divine blessing and disaster descend from the heavens in unison."
+lang_multi_text.db	PhotoMemory_10405_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> From here, witness the twilight of faith.\nObtainable after proceeding with Side Quest "Avinoleum Footsteps."
+lang_multi_text.db	PhotoMemory_10405_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Acropolis Documentarian V
+lang_multi_text.db	PhotoMemory_10406_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"As the shooting stars return to the high heavens, the lost shall finally find redemption."
+lang_multi_text.db	PhotoMemory_10406_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> From here, release the lost souls.\nObtainable after proceeding with Exploration Quest "Should the Shooting Stars Blaze."
+lang_multi_text.db	PhotoMemory_10406_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Acropolis Documentarian VI
+lang_multi_text.db	PhotoMemory_104_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Avinoleum
+lang_multi_text.db	PhotoMemory_10501_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"At dawn's uncertain light, I await your attention."
+lang_multi_text.db	PhotoMemory_10501_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> "Allow me to formally introduce myself. I am Jinhsi. It brings me great joy to see you, Rover."
+lang_multi_text.db	PhotoMemory_10501_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Memory Travelogue I
+lang_multi_text.db	PhotoMemory_10502_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"As winter ends, spring is born anew. I cast this chess piece in a graceful smile."
+lang_multi_text.db	PhotoMemory_10502_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> "I see. Perhaps this is why... It's so hard to leave this beautiful world behind."
+lang_multi_text.db	PhotoMemory_10502_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Memory Travelogue II
+lang_multi_text.db	PhotoMemory_10503_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"The shores of meeting, knowing, and longing."
+lang_multi_text.db	PhotoMemory_10503_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> "I am pleased to see you back on these shores."\n \n<color=#ffd12f>[Prerequisite Quest]</color> Complete Main Quest: Chapter I Act VIII "To the Shore's End" to unlock.
+lang_multi_text.db	PhotoMemory_10503_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Memory Travelogue III
+lang_multi_text.db	PhotoMemory_10504_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"The sunrise we watched together. Such warmth."
+lang_multi_text.db	PhotoMemory_10504_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> "Flowers thirst for light and water. It's their instinct."\n \n<color=#ffd12f>[Prerequisite Quest]</color> Complete Main Quest: Chapter I Act VIII "To the Shore's End" to unlock.
+lang_multi_text.db	PhotoMemory_10504_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Memory Travelogue IV
+lang_multi_text.db	PhotoMemory_10505_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"She invites the Laureate on stage."
+lang_multi_text.db	PhotoMemory_10505_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> "So, umm... why don't you join the Troupe of Fools?"\n \n<color=#ffd12f>[Prerequisite Quest]</color> Complete Main Quest Chapter II Act III "What Yesterday Wept, Today Doth Sing" to unlock.
+lang_multi_text.db	PhotoMemory_10505_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Memory Travelogue V
+lang_multi_text.db	PhotoMemory_10506_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"The ticket to adventure: half a coin and a splash of improv."
+lang_multi_text.db	PhotoMemory_10506_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> "That depends on when the next adventure calls! You know that I'll be ready to join you, just say the word."\n \n<color=#ffd12f>[Prerequisite Quest]</color> Complete Main Quest Chapter II Act III "What Yesterday Wept, Today Doth Sing" to unlock.
+lang_multi_text.db	PhotoMemory_10506_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Memory Travelogue VI
+lang_multi_text.db	PhotoMemory_10507_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Because of you, Ragunna's rainy nights have new meaning."
+lang_multi_text.db	PhotoMemory_10507_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> "But I'll keep this codename for you, Cat's Eye—the first and only member to receive my personal invitation."\n \n<color=#ffd12f>[Prerequisite Quest]</color> Complete Main Quest Chapter II Act III "What Yesterday Wept, Today Doth Sing" to unlock.
+lang_multi_text.db	PhotoMemory_10507_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Memory Travelogue VII
+lang_multi_text.db	PhotoMemory_10508_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"You are the light she sought, shining into the cold mansion."
+lang_multi_text.db	PhotoMemory_10508_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> "I, Cantarella Fisalia, hereby offer you the family's entire legacy—every elixir and every hidden secret."\n \n<color=#ffd12f>[Prerequisite Quest]</color> Complete Main Quest Chapter II Act IV "The Maiden, The Defier, The Death Crier" to unlock.
+lang_multi_text.db	PhotoMemory_10508_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Memory Travelogue VIII
+lang_multi_text.db	PhotoMemory_10509_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"The Carnival comes to an end, the maiden dances alone on the twilight water."
+lang_multi_text.db	PhotoMemory_10509_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> "Farewell, Laureate!"\n \n<color=#ffd12f>[Prerequisite Quest]</color> Complete Main Quest Chapter II Act III "What Yesterday Wept, Today Doth Sing" to unlock.
+lang_multi_text.db	PhotoMemory_10509_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Memory Travelogue IX
+lang_multi_text.db	PhotoMemory_10510_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"A tiny adventure stashed in the Vault."
+lang_multi_text.db	PhotoMemory_10510_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> "Striking with an appropriate level of force clears the mind, enhancing one's purification."\n \n<color=#ffd12f>[Prerequisite Quest]</color> Complete Exploration Quest "Silent As a Falling Leaf" to unlock.
+lang_multi_text.db	PhotoMemory_10510_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Memory Travelogue X
+lang_multi_text.db	PhotoMemory_10511_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Pause and thank the protector of everyday life before clocking in."
+lang_multi_text.db	PhotoMemory_10511_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> "To you, guests from afar..."\n<color=#ffd12f>[Prerequisite Quest]</color> Complete Main Quest Chapter II Act III "What Yesterday Wept, Today Doth Sing" to unlock.
+lang_multi_text.db	PhotoMemory_10511_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Memory Travelogue XI
+lang_multi_text.db	PhotoMemory_10512_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Even in shadows untouched by moonlight, fangs and claws remain vigilant."
+lang_multi_text.db	PhotoMemory_10512_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> "You should go now. Until next time."
+lang_multi_text.db	PhotoMemory_10512_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Memory Travelogue XII
+lang_multi_text.db	PhotoMemory_10513_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"This is the memory we created together."
+lang_multi_text.db	PhotoMemory_10513_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> "The story goes on. The best is yet to come."\n<color=#ffd12f>[Prerequisite Quest]</color> Complete "Abbowser Quest" in Event Quest "Cube, Cubic n Cubie" to unlock.
+lang_multi_text.db	PhotoMemory_10513_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Memory Travelogue XIII
+lang_multi_text.db	PhotoMemory_105_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Memory Travelogue
+lang_multi_text.db	PhotoMemory_10601_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Our turbulent voyage has come to an end. At last, solid ground lies before us. Here begins the journey to forge a new home."
+lang_multi_text.db	PhotoMemory_10601_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> Obtainable after starting Side Quest "Uncovering Past Heroes."\nThe face of Septimont is bold and unyielding.
+lang_multi_text.db	PhotoMemory_10601_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Uncovering Past Heroes I
+lang_multi_text.db	PhotoMemory_10602_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Upon reaching this place, every companion marvels at the towering peaks, rising one after another, as if to cleave the sky. Perhaps they will stand as our shield against the coming threat."
+lang_multi_text.db	PhotoMemory_10602_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> Obtainable after starting Side Quest "Uncovering Past Heroes."\nThe pillar of Septimont stands steadfast and towering.
+lang_multi_text.db	PhotoMemory_10602_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Uncovering Past Heroes II
+lang_multi_text.db	PhotoMemory_10603_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"The drowned canyon, worn by tides and veiled in sea mist, reveal sights no eye has ever seen."
+lang_multi_text.db	PhotoMemory_10603_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> Obtainable after starting Side Quest "Uncovering Past Heroes."\nThe scar of Septimont lies bleak and desolate.
+lang_multi_text.db	PhotoMemory_10603_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Uncovering Past Heroes III
+lang_multi_text.db	PhotoMemory_10604_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"The people of Septimont shall never forget the deeds of their heroes. Here stands the great statue of the Hero of Heroes, his gaze a lasting beacon that drives us ever forward."
+lang_multi_text.db	PhotoMemory_10604_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> Obtainable after starting Side Quest "Uncovering Past Heroes."\nThe legacy of Septimont rises skyward and mighty.
+lang_multi_text.db	PhotoMemory_10604_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Uncovering Past Heroes IV
+lang_multi_text.db	PhotoMemory_10605_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Grassy foothills stretch wide beneath the radiant sun. In that moment, all knew the answer in their hearts—this is the place. This is our home."
+lang_multi_text.db	PhotoMemory_10605_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> Obtainable after starting Side Quest "Uncovering Past Heroes."\nThe spirit of Septimont flows grand and resounding.
+lang_multi_text.db	PhotoMemory_10605_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Uncovering Past Heroes V
+lang_multi_text.db	PhotoMemory_10606_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"The newly completed Colosseum shall make gladiatorial combat a passion shared by all, a stand against the threats destined to come, and a tribute to the enduring glory of Septimont."
+lang_multi_text.db	PhotoMemory_10606_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> Obtainable after starting Side Quest "Uncovering Past Heroes."\nThe glory of Septimont shines radiant and eternal.
+lang_multi_text.db	PhotoMemory_10606_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Uncovering Past Heroes VI
+lang_multi_text.db	PhotoMemory_106_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Septimont
+lang_multi_text.db	PhotoMemory_10701_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Dissolve here, and return to the other side of life, the other side of time."
+lang_multi_text.db	PhotoMemory_10701_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> Obtainable after proceeding with Side Quest "Deep Sea Survey."\nLife may fade, dissolving into formless waves.
+lang_multi_text.db	PhotoMemory_10701_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Deep Sea Survey I
+lang_multi_text.db	PhotoMemory_10702_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"In a night known to no one, the cries of the newborns lull Ragunna into a dream."
+lang_multi_text.db	PhotoMemory_10702_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> Obtainable after proceeding with Side Quest "Deep Sea Survey."\nLife may be created, rebuilding the arms of obedience.
+lang_multi_text.db	PhotoMemory_10702_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Deep Sea Survey II
+lang_multi_text.db	PhotoMemory_10703_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"The streams blur distant memories, allowing all frequencies to lose their history and names and fall back into slumber in this place."
+lang_multi_text.db	PhotoMemory_10703_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> Obtainable after proceeding with Side Quest "Deep Sea Survey."\nLife may be pooled, converging into a source of rebirth.
+lang_multi_text.db	PhotoMemory_10703_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Deep Sea Survey III
+lang_multi_text.db	PhotoMemory_10704_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Withered, stiff, and empty forms are laid upon my cold chest, their chaotic, repetitive, and silent deaths mocking my still boiling obsession."
+lang_multi_text.db	PhotoMemory_10704_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> Obtainable after proceeding with Side Quest "Deep Sea Survey."\nLife may be eternal, preserving the warmth of the past.
+lang_multi_text.db	PhotoMemory_10704_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Deep Sea Survey IV
+lang_multi_text.db	PhotoMemory_10705_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"A monument of man, in holy hymns, allows the soul to escape the decay."
+lang_multi_text.db	PhotoMemory_10705_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> Obtainable after proceeding with Side Quest "Deep Sea Survey."\nLife may be pure, orchestrating the symphony of courage.
+lang_multi_text.db	PhotoMemory_10705_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Deep Sea Survey V
+lang_multi_text.db	PhotoMemory_10706_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Drowned in the deep sea, never to return."
+lang_multi_text.db	PhotoMemory_10706_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> Obtainable after proceeding with Side Quest "Deep Sea Survey."\nLife may be mocked, becoming the cost of lies.
+lang_multi_text.db	PhotoMemory_10706_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Deep Sea Survey VI
+lang_multi_text.db	PhotoMemory_107_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Fabricatorium of the Deep
+lang_multi_text.db	PhotoMemory_10801_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Here lies the end of glory and the beginning of remembrance. The calamity has ended. Now, let the battle-worn warriors embrace their long-awaited rest."
+lang_multi_text.db	PhotoMemory_10801_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> Obtainable after proceeding with Side Quest "Prints of Plateaus."\nGlory rests among blooming flowers, echoing memories of shared battles.
+lang_multi_text.db	PhotoMemory_10801_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Prints of Plateaus I
+lang_multi_text.db	PhotoMemory_10802_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Today's respite is a necessary stop for tomorrow's triumph. Once the revelry fades, roars and warhorns shall shatter the sky."
+lang_multi_text.db	PhotoMemory_10802_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> Obtainable after proceeding with Side Quest "Prints of Plateaus."\nGlory resounds through lively camps, where fervent hearts once confided to each other.
+lang_multi_text.db	PhotoMemory_10802_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Prints of Plateaus II
+lang_multi_text.db	PhotoMemory_10803_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Generation after generation, Gladiators step forth in honor, never to return."
+lang_multi_text.db	PhotoMemory_10803_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> Obtainable after proceeding with Side Quest "Prints of Plateaus."\nGlory is forged into colossuses, rekindling long-lost resolve.
+lang_multi_text.db	PhotoMemory_10803_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Prints of Plateaus III
+lang_multi_text.db	PhotoMemory_10804_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"In the blink of an eye, hunter becomes prey. Only those who carry fear may elude death's reach."
+lang_multi_text.db	PhotoMemory_10804_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> Obtainable after proceeding with Side Quest "Prints of Plateaus."\nGlory runs through crimson woods, where the taint of filth is stopped.
+lang_multi_text.db	PhotoMemory_10804_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Prints of Plateaus IV
+lang_multi_text.db	PhotoMemory_10805_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"The cheers of yesterday have decayed into haunting whispers, inviting the living to join this journeying tragedy."
+lang_multi_text.db	PhotoMemory_10805_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> Obtainable after proceeding with Side Quest "Prints of Plateaus."\nGlory is clouded by whispered illusions that sound like endless elegies.
+lang_multi_text.db	PhotoMemory_10805_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Prints of Plateaus V
+lang_multi_text.db	PhotoMemory_10806_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Majestic peaks stand unchanged throughout the test of time, watching over the children of Septimont, awaiting the dawn of glory and triumph."
+lang_multi_text.db	PhotoMemory_10806_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> Obtainable after proceeding with Side Quest "Prints of Plateaus."\nGlory crowns the mountain peaks, bearing witness to warriors' flame.
+lang_multi_text.db	PhotoMemory_10806_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Prints of Plateaus VI
+lang_multi_text.db	PhotoMemory_108_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Sanguis Plateaus
+lang_multi_text.db	PhotoMemory_10901_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Deserted streets, hushed engines, empty crossroads. In the quiet city, amid the reflections of passing clouds on the water, only cherry blossoms still bloom."
+lang_multi_text.db	PhotoMemory_10901_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> Obtainable after proceeding with Side Quest "Whispers of the Waves."\nLet the whispers echo, evoking memories of the falling blossoms.
+lang_multi_text.db	PhotoMemory_10901_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Whispers of the Waves I
+lang_multi_text.db	PhotoMemory_10902_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Here stands the largest Namipon statuary in Honami City. For local residents, hosting so many Namipons is a greater source of pride than being the city's economic center."
+lang_multi_text.db	PhotoMemory_10902_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> Obtainable after proceeding with Side Quest "Whispers of the Waves."\nLet the whispers echo, granting solace to the weary heart.
+lang_multi_text.db	PhotoMemory_10902_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Whispers of the Waves II
+lang_multi_text.db	PhotoMemory_10903_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"In the lonely garden, flowers and rainbows paint the shifting images of light. For a moment, it feels as if nothing ever left."
+lang_multi_text.db	PhotoMemory_10903_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> Obtainable after proceeding with Side Quest "Whispers of the Waves."\nLet the whispers echo, telling stories of light and shadow.
+lang_multi_text.db	PhotoMemory_10903_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Whispers of the Waves III
+lang_multi_text.db	PhotoMemory_10904_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Write memories on paper notes and wait for tomorrow to come. Prayers, caught in the sound of a thousand chimes, are blowing in the wind."
+lang_multi_text.db	PhotoMemory_10904_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> Obtainable after proceeding with Side Quest "Whispers of the Waves."\nLet the whispers echo, sending wishes through the breeze.
+lang_multi_text.db	PhotoMemory_10904_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Whispers of the Waves IV
+lang_multi_text.db	PhotoMemory_10905_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Summer hides its secrets under the blooms. The clouds hang low, and a faint clap of thunder echoes from the horizon."
+lang_multi_text.db	PhotoMemory_10905_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> Obtainable after proceeding with Side Quest "Whispers of the Waves."\nLet the whispers echo, drifting through the endless summer.
+lang_multi_text.db	PhotoMemory_10905_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Whispers of the Waves V
+lang_multi_text.db	PhotoMemory_10906_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"It's time to go home. The crowd dispersed, forgetting the slide, the swings, and the goldfish rockers. 'Everything will begin anew,' says the one who waits. 'Nothing will ever return,' says the one who waits."
+lang_multi_text.db	PhotoMemory_10906_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>[Clue]</color> Obtainable after proceeding with Side Quest "Whispers of the Waves."\nLet the whispers echo, hiding the forgotten past.
+lang_multi_text.db	PhotoMemory_10906_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Whispers of the Waves VI
+lang_multi_text.db	PhotoMemory_109_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Honami City
+lang_multi_text.db	PhotoMemory_11001_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"The Exostrider once clashed with the Threnodian here, leaving behind this colossal blade that still holds up Lahai-Roi's sky… And, well, it's really big."
+lang_multi_text.db	PhotoMemory_11001_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>Time, frozen in the ancient ruins.</color>\nObtainable after starting Side Quest "Capturing Starlight."
+lang_multi_text.db	PhotoMemory_11001_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Capturing Starlight I
+lang_multi_text.db	PhotoMemory_11002_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"The tranquility of Bjartr Woods can soothe all manner of academic stress. The Roya's local cuisine does an even better job."
+lang_multi_text.db	PhotoMemory_11002_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>Sunlight, frozen in the ever-shifting glow.</color>\nObtainable after starting Side Quest "Capturing Starlight."
+lang_multi_text.db	PhotoMemory_11002_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Capturing Starlight II
+lang_multi_text.db	PhotoMemory_11003_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"—Water flows like time itself. —So your paper isn't meeting the deadline, is it?"
+lang_multi_text.db	PhotoMemory_11003_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>Running water, frozen in the rainbow shimmering through its veil.</color>\nObtainable after starting Side Quest "Capturing Starlight."
+lang_multi_text.db	PhotoMemory_11003_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Capturing Starlight III
+lang_multi_text.db	PhotoMemory_11004_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"The celestial paths painted by the Roya centuries ago align almost perfectly with the latest data from the Spacetrek Collective's most advanced instruments."
+lang_multi_text.db	PhotoMemory_11004_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>History, frozen in etched trajectories.</color>\nObtainable after starting Side Quest "Capturing Starlight."
+lang_multi_text.db	PhotoMemory_11004_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Capturing Starlight IV
+lang_multi_text.db	PhotoMemory_11005_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"New uniform! New dorm! Can't wait to see what campus life has in store for me."
+lang_multi_text.db	PhotoMemory_11005_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>Youth, frozen in blazing expectations.</color>\nObtainable after starting Side Quest "Capturing Starlight."
+lang_multi_text.db	PhotoMemory_11005_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Capturing Starlight V
+lang_multi_text.db	PhotoMemory_11006_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Due to the lingering environmental impact of the Voidworms, their active zones are strictly off-limits to students."
+lang_multi_text.db	PhotoMemory_11006_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>Disaster, frozen in the fear that has yet to die.</color>\nObtainable after starting Side Quest "Capturing Starlight."
+lang_multi_text.db	PhotoMemory_11006_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Capturing Starlight VI
+lang_multi_text.db	PhotoMemory_11007_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Expedition Motorbike Racing starts soon! Best seats are first-come, first-served!"
+lang_multi_text.db	PhotoMemory_11007_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>Passion, frozen in the thunder of engines.</color>\nObtainable after starting Side Quest "Capturing Starlight."
+lang_multi_text.db	PhotoMemory_11007_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Capturing Starlight VII
+lang_multi_text.db	PhotoMemory_11008_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Your task is not to predict the future, but to build it."
+lang_multi_text.db	PhotoMemory_11008_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>Aspiration, frozen in every step that reaches upward.</color>\nObtainable after starting Side Quest "Capturing Starlight."
+lang_multi_text.db	PhotoMemory_11008_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Capturing Starlight VIII
+lang_multi_text.db	PhotoMemory_11009_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Dear students, may your days in Lahai-Roi be filled with innovation, truth, and joy."
+lang_multi_text.db	PhotoMemory_11009_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>Tomorrow, frozen in the gaze set toward the horizon.</color>\nObtainable after starting Side Quest "Capturing Starlight."
+lang_multi_text.db	PhotoMemory_11009_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Capturing Starlight IX
+lang_multi_text.db	PhotoMemory_110_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Lahai-Roi
+lang_multi_text.db	PhotoMemory_11101_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"From the steel once embraced by the earth, we shall forge the first step towards the sky. One day, we will carry the greetings to the stars from down below."
+lang_multi_text.db	PhotoMemory_11101_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>Here, the sword points at the space.</color>\nProgress Side Quest "Footprints on Frostlands" to obtain.
+lang_multi_text.db	PhotoMemory_11101_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Footprints on Frostlands Ⅰ
+lang_multi_text.db	PhotoMemory_11102_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Countless rivers of information converge at this nexus to be assessed and redistributed. It was the first thought in humanity's blueprint for deep space, and it will become the beating heart that brings the blueprint to life."
+lang_multi_text.db	PhotoMemory_11102_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>Here, the flows of information converge.</color>\nProgress Side Quest "Footprints on Frostlands" to obtain.
+lang_multi_text.db	PhotoMemory_11102_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Footprints on Frostlands Ⅱ
+lang_multi_text.db	PhotoMemory_11103_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"The forest is immersed in a long dream of evolution."
+lang_multi_text.db	PhotoMemory_11103_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>Here, the dream is frozen in time.</color>\nProgress Side Quest "Footprints on Frostlands" to obtain.
+lang_multi_text.db	PhotoMemory_11103_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Footprints on Frostlands Ⅲ
+lang_multi_text.db	PhotoMemory_11104_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Warm firelight, the still waters of the timeless deep, and every fragment of memory that we once called home."
+lang_multi_text.db	PhotoMemory_11104_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>Here, the thawing snow rests.</color>\nProgress Side Quest "Footprints on Frostlands" to obtain.
+lang_multi_text.db	PhotoMemory_11104_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Footprints on Frostlands Ⅳ
+lang_multi_text.db	PhotoMemory_11105_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Hammered by the weight of ages, the unyielding ice and snow were forged into a boundless plain. Humanity would later name it the Frostlands."
+lang_multi_text.db	PhotoMemory_11105_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>Here, the ice seals the bygone days.</color>\nProgress Side Quest "Footprints on Frostlands" to obtain.
+lang_multi_text.db	PhotoMemory_11105_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Footprints on Frostlands Ⅴ
+lang_multi_text.db	PhotoMemory_11106_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Torch bearers, welcome to the origin of truth."
+lang_multi_text.db	PhotoMemory_11106_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>Here, the torch lights up the pole.</color>\nProgress Side Quest "Footprints on Frostlands" to obtain.
+lang_multi_text.db	PhotoMemory_11106_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Footprints on Frostlands Ⅵ
+lang_multi_text.db	PhotoMemory_111_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Roya Frostlands
+lang_multi_text.db	PhotoMemory_11201_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"A thousand wishes knot themselves into the roots of a great tree."
+lang_multi_text.db	PhotoMemory_11201_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>Where all Soliskin are guided</color>\nObtainable after proceeding with Side Quest "Graduation Trip."
+lang_multi_text.db	PhotoMemory_11201_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Dimmr Travelogue I
+lang_multi_text.db	PhotoMemory_11202_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Beneath the snow, the sleeping Sakura keeps silent watch over a land still pure."
+lang_multi_text.db	PhotoMemory_11202_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>Where all lies quiet under snow</color>\nObtainable after proceeding with Side Quest "Graduation Trip."
+lang_multi_text.db	PhotoMemory_11202_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Dimmr Travelogue II
+lang_multi_text.db	PhotoMemory_11203_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Dreams unrealized are buried where the wandering comes to an end."
+lang_multi_text.db	PhotoMemory_11203_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>Where the past was sealed away</color>\nObtainable after proceeding with Side Quest "Graduation Trip."
+lang_multi_text.db	PhotoMemory_11203_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Dimmr Travelogue III
+lang_multi_text.db	PhotoMemory_11204_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Slip free of that embrace, and sleep no longer in the Void's cradle."
+lang_multi_text.db	PhotoMemory_11204_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>Where dreams turn strange and grotesque</color>\nObtainable after proceeding with Side Quest "Graduation Trip."
+lang_multi_text.db	PhotoMemory_11204_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Dimmr Travelogue IV
+lang_multi_text.db	PhotoMemory_11205_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			"The futures manifest, cleaving open the limits of tomorrow."
+lang_multi_text.db	PhotoMemory_11205_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>Where the foreclaiming decision was made</color>\nObtainable after proceeding with Side Quest "Graduation Trip."
+lang_multi_text.db	PhotoMemory_11205_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Dimmr Travelogue V
+lang_multi_text.db	PhotoMemory_11206_Desc	3.4	Hội thoại/Cốt truyện	Chức năng khác			Its heart beats because of Lahai-Roi, and for Lahai-Roi.
+lang_multi_text.db	PhotoMemory_11206_Tips	3.4	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>Where the Exostrider stands guard</color>\nObtainable after proceeding with Side Quest "Graduation Trip."
+lang_multi_text.db	PhotoMemory_11206_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Dimmr Travelogue VI
+lang_multi_text.db	PhotoMemory_112_Title	3.4	Hội thoại/Cốt truyện	Chức năng khác			Dimmr Plains
+lang_multi_text.db	PhotoMontage_110201_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: I
+lang_multi_text.db	PhotoMontage_110202_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: II
+lang_multi_text.db	PhotoMontage_110203_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: III
+lang_multi_text.db	PhotoMontage_110301_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: I
+lang_multi_text.db	PhotoMontage_110302_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: II
+lang_multi_text.db	PhotoMontage_110303_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: III
+lang_multi_text.db	PhotoMontage_110401_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: I
+lang_multi_text.db	PhotoMontage_110402_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: II
+lang_multi_text.db	PhotoMontage_110403_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: III
+lang_multi_text.db	PhotoMontage_110501_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: I
+lang_multi_text.db	PhotoMontage_110502_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: II
+lang_multi_text.db	PhotoMontage_110503_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: III
+lang_multi_text.db	PhotoMontage_110601_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: I
+lang_multi_text.db	PhotoMontage_110602_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: II
+lang_multi_text.db	PhotoMontage_110603_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: III
+lang_multi_text.db	PhotoMontage_110701_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: I
+lang_multi_text.db	PhotoMontage_110702_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: II
+lang_multi_text.db	PhotoMontage_110703_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: III
+lang_multi_text.db	PhotoMontage_120201_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: I
+lang_multi_text.db	PhotoMontage_120202_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: II
+lang_multi_text.db	PhotoMontage_120203_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: III
+lang_multi_text.db	PhotoMontage_120301_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: I
+lang_multi_text.db	PhotoMontage_120302_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: II
+lang_multi_text.db	PhotoMontage_120303_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: III
+lang_multi_text.db	PhotoMontage_120401_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: I
+lang_multi_text.db	PhotoMontage_120402_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: II
+lang_multi_text.db	PhotoMontage_120403_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: III
+lang_multi_text.db	PhotoMontage_120501_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: I
+lang_multi_text.db	PhotoMontage_120502_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: II
+lang_multi_text.db	PhotoMontage_120503_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: III
+lang_multi_text.db	PhotoMontage_120601_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: I
+lang_multi_text.db	PhotoMontage_120602_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: II
+lang_multi_text.db	PhotoMontage_120603_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: III
+lang_multi_text.db	PhotoMontage_130101_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: I
+lang_multi_text.db	PhotoMontage_130102_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: II
+lang_multi_text.db	PhotoMontage_130103_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: III
+lang_multi_text.db	PhotoMontage_130201_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: I
+lang_multi_text.db	PhotoMontage_130202_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: II
+lang_multi_text.db	PhotoMontage_130203_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: III
+lang_multi_text.db	PhotoMontage_130301_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: I
+lang_multi_text.db	PhotoMontage_130302_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: II
+lang_multi_text.db	PhotoMontage_130303_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: III
+lang_multi_text.db	PhotoMontage_130401_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: I
+lang_multi_text.db	PhotoMontage_130402_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: II
+lang_multi_text.db	PhotoMontage_130403_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: III
+lang_multi_text.db	PhotoMontage_130501_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: I
+lang_multi_text.db	PhotoMontage_130502_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: II
+lang_multi_text.db	PhotoMontage_130503_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: III
+lang_multi_text.db	PhotoMontage_140201_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: I
+lang_multi_text.db	PhotoMontage_140202_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: II
+lang_multi_text.db	PhotoMontage_140203_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: III
+lang_multi_text.db	PhotoMontage_140301_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: I
+lang_multi_text.db	PhotoMontage_140302_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: II
+lang_multi_text.db	PhotoMontage_140303_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: III
+lang_multi_text.db	PhotoMontage_140401_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: I
+lang_multi_text.db	PhotoMontage_140402_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: II
+lang_multi_text.db	PhotoMontage_140403_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: III
+lang_multi_text.db	PhotoMontage_140501_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: I
+lang_multi_text.db	PhotoMontage_140502_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: II
+lang_multi_text.db	PhotoMontage_140503_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: III
+lang_multi_text.db	PhotoMontage_140601_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: I
+lang_multi_text.db	PhotoMontage_140602_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: II
+lang_multi_text.db	PhotoMontage_140603_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: III
+lang_multi_text.db	PhotoMontage_140604_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Default: Akimbo
+lang_multi_text.db	PhotoMontage_140701_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: I
+lang_multi_text.db	PhotoMontage_140702_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: II
+lang_multi_text.db	PhotoMontage_140703_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: III
+lang_multi_text.db	PhotoMontage_140801_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: I
+lang_multi_text.db	PhotoMontage_140802_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: II
+lang_multi_text.db	PhotoMontage_140803_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: III
+lang_multi_text.db	PhotoMontage_140804_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Default: Akimbo
+lang_multi_text.db	PhotoMontage_150101_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: I
+lang_multi_text.db	PhotoMontage_150102_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: II
+lang_multi_text.db	PhotoMontage_150103_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: III
+lang_multi_text.db	PhotoMontage_150104_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Default: Akimbo
+lang_multi_text.db	PhotoMontage_150201_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: I
+lang_multi_text.db	PhotoMontage_150202_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: II
+lang_multi_text.db	PhotoMontage_150203_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: III
+lang_multi_text.db	PhotoMontage_150204_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Default: Akimbo
+lang_multi_text.db	PhotoMontage_150301_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: I
+lang_multi_text.db	PhotoMontage_150302_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: II
+lang_multi_text.db	PhotoMontage_150303_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: III
+lang_multi_text.db	PhotoMontage_150401_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: I
+lang_multi_text.db	PhotoMontage_150402_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: II
+lang_multi_text.db	PhotoMontage_150403_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: III
+lang_multi_text.db	PhotoMontage_150501_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: I
+lang_multi_text.db	PhotoMontage_150502_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: II
+lang_multi_text.db	PhotoMontage_150503_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: III
+lang_multi_text.db	PhotoMontage_150601_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: I
+lang_multi_text.db	PhotoMontage_150602_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: II
+lang_multi_text.db	PhotoMontage_150603_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: III
+lang_multi_text.db	PhotoMontage_150701_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: I
+lang_multi_text.db	PhotoMontage_150702_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: II
+lang_multi_text.db	PhotoMontage_150703_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: III
+lang_multi_text.db	PhotoMontage_160101_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: I
+lang_multi_text.db	PhotoMontage_160102_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: II
+lang_multi_text.db	PhotoMontage_160103_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: III
+lang_multi_text.db	PhotoMontage_160201_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: I
+lang_multi_text.db	PhotoMontage_160202_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: II
+lang_multi_text.db	PhotoMontage_160203_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: III
+lang_multi_text.db	PhotoMontage_160301_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: I
+lang_multi_text.db	PhotoMontage_160302_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: II
+lang_multi_text.db	PhotoMontage_160303_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: III
+lang_multi_text.db	PhotoMontage_160402_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: II
+lang_multi_text.db	PhotoMontage_160403_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: III
+lang_multi_text.db	PhotoMontage_160404_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Default: Akimbo
+lang_multi_text.db	PhotoMontage_160502_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: II
+lang_multi_text.db	PhotoMontage_160503_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: III
+lang_multi_text.db	PhotoMontage_160504_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Default: Akimbo
+lang_multi_text.db	PhotoMontage_160601_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: I
+lang_multi_text.db	PhotoMontage_160602_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: II
+lang_multi_text.db	PhotoMontage_160603_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: III
+lang_multi_text.db	PhotoMontage_160701_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: I
+lang_multi_text.db	PhotoMontage_160702_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: II
+lang_multi_text.db	PhotoMontage_160703_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: III
+lang_multi_text.db	PhotoMontage_Stand1_Action01_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: I
+lang_multi_text.db	PhotoMontage_Stand1_Action02_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: II
+lang_multi_text.db	PhotoMontage_Stand1_Action03_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Idle Animation: III
+lang_multi_text.db	PhotoSetup_1_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Character Model
+lang_multi_text.db	PhotoSetup_1_Options_0	3.4	Hội thoại/Cốt truyện	Chức năng khác			Hide
+lang_multi_text.db	PhotoSetup_1_Options_1	3.4	Hội thoại/Cốt truyện	Chức năng khác			Display
+lang_multi_text.db	PhotoSetup_2_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Player Name and UID
+lang_multi_text.db	PhotoSetup_2_Options_0	3.4	Hội thoại/Cốt truyện	Chức năng khác			Hide
+lang_multi_text.db	PhotoSetup_2_Options_1	3.4	Hội thoại/Cốt truyện	Chức năng khác			Display
+lang_multi_text.db	PhotoSetup_3_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Face the Camera
+lang_multi_text.db	PhotoSetup_3_Options_0	3.4	Hội thoại/Cốt truyện	Chức năng khác			Off
+lang_multi_text.db	PhotoSetup_3_Options_1	3.4	Hội thoại/Cốt truyện	Chức năng khác			On
+lang_multi_text.db	PhotoSetup_4_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			DOF (Depth of Field)
+lang_multi_text.db	PhotoSetup_4_Options_0	3.4	Hội thoại/Cốt truyện	Chức năng khác			Off
+lang_multi_text.db	PhotoSetup_4_Options_1	3.4	Hội thoại/Cốt truyện	Chức năng khác			On
+lang_multi_text.db	PhotoSetup_5_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Focal Distance
+lang_multi_text.db	PhotoSetup_6_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Depth Blur Radius
+lang_multi_text.db	PhotoSetup_7_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Rotate
+lang_multi_text.db	PhotoSetup_8_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Rotate
+lang_multi_text.db	PhotoSetup_9_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Image Quality
+lang_multi_text.db	PhotographHandBook_1001_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Embrace The Past With Steadfast Pace
+lang_multi_text.db	PhotographHandBook_1001_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Daybreak at Last
+lang_multi_text.db	PhotographHandBook_1002_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			A Clear Chime Cleanses The Evil
+lang_multi_text.db	PhotographHandBook_1002_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Wild Heart's Return
+lang_multi_text.db	PhotographHandBook_1003_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Curtains Up, Thunder Strikes
+lang_multi_text.db	PhotographHandBook_1003_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Solitary Path
+lang_multi_text.db	PhotographHandBook_1004_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Don't worry... This game is almost over.
+lang_multi_text.db	PhotographHandBook_1004_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Immortal Blaze
+lang_multi_text.db	PhotographHandBook_1005_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Story CG Description 1005
+lang_multi_text.db	PhotographHandBook_1005_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Story CG 1005
+lang_multi_text.db	PhotographHandBook_1006_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Story CG Description 1006
+lang_multi_text.db	PhotographHandBook_1006_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Story CG 1006
+lang_multi_text.db	PhotographHandBook_1007_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			The essence of art lies in the true colors.
+lang_multi_text.db	PhotographHandBook_1007_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			True Colors
+lang_multi_text.db	PhotographHandBook_1008_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			This is a very happy ending.
+lang_multi_text.db	PhotographHandBook_1008_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Small Wooly, Big Adventures
+lang_multi_text.db	PhotographHandBook_1009_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Her lost memories pour in, relentless as raindrops splashing into the ground.
+lang_multi_text.db	PhotographHandBook_1009_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Bloom in the Rain
+lang_multi_text.db	PhotographHandBook_100_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Together, you gaze at the crossroads that lead to the future.
+lang_multi_text.db	PhotographHandBook_100_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Flow of Frequencies
+lang_multi_text.db	PhotographHandBook_1010_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			The gun was always there. You earned the right to use it the moment you chose to act on your own accord.
+lang_multi_text.db	PhotographHandBook_1010_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			From the Glittering Depths
+lang_multi_text.db	PhotographHandBook_1011_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Then let's fall together... You and I."
+lang_multi_text.db	PhotographHandBook_1011_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			No Sleep in the Bitter Night
+lang_multi_text.db	PhotographHandBook_1012_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Starlight splashes across the entire troupe, illuminating the corners of her eyes.
+lang_multi_text.db	PhotographHandBook_1012_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Starry is the Night
+lang_multi_text.db	PhotographHandBook_1013_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			"With any luck, it'll be a catchy one for my next performance on stage."
+lang_multi_text.db	PhotographHandBook_1013_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Midnight Improv
+lang_multi_text.db	PhotographHandBook_1014_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			It feels like nothing happened, as though everything was just a fleeting night's dream. But you know it was real, for Cantarella stands right beside you.
+lang_multi_text.db	PhotographHandBook_1014_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			A Fleeting Night's Dream
+lang_multi_text.db	PhotographHandBook_1015_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			The darkest hour fades and hope quietly takes root in her heart.
+lang_multi_text.db	PhotographHandBook_1015_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			As Dawn Breaks
+lang_multi_text.db	PhotographHandBook_1016_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			A story born from violence often ends in violence.
+lang_multi_text.db	PhotographHandBook_1016_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			The Final Debt
+lang_multi_text.db	PhotographHandBook_101_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Journey well."
+lang_multi_text.db	PhotographHandBook_101_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Trail of Star
+lang_multi_text.db	PhotographHandBook_102_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Hop on!"
+lang_multi_text.db	PhotographHandBook_102_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			An Unexpected Opening
+lang_multi_text.db	PhotographHandBook_103_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			The flame lit beneath the frostlands still waits for your "return."
+lang_multi_text.db	PhotographHandBook_103_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			What Burns Beneath Frostlands
+lang_multi_text.db	PhotographHandBook_104_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			She steps out from the haze of her own memories.
+lang_multi_text.db	PhotographHandBook_104_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Mornye
+lang_multi_text.db	PhotographHandBook_105_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Who you choose to be, and what you're willing to lose."
+lang_multi_text.db	PhotographHandBook_105_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Mist
+lang_multi_text.db	PhotographHandBook_106_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			The shadows advance, yet behind her lies the one home she won't abandon.
+lang_multi_text.db	PhotographHandBook_106_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Her Resolve
+lang_multi_text.db	PhotographHandBook_107_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			From a cloudless sky, iridescent rain begins to fall.
+lang_multi_text.db	PhotographHandBook_107_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Let's Go Back Together"
+lang_multi_text.db	PhotographHandBook_108_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Whatever comes next, that's my life and mine alone!"
+lang_multi_text.db	PhotographHandBook_108_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			A New Tomorrow
+lang_multi_text.db	PhotographHandBook_109_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Ever since the Exostrider fell, the Soliskin have walked the lands of Lahai-Roi.
+lang_multi_text.db	PhotographHandBook_109_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Survivors
+lang_multi_text.db	PhotographHandBook_10_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			A Blessing To The Vanishing Stars
+lang_multi_text.db	PhotographHandBook_10_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Reverberation
+lang_multi_text.db	PhotographHandBook_110_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Maybe the stars are humanity's muse."
+lang_multi_text.db	PhotographHandBook_110_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			At Infinity's Edge
+lang_multi_text.db	PhotographHandBook_111_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Now, the Roya Tribe may traverse Lahai-Roi, unafraid of calamity.
+lang_multi_text.db	PhotographHandBook_111_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			The Line Drawn by the Divine
+lang_multi_text.db	PhotographHandBook_112_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			He has received the final authorization.
+lang_multi_text.db	PhotographHandBook_112_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Responsibility
+lang_multi_text.db	PhotographHandBook_113_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			The divinity will fall, and this time, Lahai-Roi's fate rests in human hands.
+lang_multi_text.db	PhotographHandBook_113_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			New Solar Ceremony
+lang_multi_text.db	PhotographHandBook_114_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Deep down, she still wishes she could spend more time with you.
+lang_multi_text.db	PhotographHandBook_114_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Half-Spoken Farewell
+lang_multi_text.db	PhotographHandBook_115_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			The light of the new sun pours over the land as if it had always been so. The ancient frostlands and the fleeting lives of humans alike bask in the same brilliance.
+lang_multi_text.db	PhotographHandBook_115_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Ode to the Second Sunrise
+lang_multi_text.db	PhotographHandBook_116_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			How does one fill this emptiness?
+lang_multi_text.db	PhotographHandBook_116_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Assault
+lang_multi_text.db	PhotographHandBook_117_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Shrouded by wind and snow, all that was once cherished fades into obscurity.
+lang_multi_text.db	PhotographHandBook_117_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Once Upon a Time in Ginnungamere
+lang_multi_text.db	PhotographHandBook_118_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			I won't allow anyone… to harm you.
+lang_multi_text.db	PhotographHandBook_118_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			The Source of Fear and Dread
+lang_multi_text.db	PhotographHandBook_119_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			If I can help, I will. I have to.
+lang_multi_text.db	PhotographHandBook_119_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			The Savior
+lang_multi_text.db	PhotographHandBook_11_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Fatal Encounter With The Sworn Foe
+lang_multi_text.db	PhotographHandBook_11_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			The Crownless
+lang_multi_text.db	PhotographHandBook_120_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			He now stands upon the edge between good and evil.
+lang_multi_text.db	PhotographHandBook_120_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			A Burning Heart
+lang_multi_text.db	PhotographHandBook_121_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			A little sweetness helps keep the numbness at bay.
+lang_multi_text.db	PhotographHandBook_121_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Together Through Wind and Snow
+lang_multi_text.db	PhotographHandBook_122_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Runes ablaze, and shadows erased.
+lang_multi_text.db	PhotographHandBook_122_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			True Name Illuminated
+lang_multi_text.db	PhotographHandBook_123_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			"These expectations were like gold. I don't dare be the one to drop them."
+lang_multi_text.db	PhotographHandBook_123_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			As Heavy as Gold
+lang_multi_text.db	PhotographHandBook_124_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Sound the azure echoes, and surrender to the night's quiet serenade.
+lang_multi_text.db	PhotographHandBook_124_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			The Azure Echoes
+lang_multi_text.db	PhotographHandBook_125_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			The lilt of laughter, ever enchanting, ever warm.
+lang_multi_text.db	PhotographHandBook_125_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Girls at the Celebration
+lang_multi_text.db	PhotographHandBook_126_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			The film concludes, and the actors shed their hollow skins, slipping once more into shadow.
+lang_multi_text.db	PhotographHandBook_126_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Shadows in Chase
+lang_multi_text.db	PhotographHandBook_127_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			She walks alone down a path with no end in sight.
+lang_multi_text.db	PhotographHandBook_127_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Fate
+lang_multi_text.db	PhotographHandBook_128_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			One step forward into the unknown.
+lang_multi_text.db	PhotographHandBook_128_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Forward
+lang_multi_text.db	PhotographHandBook_129_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			She cast aside that twisted future with her own hands.
+lang_multi_text.db	PhotographHandBook_129_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Resolve in the Snowstorm
+lang_multi_text.db	PhotographHandBook_12_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Hello! Our New Friend
+lang_multi_text.db	PhotographHandBook_12_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Roving Journey
+lang_multi_text.db	PhotographHandBook_130_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Bid her goodbye, and bid them farewell.
+lang_multi_text.db	PhotographHandBook_130_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Goodbye, Farewell
+lang_multi_text.db	PhotographHandBook_131_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			What beats within that cold shell is the heart "we" gave it.
+lang_multi_text.db	PhotographHandBook_131_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Human Heart
+lang_multi_text.db	PhotographHandBook_132_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			It has not been destroyed. Perhaps it never will. But it cannot stop all of you from moving forward.
+lang_multi_text.db	PhotographHandBook_132_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Exile
+lang_multi_text.db	PhotographHandBook_133_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			May the day come when you, too... step into spring as freely as anyone in this world.
+lang_multi_text.db	PhotographHandBook_133_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Parting
+lang_multi_text.db	PhotographHandBook_134_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			It was simply her heartfelt wish. From this day on, she would remain with them, never to be parted again.
+lang_multi_text.db	PhotographHandBook_134_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Happy Birthday"
+lang_multi_text.db	PhotographHandBook_135_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			She has so many secrets to hide. Her origin is just one of them.
+lang_multi_text.db	PhotographHandBook_135_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Strange Visitor
+lang_multi_text.db	PhotographHandBook_136_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			To this day, the promise made on that rooftop still stands.
+lang_multi_text.db	PhotographHandBook_136_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			The Same Choice
+lang_multi_text.db	PhotographHandBook_137_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Graffiti may fade, memories may be lost... but our friendship remains.
+lang_multi_text.db	PhotographHandBook_137_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Three Chooms
+lang_multi_text.db	PhotographHandBook_138_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			No matter how much it hurts... I never want to forget.
+lang_multi_text.db	PhotographHandBook_138_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			New Day, Old Pain
+lang_multi_text.db	PhotographHandBook_139_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Night City Survival 101: Keep your back to your allies and your iron on your foes.
+lang_multi_text.db	PhotographHandBook_139_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			By Your Side
+lang_multi_text.db	PhotographHandBook_13_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Cheers To The Soldiers
+lang_multi_text.db	PhotographHandBook_13_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Compelling Might
+lang_multi_text.db	PhotographHandBook_140_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			I thought about pulling the trigger, until I saw you again in that faint glow.
+lang_multi_text.db	PhotographHandBook_140_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Embraced My Moon
+lang_multi_text.db	PhotographHandBook_141_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Why don't we fear the dark? Because we know dawn will come.
+lang_multi_text.db	PhotographHandBook_141_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			So, Get Away
+lang_multi_text.db	PhotographHandBook_142_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			The answer I seek, the treasure I protect.
+lang_multi_text.db	PhotographHandBook_142_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Treasure
+lang_multi_text.db	PhotographHandBook_143_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			If the answer lies beyond death, then that‘s where we go!
+lang_multi_text.db	PhotographHandBook_143_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Resolution
+lang_multi_text.db	PhotographHandBook_144_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			See you later, Professor!
+lang_multi_text.db	PhotographHandBook_144_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			The Returning Shooting Star
+lang_multi_text.db	PhotographHandBook_145_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			My dream? My dream is simply to see all of yours come true.
+lang_multi_text.db	PhotographHandBook_145_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			A Professor's Dream
+lang_multi_text.db	PhotographHandBook_146_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Have a good dream, Professor. Better to be a dream of the stars.
+lang_multi_text.db	PhotographHandBook_146_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Have A Good Dream
+lang_multi_text.db	PhotographHandBook_14_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Self Introduction? Pick Your Favorite One.
+lang_multi_text.db	PhotographHandBook_14_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Sheep, Sheep
+lang_multi_text.db	PhotographHandBook_15_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			A Secret Between You & Me
+lang_multi_text.db	PhotographHandBook_15_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Encounter
+lang_multi_text.db	PhotographHandBook_16_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Silent & Sincere Is the Language of Plants
+lang_multi_text.db	PhotographHandBook_16_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Spring Echo
+lang_multi_text.db	PhotographHandBook_17_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Ooh, Here You Are
+lang_multi_text.db	PhotographHandBook_17_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Visitor from the Shores
+lang_multi_text.db	PhotographHandBook_18_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Cosmos, Cloudy, Encore Tagging Along!
+lang_multi_text.db	PhotographHandBook_18_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Encore
+lang_multi_text.db	PhotographHandBook_19_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Chant The Elegy
+lang_multi_text.db	PhotographHandBook_19_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Conductor
+lang_multi_text.db	PhotographHandBook_1_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			You defeated an enemy far beyond imagination, and the first sound of victory started this journey.
+lang_multi_text.db	PhotographHandBook_1_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Emerging Sharpness
+lang_multi_text.db	PhotographHandBook_20_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Hurry to the Nest Of Disasters
+lang_multi_text.db	PhotographHandBook_20_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			To The Top
+lang_multi_text.db	PhotographHandBook_21_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			The Ancient Shadow Sounds Battlecries Upon Jinzhou's Skies
+lang_multi_text.db	PhotographHandBook_21_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			The Blade to Destroy
+lang_multi_text.db	PhotographHandBook_22_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Stomach Full
+lang_multi_text.db	PhotographHandBook_22_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Little Thing"
+lang_multi_text.db	PhotographHandBook_23_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Story CG Description 23
+lang_multi_text.db	PhotographHandBook_23_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Story CG 23
+lang_multi_text.db	PhotographHandBook_24_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Story CG Description 24
+lang_multi_text.db	PhotographHandBook_24_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Story CG 24
+lang_multi_text.db	PhotographHandBook_25_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Story CG Description 25
+lang_multi_text.db	PhotographHandBook_25_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Story CG 25
+lang_multi_text.db	PhotographHandBook_26_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Story CG Description 26
+lang_multi_text.db	PhotographHandBook_26_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Story CG 26
+lang_multi_text.db	PhotographHandBook_27_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Story CG Description 27
+lang_multi_text.db	PhotographHandBook_27_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Story CG 27
+lang_multi_text.db	PhotographHandBook_28_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Story CG Description 28
+lang_multi_text.db	PhotographHandBook_28_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Story CG 28
+lang_multi_text.db	PhotographHandBook_29_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Story CG Description 29
+lang_multi_text.db	PhotographHandBook_29_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Story CG 29
+lang_multi_text.db	PhotographHandBook_2_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			The scattered Threnodian power has finally been collected. Outside of Jinzhou, someone else is also watching this, ready to push the movement to the climax...
+lang_multi_text.db	PhotographHandBook_2_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Variation of the Weird Sound
+lang_multi_text.db	PhotographHandBook_30_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Story CG Description 30
+lang_multi_text.db	PhotographHandBook_30_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Story CG 30
+lang_multi_text.db	PhotographHandBook_31_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Story CG Description 31
+lang_multi_text.db	PhotographHandBook_31_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Story CG 31
+lang_multi_text.db	PhotographHandBook_32_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Story CG Description 32
+lang_multi_text.db	PhotographHandBook_32_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Story CG 32
+lang_multi_text.db	PhotographHandBook_33_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Story CG Description 33
+lang_multi_text.db	PhotographHandBook_33_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Story CG 33
+lang_multi_text.db	PhotographHandBook_34_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Story CG Description 34
+lang_multi_text.db	PhotographHandBook_34_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Story CG 34
+lang_multi_text.db	PhotographHandBook_35_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Story CG Description 35
+lang_multi_text.db	PhotographHandBook_35_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Story CG 35
+lang_multi_text.db	PhotographHandBook_36_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Story CG Description 36
+lang_multi_text.db	PhotographHandBook_36_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Story CG 36
+lang_multi_text.db	PhotographHandBook_37_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Story CG Description 37
+lang_multi_text.db	PhotographHandBook_37_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Story CG 37
+lang_multi_text.db	PhotographHandBook_38_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Story CG Description 38
+lang_multi_text.db	PhotographHandBook_38_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Story CG 38
+lang_multi_text.db	PhotographHandBook_39_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Story CG Description 39
+lang_multi_text.db	PhotographHandBook_39_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Story CG 39
+lang_multi_text.db	PhotographHandBook_3_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			You met a girl named Jinhsi through the chaotic undercurrent. The rumored Dragon Lord, calm and gentle.
+lang_multi_text.db	PhotographHandBook_3_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			First Meet Jinhsi
+lang_multi_text.db	PhotographHandBook_40_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Story CG Description 40
+lang_multi_text.db	PhotographHandBook_40_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Story CG 40
+lang_multi_text.db	PhotographHandBook_41_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			No need to worry! With me here, everything will go smoothly!
+lang_multi_text.db	PhotographHandBook_41_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			New Ally
+lang_multi_text.db	PhotographHandBook_42_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Spring thunder heralds the world's awakening.
+lang_multi_text.db	PhotographHandBook_42_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Spring Thunder
+lang_multi_text.db	PhotographHandBook_43_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			What seekest thou before the divine?
+lang_multi_text.db	PhotographHandBook_43_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Meeting the Divine
+lang_multi_text.db	PhotographHandBook_44_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Clear the path and lead the way.
+lang_multi_text.db	PhotographHandBook_44_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Trail Blazer
+lang_multi_text.db	PhotographHandBook_45_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Up is down. The past is the future.
+lang_multi_text.db	PhotographHandBook_45_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Towards the Past
+lang_multi_text.db	PhotographHandBook_46_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Her eyes, submerged deep in starlight.
+lang_multi_text.db	PhotographHandBook_46_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Observer's Observer
+lang_multi_text.db	PhotographHandBook_47_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			My observation ends here.
+lang_multi_text.db	PhotographHandBook_47_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Stargazer's Dawn
+lang_multi_text.db	PhotographHandBook_48_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			At the end of stars, a world wanders.
+lang_multi_text.db	PhotographHandBook_48_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			End of Wandering
+lang_multi_text.db	PhotographHandBook_49_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			In the chilling moonlight, this gigantic beast sits motionless in the center of the lake. As you meet its fiery eyes, you realize—it's bidding patiently for a chance to drag you into an endless night...
+lang_multi_text.db	PhotographHandBook_49_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Beast in the Moonlight
+lang_multi_text.db	PhotographHandBook_4_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			In the crisis of the Dim Forest, a quirky warrior extended a helping hand and claimed to form a temporary team with you.
+lang_multi_text.db	PhotographHandBook_4_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Temporary Squad
+lang_multi_text.db	PhotographHandBook_50_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Perfet to an opening of an adventure story, is it not?
+lang_multi_text.db	PhotographHandBook_50_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Through Dark Clouds and Unpredictable Reefs
+lang_multi_text.db	PhotographHandBook_51_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			The family's protection extends to all who stand by us.
+lang_multi_text.db	PhotographHandBook_51_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			The Fading White Needs No Mourn
+lang_multi_text.db	PhotographHandBook_52_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Don't worry, she has a gentle touch. The "fireworks" won't hurt you.
+lang_multi_text.db	PhotographHandBook_52_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			As Though an Reflection in the Wise Eye
+lang_multi_text.db	PhotographHandBook_53_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Accompanied by a grand performance and its roaring crowd, the troupe arrives as promised.
+lang_multi_text.db	PhotographHandBook_53_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			The Idiomatic Song Welcomes Its Return
+lang_multi_text.db	PhotographHandBook_54_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			The stage is set, and the curtain rises. Actors, the moment to dazzle has arrived.
+lang_multi_text.db	PhotographHandBook_54_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			The Night Shines Ever Bright
+lang_multi_text.db	PhotographHandBook_55_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Now, I shall reveal the truth behind that idyllic ending..."
+lang_multi_text.db	PhotographHandBook_55_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Crimson Invitation
+lang_multi_text.db	PhotographHandBook_56_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			You should take center stage for the final bow.
+lang_multi_text.db	PhotographHandBook_56_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			A Silent Choir Presented In the Name of a Play
+lang_multi_text.db	PhotographHandBook_57_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			A performance doesn't have many dos and don'ts, just relax and express yourselves freely on stage!
+lang_multi_text.db	PhotographHandBook_57_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Tacit Steps
+lang_multi_text.db	PhotographHandBook_58_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			We are born free, and our souls will soar even in death.
+lang_multi_text.db	PhotographHandBook_58_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Fly, Fly to the High Heavens
+lang_multi_text.db	PhotographHandBook_59_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Listen to your hearts and let the song guide your path.
+lang_multi_text.db	PhotographHandBook_59_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			The Last Lullaby of the Night
+lang_multi_text.db	PhotographHandBook_5_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			After defeating the Tacet Discord, a little glow emerged from the deep fog pit. Danjin reunited with a familiar figure in the wonderful glow.
+lang_multi_text.db	PhotographHandBook_5_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Reunion in the Glow
+lang_multi_text.db	PhotographHandBook_60_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			The Montelli family holds in high regard each of its many friendships.
+lang_multi_text.db	PhotographHandBook_60_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			An Invitation From a Distant Land
+lang_multi_text.db	PhotographHandBook_61_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Take my power, my blessings, my past. Seek out a future... Where I am your blade. We'll find it together.
+lang_multi_text.db	PhotographHandBook_61_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Light and Wind
+lang_multi_text.db	PhotographHandBook_62_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Well done." Her final words were not laced with the bitterness of a defeat, but with a deep, comforting gratitude.
+lang_multi_text.db	PhotographHandBook_62_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			The Ending She Desired
+lang_multi_text.db	PhotographHandBook_63_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Light. Come hither… Make way for your destroyer.
+lang_multi_text.db	PhotographHandBook_63_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Slaying the Evil
+lang_multi_text.db	PhotographHandBook_64_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Arbiter. One question remains... Did I fulfill the charge set upon me?
+lang_multi_text.db	PhotographHandBook_64_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Fulfilled Expectation
+lang_multi_text.db	PhotographHandBook_65_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Your life stretches ahead, shaped by moments you'll never forget.
+lang_multi_text.db	PhotographHandBook_65_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			A Moment to Remember
+lang_multi_text.db	PhotographHandBook_66_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			A girl surrounded by birds, her world filled with poetry and song.
+lang_multi_text.db	PhotographHandBook_66_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			When Music First Sounded
+lang_multi_text.db	PhotographHandBook_67_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Though we have never met, your poetry and music bridge time and bind us together.
+lang_multi_text.db	PhotographHandBook_67_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Your Summer Will Never Wither
+lang_multi_text.db	PhotographHandBook_68_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			The lone wolf locks eyes with you. In her gaze, you see excitement, respect... and a reflection of yourelf staring back.
+lang_multi_text.db	PhotographHandBook_68_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			A Wolfy Greeting
+lang_multi_text.db	PhotographHandBook_69_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Though she remains out of reach, she stands at your side in battle.
+lang_multi_text.db	PhotographHandBook_69_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Together
+lang_multi_text.db	PhotographHandBook_6_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			In the process of you absorbing power, the black hand behind the scenes is also taking action. The violent joy is leading the story to an unpredictable ending.
+lang_multi_text.db	PhotographHandBook_6_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Explosive Firewood
+lang_multi_text.db	PhotographHandBook_70_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Only those who press on without faltering shall claim the final victory.
+lang_multi_text.db	PhotographHandBook_70_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			The Last Arena
+lang_multi_text.db	PhotographHandBook_71_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			At the end of this story awaits a warm embrace.
+lang_multi_text.db	PhotographHandBook_71_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Reunion
+lang_multi_text.db	PhotographHandBook_72_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			She became your sight, and you her blade
+lang_multi_text.db	PhotographHandBook_72_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			In the Enemy's Lead
+lang_multi_text.db	PhotographHandBook_73_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			An unexpected blossom grows, from a withering bud inadvertently saved by the rain.
+lang_multi_text.db	PhotographHandBook_73_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			An Unexpected Soulmate
+lang_multi_text.db	PhotographHandBook_74_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			He had never felt his soul this light and complete.
+lang_multi_text.db	PhotographHandBook_74_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			The Dark Days Are Over
+lang_multi_text.db	PhotographHandBook_75_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			True or false, real or fake, an unspeakable tragedy that sleeps eternally at the bottom of the sea.
+lang_multi_text.db	PhotographHandBook_75_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Sinking in a dream
+lang_multi_text.db	PhotographHandBook_76_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Bear witness, for the sun and the moon will witness this extraordinary power, and witness the epic of her sacrifice for Septimont.
+lang_multi_text.db	PhotographHandBook_76_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			The Path to Coronation
+lang_multi_text.db	PhotographHandBook_77_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Call forth the fire in your heart, warriors. Ride the wind with fearless gryphons across the cliffs, towards the grounds reddened by blood.
+lang_multi_text.db	PhotographHandBook_77_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Hunt Begins
+lang_multi_text.db	PhotographHandBook_78_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			She was no child of prophecy, no heir to glory, no ruler by right. Yet in the sun's moment of weakness, she brought her blade to fate's throat.
+lang_multi_text.db	PhotographHandBook_78_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			As Foretold
+lang_multi_text.db	PhotographHandBook_79_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			In the light of sun and moon, all that is shrouded in darkness shall be exposed.
+lang_multi_text.db	PhotographHandBook_79_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Sun and Moon
+lang_multi_text.db	PhotographHandBook_80_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			"People follow the sun, for it never fails to light their way."
+lang_multi_text.db	PhotographHandBook_80_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Follow the Light
+lang_multi_text.db	PhotographHandBook_81_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Join me in battle, heroes of Septimont! The eternal sun will sing of our triumph!
+lang_multi_text.db	PhotographHandBook_81_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			The Heroes
+lang_multi_text.db	PhotographHandBook_82_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Glory to you and me, to every unyielding soul on this land.
+lang_multi_text.db	PhotographHandBook_82_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Where Sun Burns Brightest
+lang_multi_text.db	PhotographHandBook_83_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			"A death that shouldn't have happened, traded for an unforetold victory. A fair deal."
+lang_multi_text.db	PhotographHandBook_83_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Pale Silver Solitude
+lang_multi_text.db	PhotographHandBook_84_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			That is a future glimpsed a thousand times, one which is absolutely correct, yet completely meaningless.
+lang_multi_text.db	PhotographHandBook_84_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Genius Is a Curse
+lang_multi_text.db	PhotographHandBook_85_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			The moon will fall no more, for she knows every arrow she lets loose will find its mark.
+lang_multi_text.db	PhotographHandBook_85_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Singular Answer
+lang_multi_text.db	PhotographHandBook_86_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			At fate's end, there was no divine intervention to save him, for from the moment those gears began turning, he was no longer a man of himself. Yet he still chose to defend his final glory.
+lang_multi_text.db	PhotographHandBook_86_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Glory of Humanity
+lang_multi_text.db	PhotographHandBook_87_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			She walks the path of salvation. She commits the sin of killing.
+lang_multi_text.db	PhotographHandBook_87_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Hunting the Light
+lang_multi_text.db	PhotographHandBook_88_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Sealed memories unfold amidst chaos.
+lang_multi_text.db	PhotographHandBook_88_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Epicenter of Turmoil
+lang_multi_text.db	PhotographHandBook_89_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			"When the black lamb parts the curtain, the heavens fall silent for about two quarters. I hear the horn of doom sound, and the gates of Paradise swing open..."
+lang_multi_text.db	PhotographHandBook_89_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Doomsday Revelation
+lang_multi_text.db	PhotographHandBook_90_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Then this body shall burn to illuminate the darkness.
+lang_multi_text.db	PhotographHandBook_90_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Should Darkness Lie Ahead
+lang_multi_text.db	PhotographHandBook_91_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			The spirits shall ferry the one across.
+lang_multi_text.db	PhotographHandBook_91_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Pull the Trigger
+lang_multi_text.db	PhotographHandBook_92_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			The sun still rises.
+lang_multi_text.db	PhotographHandBook_92_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			A Dawn Without Divinity
+lang_multi_text.db	PhotographHandBook_93_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			They betowed hope upon humanity, guiding them toward a path of freedom.\nIt was born from the longing for unity, bringing terror to every free soul.
+lang_multi_text.db	PhotographHandBook_93_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Origin of Islands
+lang_multi_text.db	PhotographHandBook_94_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Hunt with me, or die with me... Your choice."
+lang_multi_text.db	PhotographHandBook_94_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Start of Eternal Hunt
+lang_multi_text.db	PhotographHandBook_95_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			History grants no second chances.
+lang_multi_text.db	PhotographHandBook_95_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Moment of Reflection
+lang_multi_text.db	PhotographHandBook_96_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			In the rain-drenched night, only she sees the trembling crimson string.
+lang_multi_text.db	PhotographHandBook_96_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Crimson Rainfall
+lang_multi_text.db	PhotographHandBook_97_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			The girl's inner world: her past, her hometown.
+lang_multi_text.db	PhotographHandBook_97_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			"Monster" in the Train
+lang_multi_text.db	PhotographHandBook_98_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			Past the horizon line, thousands of lights will illuminate your way.
+lang_multi_text.db	PhotographHandBook_98_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Your Way Back
+lang_multi_text.db	PhotographHandBook_99_Descrtption	3.4	Hội thoại/Cốt truyện	Chức năng khác			"…I wish for the moments spent with friends to last forever."
+lang_multi_text.db	PhotographHandBook_99_Name	3.4	Hội thoại/Cốt truyện	Chức năng khác			Opening Party and Wishes
+lang_multi_text.db	PhotographicTipMainText_01	3.4	Hội thoại/Cốt truyện	Chức năng khác			Capture the first frame
+lang_multi_text.db	PhotographicTipMainText_02	3.4	Hội thoại/Cốt truyện	Chức năng khác			Capture the second frame
+lang_multi_text.db	PhotographicTipMainText_03	3.4	Hội thoại/Cốt truyện	Chức năng khác			Capture the third frame
+lang_multi_text.db	PhotographicTipMainText_finish	3.4	Hội thoại/Cốt truyện	Chức năng khác			All photo objectives have been completed
+lang_multi_text.db	ReviveCountdownTime	3.4	Hội thoại/Cốt truyện	Chức năng khác			To be revived in {0}
+lang_multi_text.db	Revive_1_ReviveContent	3.4	Hội thoại/Cốt truyện	Chức năng khác			Your energy fades... Be more cautious next time.
+lang_multi_text.db	Revive_1_ReviveTitle	3.4	Hội thoại/Cốt truyện	Chức năng khác			Defeated
+lang_multi_text.db	Revive_200750024_ReviveContent	3.4	Hội thoại/Cốt truyện	Chức năng khác			Your energy fades... Be more cautious next time.\nYou may retry until you run out of Revive Chances.
+lang_multi_text.db	Revive_2_ReviveContent	3.4	Hội thoại/Cốt truyện	Chức năng khác			Your energy fades... Be more cautious next time.
+lang_multi_text.db	Revive_2_ReviveTitle	3.4	Hội thoại/Cốt truyện	Chức năng khác			Defeated
+lang_multi_text.db	Revive_3100001_ReviveContent	3.4	Hội thoại/Cốt truyện	Chức năng khác			Your energy fades... Be more cautious next time.
+lang_multi_text.db	Revive_3100001_ReviveTitle	3.4	Hội thoại/Cốt truyện	Chức năng khác			Defeated
+lang_multi_text.db	Revive_4_ReviveContent	3.4	Hội thoại/Cốt truyện	Chức năng khác			Your energy fades... Be more cautious next time.
+lang_multi_text.db	Revive_4_ReviveTitle	3.4	Hội thoại/Cốt truyện	Chức năng khác			Defeated
+lang_multi_text.db	Revive_7_ReviveContent	3.4	Hội thoại/Cốt truyện	Chức năng khác			Your energy fades... Be more cautious next time.
+lang_multi_text.db	Revive_7_ReviveTitle	3.4	Hội thoại/Cốt truyện	Chức năng khác			Defeated
+lang_multi_text.db	Revive_8_ReviveContent	3.4	Hội thoại/Cốt truyện	Chức năng khác			Your energy fades... Be more cautious next time.
+lang_multi_text.db	Revive_8_ReviveTitle	3.4	Hội thoại/Cốt truyện	Chức năng khác			Defeated
+lang_photograph.db	11	3.4	Chức năng khác	Chức năng khác			Close
+lang_photograph.db	12	3.4	Chức năng khác	Chức năng khác			Open
+lang_photograph.db	14	3.4	Chức năng khác	Chức năng khác			Close
+lang_photograph.db	15	3.4	Chức năng khác	Chức năng khác			Open
+lang_photograph.db	8	3.4	Chức năng khác	Chức năng khác			Close
+lang_photograph.db	9	3.4	Chức năng khác	Chức năng khác			Open
+lang_multi_text.db	PhotoFightReward_Room_20	3.5	Hội thoại/Cốt truyện	Chức năng khác			Clear Freeze Frame: Whispering Feathers on Normal Mode
+lang_multi_text.db	PhotoFightReward_Room_21	3.5	Hội thoại/Cốt truyện	Chức năng khác			Clear Freeze Frame: Gilded Frostlands on Normal Mode
+lang_multi_text.db	PhotoFightReward_Room_22	3.5	Hội thoại/Cốt truyện	Chức năng khác			Clear Freeze Frame: Soothing Summer on Normal Mode
+lang_multi_text.db	PhotoFightReward_Room_23	3.5	Hội thoại/Cốt truyện	Chức năng khác			Clear Freeze Frame: Gentle Stream on Normal Mode
+lang_multi_text.db	PhotoFightReward_Room_24	3.5	Hội thoại/Cốt truyện	Chức năng khác			Clear Freeze Frame: Dreamlit Foam on Normal Mode
+lang_multi_text.db	PhotoFightReward_Room_25	3.5	Hội thoại/Cốt truyện	Chức năng khác			Clear Freeze Frame: Chilled Summer Peach on Normal Mode
+lang_multi_text.db	PhotoFightReward_Room_26	3.5	Hội thoại/Cốt truyện	Chức năng khác			Clear Freeze Frame: Silent Snow on Hard Mode
+lang_multi_text.db	PhotoFightReward_Room_30	3.5	Hội thoại/Cốt truyện	Chức năng khác			Clear Freeze Frame: Whispering Feathers on Normal Mode
+lang_multi_text.db	PhotoFightReward_Room_31	3.5	Hội thoại/Cốt truyện	Chức năng khác			Clear Freeze Frame: Gilded Frostlands on Normal Mode
+lang_multi_text.db	PhotoFightReward_Room_32	3.5	Hội thoại/Cốt truyện	Chức năng khác			Clear Freeze Frame: Soothing Summer on Normal Mode
+lang_multi_text.db	PhotoFightReward_Room_33	3.5	Hội thoại/Cốt truyện	Chức năng khác			Clear Freeze Frame: Gentle Stream on Normal Mode
+lang_multi_text.db	PhotoFightReward_Room_34	3.5	Hội thoại/Cốt truyện	Chức năng khác			Clear Freeze Frame: Dreamlit Foam on Normal Mode
+lang_multi_text.db	PhotoFightReward_Room_35	3.5	Hội thoại/Cốt truyện	Chức năng khác			Clear Freeze Frame: Chilled Summer Peach on Normal Mode
+lang_multi_text.db	PhotoFightReward_Room_36	3.5	Hội thoại/Cốt truyện	Chức năng khác			Clear Freeze Frame: Silent Snow on Hard Mode
+lang_multi_text.db	PhotoMemory_11301_Desc	3.5	Hội thoại/Cốt truyện	Chức năng khác			"Beyond the cliffs, a sky path reaches the four chimes."
+lang_multi_text.db	PhotoMemory_11301_Tips	3.5	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>Concourse of Wheels and Reins</color>\nProceed with Side Quest "Shape of Yesterday" to obtain.
+lang_multi_text.db	PhotoMemory_11301_Title	3.5	Hội thoại/Cốt truyện	Chức năng khác			Shape of Yesterday I
+lang_multi_text.db	PhotoMemory_11302_Desc	3.5	Hội thoại/Cốt truyện	Chức năng khác			"In mist and dawnlight, the truth is revealed."
+lang_multi_text.db	PhotoMemory_11302_Tips	3.5	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>Pagoda of Mist and Secrets</color>\nProceed with Side Quest "Shape of Yesterday" to obtain.
+lang_multi_text.db	PhotoMemory_11302_Title	3.5	Hội thoại/Cốt truyện	Chức năng khác			Shape of Yesterday II
+lang_multi_text.db	PhotoMemory_11303_Desc	3.5	Hội thoại/Cốt truyện	Chức năng khác			"A prison for Tacet Discords, a cradle of wondrous machines. Through a thousand turns twisted by ambition, old allies meet once more."
+lang_multi_text.db	PhotoMemory_11303_Tips	3.5	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>Cradle and Grave of Machines</color>\nProceed with Side Quest "Shape of Yesterday" to obtain.
+lang_multi_text.db	PhotoMemory_11303_Title	3.5	Hội thoại/Cốt truyện	Chức năng khác			Shape of Yesterday III
+lang_multi_text.db	PhotoMemory_11304_Desc	3.5	Hội thoại/Cốt truyện	Chức năng khác			"Because of you, this song has never fallen silent."
+lang_multi_text.db	PhotoMemory_11304_Tips	3.5	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>Land of Unfading Notes</color>\nProceed with Side Quest "Shape of Yesterday" to obtain.
+lang_multi_text.db	PhotoMemory_11304_Title	3.5	Hội thoại/Cốt truyện	Chức năng khác			Shape of Yesterday IV
+lang_multi_text.db	PhotoMemory_11305_Desc	3.5	Hội thoại/Cốt truyện	Chức năng khác			"Through a thousand workings, all calamity is swept clean. The heavenly array forms, and the city is reborn."
+lang_multi_text.db	PhotoMemory_11305_Tips	3.5	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>Xuanfang Beneath Heaven</color>\nProceed with Side Quest "Shape of Yesterday" to obtain.
+lang_multi_text.db	PhotoMemory_11305_Title	3.5	Hội thoại/Cốt truyện	Chức năng khác			Shape of Yesterday V
+lang_multi_text.db	PhotoMemory_11306_Desc	3.5	Hội thoại/Cốt truyện	Chức năng khác			"Honor what was; live towards death."
+lang_multi_text.db	PhotoMemory_11306_Tips	3.5	Hội thoại/Cốt truyện	Chức năng khác			<color=#c49e55>Shrine of Legacy and Repose</color>\nProceed with Side Quest "Shape of Yesterday" to obtain.
+lang_multi_text.db	PhotoMemory_11306_Title	3.5	Hội thoại/Cốt truyện	Chức năng khác			Shape of Yesterday VI
+lang_multi_text.db	PhotoMemory_113_Title	3.5	Hội thoại/Cốt truyện	Chức năng khác			Land of Xuanfang
+lang_multi_text.db	PhotographHandBook_147_Descrtption	3.5	Hội thoại/Cốt truyện	Chức năng khác			When Xuafang opens its gate, the larke enters its cage.
+lang_multi_text.db	PhotographHandBook_147_Name	3.5	Hội thoại/Cốt truyện	Chức năng khác			Bird in a Cage
+lang_multi_text.db	PhotographHandBook_148_Descrtption	3.5	Hội thoại/Cốt truyện	Chức năng khác			When the Streams stirred, her figure remained as before.
+lang_multi_text.db	PhotographHandBook_148_Name	3.5	Hội thoại/Cốt truyện	Chức năng khác			The Lark's Song Never Ceases
+lang_multi_text.db	PhotographHandBook_149_Descrtption	3.5	Hội thoại/Cốt truyện	Chức năng khác			Arbiter, you... must never abandon this city.
+lang_multi_text.db	PhotographHandBook_149_Name	3.5	Hội thoại/Cốt truyện	Chức năng khác			A Promise
+lang_multi_text.db	PhotographHandBook_150_Descrtption	3.5	Hội thoại/Cốt truyện	Chức năng khác			I shall accept this wager.
+lang_multi_text.db	PhotographHandBook_150_Name	3.5	Hội thoại/Cốt truyện	Chức năng khác			Win or Lose
+lang_multi_text.db	PhotographHandBook_151_Descrtption	3.5	Hội thoại/Cốt truyện	Chức năng khác			This "experiment" draws to its close.
+lang_multi_text.db	PhotographHandBook_151_Name	3.5	Hội thoại/Cốt truyện	Chức năng khác			Endgame
+lang_multi_text.db	PhotographHandBook_152_Descrtption	3.5	Hội thoại/Cốt truyện	Chức năng khác			Votary of the Voice, from this moment forth, bid farewell to who you are "now."
+lang_multi_text.db	PhotographHandBook_152_Name	3.5	Hội thoại/Cốt truyện	Chức năng khác			Votary of the Voice
+lang_multi_text.db	PhotographHandBook_153_Descrtption	3.5	Hội thoại/Cốt truyện	Chức năng khác			This time, she cathes the one she had longed for day and night in the wind.
+lang_multi_text.db	PhotographHandBook_153_Name	3.5	Hội thoại/Cốt truyện	Chức năng khác			Quarce Among the Wind
+lang_multi_text.db	PhotographHandBook_154_Descrtption	3.5	Hội thoại/Cốt truyện	Chức năng khác			Perhaps we never beheld the splendor buried beneath calamity, yet we have always known the shape of "home."
+lang_multi_text.db	PhotographHandBook_154_Name	3.5	Hội thoại/Cốt truyện	Chức năng khác			Legacy

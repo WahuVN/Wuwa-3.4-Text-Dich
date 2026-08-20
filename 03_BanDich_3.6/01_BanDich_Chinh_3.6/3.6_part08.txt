@@ -1,0 +1,7449 @@
+# =================================================================
+# TEXT GỐC ĐỐI CHIẾU ĐA NGÔN NGỮ — Wuthering Waves (Bản 3.6.0)
+# 3.6_part08.txt | 1059 mục (7414 -> 8472 / 10590)
+# -----------------------------------------------------------------
+# Mỗi mục gồm:
+#   @@ <dbfile>||<Bảng>||<key>  <- định danh, GIỮ NGUYÊN khi dịch
+#   CN: tiếng Trung (bản gốc của game)
+#   EN: tiếng Anh
+#   JP: tiếng Nhật
+#   VI: tiếng Việt — Dùng TÊN TIẾNG ANH nhân vật (Phoebe, Changli, Jinhsi...)
+#   HV: tiếng Việt — Dùng TÊN HÁN VIỆT nhân vật (Phỉ Bỉ, Trường Ly, Kim Tịch...)
+# Giữ nguyên biến {0}, {PlayerName}, %s, %d và các thẻ <...>.
+# =================================================================
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aimisi_Beidong01_Lv3
+CN: 多线程同步Ⅲ
+EN: Multi-Thread Sync III
+JP: マルチスレッド同期Ⅲ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aimisi_Beidong02_Lv1
+CN: 救世之愿Ⅰ
+EN: Will to Salvation I
+JP: 救世の願いⅠ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aimisi_Beidong02_Lv2
+CN: 救世之愿Ⅱ
+EN: Will to Salvation II
+JP: 救世の願いⅡ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aimisi_Beidong02_Lv3
+CN: 救世之愿Ⅲ
+EN: Will to Salvation III
+JP: 救世の願いⅢ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aimisi_Beidong03_Lv1
+CN: 穿越无垠之境Ⅰ
+EN: Beyond the Boundless I
+JP: 無垠なる境界へⅠ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aimisi_Beidong03_Lv2
+CN: 穿越无垠之境Ⅱ
+EN: Beyond the Boundless II
+JP: 無垠なる境界へⅡ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aimisi_Dodge_Lv1
+CN: 不稳定能量Ⅰ
+EN: Volatile Energy I
+JP: 不安定エネルギーⅠ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aimisi_Dodge_Lv2
+CN: 不稳定能量Ⅱ
+EN: Volatile Energy II
+JP: 不安定エネルギーⅡ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aimisi_Pugong_Lv1
+CN: 系统过载Ⅰ
+EN: System Crash I
+JP: システム過負荷Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aimisi_Pugong_Lv2
+CN: 系统过载Ⅱ
+EN: System Crash II
+JP: システム過負荷Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aimisi_Pugong_Lv3
+CN: 系统过载Ⅲ
+EN: System Crash III
+JP: システム過負荷Ⅲ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aimisi_SkillE_Lv1
+CN: 光翼瞬闪Ⅰ
+EN: Lightwing Blink I
+JP: 光翼の閃きⅠ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aimisi_SkillE_Lv2
+CN: 光翼瞬闪Ⅱ
+EN: Lightwing Blink II
+JP: 光翼の閃きⅡ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aimisi_SkillE_Lv3
+CN: 光翼瞬闪Ⅲ
+EN: Lightwing Blink III
+JP: 光翼の閃きⅢ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aimisi_SkillQ_Lv1
+CN: 拟形：爱弥斯Ⅰ
+EN: Morph: Aemeath I
+JP: 擬形：エイメスⅠ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aimisi_SkillQ_Lv2
+CN: 拟形：爱弥斯Ⅱ
+EN: Morph: Aemeath II
+JP: 擬形：エイメスⅡ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aimisi_SkillR_Lv1
+CN: 星辉流转Ⅰ
+EN: Starlight Flow I
+JP: 星光の巡りⅠ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aimisi_SkillR_Lv2
+CN: 星辉流转Ⅱ
+EN: Starlight Flow II
+JP: 星光の巡りⅡ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aimisi_SkillR_Lv3
+CN: 星辉流转Ⅲ
+EN: Starlight Flow III
+JP: 星光の巡りⅢ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aimisi_SuperBeidong_Lv1
+CN: 此刻，与你同在Ⅰ
+EN: Here With You, Now I
+JP: 今、この瞬間を共にⅠ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aimisi_Zhongji_Lv1
+CN: 即刻响应Ⅰ
+EN: Instant Response I
+JP: インスタント・レスポンスⅠ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aimisi_Zhongji_Lv2
+CN: 即刻响应Ⅱ
+EN: Instant Response II
+JP: インスタント・レスポンスⅡ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aimisi_Zhongji_Lv3
+CN: 即刻响应Ⅲ
+EN: Instant Response III
+JP: インスタント・レスポンスⅢ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aogusita_Beidong01_Lv1
+CN: 耀光化身Ⅰ
+EN: Avatar of Sun I
+JP: 耀光の化身Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aogusita_Beidong01_Lv2
+CN: 耀光化身Ⅱ
+EN: Radiant Avatar II
+JP: 耀光の化身Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aogusita_Beidong02_Lv1
+CN: 历战刚毅Ⅰ
+EN: Veteran's Mettle I
+JP: 歴戦の意志Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aogusita_Beidong02_Lv2
+CN: 历战刚毅Ⅱ
+EN: Veteran's Mettle II
+JP: 歴戦の意志Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aogusita_Beidong02_Lv3
+CN: 历战刚毅Ⅲ
+EN: Veteran's Mettle III
+JP: 歴戦の意志Ⅲ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aogusita_Beidong03_Lv1
+CN: 见证烈日Ⅰ
+EN: Witness the Sun I
+JP: 灼陽の証Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aogusita_Beidong03_Lv2
+CN: 见证烈日Ⅱ
+EN: Witness the Sun III
+JP: 灼陽の証Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aogusita_Dodge_Lv1
+CN: 狩猎热情Ⅰ
+EN: Hunter's Zeal I
+JP: 狩猟の熱情Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aogusita_Dodge_Lv2
+CN: 狩猎热情Ⅱ
+EN: Hunter's Zeal II
+JP: 狩猟の熱情Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aogusita_Pugong_Lv1
+CN: 征伐无休Ⅰ
+EN: Endless Conquest I
+JP: 絶えぬ戦火Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aogusita_Pugong_Lv2
+CN: 征伐无休Ⅱ
+EN: Endless Conquest II
+JP: 絶えぬ戦火Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aogusita_SkillE_Lv1
+CN: 斩锋断铁Ⅰ
+EN: Ironcleaver I
+JP: 剣鋒の刃Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aogusita_SkillE_Lv2
+CN: 斩锋断铁Ⅱ
+EN: Ironcleaver II
+JP: 剣鋒の刃Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aogusita_SkillE_Lv3
+CN: 斩锋断铁Ⅲ
+EN: Ironcleaver III
+JP: 剣鋒の刃Ⅲ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aogusita_SkillQ_Lv1
+CN: 拟形：奥古斯塔Ⅰ
+EN: Morph: Augusta I
+JP: 擬形：オーガスタⅠ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aogusita_SkillQ_Lv2
+CN: 拟形：奥古斯塔Ⅱ
+EN: Morph - Augusta II
+JP: 擬形：オーガスタⅡ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aogusita_SkillR_Lv1
+CN: 酷烈复仇Ⅰ
+EN: Cruel Vengeance I
+JP: 苛烈なる復讐Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aogusita_SkillR_Lv2
+CN: 酷烈复仇Ⅱ
+EN: Cruel Vengeance II
+JP: 苛烈なる復讐Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aogusita_SkillR_Lv3
+CN: 酷烈复仇Ⅲ
+EN: Cruel Vengeance III
+JP: 苛烈なる復讐Ⅲ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aogusita_SuperBeidong_Lv1
+CN: 不败恒阳Ⅰ
+EN: Undying Sun I
+JP: 無敗の炎陽Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aogusita_Zhongji_Lv1
+CN: 蔑视苦痛Ⅰ
+EN: Defiance of Agony I
+JP: 苦痛を嘲るⅠ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aogusita_Zhongji_Lv2
+CN: 蔑视苦痛Ⅱ
+EN: Defiance of Agony II
+JP: 苦痛を嘲るⅡ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Aogusita_Zhongji_Lv3
+CN: 蔑视苦痛Ⅲ
+EN: Defiance of Agony III
+JP: 苦痛を嘲るⅢ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Chun_Beidong01_Lv1
+CN: 剪除枝条Ⅰ
+EN: Branch Pruning I
+JP: 枝葉を断つⅠ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Chun_Beidong01_Lv2
+CN: 剪除枝条Ⅱ
+EN: Branch Pruning II
+JP: 枝葉を断つⅡ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Chun_Beidong01_Lv3
+CN: 剪除枝条Ⅲ
+EN: Branch Pruning II
+JP: 枝葉を断つⅢ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Chun_Beidong02_Lv1
+CN: 深红之蕊Ⅰ
+EN: Crimson Pistil I
+JP: 深紅の蕾Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Chun_Beidong02_Lv2
+CN: 深红之蕊Ⅱ
+EN: Crimson Pistil II
+JP: 深紅の蕾Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Chun_Beidong03_Lv1
+CN: 狂乱浸染Ⅰ
+EN: Wild Stain I
+JP: 狂気の染まりⅠ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Chun_Beidong03_Lv2
+CN: 狂乱浸染Ⅱ
+EN: Wild Stain II
+JP: 狂気の染まりⅡ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Chun_Dodge_Lv1
+CN: 夺目旋舞Ⅰ
+EN: Dazzling Ronde I
+JP: 眩耀の舞Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Chun_Dodge_Lv2
+CN: 夺目旋舞Ⅱ
+EN: Dazzling Ronde II
+JP: 眩耀の舞Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Chun_Dodge_Lv3
+CN: 夺目旋舞Ⅲ
+EN: Dazzling Ronde III
+JP: 眩耀の舞Ⅲ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Chun_Pugong_Lv1
+CN: 藤蔓缠绕Ⅰ
+EN: Vine Bind I
+JP: 蔓絡みⅠ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Chun_Pugong_Lv2
+CN: 藤蔓缠绕Ⅱ
+EN: Vine Bind II
+JP: 蔓絡みⅡ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Chun_Pugong_Lv3
+CN: 藤蔓缠绕Ⅲ
+EN: Vine Bind III
+JP: 蔓絡みⅢ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Chun_SkillE_Lv1
+CN: 椿花绽放Ⅰ
+EN: Camellia Bloom I
+JP: 咲き誇る椿Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Chun_SkillE_Lv2
+CN: 椿花绽放Ⅱ
+EN: Camellia Bloom II
+JP: 咲き誇る椿Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Chun_SkillQ_Lv1
+CN: 拟形：椿Ⅰ
+EN: Morph - Camellya I
+JP: 擬形：ツバキⅠ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Chun_SkillQ_Lv2
+CN: 拟形：椿Ⅱ
+EN: Morph - Camellya II
+JP: 擬形：ツバキⅡ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Chun_SkillR_Lv1
+CN: 摄取养料Ⅰ
+EN: Nutrient Siphon I
+JP: 養分吸収Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Chun_SkillR_Lv2
+CN: 摄取养料Ⅱ
+EN: Nutrient Siphon II
+JP: 養分吸収Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Chun_SkillR_Lv3
+CN: 摄取养料Ⅲ
+EN: Nutrient Siphon III
+JP: 養分吸収Ⅲ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Chun_SuperBeidong_Lv1
+CN: 无尽盛放Ⅰ
+EN: Endless Blossom I
+JP: 無窮の開花Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Chun_Zhongji_Lv1
+CN: 棘刺鞭笞Ⅰ
+EN: Thorn Lash I
+JP: 棘蔓の乱舞Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Chun_Zhongji_Lv2
+CN: 棘刺鞭笞Ⅱ
+EN: Thorn Lash II
+JP: 棘蔓の乱舞Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Chun_Zhongji_Lv3
+CN: 棘刺鞭笞Ⅲ
+EN: Thorn Lash III
+JP: 棘蔓の乱舞Ⅲ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feibi_Beidong01_Lv1
+CN: 折光涌现Ⅰ
+EN: Refraction Surge I
+JP: 屈折する光Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feibi_Beidong01_Lv2
+CN: 折光涌现Ⅱ
+EN: Refraction Surge II
+JP: 屈折する光Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feibi_Beidong01_Lv3
+CN: 折光涌现Ⅲ
+EN: Refraction Surge III
+JP: 屈折する光Ⅲ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feibi_Beidong02_Lv1
+CN: 纯净祷言Ⅰ
+EN: Purity Litany I
+JP: 清らかな祈願Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feibi_Beidong02_Lv2
+CN: 纯净祷言Ⅱ
+EN: Purity Litany II
+JP: 清らかな祈願Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feibi_Beidong02_Lv3
+CN: 纯净祷言Ⅲ
+EN: Purity Litany III
+JP: 清らかな祈願Ⅲ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feibi_Beidong03_Lv1
+CN: 无言赦罪Ⅰ
+EN: Silent Absolution I
+JP: 無言の赦しⅠ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feibi_Beidong03_Lv2
+CN: 无言赦罪Ⅱ
+EN: Silent Absolution II
+JP: 無言の赦しⅡ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feibi_Dodge_Lv1
+CN: 凝滞庇佑Ⅰ
+EN: Stasis Ward I
+JP: 静止の加護Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feibi_Dodge_Lv2
+CN: 凝滞庇佑Ⅱ
+EN: Stasis Ward II
+JP: 静止の加護Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feibi_Pugong_Lv1
+CN: 启明祝福Ⅰ
+EN: Dawn Blessing I
+JP: 暁光の祝福Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feibi_Pugong_Lv2
+CN: 启明祝福Ⅱ
+EN: Dawn Blessing II
+JP: 暁光の祝福Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feibi_SkillE_Lv1
+CN: 灿光预示Ⅰ
+EN: Radiant Omen I
+JP: 輝光の兆しⅠ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feibi_SkillE_Lv2
+CN: 灿光预示Ⅱ
+EN: Radiant Omen II
+JP: 輝光の兆しⅡ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feibi_SkillE_Lv3
+CN: 灿光预示Ⅲ
+EN: Radiant Omen III
+JP: 輝光の兆しⅢ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feibi_SkillQ_Lv1
+CN: 拟形：菲比Ⅰ
+EN: Morph - Phoebe I
+JP: 擬形：フィービーⅠ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feibi_SkillQ_Lv2
+CN: 拟形：菲比Ⅱ
+EN: Morph - Phoebe II
+JP: 擬形：フィービーⅡ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feibi_SkillR_Lv1
+CN: 光辉愿景Ⅰ
+EN: Luminous Vision I
+JP: 輝きの未来Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feibi_SkillR_Lv2
+CN: 光辉愿景Ⅱ
+EN: Luminous Vision II
+JP: 輝きの未来Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feibi_SuperBeidong_Lv1
+CN: 回响福音Ⅰ
+EN: Echoing Gospel I
+JP: 響き渡る福音Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feibi_Zhongji_Lv1
+CN: 圣辉降临Ⅰ
+EN: Touch of Light I
+JP: 聖輝降臨Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feibi_Zhongji_Lv2
+CN: 圣辉降临Ⅱ
+EN: Touch of Light II
+JP: 聖輝降臨Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feibi_Zhongji_Lv3
+CN: 圣辉降临Ⅲ
+EN: Touch of Light III
+JP: 聖輝降臨Ⅲ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feixue_Beidong01_Lv1
+CN: 引刃Ⅰ
+EN: Drawn Blade I
+JP: 導きの刃Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feixue_Beidong01_Lv2
+CN: 引刃Ⅱ
+EN: Drawn Blade II
+JP: 導きの刃Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feixue_Beidong01_Lv3
+CN: 引刃Ⅲ
+EN: Drawn Blade III
+JP: 導きの刃Ⅲ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feixue_Beidong02_Lv1
+CN: 永冻Ⅰ
+EN: Permafrost I
+JP: 永凍Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feixue_Beidong02_Lv2
+CN: 永冻Ⅱ
+EN: Permafrost II
+JP: 永凍Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feixue_Beidong02_Lv3
+CN: 永冻Ⅲ
+EN: Permafrost III
+JP: 永凍Ⅲ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feixue_Beidong03_Lv1
+CN: 凝息Ⅰ
+EN: Stillbreath I
+JP: 凍てつく息吹Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feixue_Beidong03_Lv2
+CN: 凝息Ⅱ
+EN: Stillbreath II
+JP: 凍てつく息吹Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feixue_Dodge_Lv1
+CN: 瞬影Ⅰ
+EN: Flicker I
+JP: 瞬影Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feixue_Dodge_Lv2
+CN: 瞬影Ⅱ
+EN: Flicker II
+JP: 瞬影Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feixue_Pugong_Lv1
+CN: 樱舞Ⅰ
+EN: Sakura Dance I
+JP: 桜華乱舞Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feixue_Pugong_Lv2
+CN: 樱舞Ⅱ
+EN: Sakura Dance II
+JP: 桜華乱舞Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feixue_Pugong_Lv3
+CN: 樱舞Ⅲ
+EN: Sakura Dance III
+JP: 桜華乱舞Ⅲ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feixue_SkillE_Lv1
+CN: 彻骨Ⅰ
+EN: Winter's Fang I
+JP: 凍骨Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feixue_SkillE_Lv2
+CN: 彻骨Ⅱ
+EN: Winter's Fang II
+JP: 凍骨Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feixue_SkillE_Lv3
+CN: 彻骨Ⅲ
+EN: Winter's Fang III
+JP: 凍骨Ⅲ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feixue_SkillQ_Lv1
+CN: 拟形：绯雪Ⅰ
+EN: Morph - Hiyuki I
+JP: 擬形：緋雪Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feixue_SkillQ_Lv2
+CN: 拟形：绯雪Ⅱ
+EN: Morph - Hiyuki II
+JP: 擬形：緋雪Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feixue_SkillR_Lv1
+CN: 不破Ⅰ
+EN: Unbroken I
+JP: 不壊Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feixue_SkillR_Lv2
+CN: 不破Ⅱ
+EN: Unbroken II
+JP: 不壊Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feixue_SkillR_Lv3
+CN: 不破Ⅲ
+EN: Unbroken III
+JP: 不壊Ⅲ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feixue_SuperBeidong_Lv1
+CN: 落雪无声Ⅰ
+EN: Silent Snowfall I
+JP: 無音の降雪Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feixue_Zhongji_Lv1
+CN: 灭寂Ⅰ
+EN: Quietus I
+JP: 滅寂Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feixue_Zhongji_Lv2
+CN: 灭寂Ⅱ
+EN: Quietus II
+JP: 滅寂Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Feixue_Zhongji_Lv3
+CN: 灭寂Ⅲ
+EN: Quietus III
+JP: 滅寂Ⅲ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Fuluoluo_Beidong01_Lv1
+CN: 狂乱变奏Ⅰ
+EN: Frenzy Variation I
+JP: 狂気の変奏Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Fuluoluo_Beidong01_Lv2
+CN: 狂乱变奏Ⅱ
+EN: Frenzy Variation II
+JP: 狂気の変奏Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Fuluoluo_Beidong02_Lv1
+CN: 终幕演出Ⅰ
+EN: Finale I
+JP: 終幕の舞台Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Fuluoluo_Beidong02_Lv2
+CN: 终幕演出Ⅱ
+EN: Finale II
+JP: 終幕の舞台Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Fuluoluo_Beidong02_Lv3
+CN: 终幕演出Ⅲ
+EN: Finale III
+JP: 終幕の舞台Ⅲ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Fuluoluo_Beidong03_Lv1
+CN: 永生组歌Ⅰ
+EN: Suite of Immortality I
+JP: 永遠なる命の組曲Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Fuluoluo_Beidong03_Lv2
+CN: 永生组歌Ⅱ
+EN: Suite of Immortality II
+JP: 永遠なる命の組曲Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Fuluoluo_Pugong_Lv1
+CN: 华彩辉映Ⅰ
+EN: Splendid Cadenza I
+JP: 煌めく華章Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Fuluoluo_Pugong_Lv2
+CN: 华彩辉映Ⅱ
+EN: Splendid Cadenza II
+JP: 煌めく華章Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Fuluoluo_Pugong_Lv3
+CN: 华彩辉映Ⅲ
+EN: Splendid Cadenza III
+JP: 煌めく華章Ⅲ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Fuluoluo_SkillE_Lv1
+CN: 终末谐声Ⅰ
+EN: Eschaton Harmony I
+JP: 終焉の調和Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Fuluoluo_SkillE_Lv2
+CN: 终末谐声Ⅱ
+EN: Eschaton Harmony II
+JP: 終焉の調和Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Fuluoluo_SkillE_Lv3
+CN: 终末谐声Ⅲ
+EN: Eschaton Harmony III
+JP: 終焉の調和Ⅲ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Fuluoluo_SkillQ_Lv1
+CN: 拟形·弗洛洛Ⅰ
+EN: Morph - Phrolova I
+JP: 擬形：フローヴァⅠ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Fuluoluo_SkillQ_Lv2
+CN: 拟形·弗洛洛Ⅱ
+EN: Morph - Phrolova II
+JP: 擬形：フローヴァⅡ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Fuluoluo_SkillR_Lv1
+CN: 指令·弦乐Ⅰ
+EN: Cue - Strings I
+JP: 指令・弦楽Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Fuluoluo_SkillR_Lv2
+CN: 指令·管乐Ⅰ
+EN: Cue - Winds I
+JP: 指令・管楽Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Fuluoluo_SkillR_Lv3
+CN: 指令·彩乐Ⅰ
+EN: Cue - Cadenza I
+JP: 指令・彩楽Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Fuluoluo_SuperBeidong_Lv1
+CN: 冥界回响Ⅰ
+EN: Echo from the Beyond I
+JP: 冥府の響きⅠ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Fuluoluo_Zhongji_Lv1
+CN: 凋亡乐章Ⅰ
+EN: Dirge of Withering I
+JP: 枯死の楽章Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Fuluoluo_Zhongji_Lv2
+CN: 凋亡乐章Ⅱ
+EN: Dirge of Withering II
+JP: 枯死の楽章Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Fuluoluo_Zhongji_Lv3
+CN: 凋亡乐章Ⅲ
+EN: Dirge of Withering III
+JP: 枯死の楽章Ⅲ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jiabei_Beidong01_Lv1
+CN: 无尽饥馑I
+EN: Ceaseless Hunger I
+JP: 果てなき飢餓Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jiabei_Beidong01_Lv2
+CN: 无尽饥馑II
+EN: Ceaseless Hunger II
+JP: 果てなき飢餓Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jiabei_Beidong02_Lv1
+CN: 奇美拉之噬I
+EN: Chimera's Bite I
+JP: キメラの喰らいⅠ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jiabei_Beidong02_Lv2
+CN: 奇美拉之噬II
+EN: Chimera's Bite II
+JP: キメラの喰らいⅡ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jiabei_Beidong03_Lv1
+CN: 永火恶魔之焰I
+EN: Eternal Fiendfire I
+JP: 不滅魔炎Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jiabei_Beidong03_Lv2
+CN: 永火恶魔之焰II
+EN: Eternal Fiendfire II
+JP: 不滅魔炎Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jiabei_Beidong04_Lv1
+CN: 杜拉罕之躯I
+EN: Dullahan's Body I
+JP: デュラハンの躯Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jiabei_Beidong04_Lv2
+CN: 杜拉罕之躯II
+EN: Dullahan's Body II
+JP: デュラハンの躯Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jiabei_Beidong05_Lv1
+CN: 眼魔之洞察I
+EN: Beholder's Insight I
+JP: 魔眼の見識Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jiabei_Beidong05_Lv2
+CN: 眼魔之洞察II
+EN: Beholder's Insight II
+JP: 魔眼の見識Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jiabei_Beidong06_Lv1
+CN: 灾厄预兆I
+EN: Calamity Omen I
+JP: 凶兆Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jiabei_Beidong06_Lv2
+CN: 灾厄预兆II
+EN: Calamity Omen II
+JP: 凶兆Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jiabei_Beidong07_Lv1
+CN: 倾落火羽I
+EN: Firefeather Rain I
+JP: 降り注ぐ火羽Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jiabei_Beidong07_Lv2
+CN: 倾落火羽II
+EN: Firefeather Rain II
+JP: 降り注ぐ火羽Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jiabei_Beidong08_Lv1
+CN: 恐惧化身I
+EN: Incarnation of Fear I
+JP: 畏怖の化身Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jiabei_Beidong08_Lv2
+CN: 恐惧化身II
+EN: Incarnation of Fear II
+JP: 畏怖の化身Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jiabei_Beidong09_Lv1
+CN: 永恒追猎I
+EN: Eternal Hunt I
+JP: 終わりなき狩猟Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jiabei_Beidong09_Lv2
+CN: 永恒追猎II
+EN: Eternal Hunt II
+JP: 終わりなき狩猟Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jiabei_Beidong10_Lv1
+CN: 超然活力I
+EN: Supernatural Vitality I
+JP: 漲る活力Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jiabei_Beidong10_Lv2
+CN: 超然活力II
+EN: Supernatural Vitality II
+JP: 漲る活力Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jingran_Beidong01_Lv1
+CN: 挑灯问冢Ⅰ
+EN: Question the Tombs I
+JP: 提灯下げⅠ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jingran_Beidong01_Lv2
+CN: 挑灯问冢Ⅱ
+EN: Question the Tombs II
+JP: 提灯下げⅡ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jingran_Beidong01_Lv3
+CN: 挑灯问冢Ⅲ
+EN: Question the Tombs III
+JP: 提灯下げⅢ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jingran_Beidong02_Lv1
+CN: 贴壁听尘Ⅰ
+EN: Hark the Dust I
+JP: 埃の音を聞くⅠ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jingran_Beidong02_Lv2
+CN: 贴壁听尘Ⅱ
+EN: Hark the Dust II
+JP: 埃の音を聞くⅡ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jingran_Beidong03_Lv1
+CN: 取魂摄魄Ⅰ
+EN: Soul Reaping I
+JP: 魂を奪う者Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jingran_Beidong03_Lv2
+CN: 取魂摄魄Ⅱ
+EN: Soul Reaping II
+JP: 魂を奪う者Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jingran_Dodge_Lv1
+CN: 扫痕观迹Ⅰ
+EN: Trace Reading I
+JP: 跡を辿るⅠ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jingran_Dodge_Lv2
+CN: 扫痕观迹Ⅱ
+EN: Trace Reading II
+JP: 跡を辿るⅡ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jingran_Dodge_Lv3
+CN: 扫痕观迹Ⅲ
+EN: Trace Reading III
+JP: 跡を辿るⅢ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jingran_Pugong_Lv1
+CN: 鬼灯探幽Ⅰ
+EN: Nether Illumination I
+JP: 鬼灯の怪異探訪Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jingran_Pugong_Lv2
+CN: 鬼灯探幽Ⅱ
+EN: Nether Illumination II
+JP: 鬼灯の怪異探訪Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jingran_Pugong_Lv3
+CN: 鬼灯探幽Ⅲ
+EN: Nether Illumination III
+JP: 鬼灯の怪異探訪Ⅲ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jingran_SkillE_Lv1
+CN: 堪舆阴阳Ⅰ
+EN: Yin-Yang Geomancy I
+JP: 天地陰陽Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jingran_SkillE_Lv2
+CN: 堪舆阴阳Ⅱ
+EN: Yin-Yang Geomancy II
+JP: 天地陰陽Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jingran_SkillQ_Lv1
+CN: 拟形：景燃Ⅰ
+EN: Morph - Jingran I
+JP: 擬形：景燃Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jingran_SkillQ_Lv2
+CN: 拟形：景燃Ⅱ
+EN: Morph - Jingran II
+JP: 擬形：景燃Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jingran_SkillR_Lv1
+CN: 幽冥引渡Ⅰ
+EN: Ferry to the Beyond I
+JP: 幽冥の渡しⅠ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jingran_SkillR_Lv2
+CN: 幽冥引渡Ⅱ
+EN: Ferry to the Beyond II
+JP: 幽冥の渡しⅡ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jingran_SkillR_Lv3
+CN: 幽冥引渡Ⅲ
+EN: Ferry to the Beyond III
+JP: 幽冥の渡しⅢ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jingran_SuperBeidong_Lv1
+CN: 魍魉横行Ⅰ
+EN: Wraith Parade I
+JP: 魑魅魍魎の跋扈Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jingran_Zhongji_Lv1
+CN: 枯形化影Ⅰ
+EN: Husk Shadow I
+JP: 枯朽の影Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jingran_Zhongji_Lv2
+CN: 枯形化影Ⅱ
+EN: Husk Shadow II
+JP: 枯朽の影Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Jingran_Zhongji_Lv3
+CN: 枯形化影Ⅲ
+EN: Husk Shadow III
+JP: 枯朽の影Ⅲ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Katixiya_Beidong01_Lv1
+CN: 没入深洋Ⅰ
+EN: Into the Deep I
+JP: 深海への没入Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Katixiya_Beidong01_Lv2
+CN: 没入深洋Ⅱ
+EN: Into the Deep II
+JP: 深海への没入Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Katixiya_Beidong01_Lv3
+CN: 没入深洋Ⅲ
+EN: Into the Deep III
+JP: 深海への没入Ⅲ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Katixiya_Beidong02_Lv1
+CN: 破空幻刃Ⅰ
+EN: Windcleaver I
+JP: 虚空を裂く刃Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Katixiya_Beidong02_Lv2
+CN: 破空幻刃Ⅱ
+EN: Windcleaver II
+JP: 虚空を裂く刃Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Katixiya_Beidong02_Lv3
+CN: 破空幻刃Ⅲ
+EN: Windcleaver III
+JP: 虚空を裂く刃Ⅲ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Katixiya_Beidong03_Lv1
+CN: 不灭决意Ⅰ
+EN: Undying Resolve I
+JP: 揺るがぬ覚悟Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Katixiya_Dodge_Lv1
+CN: 踏风而行Ⅰ
+EN: Wind Stride I
+JP: 風乗りⅠ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Katixiya_Dodge_Lv2
+CN: 踏风而行Ⅱ
+EN: Wind Stride II
+JP: 風乗りⅡ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Katixiya_Dodge_Lv3
+CN: 踏风而行Ⅲ
+EN: Wind Stride III
+JP: 風乗りⅢ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Katixiya_Pugong_Lv1
+CN: 潮涌无歇Ⅰ
+EN: Unending Tide I
+JP: 止まらぬ潮流Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Katixiya_Pugong_Lv2
+CN: 潮涌无歇Ⅱ
+EN: Unending Tide II
+JP: 止まらぬ潮流Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Katixiya_Pugong_Lv3
+CN: 潮涌无歇Ⅲ
+EN: Unending Tide III
+JP: 止まらぬ潮流Ⅲ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Katixiya_SkillE_Lv1
+CN: 宣告末途Ⅰ
+EN: Final Decree I
+JP: 最期の告知Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Katixiya_SkillE_Lv2
+CN: 宣告末途Ⅱ
+EN: Final Decree II
+JP: 最期の告知Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Katixiya_SkillQ_Lv1
+CN: 拟形：卡提希娅Ⅰ
+EN: Morph - Cartethyia I
+JP: 擬形：カルテジアⅠ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Katixiya_SkillQ_Lv2
+CN: 拟形：卡提希娅Ⅱ
+EN: Morph - Cartethyia II
+JP: 擬形：カルテジアⅡ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Katixiya_SkillR_Lv1
+CN: 庄严裁断Ⅰ
+EN: Solemn Verdict I
+JP: 聖なる裁断Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Katixiya_SkillR_Lv2
+CN: 庄严裁断Ⅱ
+EN: Solemn Verdict II
+JP: 聖なる裁断Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Katixiya_SuperBeidong_Lv1
+CN: 骑士誓约Ⅰ
+EN: Knight's Oath I
+JP: 騎士の誓いⅠ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Katixiya_Zhongji_Lv1
+CN: 引风斩浪Ⅰ
+EN: When Gale Breaks the Waves I
+JP: 風浪を断つ刃Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Katixiya_Zhongji_Lv2
+CN: 引风斩浪Ⅱ
+EN: When Gale Breaks the Waves II
+JP: 風浪を断つ刃Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Katixiya_Zhongji_Lv3
+CN: 引风斩浪Ⅲ
+EN: When Gale Breaks the Waves III
+JP: 風浪を断つ刃Ⅲ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Lu_Beidong01_Lv1
+CN: 复燃灼金Ⅰ
+EN: Reignited Gold I
+JP: 灼金の再燃Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Lu_Beidong01_Lv2
+CN: 复燃灼金Ⅱ
+EN: Reignited Gold II
+JP: 灼金の再燃Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Lu_Beidong01_Lv3
+CN: 复燃灼金Ⅲ
+EN: Reignited Gold III
+JP: 灼金の再燃Ⅲ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Lu_Beidong02_Lv1
+CN: 流溢日髓Ⅰ
+EN: Overflowing Ichor I
+JP: 溢れる日髄Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Lu_Beidong02_Lv2
+CN: 流溢日髓Ⅱ
+EN: Overflowing Ichor II
+JP: 溢れる日髄Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Lu_Beidong02_Lv3
+CN: 流溢日髓Ⅲ
+EN: Overflowing Ichor III
+JP: 溢れる日髄Ⅲ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Lu_Beidong03_Lv1
+CN: 精确切除Ⅰ
+EN: Precise Excision I
+JP: 精准な切断Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Lu_Beidong03_Lv2
+CN: 精确切除Ⅱ
+EN: Precise Excision II
+JP: 精准な切断Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Lu_Dodge_Lv1
+CN: 流金贯行Ⅰ
+EN: Golden Impale I
+JP: 流金の貫通Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Lu_Dodge_Lv2
+CN: 流金贯行Ⅱ
+EN: Golden Impale II
+JP: 流金の貫通Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Lu_Pugong_Lv1
+CN: 手术准备Ⅰ
+EN: Surgery Prep I
+JP: 手術準備Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Lu_Pugong_Lv2
+CN: 手术准备Ⅱ
+EN: Surgery Prep II
+JP: 手術準備Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Lu_SkillE_Lv1
+CN: 采集样本Ⅰ
+EN: Sample Collection I
+JP: サンプル採取Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Lu_SkillE_Lv2
+CN: 采集样本Ⅱ
+EN: Sample Collection II
+JP: サンプル採取Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Lu_SkillE_Lv3
+CN: 采集样本Ⅲ
+EN: Sample Collection III
+JP: サンプル採取Ⅲ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Lu_SkillQ_Lv1
+CN: 拟形：陆·赫斯Ⅰ
+EN: Morph - Luuk Herssen I
+JP: 擬形：リューク・ヘルセンⅠ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Lu_SkillQ_Lv2
+CN: 拟形：陆·赫斯Ⅱ
+EN: Morph - Luuk Herssen II
+JP: 擬形：リューク・ヘルセンⅡ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Lu_SkillR_Lv1
+CN: 辉光日冕Ⅰ
+EN: Radiant Corona I
+JP: 煌めく日輪Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Lu_SkillR_Lv2
+CN: 辉光日冕Ⅱ
+EN: Radiant Corona II
+JP: 煌めく日輪Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Lu_SkillR_Lv3
+CN: 辉光日冕Ⅲ
+EN: Radiant Corona III
+JP: 煌めく日輪Ⅲ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Lu_SuperBeidong_Lv1
+CN: 终局之释义Ⅰ
+EN: Endnotes on the Endgame I
+JP: 終局の定義Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Lu_Zhongji_Lv1
+CN: 循环论断Ⅰ
+EN: Circular Verdict I
+JP: 輪廻の結論Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Lu_Zhongji_Lv2
+CN: 循环论断Ⅱ
+EN: Circular Verdict II
+JP: 輪廻の結論Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Lu_Zhongji_Lv3
+CN: 循环论断Ⅲ
+EN: Circular Verdict III
+JP: 輪廻の結論Ⅲ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Qingxiao_Beidong01_Lv1
+CN: 流云无相Ⅰ
+EN: Amorphous Cloud I
+JP: 形なき雲流Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Qingxiao_Beidong01_Lv2
+CN: 流云无相Ⅱ
+EN: Amorphous Cloud II
+JP: 形なき雲流Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Qingxiao_Beidong01_Lv3
+CN: 流云无相Ⅲ
+EN: Amorphous Cloud III
+JP: 形なき雲流Ⅲ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Qingxiao_Beidong02_Lv1
+CN: 识海浩渺Ⅰ
+EN: Mind Ocean I
+JP: 広がる識の海Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Qingxiao_Beidong02_Lv2
+CN: 识海浩渺Ⅱ
+EN: Mind Ocean II
+JP: 広がる識の海Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Qingxiao_Beidong02_Lv3
+CN: 识海浩渺Ⅲ
+EN: Mind Ocean III
+JP: 広がる識の海Ⅲ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Qingxiao_Beidong03_Lv1
+CN: 天人合一Ⅰ
+EN: One with the Heaven I
+JP: 天人合一Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Qingxiao_Beidong03_Lv2
+CN: 天人合一Ⅱ
+EN: One with the Heaven II
+JP: 天人合一Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Qingxiao_Dodge_Lv1
+CN: 浮光掠影Ⅰ
+EN: Fleeting Light I
+JP: 浮光の残影Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Qingxiao_Dodge_Lv2
+CN: 浮光掠影Ⅱ
+EN: Fleeting Light II
+JP: 浮光の残影Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Qingxiao_Pugong_Lv1
+CN: 剑随心至Ⅰ
+EN: Heartbound Edge I
+JP: 意のままの剣Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Qingxiao_Pugong_Lv2
+CN: 剑随心至Ⅱ
+EN: Heartbound Edge II
+JP: 意のままの剣Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Qingxiao_SkillE_Lv1
+CN: 天地正音Ⅰ
+EN: Cosmic Chord I
+JP: 天地正音Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Qingxiao_SkillE_Lv2
+CN: 天地正音Ⅱ
+EN: Cosmic Chord II
+JP: 天地正音Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Qingxiao_SkillE_Lv3
+CN: 天地正音Ⅲ
+EN: Cosmic Chord III
+JP: 天地正音Ⅲ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Qingxiao_SkillQ_Lv1
+CN: 拟形：清宵Ⅰ
+EN: Morph - Qingxiao I
+JP: 擬形：清宵Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Qingxiao_SkillQ_Lv2
+CN: 拟形：清宵Ⅱ
+EN: Morph - Qingxiao II
+JP: 擬形：清宵Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Qingxiao_SkillR_Lv1
+CN: 破尽万法Ⅰ
+EN: One That Breaks All I
+JP: 万象破尽Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Qingxiao_SkillR_Lv2
+CN: 破尽万法Ⅱ
+EN: One That Breaks All II
+JP: 万象破尽Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Qingxiao_SkillR_Lv3
+CN: 破尽万法Ⅲ
+EN: One That Breaks All III
+JP: 万象破尽Ⅲ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Qingxiao_SuperBeidong_Lv1
+CN: 尘世万剑主Ⅰ
+EN: Sword Sovereign I
+JP: 万剣の主Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Qingxiao_Zhongji_Lv1
+CN: 荡邪除祟Ⅰ
+EN: Purge of Evil I
+JP: 邪祟祓いⅠ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Qingxiao_Zhongji_Lv2
+CN: 荡邪除祟Ⅱ
+EN: Purge of Evil II
+JP: 邪祟祓いⅡ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Qingxiao_Zhongji_Lv3
+CN: 荡邪除祟Ⅲ
+EN: Purge of Evil III
+JP: 邪祟祓いⅢ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Suisui_Beidong01_Lv1
+CN: 重明Ⅰ
+EN: Pure Luster I
+JP: 重明Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Suisui_Beidong01_Lv2
+CN: 重明Ⅱ
+EN: Pure Luster II
+JP: 重明Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Suisui_Beidong02_Lv1
+CN: 清云Ⅰ
+EN: Clear Cloud I
+JP: 蒼雲Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Suisui_Beidong02_Lv2
+CN: 清云Ⅱ
+EN: Clear Cloud II
+JP: 蒼雲Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Suisui_Beidong03_Lv1
+CN: 漱玉Ⅰ
+EN: Tinkles of Jade I
+JP: 玉響Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Suisui_Beidong03_Lv2
+CN: 漱玉Ⅱ
+EN: Tinkles of Jade II
+JP: 玉響Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Suisui_Dodge_Lv1
+CN: 纷落Ⅰ
+EN: Petal Fall I
+JP: 散華Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Suisui_Dodge_Lv2
+CN: 纷落Ⅱ
+EN: Petal Fall II
+JP: 散華Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Suisui_Pugong_Lv1
+CN: 浣尘Ⅰ
+EN: Cleansing Zephyr I
+JP: 塵払いⅠ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Suisui_Pugong_Lv2
+CN: 浣尘Ⅱ
+EN: Cleansing Zephyr II
+JP: 塵払いⅡ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Suisui_SkillE_Lv1
+CN: 润物Ⅰ
+EN: Enrichment I
+JP: 潤いⅠ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Suisui_SkillE_Lv2
+CN: 润物Ⅱ
+EN: Enrichment II
+JP: 潤いⅡ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Suisui_SkillE_Lv3
+CN: 润物Ⅲ
+EN: Enrichment III
+JP: 潤いⅢ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Suisui_SkillQ_Lv1
+CN: 拟形：穗穗Ⅰ
+EN: Morph - Suisui I
+JP: 擬形：穂穂Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Suisui_SkillQ_Lv2
+CN: 拟形：穗穗Ⅱ
+EN: Morph - Suisui II
+JP: 擬形：穂穂Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Suisui_SkillR_Lv1
+CN: 流觞Ⅰ
+EN: Floating Cup I
+JP: 流宴Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Suisui_SkillR_Lv2
+CN: 流觞Ⅱ
+EN: Floating Cup II
+JP: 流宴Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Suisui_SuperBeidong_Lv1
+CN: 空明Ⅰ
+EN: Clarity of Emptiness I
+JP: 空明Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Suisui_Zhongji_Lv1
+CN: 烟岚Ⅰ
+EN: Undulating Mist I
+JP: 煙嵐Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Suisui_Zhongji_Lv2
+CN: 烟岚Ⅱ
+EN: Undulating Mist II
+JP: 煙嵐Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Suisui_Zhongji_Lv3
+CN: 烟岚Ⅲ
+EN: Undulating Mist III
+JP: 煙嵐Ⅲ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Xuanling_Beidong01_Lv1
+CN: 风我同频Ⅰ
+EN: One with the Wind I
+JP: 風我同調Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Xuanling_Beidong01_Lv2
+CN: 风我同频Ⅱ
+EN: One with the Wind II
+JP: 風我同調Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Xuanling_Beidong02_Lv1
+CN: 风息相依Ⅰ
+EN: Windbound I
+JP: 寄り添う風たちⅠ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Xuanling_Beidong02_Lv2
+CN: 风息相依Ⅱ
+EN: Windbound II
+JP: 寄り添う風たちⅡ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Xuanling_Beidong02_Lv3
+CN: 风息相依Ⅲ
+EN: Windbound III
+JP: 寄り添う風たちⅢ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Xuanling_Beidong03_Lv1
+CN: 移宫换羽Ⅰ
+EN: Tonal Switch I
+JP: 宮羽転調Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Xuanling_Beidong03_Lv2
+CN: 移宫换羽Ⅱ
+EN: Tonal Switch II
+JP: 宮羽転調Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Xuanling_Dodge_Lv1
+CN: 余音流转Ⅰ
+EN: Flow of Aftersound I
+JP: 響きの余韻Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Xuanling_Dodge_Lv2
+CN: 余音流转Ⅱ
+EN: Flow of Aftersound II
+JP: 響きの余韻Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Xuanling_Dodge_Lv3
+CN: 余音流转Ⅲ
+EN: Flow of Aftersound III
+JP: 響きの余韻Ⅲ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Xuanling_Pugong_Lv1
+CN: 霜锋逆羽Ⅰ
+EN: Defiant Plume I
+JP: 氷羽の刃Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Xuanling_Pugong_Lv2
+CN: 霜锋逆羽Ⅱ
+EN: Defiant Plume II
+JP: 氷羽の刃Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Xuanling_Pugong_Lv3
+CN: 霜锋逆羽Ⅲ
+EN: Defiant Plume III
+JP: 氷羽の刃Ⅲ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Xuanling_SkillE_Lv1
+CN: 湮象风华Ⅰ
+EN: Havoc in Bloom I
+JP: 蝕む風Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Xuanling_SkillE_Lv2
+CN: 湮象风华Ⅱ
+EN: Havoc in Bloom II
+JP: 蝕む風Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Xuanling_SkillE_Lv3
+CN: 湮象风华Ⅲ
+EN: Havoc in Bloom III
+JP: 蝕む風Ⅲ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Xuanling_SkillQ_Lv1
+CN: 拟形：秧秧Ⅰ
+EN: Morph - Yangyang I
+JP: 擬形：秧秧Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Xuanling_SkillQ_Lv2
+CN: 拟形：秧秧Ⅱ
+EN: Morph - Yangyang II
+JP: 擬形：秧秧Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Xuanling_SkillR_Lv1
+CN: 恒守之誓Ⅰ
+EN: Unbroken Vow I
+JP: 悠久の誓いⅠ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Xuanling_SkillR_Lv2
+CN: 恒守之誓Ⅱ
+EN: Unbroken Vow II
+JP: 悠久の誓いⅡ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Xuanling_SuperBeidong_Lv1
+CN: 万声皆流Ⅰ
+EN: Voice Flux I
+JP: 循環する音流Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Xuanling_Zhongji_Lv1
+CN: 掠羽流风Ⅰ
+EN: Skimming Gust I
+JP: 流風の羽Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Xuanling_Zhongji_Lv2
+CN: 掠羽流风Ⅱ
+EN: Skimming Gust II
+JP: 流風の羽Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_EffectName_Xuanling_Zhongji_Lv3
+CN: 掠羽流风Ⅲ
+EN: Skimming Gust III
+JP: 流風の羽Ⅲ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_RoleName_01
+CN: 绯雪
+EN: Hiyuki
+JP: 緋雪
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_RoleName_02
+CN: 菲比
+EN: Phoebe
+JP: フィービー
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_RoleName_03
+CN: 卡提希娅
+EN: Cartethyia
+JP: カルテジア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_RoleName_04
+CN: 奥古斯塔
+EN: Augusta
+JP: オーガスタ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_RoleName_05
+CN: 爱弥斯
+EN: Aemeath
+JP: エイメス
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_RoleName_06
+CN: 椿
+EN: Camellya
+JP: ツバキ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_RoleName_07
+CN: 景燃
+EN: Jingran
+JP: 景燃
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_RoleName_08
+CN: 秧秧·玄翎
+EN: Yangyang: Xuanling
+JP: 秧秧・玄翎
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_RoleName_09
+CN: 陆·赫斯
+EN: Luuk Herssen
+JP: リューク・ヘルセン
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_RoleName_10
+CN: 清宵
+EN: Qingxiao
+JP: 清宵
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_RoleName_11
+CN: 穗穗
+EN: Suisui
+JP: 穂穂
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_RoleName_12
+CN: 弗洛洛
+EN: Phrolova
+JP: フローヴァ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_RoleName_13
+CN: 嘉贝莉娜
+EN: Galbrena
+JP: ガルブレーナ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_RoleName_Skill_01
+CN: 拟形：绯雪
+EN: Morph - Hiyuki
+JP: 擬形：緋雪
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_RoleName_Skill_02
+CN: 拟形：菲比
+EN: Morph - Phoebe
+JP: 擬形：フィービー
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_RoleName_Skill_03
+CN: 拟形：卡提希娅
+EN: Morph - Cartethyia
+JP: 擬形：カルテジア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_RoleName_Skill_04
+CN: 拟形：奥古斯塔
+EN: Morph - Augusta
+JP: 擬形：オーガスタ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_RoleName_Skill_05
+CN: 拟形：爱弥斯
+EN: Morph - Aemeath
+JP: 擬形：エイメス
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_RoleName_Skill_06
+CN: 拟形：椿
+EN: Morph - Camellya
+JP: 擬形：ツバキ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_RoleName_Skill_07
+CN: 拟形：景燃
+EN: Morph - Jingran
+JP: 擬形：景燃
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_RoleName_Skill_08
+CN: 拟形：秧秧·玄翎
+EN: Morph - Yangyang: Xuanling
+JP: 擬形：秧秧・玄翎
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_RoleName_Skill_09
+CN: 拟形：陆·赫斯
+EN: Morph - Luuk Herssen
+JP: 擬形：リューク・ヘルセン
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_RoleName_Skill_10
+CN: 拟形：清宵
+EN: Morph - Qingxiao
+JP: 擬形：清宵
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_RoleName_Skill_11
+CN: 拟形：穗穗
+EN: Morph - Suisui
+JP: 擬形：穂穂
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_RoleName_Skill_12
+CN: 拟形：弗洛洛
+EN: Morph - Phrolova
+JP: 擬形：フローヴァ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_RoleName_Skill_13
+CN: 拟形：嘉贝莉娜
+EN: Morph - Galbrena
+JP: 擬形：ガルブレーナ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_TriggerRoleInfo_01_01
+CN: 去吧，这把刀亦可为你所用。
+EN: Go. This blade is also at your service.
+JP: 行くがよい。この刀も、お主の力となろう。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_TriggerRoleInfo_01_02
+CN: 安心交给我。我会为你扫清眼前的阻碍。
+EN: Leave it to me. I will clear the path ahead.
+JP: 任せるがよい。お主の前にある障害は、妾が取り除こう。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_TriggerRoleInfo_02_01
+CN: 遇到阻碍了吗？请让我也出一份力吧。敬请光辉降下，照亮暴风雨遮蔽的黑夜……
+EN: Running into troubles? Please, let me lend a hand. May the light descend and pierce the stormy night...
+JP: 行く手を阻まれているのですね。どうか私にも、お手伝いをさせてください。聖なる輝きよ、嵐に閉ざされた夜を照らしてください……
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_TriggerRoleInfo_02_02
+CN: 请继续前进吧，漂泊者。我会为你驱散沿途的阴影。
+EN: Keep moving forward, Rover. I will scatter the shadows along your path.
+JP: どうか前へお進みください、漂泊者さん。行く手を覆う闇は、この光で私が照らします。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_TriggerRoleInfo_03_01
+CN: 这把剑将循你的意志而动。
+EN: This blade will answer to your will.
+JP: この剣は、あなたの思うがままに。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_TriggerRoleInfo_03_02
+CN: 属于风的频率正在你我之间共鸣。
+EN: The frequency of the wind resonates between us.
+JP: 風の調べが、今、あなたと私の間で響き合っています。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_TriggerRoleInfo_04_01
+CN: 既然他们胆敢举起兵刃，就该承受其代价。前行吧，漂泊者，不败的恒阳将伴你左右。
+EN: Since they dare raise their blades, they shall pay the price. Press on, Rover, the eternal sun is by your side.
+JP: 刃を向ける覚悟があるのなら、その代償も受け入れるべきだ。進め、漂泊者よ。不敗の恒陽は、常にお主と共にある。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_TriggerRoleInfo_04_02
+CN: 你的眼中燃烧着灼热的赤诚，这正是我们比肩而行的基石。此刻我愿将力量托付于你，让他们亲眼见证何为不可撼动的胜利。
+EN: Your eyes blaze with fierce devotion, the very bedrock of our companionship. Now I place my strength in your hands. Let them behold a victory that cannot be shaken.
+JP: お主の瞳に宿る燃え盛る誠意こそ、余とお主が肩を並べて進むための礎だ。今、この力をお主に託そう。我らが揺るぎなき勝利とは何か、奴ら自身の目で、揺るぎない勝利というものを目撃させる。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_TriggerRoleInfo_05_01
+CN: 要试试吗？来试试吧？隧者兵装的力量！不管前方有什么阻碍，都可以清扫得干干净净哦~
+EN: Wanna try it? Come on, give it a go! The power of the Exostrider Armament! Whatever blocks the way ahead, it will sweep everything squeaky clean!
+JP: 試してみる？ じゃあ、いっくよ～！エクソストライダー武装の力、とくと見ててね！この先に何が待ってても、まとめて吹き飛ばしちゃうよ～！
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_TriggerRoleInfo_05_02
+CN: 哼哼~要和宇宙中的邪恶势力对抗，那就得用火力压制嘛！所以——看准时机，启动光炮射击阵列吧！
+EN: Hehe! If we wanna beat the baddies in the cosmos, we gotta outgun 'em! So pick your moment and light up the beam array!
+JP: ふふ～ん、宇宙の悪いヤツらと戦うなら、やっぱり火力で押し切らなきゃね！だから――タイミングを合わせて、ビームカノン射撃アレイ、起動～！
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_TriggerRoleInfo_06_01
+CN: 呵……这朵花在你手中盛放的样子，比我预想的更有趣呢。如何，喜欢吗？
+EN: Heh... The way this flower blooms in your hands is more amusing than I expected. Well, do you like it?
+JP: ふふ……その花が貴方の手の中で咲く姿、思っていたよりずっと面白いね。どう？ 気に入った？
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_TriggerRoleInfo_06_02
+CN: 果然……只有你总能让我感到兴奋。哈，有意思~和你共舞的滋味总是这么令人愉快！
+EN: Just as I expected... Only you never fail to thrill me. Ha, how fun! Dancing with you is always such a sweet, sweet delight!
+JP: やっぱり……私をこんなにも胸躍らせてくれるのは、貴方だけだね。ふふっ、面白い～貴方と踊る時間って、いつもこんなに楽しいんだ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_TriggerRoleInfo_07_01
+CN: 算了，正好顺路，多个人说说话倒也不坏。要是遇见什么棘手的事情——让那只瘸尾猫解决就行了。
+EN: Well, I'm headed that way anyway. Be nice to have someone to chat with, honestly. Run into anything tricky, just let this bobtail cat handle it.
+JP: ま、ちょうど行く先も同じだ。話し相手が増えるのも悪くねぇ。面倒事が起きたら――あの尻尾の欠けた猫にでも押しつけりゃいい。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_TriggerRoleInfo_07_02
+CN: 洞晓阴阳，驭妖敕鬼；提灯照夜，皆照……此身。
+EN: Yin and Yang bared to my sight, spirits and ghosts bowed to my might. Lantern high, I light up the night. All of it... burns in my lamp.
+JP: 陰陽を見極め、妖を従え、鬼を敕す。提灯は夜を照らし、すべてを照らす……この身をも。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_TriggerRoleInfo_08_01
+CN: 看来这一次，我们又要面对共同的敌人了。走吧，漂泊者。若前方仍有阻碍，那就由我们一同斩开。
+EN: Seems like we're facing a common foe again. Come, Rover. Whatever stands in our way, we'll cut through it together.
+JP: また共通の敵と向き合うことになりそうですね。行きましょう、漂泊者さん。どんな障害が待っていても、私たちなら一緒に乗り越えられます。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_TriggerRoleInfo_08_02
+CN: 鸟儿总会飞向远方，掠过群山、越过风暴，追寻风所在的方向……我希望，我也能像风中的鸟儿，飞向需要我的地方。
+EN: Birds always fly somewhere far away. Over the mountains, through the storms, chasing wherever the wind leads... I hope I can be like that too. A bird in the wind, flying wherever I'm needed.
+JP: 鳥はいつか、遠い空へと飛び立ちます。群山を越え、嵐を越え、風の導く先へ……私もいつか、風の中を飛ぶ鳥のように、必要としてくれる人のもとへ辿り着きたいです。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_TriggerRoleInfo_09_01
+CN: 正好，今天的诊疗工作已经结束了，现在是我的私人时间。
+EN: Good timing. Today's rounds are done, so this is my private time now.
+JP: ちょうど診療も終わったところでね。今はワタシのプライベートな時間さ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_TriggerRoleInfo_09_02
+CN: 需要我出外勤？嗯——当然没问题。遇到什么突发情况你我也能并肩应对。
+EN: Need me out in the field? Mmm, sure, no problem. Whatever comes up, we can handle it side by side.
+JP: 外勤が必要なのかい？ うん――もちろん構わないよ。どんな不測の事態が起きようと、キミとなら肩を並べて乗り越えられるからね。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_TriggerRoleInfo_10_01
+CN: 这一缕剑意由我心念所生，亦能随你心意而动。若遇险阻，便让我的剑为你破除吧。
+EN: This wisp of Sword Intent born of my mind shall answer to yours. Should you meet with obstacles, let my blade break them.
+JP: この一筋の剣意は私の心より生まれたもの。あなたの意志に応じて、その刃もまた応えよう。険しい道に阻まれたなら、私の剣が切り開こう。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_TriggerRoleInfo_10_02
+CN: 避其锐，寻其隙，乘其弊。徒儿，这一式虽无关制敌，但虑定而动，亦是修行。
+EN: Dodge the edge, find the gap, exploit the flaw. Disciple, though this stance is not meant for besting a foe, to act with deliberation is itself cultivation.
+JP: 鋭を避け、隙を窺い、機に乗ず。弟子よ、この一式は敵を斬るための剣ではない。心を鎮め、思慮を尽くしてから動く――それもまた修行なのだ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_TriggerRoleInfo_11_01
+CN: 我倒不是担心你应付不了啦，只是这样热闹的场合，我可不能缺席。那知无心云，解作及时雨~
+EN: Not that I doubt you can handle it, darling. I just can't miss out on a lively occasion like this. A mindless cloud might still bring timely rain.
+JP: あなたなら大丈夫だって分かっているわ。ただ、こんな賑やかな場に、私だけ参加しないわけにはいかないもの。ふふ……無心に流れる雲も、ときには恵みの雨になるものね。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_TriggerRoleInfo_11_02
+CN: 漱玉清泉石琤琮，涧边明月水泠泠……凡是水流，皆能被我驭使，为你而用。
+EN: Springs chime over stones like tinkling jade, a bright moon over the stream, the water singing cool and clear... All flowing water is mine to command, and yours to wield.
+JP: 玉を洗う清泉は澄み渡り、渓流の水面には月が静かに揺れる……流れる水であるなら、すべて私が導き、あなたの力としてみせるわ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_TriggerRoleInfo_12_01
+CN: 即兴发挥的灵感？还真是动人的旋律。
+EN: An improvised flourish? How moving a melody.
+JP: 即興のひらめき？ふふ……なかなか心惹かれる旋律ね。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_TriggerRoleInfo_12_02
+CN: 乱序的曲调不会干扰到合奏。
+EN: A discordant note need not disturb the ensemble.
+JP: 曲調が乱れていても、合奏には影響しないわ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_TriggerRoleInfo_13_01
+CN: 不被火焰焚烬最好的办法，就是活在火中。痛苦会让你保持清醒，直至一场狩猎彻底结束。
+EN: To keep the fire from consuming you, live inside it. Pain keeps you sharp. Until the hunt is truly over.
+JP: 炎に呑まれたくなければ、炎と共に生きろ。狩りが終わるその瞬間まで、苦痛こそがお前の意識を繋ぎ止める。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueBless_TriggerRoleInfo_13_02
+CN: 我驱使着黑潮的力量，这身骨血亦早已化作炽热不熄的火焰。如今我将火种交到你的手中，与你一同赶赴下一个猎场。
+EN: I wield the power of the Dark Tide, this blood and bone turned to unquenchable flame long ago. Now I place that ember in your hands. Together, we ride to the next hunting ground.
+JP: 黒潮の力を従え、この身も骨も血も、尽きることなき業火へと変えた。今、その火種をお前に託そう。共に次なる狩り場へ赴くぞ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueEventItem_Desc_01
+CN: 普攻伤害提升{0}。
+EN: Basic Attack DMG is increased by {0}.
+JP: 通常攻撃ダメージが{0}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueEventItem_Desc_02
+CN: 共鸣技能伤害提升{0}。
+EN: Resonance Skill DMG is increased by {0}.
+JP: 共鳴スキルダメージが{0}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueEventItem_Desc_03
+CN: 重击伤害提升{0}。
+EN: Heavy Attack DMG is increased by {0}.
+JP: 重撃ダメージが{0}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueEventItem_Desc_04
+CN: 拟形技能伤害提升{0}。
+EN: Morph Skill DMG is increased by {0}.
+JP: 擬形スキルダメージが{0}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueEventItem_Desc_05
+CN: 攻击力提升{0}。
+EN: ATK is increased by {0}.
+JP: 攻撃力が{0}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueEventItem_Desc_06
+CN: 暴击率提升{0}。
+EN: Crit. Rate is increased by {0}.
+JP: クリティカル率が{0}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueEventItem_Desc_07
+CN: 受到的伤害降低{0}。
+EN: DMG taken is reduced by {0}.
+JP: 被ダメージが{0}軽減される。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueEventItem_Desc_08
+CN: 每当进入「补给据点」时，回复{0}的最大生命值。
+EN: Entering a Supply Base restores {0} of Max HP.
+JP: 「補給拠点」に入るたび、HP上限の{0}を回復する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueEventItem_Desc_09
+CN: 对精英和首领敌人造成的伤害提升{0}。
+EN: DMG against Elite and Boss targets is increased by {0}.
+JP: エリート・ボス敵に与えるダメージが{0}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueEventItem_Desc_10
+CN: 造成的伤害提升{0}。
+EN: DMG dealt is increased by {0}.
+JP: 与ダメージが{0}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueEventItem_Desc_11
+CN: 对精英和首领敌人造成的伤害提升{0}。
+EN: DMG against Elite and Boss targets is increased by {0}.
+JP: エリート・ボス敵に与えるダメージが{0}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueEventItem_Name_01
+CN: 火方玉碎
+EN: Sizzling Jade Stir-fry
+JP: 芳醇ハムの白雪茸蒸し
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueEventItem_Name_02
+CN: 蟹烧鱼
+EN: Crab Braised Fish
+JP: 蟹香る魚の甘酢煮
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueEventItem_Name_03
+CN: 煎玉翡翠汤
+EN: Jade Mushroom Soup
+JP: 煎り白玉のスープ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueEventItem_Name_04
+CN: 浓香熏肉烩炖
+EN: Smoked Meat Stew
+JP: 濃厚な香りのスモークシチュー
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueEventItem_Name_05
+CN: 酿肉豆腐
+EN: Stuffed Tofu
+JP: 肉詰め豆腐
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueEventItem_Name_06
+CN: 油辣豆腐
+EN: Chili Sauce Tofu
+JP: ラー油豆腐
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueEventItem_Name_07
+CN: 特浓奶昔刨冰
+EN: Frosted Cream Blizzard
+JP: 特濃ミルクれん乳氷
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueEventItem_Name_08
+CN: 热海皇梨披萨
+EN: Pizza Tropicale
+JP: ピザ・トロピカーレ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueEventItem_Name_09
+CN: 辛香肉片
+EN: Spicy Meat Slices
+JP: 肉のピリ辛炒め
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueEventItem_Name_10
+CN: 特级辣椒
+EN: Premium Chili
+JP: 特級唐辛子
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueEventItem_Name_11
+CN: 今州冒菜
+EN: Jinzhou Maocai
+JP: 今州ごった煮
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueFakeItem_BlessDesc_01
+CN: 可获得一个绯雪的共鸣因子。
+EN: Grants one of Hiyuki's Resonance Factors.
+JP: 緋雪の共鳴因子を1つ獲得できる。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueFakeItem_BlessDesc_02
+CN: 可获得一个菲比的共鸣因子。
+EN: Grants one of Phoebe's Resonance Factors.
+JP: フィービーの共鳴因子を1つ獲得できる。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueFakeItem_BlessDesc_03
+CN: 可获得一个卡提希娅的共鸣因子。
+EN: Grants one of Cartethyia's Resonance Factors.
+JP: カルテジアの共鳴因子を1つ獲得できる。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueFakeItem_BlessDesc_04
+CN: 可获得一个奥古斯塔的共鸣因子。
+EN: Grants one of Augusta's Resonance Factors.
+JP: オーガスタの共鳴因子を1つ獲得できる。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueFakeItem_BlessDesc_05
+CN: 可获得一个爱弥斯的共鸣因子。
+EN: Grants one of Aemeath's Resonance Factors.
+JP: エイメスの共鳴因子を1つ獲得できる。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueFakeItem_BlessDesc_06
+CN: 可获得一个椿的共鸣因子。
+EN: Grants one of Camellya's Resonance Factors.
+JP: ツバキの共鳴因子を1つ獲得できる。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueFakeItem_BlessDesc_07
+CN: 可获得一个景燃的共鸣因子。
+EN: Grants one of Jingran's Resonance Factors.
+JP: 景燃の共鳴因子を1つ獲得できる。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueFakeItem_BlessDesc_08
+CN: 可获得一个秧秧·玄翎的共鸣因子。
+EN: Grants one of Yangyang: Xuanling's Resonance Factors.
+JP: 秧秧・玄翎の共鳴因子を1つ獲得できる。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueFakeItem_BlessDesc_09
+CN: 可获得一个陆·赫斯的共鸣因子。
+EN: Grants one of Luuk Herssen's Resonance Factors.
+JP: リューク・ヘルセンの共鳴因子を1つ獲得できる。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueFakeItem_BlessDesc_10
+CN: 可获得一个清宵的共鸣因子。
+EN: Grants one of Qingxiao's Resonance Factors.
+JP: 清宵の共鳴因子を1つ獲得できる。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueFakeItem_BlessDesc_11
+CN: 可获得一个穗穗的共鸣因子。
+EN: Grants one of Suisui's Resonance Factors.
+JP: 穂穂の共鳴因子を1つ獲得できる。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueFakeItem_BlessDesc_12
+CN: 可获得一个弗洛洛的共鸣因子。
+EN: Grants one of Phrolova's Resonance Factors.
+JP: フローヴァの共鳴因子を1つ獲得できる。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueFakeItem_BlessDesc_13
+CN: 可获得一个嘉贝莉娜的共鸣因子。
+EN: Grants one of Galbrena's Resonance Factors.
+JP: ガルブレーナの共鳴因子を1つ獲得できる。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueFakeItem_BlessName_01
+CN: 共鸣因子·绯雪
+EN: Resonance Factor - Hiyuki
+JP: 共鳴因子・緋雪
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueFakeItem_BlessName_02
+CN: 共鸣因子·菲比
+EN: Resonance Factor - Phoebe
+JP: 共鳴因子・フィービー
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueFakeItem_BlessName_03
+CN: 共鸣因子·卡提希娅
+EN: Resonance Factor - Cartethyia
+JP: 共鳴因子・カルテジア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueFakeItem_BlessName_04
+CN: 共鸣因子·奥古斯塔
+EN: Resonance Factor - Augusta
+JP: 共鳴因子・オーガスタ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueFakeItem_BlessName_05
+CN: 共鸣因子·爱弥斯
+EN: Resonance Factor - Aemeath
+JP: 共鳴因子・エイメス
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueFakeItem_BlessName_06
+CN: 共鸣因子·椿
+EN: Resonance Factor - Camellya
+JP: 共鳴因子・ツバキ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueFakeItem_BlessName_07
+CN: 共鸣因子·景燃
+EN: Resonance Factor - Jingran
+JP: 共鳴因子・景燃
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueFakeItem_BlessName_08
+CN: 共鸣因子·秧秧·玄翎
+EN: Resonance Factor - Yangyang: Xuanling
+JP: 共鳴因子・秧秧・玄翎
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueFakeItem_BlessName_09
+CN: 共鸣因子·陆·赫斯
+EN: Resonance Factor - Luuk Herssen
+JP: 共鳴因子・リューク・ヘルセン
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueFakeItem_BlessName_10
+CN: 共鸣因子·清宵
+EN: Resonance Factor - Qingxiao
+JP: 共鳴因子・清宵
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueFakeItem_BlessName_11
+CN: 共鸣因子·穗穗
+EN: Resonance Factor - Suisui
+JP: 共鳴因子・穂穂
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueFakeItem_BlessName_12
+CN: 共鸣因子·弗洛洛
+EN: Resonance Factor - Phrolova
+JP: 共鳴因子・フローヴァ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueFakeItem_BlessName_13
+CN: 共鸣因子·嘉贝莉娜
+EN: Resonance Factor - Galbrena
+JP: 共鳴因子・ガルブレーナ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueFakeItem_SpecialDesc_01
+CN: 可获得一个角色强化效果。
+EN: Grants a Resonator Enhancement effect.
+JP: キャラ強化効果を1つ獲得できる。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueFakeItem_SpecialDesc_02
+CN: 强化一个已有的共鸣因子。
+EN: Enhances an owned Resonance Factor.
+JP: 所持している共鳴因子を1つ強化する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueFakeItem_SpecialDesc_03
+CN: 生命上限+{0}%。
+EN: Max HP +{0}%.
+JP: HP上限+{0}%
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueFakeItem_SpecialItemName_01
+CN: 金装香油
+EN: Gilded Oil
+JP: 極上香油
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueFakeItem_SpecialItemName_02
+CN: 辉光合剂
+EN: Radiant Elixir
+JP: 輝光の合剤
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueFakeItem_SpecialItemName_03
+CN: 分瓣面包
+EN: Blooming Bread
+JP: ちぎりパン
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueFakeItem_SpecialName_01
+CN: 角色强化
+EN: Resonator Enhancement
+JP: キャラ強化
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueFakeItem_SpecialName_02
+CN: 因子强化
+EN: Factor Enhancement
+JP: 因子強化
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueFakeItem_SpecialName_03
+CN: 生命上限
+EN: Max HP
+JP: HP上限
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Desc_01
+CN: 每次进入新的区域时，回复已损生命值{0}的生命。
+EN: Entering a new Zone restores {0} of lost HP.
+JP: 新エリアに入るたびに、失ったHPの{0}を回復する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Desc_02
+CN: 施放冲刺后的{0}秒内，受到伤害降低{1}。
+EN: For {0}s after casting Dash, DMG taken is reduced by {1}.
+JP: ダッシュ後{0}秒間、被ダメージが{1}軽減される。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Desc_03
+CN: 回复生命上限{0}的生命。
+EN: Restores {0} of Max HP.
+JP: HP上限の{0}分を回復する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Desc_04
+CN: 受到来自精英和首领目标的伤害降低{0}。
+EN: DMG taken from Elite and Boss targets is reduced by {0}.
+JP: エリート敵およびボスから受けるダメージが{0}軽減される。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Desc_05
+CN: 施放共鸣技能后，获得生命上限{0}的护盾，持续{1}秒。
+EN: Casting Resonance Skill grants a Shield equal to {0} of Max HP for {1}s.
+JP: 共鳴スキルを発動後、HP上限の{0}分のシールドを獲得し、{1}秒間持続。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Desc_06
+CN: 受到攻击时，如果自身生命小于{0}，获得生命上限{1}的护盾，持续{2}秒，每个区域中可生效1次。
+EN: If current HP is below {0} when taking a hit, grants a Shield equal to {1} of Max HP for {2}s, triggered once per Zone.
+JP: 攻撃を受けると、自身のHPが{0}未満の場合、HP上限の{1}分のシールドを獲得し、{2}秒間持続。この効果は各エリアで1回発動可能。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Desc_08
+CN: 普攻伤害提升{0}。
+EN: Basic Attack DMG is increased by {0}.
+JP: 通常攻撃ダメージが{0}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Desc_09
+CN: 重击伤害提升{0}。
+EN: Heavy Attack DMG is increased by {0}.
+JP: 重撃ダメージが{0}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Desc_10
+CN: 共鸣技能伤害提升{0}。
+EN: Resonance Skill DMG is increased by {0}.
+JP: 共鳴スキルダメージが{0}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Desc_11
+CN: 拟形技能伤害提升{0}。
+EN: Morph Skill DMG is increased by {0}.
+JP: 擬形スキルダメージが{0}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Desc_12
+CN: 每次进入新的区域时，拟形能量回复{0}点。
+EN: Entering a new Zone restores {0} points of Morph Energy.
+JP: 新エリアに入るたびに、擬形エネルギーを{0}Pt獲得する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Desc_13
+CN: 对精英和首领目标造成的伤害加深{0}。
+EN: DMG against Elite and Boss targets is Amplified by {0}.
+JP: エリート・ボス敵への与ダメージに{0}のダメージブーストが付く。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Desc_14
+CN: 施放冲刺后的{0}秒内，造成伤害提升{1}。
+EN: For {0}s after casting Dash, DMG dealt is increased by {1}.
+JP: ダッシュ後{0}秒間、与ダメージが{1}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Desc_15
+CN: <te href=800036>「威慑」</te>：受到的伤害降低{0}。
+EN: <te href=800036>Dominance</te>: DMG taken is reduced by {0}.
+JP: <te href=800036>「威圧」</te>：被ダメージが{0}軽減される。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Desc_16
+CN: <te href=800037>「坚毅」</te>：受到的伤害降低{0}。
+EN: <te href=800037>Grit</te>: DMG taken is reduced by {0}.
+JP: <te href=800037>「不屈」</te>：被ダメージが{0}軽減される。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Desc_17
+CN: 造成伤害时，获得{0}层<te href=800038>「逆刃」</te>，冷却{1}秒。
+EN: Dealing DMG grants <SapTag=0>{0}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=0} of <te href=800038>Reverse Edge</te>. Cooldown: {1}s.
+JP: ダメージを与えた時、<te href=800038>「逆刃」</te>を{0}スタック獲得する。クールタイムは{1}秒。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Desc_18
+CN: 造成伤害时，对目标附加<te href=800042>「异常·光噪」</te>、<te href=800046>「异常·撕裂」</te>、<te href=800047>「异常·破甲」</te>各{0}层，每个目标{1}秒内只能被附加1次。
+EN: Dealing DMG inflicts <SapTag=0>{0}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=0} of <te href=800042>Affliction: Spectro Frazzle</te>, <te href=800046>Affliction: Laceration</te>, and <te href=800047>Affliction: Exposed</te> on the target. Each target can only trigger this effect once every {1}s.
+JP: ダメージを与えた時、目標に<te href=800042>「異常・騒光」</te>、<te href=800046>「異常・裂傷」</te>、<te href=800047>「異常・破甲」</te>をそれぞれ{0}スタック付与する。同一目標に対して{1}秒間に1回まで付与可能。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Desc_19
+CN: <te href=800045>「受击」</te>或<te href=800039>「歼灭」</te>时，回复生命上限{0}的生命。
+EN: <te href=800045>Taking a hit</te> or <te href=800039>defeating an enemy</te> restores {0} of Max HP.
+JP: <te href=800045>「被弾」</te>または<te href=800039>「殲滅」</te>を発動時、HP上限の{0}を回復する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Desc_20
+CN: <color=#aa911d><te href=800044>阈限伤害</te></color>提升{0}。
+EN: <color=#aa911d><te href=800044>Threshold DMG</te></color> is increased by {0}.
+JP: <color=#aa911d><te href=800044>閾限ダメージ</te></color>が{0}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Desc_21
+CN: 暴击提升{0}。
+EN: Crit. Rate is increased by {0}.
+JP: クリティカル率{0}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Desc_22
+CN: 每次进入新的区域时，获得{0}点行动资金。
+EN: Entering a new Zone grants {0} Op Credits.
+JP: 新エリアに入るたびに、行動資金を{0}Pt獲得する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Desc_23
+CN: 随机获得{0}个蓝色品质的共鸣因子。
+EN: Randomly obtain <SapTag=0>{0}</SapTag> Blue-rarity Resonance {Cus:Sap,S=Factor P=Factors SapTag=0}.
+JP: ブルー品質の共鳴因子をランダムで{0}個獲得する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Desc_24
+CN: 随机获得{0}个紫色品质的共鸣因子，通过{1}个区域后，随机失去{2}个共鸣因子。
+EN: Randomly obtain <SapTag=0>{0}</SapTag> Purple-rarity Resonance {Cus:Sap,S=Factor P=Factors SapTag=0}. After clearing <SapTag=1>{1}</SapTag> {Cus:Sap,S=Zone P=Zones SapTag=1}, randomly lose <SapTag=2>{2}</SapTag> Resonance {Cus:Sap,S=Factor P=Factors SapTag=2}.
+JP: パープル品質の共鳴因子をランダムで{0}個獲得する。{1}エリアクリア後、共鳴因子をランダムで{2}個失う。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Desc_25
+CN: 随机使{0}个共鸣因子的品质提升{1}级。
+EN: Randomly increases the rarity of <SapTag=0>{0}</SapTag> Resonance {Cus:Sap,S=Factor P=Factors SapTag=0} by <SapTag=1>{1}</SapTag> {Cus:Sap,S=tier P=tiers SapTag=1}.
+JP: ランダムで{0}個の共鳴因子の品質を{1}段階アップする。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Desc_27
+CN: 随机获得{0}个紫色品质的共鸣因子。
+EN: Randomly obtain <SapTag=0>{0}</SapTag> Purple-rarity Resonance {Cus:Sap,S=Factor P=Factors SapTag=0}.
+JP: パープル品質の共鳴因子をランダムで{0}個獲得する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Desc_28
+CN: 随机获得{0}个橙色品质的共鸣因子。
+EN: Randomly obtain <SapTag=0>{0}</SapTag> Orange-rarity Resonance {Cus:Sap,S=Factor P=Factors SapTag=0}.
+JP: オレンジ品質の共鳴因子をランダムで{0}個獲得する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Desc_29
+CN: 随机获得{0}个红色品质的共鸣因子。
+EN: Randomly obtain <SapTag=0>{0}</SapTag> Red-rarity Resonance {Cus:Sap,S=Factor P=Factors SapTag=0}.
+JP: レッド品質の共鳴因子をランダムで{0}個獲得する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Desc_30
+CN: 回复生命上限{0}的生命。
+EN: Restores {0} of Max HP.
+JP: HP上限の{0}分を回復する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Desc_31
+CN: 通过{0}个区域后，获得{1}点行动资金。
+EN: After clearing <SapTag=0>{0}</SapTag> more {Cus:Sap,S=Zone P=Zones SapTag=0}, grants {1} Op Credits.
+JP: {0}エリアをクリア後、行動資金を{1}Pt獲得する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Name_01
+CN: 长效吸入剂
+EN: Long-Acting Inhalant
+JP: 持続型吸入薬
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Name_02
+CN: 全营养果冻
+EN: Complete Nutrition Jelly
+JP: 完全栄養ゼリー
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Name_03
+CN: 应急吸入剂
+EN: Emergency Inhalant
+JP: 応急吸入薬
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Name_04
+CN: 植物奶
+EN: Plant Milk
+JP: 植物性ミルク
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Name_05
+CN: 能量补充胶
+EN: Energy Gel Sachet
+JP: エネルギー補給ジェル
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Name_06
+CN: 松针苏打
+EN: Pine Needle Soda
+JP: パインニードルソーダ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Name_08
+CN: 午夜妙妙杯面
+EN: Midnight Wonder Cup Noodles
+JP: ミッドナイトワンダー
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Name_09
+CN: 云凝肉酱烩面
+EN: Nuvola Pasta
+JP: ヌヴォラ・パスタ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Name_10
+CN: 荣耀烤肉套餐
+EN: Glory Roast Platter
+JP: グローリー・バーベキューセット」
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Name_11
+CN: 每日一样帕尼尼
+EN: Daily Panini
+JP: デイリーエッセンシャル・パニーノ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Name_12
+CN: 三球冰激凌
+EN: Triple-Scoop Ice Cream
+JP: トリプルジェラート
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Name_13
+CN: 青云鲞
+EN: Cloudward Stew
+JP: 青雲の塩豚煮
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Name_14
+CN: 满轮映雪
+EN: Little Snowy Moons
+JP: 雪映えの満月
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Name_15
+CN: 蜜罐果酱
+EN: Honeypot Jam
+JP: ハニースイートジャム
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Name_16
+CN: 快乐伙伴
+EN: Bubbly Buddy
+JP: 闘技のお供
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Name_17
+CN: 青枝月桂沙拉
+EN: Laurus Salad
+JP: ラウルスサラダ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Name_18
+CN: 烧焦的食物
+EN: Burnt Food
+JP: 焦げた料理
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Name_19
+CN: 浓缩催化剂
+EN: Concentrated Catalyst
+JP: 高濃度触媒
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Name_20
+CN: 掌味天下
+EN: Flavor Under Heaven
+JP: 覇王の激辛丸鶏煮
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Name_21
+CN: 玉脂清醴
+EN: Jade Broth Noodles
+JP: 白玉肉の清湯麺
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Name_22
+CN: 人造黄金
+EN: Artificial Gold
+JP: 人工黄金
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Name_23
+CN: 封装因子·蓝
+EN: Sealed Factor - Blue
+JP: 封装因子・ブルー
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Name_24
+CN: 不稳定因子
+EN: Unstable Factor
+JP: 不安定因子
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Name_25
+CN: 共鸣强化剂
+EN: Resonance Enhancer
+JP: 共鳴強化剤
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Name_27
+CN: 封装因子·紫
+EN: Sealed Factor - Purple
+JP: 封装因子・パープル
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Name_28
+CN: 封装因子·橙
+EN: Sealed Factor - Orange
+JP: 封装因子・オレンジ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Name_29
+CN: 封装因子·红
+EN: Sealed Factor - Red
+JP: 封装因子・レッド
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Name_30
+CN: 强效吸入剂
+EN: Strong Inhalant
+JP: 高効力吸入薬
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueItem_Name_31
+CN: 金色混合物
+EN: Golden Compound
+JP: 黄金の混合物
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000001
+CN: 出现绯雪的共鸣因子时，高品质共鸣因子的出现概率提升。
+EN: When Hiyuki's Resonance Factor appears, the chance for high-rarity Resonance Factors to appear is increased.
+JP: 緋雪の共鳴因子が出現する際、高品質の共鳴因子の出現確率がアップする。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000001_Lv2
+CN: 出现绯雪的共鸣因子时，高品质共鸣因子的出现概率进一步提升。绯雪的共鸣因子必定为紫色及以上品质。
+EN: When Hiyuki's Resonance Factor appears, the chance for high-rarity Resonance Factors to appear is further increased. Hiyuki's Resonance Factor is guaranteed to be Purple or higher rarity.
+JP: 緋雪の共鳴因子が出現する際、高品質の共鳴因子の出現確率がさらにアップする。緋雪の共鳴因子は必ずパープル以上の品質になる。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000002
+CN: 出现菲比的共鸣因子时，高品质共鸣因子的出现概率提升。
+EN: When Phoebe's Resonance Factor appears, the chance for high-rarity Resonance Factors to appear is increased.
+JP: フィービーの共鳴因子が出現する際、高品質の共鳴因子の出現確率がアップする。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000002_Lv2
+CN: 出现菲比的共鸣因子时，高品质共鸣因子的出现概率进一步提升。菲比的共鸣因子必定为紫色及以上品质。
+EN: When Phoebe's Resonance Factor appears, the chance for high-rarity Resonance Factors to appear is further increased. Phoebe's Resonance Factor is guaranteed to be Purple or higher rarity.
+JP: フィービーの共鳴因子が出現する際、高品質の共鳴因子の出現確率がさらにアップする。フィービーの共鳴因子は必ずパープル以上の品質になる。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000003
+CN: 出现卡提希娅的共鸣因子时，高品质共鸣因子的出现概率提升。
+EN: When Cartethyia's Resonance Factor appears, the chance for high-rarity Resonance Factors to appear is increased.
+JP: カルテジアの共鳴因子が出現する際、高品質の共鳴因子の出現確率がアップする。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000003_Lv2
+CN: 出现卡提希娅的共鸣因子时，高品质共鸣因子的出现概率进一步提升。卡提希娅的共鸣因子必定为紫色及以上品质。
+EN: When Cartethyia's Resonance Factor appears, the chance for high-rarity Resonance Factors to appear is further increased. Cartethyia's Resonance Factor is guaranteed to be Purple or higher rarity.
+JP: カルテジアの共鳴因子が出現する際、高品質の共鳴因子の出現確率がさらにアップする。カルテジアの共鳴因子は必ずパープル以上の品質になる。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000004
+CN: 出现奥古斯塔的共鸣因子时，高品质共鸣因子的出现概率提升。
+EN: When Augusta's Resonance Factor appears, the chance for high-rarity Resonance Factors to appear is increased.
+JP: オーガスタの共鳴因子が出現する際、高品質の共鳴因子の出現確率がアップする。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000004_Lv2
+CN: 出现奥古斯塔的共鸣因子时，高品质共鸣因子的出现概率进一步提升。奥古斯塔的共鸣因子必定为紫色及以上品质。
+EN: When Augusta's Resonance Factor appears, the chance for high-rarity Resonance Factors to appear is further increased. Augusta's Resonance Factor is guaranteed to be Purple or higher rarity.
+JP: オーガスタの共鳴因子が出現する際、高品質の共鳴因子の出現確率がさらにアップする。オーガスタの共鳴因子は必ずパープル以上の品質になる。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000005
+CN: 出现爱弥斯的共鸣因子时，高品质共鸣因子的出现概率提升。
+EN: When Aemeath's Resonance Factor appears, the chance for high-rarity Resonance Factors to appear is increased.
+JP: エイメスの共鳴因子が出現する際、高品質の共鳴因子の出現確率がアップする。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000005_Lv2
+CN: 出现爱弥斯的共鸣因子时，高品质共鸣因子的出现概率进一步提升。爱弥斯的共鸣因子必定为紫色及以上品质。
+EN: When Aemeath's Resonance Factor appears, the chance for high-rarity Resonance Factors to appear is further increased. Aemeath's Resonance Factor is guaranteed to be Purple or higher rarity.
+JP: エイメスの共鳴因子が出現する際、高品質の共鳴因子の出現確率がさらにアップする。エイメスの共鳴因子は必ずパープル以上の品質になる。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000006
+CN: 出现椿的共鸣因子时，高品质共鸣因子的出现概率提升。
+EN: When Camellya's Resonance Factor appears, the chance for high-rarity Resonance Factors to appear is increased.
+JP: ツバキの共鳴因子が出現する際、高品質の共鳴因子の出現確率がアップする。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000006_Lv2
+CN: 出现椿的共鸣因子时，高品质共鸣因子的出现概率进一步提升。椿的共鸣因子必定为紫色及以上品质。
+EN: When Camellya's Resonance Factor appears, the chance for high-rarity Resonance Factors to appear is further increased. Camellya's Resonance Factor is guaranteed to be Purple or higher rarity.
+JP: ツバキの共鳴因子が出現する際、高品質の共鳴因子の出現確率がさらにアップする。ツバキの共鳴因子は必ずパープル以上の品質になる。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000007
+CN: 出现景燃的共鸣因子时，高品质共鸣因子的出现概率提升。
+EN: When Jingran's Resonance Factor appears, the chance for high-rarity Resonance Factors to appear is increased.
+JP: 景燃の共鳴因子が出現する際、高品質の共鳴因子の出現確率がアップする。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000007_Lv2
+CN: 出现景燃的共鸣因子时，高品质共鸣因子的出现概率进一步提升。景燃的共鸣因子必定为紫色及以上品质。
+EN: When Jingran's Resonance Factor appears, the chance for high-rarity Resonance Factors to appear is further increased. Jingran's Resonance Factor is guaranteed to be Purple or higher rarity.
+JP: 景燃の共鳴因子が出現する際、高品質の共鳴因子の出現確率がさらにアップする。景燃の共鳴因子は必ずパープル以上の品質になる。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000008
+CN: 出现秧秧·玄翎的共鸣因子时，高品质共鸣因子的出现概率提升。
+EN: When Yangyang: Xuanling's Resonance Factor appears, the chance for high-rarity Resonance Factors to appear is increased.
+JP: 秧秧・玄翎の共鳴因子が出現する際、高品質の共鳴因子の出現確率がアップする。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000008_Lv2
+CN: 出现秧秧·玄翎的共鸣因子时，高品质共鸣因子的出现概率进一步提升。秧秧·玄翎的共鸣因子必定为紫色及以上品质。
+EN: When Yangyang: Xuanling's Resonance Factor appears, the chance for high-rarity Resonance Factors to appear is further increased. Yangyang: Xuanling's Resonance Factor is guaranteed to be Purple or higher rarity.
+JP: 秧秧・玄翎の共鳴因子が出現する際、高品質の共鳴因子の出現確率がさらにアップする。秧秧・玄翎ーの共鳴因子は必ずパープル以上の品質になる。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000009
+CN: 出现陆·赫斯的共鸣因子时，高品质共鸣因子的出现概率提升。
+EN: When Luuk Herssen's Resonance Factor appears, the chance for high-rarity Resonance Factors to appear is increased.
+JP: リューク・ヘルセンの共鳴因子が出現する際、高品質の共鳴因子の出現確率がアップする。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000009_Lv2
+CN: 出现陆·赫斯的共鸣因子时，高品质共鸣因子的出现概率进一步提升。陆·赫斯的共鸣因子必定为紫色及以上品质。
+EN: When Luuk Herssen's Resonance Factor appears, the chance for high-rarity Resonance Factors to appear is further increased. Luuk Herssen's Resonance Factor is guaranteed to be Purple or higher rarity.
+JP: リューク・ヘルセンの共鳴因子が出現する際、高品質の共鳴因子の出現確率がさらにアップする。リューク・ヘルセンの共鳴因子は必ずパープル以上の品質になる。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000010
+CN: 出现清宵的共鸣因子时，高品质共鸣因子的出现概率提升。
+EN: When Qingxiao's Resonance Factor appears, the chance for high-rarity Resonance Factors to appear is increased.
+JP: 清宵の共鳴因子が出現する際、高品質の共鳴因子の出現確率がアップする。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000010_Lv2
+CN: 出现清宵的共鸣因子时，高品质共鸣因子的出现概率进一步提升。清宵的共鸣因子必定为紫色及以上品质。
+EN: When Qingxiao's Resonance Factor appears, the chance for high-rarity Resonance Factors to appear is further increased. Qingxiao's Resonance Factor is guaranteed to be Purple or higher rarity.
+JP: 清宵の共鳴因子が出現する際、高品質の共鳴因子の出現確率がさらにアップする。清宵の共鳴因子は必ずパープル以上の品質になる。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000011
+CN: 出现穗穗的共鸣因子时，高品质共鸣因子的出现概率提升。
+EN: When Suisui's Resonance Factor appears, the chance for high-rarity Resonance Factors to appear is increased.
+JP: 穂穂の共鳴因子が出現する際、高品質の共鳴因子の出現確率がアップする。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000011_Lv2
+CN: 出现穗穗的共鸣因子时，高品质共鸣因子的出现概率进一步提升。穗穗的共鸣因子必定为紫色及以上品质。
+EN: When Suisui's Resonance Factor appears, the chance for high-rarity Resonance Factors to appear is further increased. Suisui's Resonance Factor is guaranteed to be Purple or higher rarity.
+JP: 穂穂の共鳴因子が出現する際、高品質の共鳴因子の出現確率がさらにアップする。穂穂の共鳴因子は必ずパープル以上の品質になる。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000012
+CN: 出现弗洛洛的共鸣因子时，高品质共鸣因子的出现概率提升。
+EN: When Phrolova's Resonance Factor appears, the chance for high-rarity Resonance Factors to appear is increased.
+JP: フローヴァの共鳴因子が出現する際、高品質の共鳴因子の出現確率がアップする。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000012_Lv2
+CN: 出现弗洛洛的共鸣因子时，高品质共鸣因子的出现概率进一步提升。弗洛洛的共鸣因子必定为紫色及以上品质。
+EN: When Phrolova's Resonance Factor appears, the chance for high-rarity Resonance Factors to appear is further increased. Phrolova's Resonance Factor is guaranteed to be Purple or higher rarity.
+JP: フローヴァの共鳴因子が出現する際、高品質の共鳴因子の出現確率がさらにアップする。フローヴァの共鳴因子は必ずパープル以上の品質になる。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000013
+CN: 出现嘉贝莉娜的共鸣因子时，有概率出现橙色品质的共鸣因子。
+EN: When Galbrena's Resonance Factor appears, there is a chance for an Orange-rarity Resonance Factor to appear.
+JP: ガルブレーナの共鳴因子が出現する際、一定の確率でオレンジ品質の共鳴因子が出現する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000013_Lv2
+CN: 出现嘉贝莉娜的共鸣因子时，有概率出现橙色品质的共鸣因子。下一次获得嘉贝莉娜的共鸣因子时，必定为橙色品质。
+EN: When Galbrena's Resonance Factor appears, there is a chance for an Orange-rarity Resonance Factor to appear. The next time you obtain Galbrena's Resonance Factor, it is guaranteed to be Orange rarity.
+JP: ガルブレーナの共鳴因子が出現する際、一定の確率でオレンジ品質の共鳴因子が出現する。次にガルブレーナの共鳴因子を獲得する時、必ずオレンジ品質になる。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000014
+CN: 生命上限提升{0}%。
+EN: Max HP is increased by {0}%.
+JP: HP上限が{0}%アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000014_Lv2
+CN: 生命上限提升{0}%。
+EN: Max HP is increased by {0}%.
+JP: HP上限が{0}%アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000015
+CN: 对精英和首领目标的伤害加深{0}%。
+EN: DMG against Elite and Boss targets is Amplified by {0}%.
+JP: エリート・ボス敵へのダメージに{0}%のダメージブーストが付く。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000015_Lv2
+CN: 对精英和首领目标的伤害加深{0}%。
+EN: DMG against Elite and Boss targets is Amplified by {0}%.
+JP: エリート・ボス敵へのダメージに{0}%のダメージブーストが付く。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000016
+CN: <te href=800037>「坚毅」</te>：伤害提升{0}%。
+EN: <te href=800037>Grit</te>: DMG is increased by {0}%.
+JP: <te href=800037>「不屈」</te>：ダメージが{0}%アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000016_Lv2
+CN: <te href=800037>「坚毅」</te>：伤害提升{0}%。
+EN: <te href=800037>Grit</te>: DMG is increased by {0}%.
+JP: <te href=800037>「不屈」</te>：ダメージが{0}%アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000017
+CN: <te href=800036>「威慑」</te>：受到伤害降低{0}%。
+EN: <te href=800036>Dominance</te>: DMG taken is reduced by {0}%.
+JP: <te href=800036>「威圧」</te>：被ダメージが{0}%軽減される。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000017_Lv2
+CN: <te href=800036>「威慑」</te>：受到伤害降低{0}%。
+EN: <te href=800036>Dominance</te>: DMG taken is reduced by {0}%.
+JP: <te href=800036>「威圧」</te>：被ダメージが{0}%軽減される。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000018
+CN: 使用冲刺后，普攻伤害提升{0}%，持续{1}秒。
+EN: After using Dash, Basic Attack DMG is increased by {0}% for {1}s.
+JP: ダッシュ後、通常攻撃ダメージが{0}%アップ、{1}秒間持続。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000018_Lv2
+CN: 使用冲刺后，普攻伤害提升{0}%，持续{1}秒。
+EN: After using Dash, Basic Attack DMG is increased by {0}% for {1}s.
+JP: ダッシュ後、通常攻撃ダメージが{0}%アップ、{1}秒間持続。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000019
+CN: 基础生命上限降低{0}%，可恢复意识次数+{1}，恢复意识时拥有{2}%生命。
+EN: Base Max HP is reduced by {0}%. Revive attempts +{1}. Upon revive, HP is set to {2}%.
+JP: 基礎HP上限が{0}%ダウン、蘇生可能回数+{1}。蘇生時、HPが{2}%になる。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000019_Lv2
+CN: 基础生命上限降低{0}%，可恢复意识次数+{1}，恢复意识时拥有{2}%生命。
+EN: Base Max HP is reduced by {0}%. Revive attempts +{1}. Upon revive, HP is set to {2}%.
+JP: 基礎HP上限が{0}%ダウン、蘇生可能回数+{1}。蘇生時、HPが{2}%になる。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000020
+CN: 施放拟形技能后，立即回复{0}点拟形能量。
+EN: After casting a Morph Skill, immediately restore {0} points of Morph Energy.
+JP: 擬形スキルを発動後、擬形エネルギーを{0}Pt即時獲得する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000020_Lv2
+CN: 施放拟形技能后，立即回复{0}点拟形能量。
+EN: After casting a Morph Skill, immediately restore {0} points of Morph Energy.
+JP: 擬形スキルを発動後、擬形エネルギーを{0}Pt即時獲得する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000021
+CN: 接下来{1}次获得共鸣因子时，额外获得{0}个随机共鸣因子。
+EN: The next <SapTag=1>{1}</SapTag> {Cus:Sap,S=time P=times SapTag=1} you obtain a Resonance Factor, additionally obtain <SapTag=0>{0}</SapTag> random Resonance {Cus:Sap,S=Factor P=Factors SapTag=0}.
+JP: 次の{1}回、共鳴因子を獲得する時、ランダムな共鳴因子を追加で{0}個獲得する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000021_Lv2
+CN: 接下来{1}次获得共鸣因子时，额外获得{0}个随机共鸣因子。
+EN: The next <SapTag=1>{1}</SapTag> {Cus:Sap,S=time P=times SapTag=1} you obtain a Resonance Factor, additionally obtain <SapTag=0>{0}</SapTag> random Resonance {Cus:Sap,S=Factor P=Factors SapTag=0}.
+JP: 次の{1}回、共鳴因子を獲得する時、ランダムな共鳴因子を追加で{0}個獲得する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000022
+CN: 立即获得{0}行动资金。
+EN: Immediately grants {0} Op Credits.
+JP: 即座に行動資金を{0}Pt獲得する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000022_Lv2
+CN: 立即获得{0}行动资金。
+EN: Immediately grants {0} Op Credits.
+JP: 即座に行動資金を{0}Pt獲得する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000023
+CN: 每次完成区域时，如果在该区域内未受到过任何伤害，生命上限提升{0}%。
+EN: Each time you complete a Zone without taking any DMG there, Max HP is increased by {0}%.
+JP: エリアをクリアするたび、そのエリアで一度もダメージを受けていない場合、HP上限が{0}%アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000023_Lv2
+CN: 每次完成区域时，如果在该区域内未受到过任何伤害，生命上限提升{0}%。
+EN: Each time you complete a Zone without taking any DMG there, Max HP is increased by {0}%.
+JP: エリアをクリアするたび、そのエリアで一度もダメージを受けていない場合、HP上限が{0}%アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000024
+CN: 对当前生命为{0}%的目标造成的伤害加深{1}%。
+EN: DMG against targets at {0}% HP is Amplified by {1}%.
+JP: HPが{0}%以下の敵に与えるダメージに{1}%のダメージブーストを付与する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000024_Lv2
+CN: 对当前生命为{0}%的目标造成的伤害加深{1}%。
+EN: DMG against targets at {0}% HP is Amplified by {1}%.
+JP: HPが{0}%以下の敵に与えるダメージに{1}%のダメージブーストを付与する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000025
+CN: 消耗品可持续的区域数+{0}。
+EN: Number of Zones a Consumable remains active +{0}.
+JP: 消費アイテムの効果持続エリア数+{0}。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Desc_1000000025_Lv2
+CN: 消耗品可持续的区域数+{0}。
+EN: Number of Zones a Consumable remains active +{0}.
+JP: 消費アイテムの効果持続エリア数+{0}。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Name_1000000001
+CN: 吉签
+EN: Fortune Lot
+JP: 大吉のおみくじ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Name_1000000002
+CN: 遥远的愿景
+EN: A Vision Far Away
+JP: 在りし日に思い描いた未来像
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Name_1000000003
+CN: 手指偶
+EN: Hand Puppets
+JP: 自作のパペット
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Name_1000000004
+CN: 日与狮鹫之印
+EN: Seal of Sun and Gryphon
+JP: 太陽とグリフォンの印章
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Name_1000000005
+CN: 纸飞机
+EN: Paper Plane
+JP: 紙飛行機
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Name_1000000006
+CN: 频谱手链
+EN: Spectrum Bracelet
+JP: 周波数モニタリングブレスレット
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Name_1000000007
+CN: 旧玉佩
+EN: Old Jade Pendant
+JP: 古い玉佩
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Name_1000000008
+CN: 世界之声
+EN: The Voice of the World
+JP: 世界の声
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Name_1000000009
+CN: 褪色的糖纸书签
+EN: Faded Candy Wrapper Bookmark
+JP: 色褪せた飴の包み紙の栞
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Name_1000000010
+CN: “青虚如意袋”
+EN: "Qingxu Pouch of Wonders"
+JP: 「青虚如意袋」
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Name_1000000011
+CN: “太平有象”
+EN: "Peace and Prosperity"
+JP: 「太平有象」
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Name_1000000012
+CN: 遗留的提琴
+EN: Phrolova's Violin
+JP: 遺されたバイオリン
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Name_1000000013
+CN: 最初的血誓
+EN: First Blood Pact
+JP: 最初の血の誓い
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Name_1000000014
+CN: 急救箱
+EN: First-Aid Kit
+JP: 救急箱
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Name_1000000015
+CN: 辉煌的叛逆
+EN: Glorious Defiance
+JP: 輝かしき叛逆
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Name_1000000016
+CN: 侵蚀之刃
+EN: Blade of Erosion
+JP: 侵蝕の刃
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Name_1000000017
+CN: 便携防盾
+EN: Portable Shield
+JP: 携行シールド
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Name_1000000018
+CN: 构工之翼
+EN: Construct Wings
+JP: 構工の翼
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Name_1000000019
+CN: 强心泵
+EN: Cardiotonic Pump
+JP: 強心ポンプ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Name_1000000020
+CN: 狂乱旋律
+EN: Frenzied Melody
+JP: 狂乱の旋律
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Name_1000000021
+CN: 幻梦边缘
+EN: Edge of Reverie
+JP: 幻夢の淵
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Name_1000000022
+CN: 珍贵之物
+EN: Cherished Item
+JP: かけがえのないもの
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Name_1000000023
+CN: 洁白之愿
+EN: Pure Wish
+JP: 白き願い
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Name_1000000024
+CN: 钢铁面容
+EN: Iron Visage
+JP: 鋼鉄の面
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_Name_1000000025
+CN: 奇梦幻影
+EN: Fantasia Mirage
+JP: 奇夢の幻影
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueLoot_UnlockProgressShow
+CN: (<color=#99731f>{0}</color>/{1})
+EN: (<color=#99731f>{0}</color>/{1})
+JP: (<color=#99731f>{0}</color>/{1})
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueReward_Name_01
+CN: 完成「场景1：拟形训练」。
+EN: Complete Scenario 1: Morph Training
+JP: 「ステージ1：模擬訓練」をクリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueReward_Name_02
+CN: 完成「场景2：效能测试」。
+EN: Complete Scenario 2: Efficiency Test
+JP: 「ステージ2：性能テスト」をクリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueReward_Name_03
+CN: 完成「场景4：突然袭击」。
+EN: Complete Scenario 4: Surprise Attack
+JP: 「ステージ4：奇襲」をクリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueReward_Name_04
+CN: 完成「场景5：消除威胁」。
+EN: Complete Scenario 5: Clean Sweep
+JP: 「ステージ5：脅威排除」をクリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueReward_Name_05
+CN: 完成「场景6：高效歼灭」。
+EN: Complete Scenario 6: Efficient Annihilation
+JP: 「ステージ6：迅速殲滅」をクリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueReward_Name_06
+CN: 完成「场景7：最后防线」。
+EN: Complete Scenario 7: Last Defender
+JP: 「ステージ7：最後の防衛線」をクリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueReward_Name_07
+CN: 累计解锁12个收藏品。
+EN: Unlock 12 Keepsakes in total.
+JP: コレクションを累計12個解放。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueReward_Name_08
+CN: 累计获得6个衍射属性漂泊者的角色强化。
+EN: Obtain 6 Rover: Spectro Enhancements in total
+JP: 回折属性の漂泊者キャラ強化を累計6個獲得
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueReward_Name_09
+CN: 累计获得12个湮灭属性漂泊者的角色强化。
+EN: Obtain 12 Rover: Havoc Enhancements in total
+JP: 消滅属性の漂泊者キャラ強化を累計12個獲得
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueReward_Name_10
+CN: 累计完成15个存在精英目标的区域。
+EN: Complete 15 Zones with Elite targets in total
+JP: エリート敵が出現するエリアを累計15か所クリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueReward_Name_11
+CN: 累计完成20个高危区域。
+EN: Clear 20 High-Risk Zones in total
+JP: 高危険エリアを累計20か所クリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueReward_Name_12
+CN: 在生命值为100%的情况下，完成一次挑战。
+EN: Clear a challenge while at 100% HP
+JP: HP100%の状態でステージを1回クリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueReward_Name_13
+CN: 在阈限协议中，激活所有协议节点。
+EN: Activate all Protocol Nodes in Threshold Protocol
+JP: 閾限プロトコルですべてのプロトコルノードを有効化
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceDark_AddNum_01
+CN: 普攻生命恢复：{0}%
+EN: Basic Attack HP Regen: {0}%
+JP: 通常攻撃でHP回復：{0}%
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceDark_AddNum_02
+CN: 普攻伤害加深：{0}%
+EN: Basic Attack DMG Amplification: {0}%
+JP: 通常攻撃ダメージブースト：{0}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceDark_AddNum_03
+CN: 重击对精英敌人伤害加深：{0}%
+EN: Heavy Attack DMG Amplification against Elite: {0}%
+JP: エリート敵への重撃ダメージブースト：{0}%
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceDark_AddNum_04
+CN: 共鸣技能伤害加深：{0}%
+EN: Resonance Skill DMG Amplification: {0}%
+JP: 共鳴スキルダメージブースト：{0}%
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceDark_AddNum_05
+CN: 共鸣技能伤害加深：{0}%
+EN: Resonance Skill DMG Amplification: {0}%
+JP: 共鳴スキルダメージブースト：{0}%
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceDark_AddNum_06
+CN: 拟形伤害最大加深：{0}%
+EN: Max Morph DMG Amplification: {0}%
+JP: 擬形ダメージブースト上限：{0}%
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceDark_AddNum_07
+CN: 最大加深伤害：{0}%
+EN: Max DMG Amplification: {0}%
+JP: ダメージブースト上限：{0}%
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceDark_AddNum_08
+CN: 冲刺后伤害加深：{0}%
+EN: DMG Amplification after Dash: {0}%
+JP: ダッシュ後のダメージブースト：{0}%
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceDark_Desc_01
+CN: 生命上限降低{0}%，普攻或重击造成伤害时，回复生命上限{1}%的生命，冷却{2}秒。
+EN: Max HP is reduced by {0}%. Basic Attack and Heavy Attack restore {1}% of Max HP on hit. Cooldown: {2}s.
+JP: HP上限が{0}%ダウンする。通常攻撃または重撃がダメージを与えると、HP上限{1}%分のHPを回復する。クールタイムは{2}秒。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceDark_Desc_02
+CN: 普攻伤害加深{0}%。无法施放重击，长按普攻会循环施放普攻。
+EN: Basic Attack DMG is Amplified by {0}%, but Heavy Attack is disabled. Holding Normal Attack casts Basic Attack repeatedly.
+JP: {0}%の通常攻撃ダメージブーストを獲得する。重撃を発動できなくなり、通常攻撃を長押しすると、通常攻撃を連続で発動する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceDark_Desc_03
+CN: 对首领和精英敌人造成的伤害加深{0}%，对其共振度削减的效率提升{1}%。
+EN: DMG is Amplified by {0}% against Bosses and Elites. Vibration Strength Reduction against them is increased by {1}%.
+JP: エリート・ボス敵に対して、与ダメージに{0}のダメージブーストが付き、共振度削減効率が{1}%アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceDark_Desc_04
+CN: 重击伤害加深{0}%，重击命中敌人时，使自身受到的最终伤害降低{1}%，持续{2}秒。
+EN: Heavy Attack DMG is Amplified by {0}%. Heavy Attack reduces total DMG taken by {1}% for {2}s on hit.
+JP: {0}%の重撃ダメージブーストを獲得する。重撃が敵に命中すると、自身が受ける最終ダメージが{1}%軽減、{2}秒間持続。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceDark_Desc_05
+CN: 共鸣技能伤害加深{0}%，施放共鸣技能时，立即刷新共鸣技能冷却时间，冷却{1}秒。
+EN: Resonance Skill DMG is Amplified by {0}%. Casting Resonance Skill immediately refreshes Resonance Skill Cooldown. Cooldown: {1}s.
+JP: {0}%の共鳴スキルダメージブーストを獲得する。共鳴スキルを発動時、共鳴スキルのクールタイムを即時リセットする。クールタイムは{1}秒。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceDark_Desc_06
+CN: 每当拟形技能造成伤害时，使拟形技能伤害加深{0}%，可叠加{1}层，持续{2}秒。
+EN: Whenever Morph Skill deals damage, Morph Skill DMG is Amplified by {0}% for {2}s, stacking up to {1} times.
+JP: 擬形スキルでダメージを与えるたびに、{0}%の擬形スキルダメージブーストを獲得し、{2}秒間持続、最大{1}スタック。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceDark_Desc_07
+CN: 造成伤害时，使自己伤害加深{0}%，可叠加{1}层（每秒可叠{2}层），持续{3}秒。
+每次施放冲刺时，该效果层数降低{4}层。
+EN: Dealing damage grants {0}% DMG Amplification for {3}s, stacking up to {1} times (up to <SapTag=2>{2}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=2} per second).
+Each time Dash is cast, reduce <SapTag=4>{4}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=4}.
+JP: ダメージを与えた時、自身は{0}%のダメージブーストを獲得し、{3}秒間持続、最大{1}スタック（1秒ごとに{2}スタックまで獲得可能）。
+ダッシュするたびに、この効果のスタック数が{4}スタック減少する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceDark_Desc_08
+CN: 施放冲刺后，角色伤害加深{0}%，持续{1}秒。
+EN: Casting Dash grants the Resonator {0}% DMG Amplification for {1}s.
+JP: ダッシュ後、キャラに{0}%のダメージブーストを付与し、{1}秒間持続。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceDark_Name_01
+CN: 活力吸取
+EN: Vitality Drain
+JP: 活力吸収
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceDark_Name_02
+CN: 连环攻势
+EN: Chain Assault
+JP: 連撃の攻勢
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceDark_Name_03
+CN: 精英杀手
+EN: Elite Slayer
+JP: エリートキラー
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceDark_Name_04
+CN: 精确压制
+EN: Surgical Suppression
+JP: 精密制圧
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceDark_Name_05
+CN: 二重打击
+EN: Double Strike
+JP: 二連撃
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceDark_Name_06
+CN: 渐强回音
+EN: Crescendo
+JP: クレッシェンドエコー
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceDark_Name_07
+CN: 保持攻势
+EN: Unbroken Attacks
+JP: 攻勢維持
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceDark_Name_08
+CN: 腾跃冲刺
+EN: Leaping Dash
+JP: 跳躍疾走
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceLight_AddNum_01
+CN: 普攻第四段伤害加深：{0}%
+EN: Basic Attack Stage 4 DMG Amplification: {0}%
+JP: 通常攻撃4段目ダメージブースト：{0}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceLight_AddNum_02
+CN: 攻击伤害最高加深：{0}%
+EN: Max Attack DMG Amplification: {0}%
+JP: 攻撃ダメージブースト上限：{0}%
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceLight_AddNum_03
+CN: 重击伤害加深：{0}%
+EN: Heavy Attack DMG Amplification: {0}%
+JP: 重撃ダメージブースト：{0}%
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceLight_AddNum_04
+CN: 共鸣技能冷却降低：{0}%
+EN: Resonance Skill CD Reduction: {0}%
+JP: 共鳴スキルクールタイム短縮：{0}%
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceLight_AddNum_05
+CN: 拟形能量每秒回复：{0}
+EN: Morph Energy Regen per Second: {0}
+JP: 1秒ごとに獲得する擬形エネルギー：{0}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceLight_AddNum_06
+CN: 拟形技能刷新冷却：{0}秒
+EN: Morph Skill Refresh CD: {0}s
+JP: 擬形スキルクールタイムリセット：{0}秒
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceLight_AddNum_07
+CN: 冲刺最大伤害加深：{0}%
+EN: Max Dash DMG Amplification: {0}%
+JP: ダッシュダメージブースト上限：{0}%
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceLight_AddNum_08
+CN: 对护盾增伤：{0}%
+EN: DMG Bonus against Shield: {0}%
+JP: シールドへのダメージアップ：{0}%
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceLight_Desc_01
+CN: 普攻第四段造成的伤害加深{0}%。
+EN: Basic Attack Stage 4 DMG is Amplified by {0}%.
+JP: 通常攻撃4段目に{0}%のダメージブーストが付く。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceLight_Desc_02
+CN: 进入新区域时，角色受到的最终伤害降低{0}%，该效果在{1}秒内持续衰减至{2}%。
+EN: Each time you enter a new Zone, total DMG taken is reduced by {0}%. This effect gradually lowers to {2}% over {1}s.
+JP: 新エリアに入る時、キャラが受ける最終ダメージが{0}%軽減。この効果は{1}秒かけて{2}%まで減衰する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceLight_Desc_03
+CN: 重击伤害加深{0}%，且对生命大于{1}%的目标额外加深{2}%。
+EN: Heavy Attack DMG is Amplified by {0}%, and further Amplified by {2}% against targets with HP greater than {1}%.
+JP: {0}%の重撃ダメージブーストを獲得する。さらに、目標のHPが{1}%を超えている場合、追加で{2}%の重撃ダメージブーストを獲得する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceLight_Desc_04
+CN: 共鸣技能伤害加深{0}%，冷却时间降低{1}%，可额外储存{2}次使用次数。
+EN: Resonance Skill DMG is Amplified by {0}%, Cooldown is reduced by {1}%, and has <SapTag=2>{2}</SapTag> additional {Cus:Sap,S=charge P=charges SapTag=2}.
+JP: {0}%の共鳴スキルダメージブーストを獲得し、共鳴スキルのクールタイムが{1}%短縮され、発動可能回数が{2}回増加する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceLight_Desc_05
+CN: 拟形技能伤害加深{0}%。拟形技能命中时，回复所有拟形能量并刷新拟形技能冷却时间，冷却{1}秒。
+EN: Morph Skill DMG is Amplified by {0}%. Morph Skill restores all Morph Energy and refresh Morph Skill Cooldown on hit. Cooldown: {1}s.
+JP: {0}%の擬形スキルダメージブーストを獲得する。擬形スキルが命中すると、擬形エネルギーが満タンになり、擬形スキルのクールタイムをリセットする。この効果のクールタイムは{1}秒。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceLight_Desc_06
+CN: 每当连续{0}秒内没有造成任何伤害时，获得「蓄势待发」效果：伤害加深{1}%，受到的最终伤害降低{2}%，持续{3}秒。
+EN: Whenever no DMG is dealt for {0} consecutive seconds, gain Ready to Go: DMG is Amplified by {1}% and total DMG taken is reduced by {2}% for {3}s.
+JP: {0}秒間、ダメージを与えなかった場合、「臨戦態勢」効果を獲得：{1}%のダメージブーストを獲得し、受ける最終ダメージを{2}%軽減、{3}秒間持続。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceLight_Desc_07
+CN: 施放冲刺时，使自己伤害加深{0}%，持续{1}秒，可叠加{2}层。
+EN: Casting Dash grants {0}% DMG Amplification for {1}s, stacking up to {2} times.
+JP: ダッシュ時、自身は{0}%のダメージブーストを獲得し、{1}秒間持続、最大{2}スタック。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceLight_Desc_08
+CN: 对拥有护盾的敌人造成伤害时，伤害加深{0}%。
+EN: DMG against Shielded enemies is Amplified by {0}%.
+JP: シールドを持つ敵に与えるダメージに{0}%のダメージブーストが付く。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceLight_Name_01
+CN: 专注一击
+EN: Focused Strike
+JP: 集中の一撃
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceLight_Name_02
+CN: 充足准备
+EN: Fully Prepared
+JP: 万全の準備
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceLight_Name_03
+CN: 势大力沉
+EN: Crushing Force
+JP: 剛力の一撃
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceLight_Name_04
+CN: 技巧精通
+EN: Skill Mastery
+JP: 技巧の極意
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceLight_Name_05
+CN: 瞬变无常
+EN: Everchanging
+JP: 変幻自在
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceLight_Name_06
+CN: 蓄势待发
+EN: Ready to Go
+JP: 臨戦態勢
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceLight_Name_07
+CN: 致命冲刺
+EN: Deadly Dash
+JP: 致命の疾走
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoleEnhanceLight_Name_08
+CN: 裂盾者
+EN: Shieldbreaker
+JP: シールドブレイカー
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRole_Char01_Tag01
+CN: 近战
+EN: Melee
+JP: 近接
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRole_Char01_Tag02
+CN: 迅捷
+EN: Swift
+JP: 迅速
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRole_Char02_Tag01
+CN: 远程
+EN: Ranged
+JP: 遠距離
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRole_Char02_Tag02
+CN: 高伤害
+EN: High DMG
+JP: 高ダメージ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRole_Char_01
+CN: 漂泊者·衍射
+EN: Rover: Spectro
+JP: 漂泊者・回折
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRole_Char_02
+CN: 漂泊者·湮灭
+EN: Rover: Havoc
+JP: 漂泊者・消滅
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRole_SkillDesc_1_01
+CN: 向前方一定范围发动连续斩击。攻击速度较快。
+EN: Perform consecutive flast slashes in a frontal area.
+JP: 前方の一定範囲に連続斬撃を放つ。攻撃速度が速い。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRole_SkillDesc_1_02
+CN: 向前突进，对命中的目标造成伤害。
+EN: Dash forward, dealing DMG to targets hit.
+JP: 前方へ突進し、命中した敵にダメージを与える。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRole_SkillDesc_1_03
+CN: 向前方投出回旋的迅刀，对命中的目标造成伤害。
+EN: Throw a spinning sword forward, dealing DMG to targets hit.
+JP: 前方へ回転する迅刀を投げ、命中した敵にダメージを与える。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRole_SkillDesc_2_01
+CN: 向前方发射一道远程斩击，斩击会穿透敌人，对所有命中的目标造成伤害。
+EN: Fire a ranged slash forward that pierces through enemies, dealing DMG to all targets hit.
+JP: 前方へ遠距離斬撃を放つ。斬撃は敵を貫き、命中したすべての敵にダメージを与える。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRole_SkillDesc_2_02
+CN: 向前突进，对命中的目标造成伤害。
+EN: Dash forward, dealing DMG to targets hit.
+JP: 前方へ突進し、命中した敵にダメージを与える。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRole_SkillDesc_2_03
+CN: 施放暗涌之力，对命中的目标造成伤害。
+EN: Unleash the power of Dark Surge, dealing DMG to targets hit.
+JP: 暗涌の力を放ち、命中した敵にダメージを与える。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRole_SkillTitle_1_01
+CN: 普攻·化声为形
+EN: Basic Attack - Vibration Manifestation
+JP: 通常攻撃・音の形
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRole_SkillTitle_1_02
+CN: 重击·鸣奏
+EN: Heavy Attack - Resonance
+JP: 重撃・鳴り響く
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRole_SkillTitle_1_03
+CN: 共鸣技能·浮声千斩·旋音
+EN: Resonance Skill - Resonating Spin
+JP: 共鳴スキル・音の刃・旋
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRole_SkillTitle_2_01
+CN: 普攻·裁羽弑音
+EN: Basic Attack - Tuneslayer
+JP: 通常攻撃・音の末路
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRole_SkillTitle_2_02
+CN: 重击·裁羽弑音
+EN: Heavy Attack - Tuneslayer
+JP: 重撃・音の末路
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRole_SkillTitle_2_03
+CN: 共鸣技能·暗涌
+EN: Resonance Skill - Dark Surge
+JP: 共鳴スキル・暗湧
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRole_UnlockCharCond_01
+CN: 默认解锁
+EN: Unlocked by default
+JP: 初期状態で解放済み
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRole_UnlockCharCond_02
+CN: 完成「场景3：阻滞攻势」后解锁
+EN: Unlocked after completing Scenario 3: Delay Operation
+JP: 「ステージ3：攻勢阻止」をクリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoomType_Boss
+CN: 高危区域
+EN: High-Risk Zone
+JP: 高危険エリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoomType_EliteFight
+CN: 激斗区域
+EN: Clash Zone
+JP: 激戦エリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoomType_EliteHyper
+CN: 激斗区域
+EN: Clash Zone
+JP: 激戦エリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoomType_Event
+CN: 逸闻轶事
+EN: Encounter
+JP: 余話逸聞
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoomType_EventFight
+CN: 战斗区域
+EN: Combat Zone
+JP: 戦闘エリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoomType_LastBoss
+CN: 高危区域
+EN: High-Risk Zone
+JP: 高危険エリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoomType_NormalFight_Strong
+CN: 战斗区域
+EN: Combat Zone
+JP: 戦闘エリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoomType_NormalFight_Weak
+CN: 战斗区域
+EN: Combat Zone
+JP: 戦闘エリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoomType_Pass
+CN: 藏宝地
+EN: Treasure Spot
+JP: 秘宝の地
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoomType_Rest
+CN: 补给据点
+EN: Supply Base
+JP: 補給拠点
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoomType_Start
+CN: 整备区域
+EN: Prep Zone
+JP: 整備エリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueRoomType_Store
+CN: 补给据点
+EN: Supply Base
+JP: 補給拠点
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueStage_DifficultyDescEnemyStatus
+CN: 敌方属性：{0}%
+EN: <color=#aaaaaa>Enemy Stats:</color> {0}%
+JP: 敵属性：{0}%
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueStage_DifficultyDescRoomNum
+CN: 区域数：{0}
+EN: <color=#aaaaaa>Zone Number:</color> {0}
+JP: エリア数：{0}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueStage_DifficultyDesc_01
+CN: 本模拟中<color=#ffdd53>奥古斯塔</color>共鸣因子的出现概率大幅提升
+EN: <color=#aaaaaa>In this simulation</color>, <color=#ffdd53>Augusta's</color> <color=#aaaaaa>Resonance Factor has a much greater chance to appear</color>.
+JP: <color=#ffdd53>オーガスタ</color>の共鳴因子の出現確率が大幅アップ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueStage_DifficultyDesc_02
+CN: 本模拟中<color=#ffdd53>绯雪</color>、<color=#ffdd53>卡提希娅</color>和<color=#ffdd53>秧秧·玄翎</color>共鸣因子的出现概率大幅提升
+EN: <color=#aaaaaa>In this simulation</color>, <color=#ffdd53>Hiyuki</color>, <color=#ffdd53>Cartethyia</color>, and <color=#ffdd53>Yangyang: Xuanling's</color> <color=#aaaaaa>Resonance Factors have a much greater chance to appear</color>.
+JP: <color=#ffdd53>緋雪</color>、<color=#ffdd53>カルテジア</color>、<color=#ffdd53>秧秧・玄翎</color>の共鳴因子の出現確率が大幅アップ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueStage_DifficultyDesc_03
+CN: 本模拟中<color=#ffdd53>奥古斯塔</color>、<color=#ffdd53>菲比</color>和<color=#ffdd53>爱弥斯</color>共鸣因子的出现概率大幅提升
+EN: <color=#aaaaaa>In this simulation</color>, <color=#ffdd53>Augusta</color>, <color=#ffdd53>Phoebe</color>, and <color=#ffdd53>Aemeath's</color> <color=#aaaaaa>Resonance Factors have a much greater chance to appear</color>.
+JP: <color=#ffdd53>オーガスタ</color>、<color=#ffdd53>フィービー</color>、<color=#ffdd53>エイメス</color>の共鳴因子の出現確率が大幅アップ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueStage_DifficultyDesc_04
+CN: 本模拟中<color=#ffdd53>椿</color>、<color=#ffdd53>陆·赫斯</color>和<color=#ffdd53>穗穗</color>共鸣因子的出现概率大幅提升
+EN: <color=#aaaaaa>In this simulation</color>, <color=#ffdd53>Camellya</color>, <color=#ffdd53>Luuk Herssen</color>, and <color=#ffdd53>Suisui's</color> <color=#aaaaaa>Resonance Factors have a much greater chance to appear</color>.
+JP: <color=#ffdd53>ツバキ</color>、<color=#ffdd53>リューク・ヘルセン</color>、<color=#ffdd53>穂穂</color>の共鳴因子の出現確率が大幅アップ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueStage_DifficultyDesc_05
+CN: 本模拟中<color=#ffdd53>景燃</color>、<color=#ffdd53>清宵</color>和<color=#ffdd53>弗洛洛</color>共鸣因子的出现概率大幅提升
+EN: <color=#aaaaaa>In this simulation</color>, <color=#ffdd53>Jingran</color>, <color=#ffdd53>Qingxiao</color>, and <color=#ffdd53>Phrolova's</color> <color=#aaaaaa>Resonance Factors have a much greater chance to appear</color>.
+JP: <color=#ffdd53>景燃</color>、<color=#ffdd53>清宵</color>、<color=#ffdd53>フローヴァ</color>の共鳴因子の出現確率が大幅アップ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueStage_DifficultyDesc_07
+CN: 在本模拟中，可以使用漂泊者的不同属性进行游戏，每个属性都拥有专属的共鸣因子
+EN: In this Simulation, you can play using different Attributes of the Rover. Each Attribute has exclusive Resonance Factors.
+JP: 漂泊者の異なる属性を切り替えてプレイでき、各属性には専用の共鳴因子が用意されている
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueStage_DifficultyDesc_08
+CN: <color=#fe677f>本模拟中，所有敌人的攻击将大幅提升。请谨慎挑战！</color>
+EN: <color=#fe677f>In this simulation, all enemies' ATK is greatly increased. Be careful!</color>
+JP: <color=#fe677f>本シミュレーションでは、すべての敵の攻撃力が大幅にアップします。挑戦には十分ご注意ください！</color>
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueStage_RewardRate
+CN: 奖励获取：{0}%
+EN: <color=#aaaaaa>Reward Gained:</color> {0}%
+JP: 報酬獲得率：{0}%
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueStage_StageName_01
+CN: 场景1：拟形训练
+EN: Scenario 1: Morph Training
+JP: ステージ1：模擬訓練
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueStage_StageName_02
+CN: 场景2：效能测试
+EN: Scenario 2: Efficiency Test
+JP: ステージ2：性能テスト
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueStage_StageName_03
+CN: 场景3：阻滞攻势
+EN: Scenario 3: Delay Operation
+JP: ステージ3：攻勢阻止
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueStage_StageName_04
+CN: 场景4：突然袭击
+EN: Scenario 4: Surprise Attack
+JP: ステージ4：奇襲
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueStage_StageName_05
+CN: 场景5：消除威胁
+EN: Scenario 5: Clean Sweep
+JP: ステージ5：脅威排除
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueStage_StageName_06
+CN: 场景6：高效歼灭
+EN: Scenario 6: Efficient Annihilation
+JP: ステージ6：迅速殲滅
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueStage_StageName_07
+CN: 场景7：最后防线
+EN: Scenario 7: Last Defender
+JP: ステージ7：最後の防衛線
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Desc_101
+CN: 初始额外拥有{0}点行动资金。
+EN: Start with an additional {0} Op Credits.
+JP: 開始時、追加で行動資金を{0}Pt所持する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Desc_102
+CN: 行动资金的获取效率提升{0}。
+EN: Op Credit gain is increased by {0}.
+JP: 行動資金の獲得効率が{0}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Desc_103
+CN: 攻击提升{0}。
+EN: ATK is increased by {0}.
+JP: 攻撃力{0}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Desc_104
+CN: 生命上限提升{0}。
+EN: Max HP is increased by {0}.
+JP: HP上限{0}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Desc_105
+CN: 每次进入新的区域时，回复生命上限{0}的生命。
+EN: Restore HP equal to {0} of Max HP each time you enter a new Zone.
+JP: 新エリアに入るたびに、HP上限の{0}を回復する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Desc_106
+CN: 处于战斗状态时，每秒额外回复{0}点拟形能量。
+EN: While in combat, additionally restore {0} points of Morph Energy every second.
+JP: 戦闘中、1秒ごとに追加で擬形エネルギーを{0}Pt獲得する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Desc_107
+CN: 在秋水处购买商品时，可消耗{1}点行动资金刷新商品，最多可刷新{0}次。
+EN: When purchasing items from Aalto, you may spend {1} Op Credits to refresh the items, up to <SapTag=0>{0}</SapTag> {Cus:Sap,S=time P=times SapTag=0}.
+JP: アールトから商品を購入する時、行動資金を{1}Pt消費して商品を更新できる。最大{0}回まで。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Desc_108
+CN: 攻击提升{0}。
+EN: ATK is increased by {0}.
+JP: 攻撃力{0}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Desc_109
+CN: 移动速度提升{0}。
+EN: Movement Speed is increased by {0}.
+JP: 移動速度{0}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Desc_110
+CN: 击败首领后，下个区域将额外出现{0}个共鸣因子，且必为橙色及以上的品质。
+EN: After defeating a Boss, <SapTag=0>{0}</SapTag> additional Resonance {Cus:Sap,S=Factor P=Factors SapTag=0} of at least Orange rarity will appear in the next Zone.
+JP: ボスを倒すと、次のエリアで共鳴因子が追加で{0}個出現する。いずれもオレンジ品質以上が確定。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Desc_111
+CN: 整局模拟中，选择共鸣因子时可额外刷新{0}次。刷新时需消耗{1}点行动资金。
+EN: Throughout a Simulation, you may refresh <SapTag=0>{0}</SapTag> extra {Cus:Sap,S=time P=times SapTag=0} when selecting Resonance Factors. Refreshing costs {1} Op Credits.
+JP: 1つのステージにおいて、共鳴因子選択時の更新回数が{0}回追加される。更新時に行動資金を{1}Pt消費する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Desc_112
+CN: 处于战斗状态时，每{0}秒伤害提升{1}，可叠加{2}层，受到攻击时移除所有层数。
+EN: While in combat, DMG is increased by {1} every {0}s, stacking up to {2} times. All stacks are removed upon being attacked.
+JP: 戦闘中、{0}秒ごとにダメージが{1}アップ、最大{2}スタック。攻撃を受けると、すべてのスタックがリセットされる。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Desc_113
+CN: 生命上限提升{0}。
+EN: Max HP is increased by {0}.
+JP: HP上限{0}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Desc_114
+CN: 模拟开始选择因子组合时，可额外获得一个紫色品质共鸣因子。
+EN: Show Down
+JP: シミュレーション開始時、因子の組み合わせを選択すると、追加でパープル品質の共鳴因子を1つ獲得する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Desc_115
+CN: 可恢复意识次数+{0}，恢复意识时拥有{1}生命。
+EN: Revive attempts +{0}. Upon revive, HP is set to {1}.
+JP: 蘇生可能回数+{0}。蘇生時、HPが{1}。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Desc_116
+CN: 整局模拟中，选择共鸣因子时可额外刷新{0}次。刷新时需消耗{1}点行动资金。
+EN: Throughout a Simulation, you may refresh <SapTag=0>{0}</SapTag> extra {Cus:Sap,S=time P=times SapTag=0} when selecting Resonance Factors. Refreshing costs {1} Op Credits.
+JP: 1つのステージにおいて、共鳴因子選択時の更新回数が{0}回追加される。更新時に行動資金を{1}Pt消費する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Desc_117
+CN: 每次进入新的区域时，伤害提升{0}，持续{1}秒。
+EN: Each time you enter a new Zone, DMG is increased by {0} for {1}s.
+JP: 新エリアに入るたびに、ダメージが{0}アップ、{1}秒間持続。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Desc_118
+CN: 暴击提升{0}。
+EN: Crit. Rate is increased by {0}.
+JP: クリティカル率{0}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Desc_119
+CN: 进行模拟的过程中，有概率出现嘉贝莉娜的特殊区域。
+EN: During a Simulation, Galbrena's special Zone has a chance to appear.
+JP: シミュレーション中、一定確率でガルブレーナの特殊エリアが出現する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Desc_120
+CN: 每次进入新的区域时，回复{0}点拟形能量。
+EN: Each time you enter a new Zone, restore {0} points of Morph Energy.
+JP: 新エリアに入るたびに、擬形エネルギーを{0}Pt獲得する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Desc_121
+CN: 可恢复意识次数+{0}，恢复意识时拥有{1}生命。
+EN: Revive attempts +{0}. Upon revive, HP is set to {1}.
+JP: 蘇生可能回数+{0}。蘇生時、HPが{1}。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Desc_122
+CN: 消耗品可持续的区域数+{0}。
+EN: Consumables stay effective in <SapTag=0>{0}</SapTag> more {Cus:Sap,S=Zone P=Zones SapTag=0}.
+JP: 消費アイテムの効果持続エリア数+{0}。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Desc_123
+CN: 进入首领区域时，获得{0}伤害减免，持续{1}秒。
+EN: When entering a Boss Zone, gain {0} DMG Reduction for {1}s.
+JP: ボスエリアに入る時、{0}のダメージ軽減効果を獲得する。{1}秒間持続。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Desc_124
+CN: 行动资金的获取效率提升{0}。
+EN: Op Credit gain is increased by {0}.
+JP: 行動資金の獲得効率が{0}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Desc_125
+CN: 已删除
+EN: Deleted
+JP: 削除済み
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Desc_126
+CN: 攻击提升{0}。
+EN: ATK is increased by {0}.
+JP: 攻撃力{0}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Desc_127
+CN: 生命上限提升{0}。
+EN: Max HP is increased by {0}.
+JP: HP上限{0}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Desc_128
+CN: 伤害提升{0}。
+EN: DMG is increased by {0}.
+JP: ダメージ{0}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Desc_129
+CN: 行动资金的获取效率提升{0}。
+EN: Op Credit gain is increased by {0}.
+JP: 行動資金の獲得効率が{0}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Desc_130
+CN: 已删除
+EN: Deleted
+JP: 削除済み
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Desc_131
+CN: 攻击提升{0}。
+EN: ATK is increased by {0}.
+JP: 攻撃力{0}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Desc_132
+CN: 生命上限提升{0}。
+EN: Max HP is increased by {0}.
+JP: HP上限{0}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Desc_133
+CN: 伤害提升{0}。
+EN: DMG is increased by {0}.
+JP: ダメージ{0}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Desc_134
+CN: 行动资金的获取效率提升{0}。
+EN: Op Credit gain is increased by {0}.
+JP: 行動資金の獲得効率が{0}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Desc_135
+CN: 已删除
+EN: Deleted
+JP: 削除済み
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Desc_136
+CN: 攻击提升{0}。
+EN: ATK is increased by {0}.
+JP: 攻撃力{0}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Desc_137
+CN: 生命上限提升{0}。
+EN: Max HP is increased by {0}.
+JP: HP上限{0}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Desc_138
+CN: 伤害提升{0}。
+EN: DMG is increased by {0}.
+JP: ダメージ{0}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Name_101
+CN: 额外资金
+EN: Extra Op Credit
+JP: 追加資金
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Name_102
+CN: 资金收集I
+EN: Credit Collection I
+JP: 資金調達Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Name_103
+CN: 攻击提升Ⅰ
+EN: ATK Boost I
+JP: 攻撃力アップⅠ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Name_104
+CN: 生命提升Ⅰ
+EN: HP Boost I
+JP: HPアップⅠ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Name_105
+CN: 自动医疗装置
+EN: Auto Med Device
+JP: 自動医療装置
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Name_106
+CN: 拟形效率
+EN: Morph Efficiency
+JP: 擬形効率
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Name_107
+CN: 情报交易
+EN: Intel Trade
+JP: 情報取引
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Name_108
+CN: 攻击提升Ⅱ
+EN: ATK Boost II
+JP: 攻撃力アップⅡ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Name_109
+CN: 速度提升
+EN: Speed Boost
+JP: 速度アップ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Name_110
+CN: 样本采集
+EN: Sample Collection
+JP: サンプル採取
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Name_111
+CN: 共鸣重组Ⅰ
+EN: Resonance Recombination I
+JP: 共鳴再構築Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Name_112
+CN: 生命提升Ⅱ
+EN: HP Boost II
+JP: HPアップⅡ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Name_113
+CN: 充盈能量
+EN: Full Power
+JP: エネルギー充填
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Name_114
+CN: 额外共鸣
+EN: Extra Resonance
+JP: 追加共鳴
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Name_115
+CN: 战地急救Ⅰ
+EN: Field Medic I
+JP: 戦場応急Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Name_116
+CN: 共鸣重组Ⅱ
+EN: Resonance Recombination II
+JP: 共鳴再構築Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Name_117
+CN: 突破阵线
+EN: Line Breaker
+JP: 前線突破
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Name_118
+CN: 暴击提升
+EN: Crit. Rate Boost
+JP: クリ率アップ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Name_119
+CN: 隐秘据点
+EN: Hidden Base
+JP: 隠し拠点
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Name_120
+CN: 强化拟形
+EN: Morph Boost
+JP: 擬形強化
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Name_121
+CN: 战地急救Ⅰ
+EN: Field Medic I
+JP: 戦場応急Ⅰ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Name_122
+CN: 改进工艺
+EN: Improved Quality
+JP: 技術改良
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Name_123
+CN: 危机应对
+EN: Crisis Response
+JP: 危機対応
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Name_124
+CN: 资金收集Ⅱ
+EN: Credit Collection II
+JP: 資金調達Ⅱ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Name_125
+CN: 防御提升Ⅰ
+EN: DEF Boost I
+JP: 防御力アップⅠ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Name_126
+CN: 攻击提升Ⅲ
+EN: ATK Boost III
+JP: 攻撃力アップⅢ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Name_127
+CN: 生命提升Ⅲ
+EN: HP Boost III
+JP: HPアップⅢ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Name_128
+CN: 伤害提升Ⅰ
+EN: DMG Boost I
+JP: ダメージアップⅠ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Name_129
+CN: 资金收集Ⅲ
+EN: Credit Collection III
+JP: 資金調達Ⅲ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Name_130
+CN: 防御提升Ⅱ
+EN: DEF Boost II
+JP: 防御力アップⅡ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Name_131
+CN: 攻击提升Ⅳ
+EN: ATK Boost IV
+JP: 攻撃力アップⅣ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Name_132
+CN: 生命提升Ⅳ
+EN: HP Boost IV
+JP: HPアップⅣ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Name_133
+CN: 伤害提升Ⅱ
+EN: DMG Boost II
+JP: ダメージアップⅡ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Name_134
+CN: 资金收集Ⅳ
+EN: Credit Collection IV
+JP: 資金調達Ⅳ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Name_135
+CN: 防御提升Ⅲ
+EN: DEF Boost III
+JP: 防御力アップⅢ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Name_136
+CN: 攻击提升Ⅴ
+EN: ATK Boost V
+JP: 攻撃力アップⅤ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Name_137
+CN: 生命提升Ⅴ
+EN: HP Boost V
+JP: HPアップⅤ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogueTalentTree_Name_138
+CN: 伤害提升Ⅲ
+EN: DMG Boost III
+JP: ダメージアップⅢ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_BlessType_Dodge
+CN: 冲刺
+EN: Dash
+JP: ダッシュ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_BlessType_Pugong
+CN: 普攻
+EN: Basic Attack
+JP: 通常攻撃
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_BlessType_SkillE
+CN: 共鸣技能
+EN: Resonance Skill
+JP: 共鳴スキル
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_BlessType_SkillQ
+CN: 拟形
+EN: Morph
+JP: 擬形
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_BlessType_Zhongji
+CN: 重击
+EN: Heavy Attack
+JP: 重撃
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_BlessingNotGet
+CN: 暂未获得共鸣因子
+EN: No Resonance Factor obtained yet
+JP: 共鳴因子未獲得
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_BlessingReplace
+CN: 替换共鸣因子
+EN: Replace Factor
+JP: 共鳴因子を入れ替える
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_BlessingUpgrade
+CN: 因子强化
+EN: Factor Enhancement
+JP: 因子強化
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_BlessingWithEnhance
+CN: 共鸣因子与强化
+EN: Resonance Factors & Enhancements
+JP: 共鳴因子・強化
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_DefaultElement
+CN: 选择角色
+EN: Select Resonator
+JP: キャラ選択
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_DefaultLoot
+CN: 选择收藏品
+EN: Select Collectible
+JP: コレクション選択
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EffectHintGoldEfficiencyGet
+CN: 行动资金获取效率+{0}%
+EN: Op Credit gain +{0}%
+JP: 行動資金の獲得効率+{0}%
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EffectHintGoldEfficiencyLose
+CN: 行动资金获取效率+{0}%
+EN: Op Credit gain +{0}%
+JP: 行動資金の獲得効率+{0}%
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EffectHintGoldGet
+CN: 获得{0}行动资金
+EN: Obtained {0} Op Credits
+JP: 行動資金+{0}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EffectHintGoldLose
+CN: 失去{0}行动资金
+EN: Lost {0} Op Credits
+JP: 行動資金-{0}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EffectHintHpMaxGet
+CN: 最大生命提升{0}
+EN: Max HP is increased by {0}
+JP: HP上限+{0}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EffectHintHpMaxLose
+CN: 最大生命减少{0}
+EN: Max HP is reduced by {0}
+JP: HP上限-{0}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EffectHintItemDurationGet
+CN: {0}生效区域数+{1}
+EN: {0} Effective Zone +{1}
+JP: {0}の有効エリア数+{1}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EffectHintItemDurationLose
+CN: {0}生效区域数{1}
+EN: {0} Effective Zone {1}
+JP: {0}の有効エリア数{1}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EffectHintTalentPointGet
+CN: 获得{0}新知模块
+EN: Obtained <SapTag=0>{0}</SapTag> Knowledge {Cus:Sap,S=Module P=Modules SapTag=0}
+JP: ナレッジモジュールを{0}獲得
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_ElementLocked
+CN: 该关卡无法切换漂泊者属性
+EN: Cannot switch Rover's Attribute in this stage
+JP: このステージでは漂泊者の属性を切り替えられません
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EndGame_Defeat
+CN: 挑战失败
+EN: Challenge Failed
+JP: 挑戦失敗
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EndGame_GoldGain
+CN: 获得资金
+EN: Op Credit Gained
+JP: 獲得資金
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EndGame_RoomBoss
+CN: 击败首领敌人
+EN: Bosses Defeated
+JP: ボス撃破
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EndGame_RoomClear
+CN: 已完成区域
+EN: Zone Cleared
+JP: クリア済みエリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EndGame_RoomElite
+CN: 击败精英敌人
+EN: Elites Defeated
+JP: エリート敵撃破
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EndGame_ShopCoinGet
+CN: 阈限徽记
+EN: Threshold Sigil
+JP: 閾限バッジ
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EndGame_TalentPointGet
+CN: 新知模块
+EN: Knowledge Module
+JP: ナレッジモジュール
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EndGame_Victory
+CN: 挑战成功
+EN: Challenge Complete
+JP: 挑戦クリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EnhanceNotGet
+CN: 暂未获得角色强化
+EN: No Resonator Enhancement obtained yet
+JP: キャラ強化未獲得
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_1001
+CN: 进入{0}个区域后，获得消耗品：普攻伤害提升{1}。
+EN: After entering <SapTag=0>{0}</SapTag> {Cus:Sap,S=Zone P=Zones SapTag=0}, gain a Consumable that increases Basic Attack DMG by {1}.
+JP: {0}か所のエリアに到達すると、消費アイテムを獲得：通常攻撃ダメージが{1}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_1002
+CN: 进入{0}个区域后，获得消耗品：共鸣技能伤害提升{1}。
+EN: After entering <SapTag=0>{0}</SapTag> {Cus:Sap,S=Zone P=Zones SapTag=0}, gain a Consumable that increases Resonance Skill DMG by {1}.
+JP: {0}か所のエリアに到達すると、消費アイテムを獲得：共鳴スキルダメージが{1}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_1003
+CN: 进入{0}个区域后，获得消耗品：重击伤害提升{1}。
+EN: After entering <SapTag=0>{0}</SapTag> {Cus:Sap,S=Zone P=Zones SapTag=0}, gain a Consumable that increases Heavy Attack DMG by {1}.
+JP: {0}か所のエリアに到達すると、消費アイテムを獲得：重撃ダメージが{1}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_1004
+CN: 进入{0}个区域后，获得消耗品：拟形技能伤害提升{1}。
+EN: After entering <SapTag=0>{0}</SapTag> {Cus:Sap,S=Zone P=Zones SapTag=0}, gain a Consumable that increases Morph Skill DMG by {1}.
+JP: {0}か所のエリアに到達すると、消費アイテムを獲得：擬形スキルダメージが{1}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_1005
+CN: 生命上限提升{0}。
+EN: Max HP is increased by {0}.
+JP: HP上限{0}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_1006
+CN: 随机获得{0}个紫色品质共鸣因子。
+EN: Randomly obtain <SapTag=0>{0}</SapTag> Purple-rarity Resonance {Cus:Sap,S=Factor P=Factors SapTag=0}.
+JP: パープル品質の共鳴因子をランダムで{0}個獲得する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_1007
+CN: 获得{0}点行动资金。
+EN: Gain {0} Op Credits.
+JP: 行動資金を{0}Pt獲得する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_1009
+CN: 在秋水处购买商品时，商品价格降低{0}。
+EN: Item prices from Aalto are reduced by {0}.
+JP: アールトから商品を購入する時、価格が{0}安くなる。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_1010
+CN: 回复生命上限{0}的生命。
+EN: Restores {0} of Max HP.
+JP: HP上限の{0}分を回復する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_1011
+CN: {0}概率随机获得{1}个橙色品质共鸣因子，{2}概率随机获得{3}个蓝色品质共鸣因子。
+EN: {0} chance to randomly obtain <SapTag=1>{1}</SapTag> Orange-rarity Resonance {Cus:Sap,S=Factor P=Factors SapTag=1}, and {2} chance to randomly obtain <SapTag=3>{3}</SapTag> Blue-rarity Resonance {Cus:Sap,S=Factor P=Factors SapTag=3}.
+JP: {0}の確率でオレンジ品質の共鳴因子を{1}個獲得する。{2}の確率でブルー品質の共鳴因子を{3}個獲得する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_1012
+CN: 随机获得{0}个消耗品。
+EN: Randomly obtain <SapTag=0>{0}</SapTag> {Cus:Sap,S=Consumable P=Consumables SapTag=0}.
+JP: 消費アイテムをランダムで{0}個獲得する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_1013
+CN: 进入{0}个区域后，获得{1}点行动资金。
+EN: After entering <SapTag=0>{0}</SapTag> {Cus:Sap,S=Zone P=Zones SapTag=0}, gain {1} Op Credits.
+JP: {0}か所のエリアに到達すると、行動資金を{1}Pt獲得する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_1014
+CN: 获得生命上限{0}的护盾。
+EN: Gain a Shield equal to {0} of Max HP.
+JP: HP上限{0}分のシールドを獲得する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_1015
+CN: 随机使{0}个共鸣因子提升{1}个品质。
+EN: Randomly increases the rarity of <SapTag=0>{0}</SapTag> Resonance {Cus:Sap,S=Factor P=Factors SapTag=0} by <SapTag=1>{1}</SapTag> {Cus:Sap,S=tier P=tiers SapTag=1}.
+JP: ランダムで{0}個の共鳴因子の品質を{1}段階アップする。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_2001
+CN: {0}概率获得{1}个消耗品，{2}概率获得{3}个消耗品。
+EN: {0} chance to gain <SapTag=1>{1}</SapTag> {Cus:Sap,S=Consumable P=Consumables SapTag=1}, and {2} chance to gain <SapTag=3>{3}</SapTag> {Cus:Sap,S=Consumable P=Consumables SapTag=3}.
+JP: {0}の確率で消費アイテムを{1}個獲得する。{2}の確率で消費アイテムを{3}個獲得する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_2002
+CN: 随机使{0}个共鸣因子提升{1}个品质，{2}概率直接升至最高品质。
+EN: Randomly increases the rarity of <SapTag=0>{0}</SapTag> Resonance {Cus:Sap,S=Factor P=Factors SapTag=0} by <SapTag=1>{1}</SapTag> {Cus:Sap,S=tier P=tiers SapTag=1}, with a {2} chance to raise it directly to the highest rarity.
+JP: ランダムで{0}個の共鳴因子の品質を{1}段階アップする。{2}の確率で最高品質までアップする。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_2003
+CN: 随机失去{0}个共鸣因子，获得{1}个橙色以上品质的共鸣因子。
+EN: Randomly lose <SapTag=0>{0}</SapTag> Resonance {Cus:Sap,S=Factor P=Factors SapTag=0}, and gain <SapTag=1>{1}</SapTag> Resonance {Cus:Sap,S=Factor P=Factors SapTag=1} of Orange or higher rarity.
+JP: ランダムで共鳴因子を{0}個失い、オレンジ品質以上の共鳴因子を{1}個獲得する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_2004
+CN: {0}概率获得{1}点行动资金，{2}概率获得{3}点行动资金。
+EN: {0} chance to gain {1} Op Credits, and {2} chance to gain {3} Op Credits.
+JP: {0}の確率で行動資金を{1}Pt獲得する。{2}の確率で行動資金を{3}Pt獲得する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_2005
+CN: 进入{0}个区域后，获得消耗品：造成伤害提升{1}。
+EN: After entering <SapTag=0>{0}</SapTag> {Cus:Sap,S=Zone P=Zones SapTag=0}, gain a Consumable that increases DMG dealt by {1}.
+JP: {0}か所のエリアに到達すると、消費アイテムを獲得：与ダメージが{1}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_2006
+CN: 进入{0}个区域后，获得消耗品：暴击提升{1}。
+EN: After entering <SapTag=0>{0}</SapTag> {Cus:Sap,S=Zone P=Zones SapTag=0}, gain a Consumable that increases Crit. Rate by {1}.
+JP: {0}か所のエリアに到達すると、消費アイテムを獲得：クリティカル率が{1}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_2007
+CN: 进入{0}个区域后，获得消耗品：受到的伤害降低{1}。
+EN: After entering <SapTag=0>{0}</SapTag> {Cus:Sap,S=Zone P=Zones SapTag=0}, gain a Consumable that reduces DMG taken by {1}.
+JP: {0}か所のエリアに到達すると、消費アイテムを獲得：被ダメージが{1}軽減。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_2008
+CN: 生命上限提升{0}。
+EN: Max HP is increased by {0}.
+JP: HP上限{0}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_2009
+CN: 获得消耗品：每次进入补给据点时，回复生命上限{0}的生命。
+EN: Gain a Consumable that restores {0} of Max HP each time you enter a Supply Base.
+JP: 消費アイテムを獲得：補給拠点に入るたびに、HP上限の{0}を回復する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_2010
+CN: 获得消耗品：对精英或首领目标造成的伤害加深{0}。
+EN: Gain a Consumable that Amplifies DMG dealt to Elite or Boss targets by {0}.
+JP: 消費アイテムを獲得：エリート・ボス敵へのダメージに{0}%のダメージブーストが付く。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_2011
+CN: 随机获得{0}~{1}个共鸣因子。
+EN: Randomly obtain {0} to {1} Resonance Factors.
+JP: ランダムで共鳴因子を{0}～{1}個獲得する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_2012
+CN: 失去当前生命{0}的生命，获得{1}点行动资金。
+EN: Lose {0} of current HP, and gain {1} Op Credits.
+JP: 現在HPの{0}を失い、行動資金を{1}Pt獲得する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_2013
+CN: 生命上限降低{0}，获得{1}个红色品质的共鸣因子。
+EN: Reduce Max HP by {0}, and gain <SapTag=1>{1}</SapTag> Red-rarity Resonance {Cus:Sap,S=Factor P=Factors SapTag=1}.
+JP: HP上限が{0}ダウン、レッド品質の共鳴因子を{1}個獲得する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_2014
+CN: 获得{0}点行动资金，但整局模拟中无法再获得行动资金。
+EN: Gain {0} Op Credits, but no more Op Credits can be gained for the rest of this stage.
+JP: 行動資金を{0}Pt獲得する。このシミュレーション中、それ以降は行動資金を獲得できない。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_2016
+CN: 回复生命上限{0}的生命。
+EN: Restore {0} of Max HP.
+JP: HP上限の{0}分を回復する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_2017
+CN: 失去所有共鸣因子，获得消耗品：造成的伤害提升{0}。
+EN: Lose all Resonance Factors, and gain a Consumable that increases DMG dealt by {0}.
+JP: すべての共鳴因子を失い、消費アイテムを獲得：与ダメージが{0}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_2018
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_2019
+CN: 获得{0}个紫色以上品质的共鸣因子。
+EN: Gain <SapTag=0>{0}</SapTag> Resonance {Cus:Sap,S=Factor P=Factors SapTag=0} of Purple or higher rarity.
+JP: パープル品質以上の共鳴因子をランダムで{0}個獲得する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_2020
+CN: 获得消耗品：对精英或首领敌人造成的伤害加深{0}。
+EN: Gain a Consumable that Amplifies DMG dealt to Elite or Boss targets by {0}.
+JP: 消費アイテムを獲得：エリート・ボス敵へのダメージに{0}%のダメージブーストが付く。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_2021
+CN: 随机使{0}个共鸣因子提升为最高品质。
+EN: Randomly raise <SapTag=0>{0}</SapTag> Resonance {Cus:Sap,S=Factor P=Factors SapTag=0} to the highest rarity.
+JP: ランダムで{0}個の共鳴因子の品質をを最高品質までアップする。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_2022
+CN: {0}概率随机获得{1}个红色品质共鸣因子，{2}概率随机获得{3}个紫色品质共鸣因子。
+EN: {0} chance to randomly obtain <SapTag=1>{1}</SapTag> Red-rarity Resonance {Cus:Sap,S=Factor P=Factors SapTag=1}, and {2} chance to randomly obtain <SapTag=3>{3}</SapTag> Purple-rarity Resonance {Cus:Sap,S=Factor P=Factors SapTag=3}.
+JP: {0}の確率でレッド品質の共鳴因子を{1}個獲得する。{2}の確率でパープル品質の共鳴因子を{3}個獲得する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_2023
+CN: {0}概率随机获得{1}个共鸣因子，{2}概率随机失去{3}个共鸣因子。
+EN: {0} chance to randomly gain <SapTag=0>{1}</SapTag> Resonance {Cus:Sap,S=Factor P=Factors SapTag=0}, and {2} chance to randomly lose <SapTag=3>{3}</SapTag> Resonance {Cus:Sap,S=Factor P=Factors SapTag=3}.
+JP: {0}の確率で共鳴因子をランダムで{1}個獲得し、{2}の確率で共鳴因子をランダムで{3}個失う。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_2024
+CN: 失去所有可恢复意识次数，生命上限提升{0}，并回复生命上限{1}的生命。
+EN: Lose all Revive attempts, increase Max HP by {0}, and restore {1} of Max HP.
+JP: すべての蘇生可能回数を失い、HP上限が{0}アップ、HP上限の{1}を回復する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_2025
+CN: 失去所有行动资金，每失去{0}点行动资金，造成的伤害提升{1}。
+EN: Lose all Op Credits. For every {0} Op Credits lost, DMG dealt is increased by {1}.
+JP: すべての行動資金を失う。行動資金を{0}Pt失うごとに、与ダメージが{1}アップ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_2026
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_2027
+CN: {0}概率获得{1}个消耗品，{2}概率获得{3}个消耗品。
+EN: {0} chance to gain <SapTag=1>{1}</SapTag> {Cus:Sap,S=Consumable P=Consumables SapTag=1}, and {2} chance to gain <SapTag=3>{3}</SapTag> {Cus:Sap,S=Consumable P=Consumables SapTag=3}.
+JP: {0}の確率で消費アイテムを{1}個獲得する。{2}の確率で消費アイテムを{3}個獲得する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_2028
+CN: 随机失去{0}个共鸣因子，使剩下的共鸣因子提升至最高品质。
+EN: Randomly lose <SapTag=0>{0}</SapTag> Resonance {Cus:Sap,S=Factor P=Factors SapTag=0}, and raise the remaining Resonance Factors to the highest rarity.
+JP: ランダムで共鳴因子を{0}個失い、残りの共鳴因子を最高品質にアップする。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_2029
+CN: 获得{0}个嘉贝莉娜的共鸣因子。
+EN: Gain <SapTag=0>{0}</SapTag> Resonance {Cus:Sap,S=Factor P=Factors SapTag=0} of Galbrena.
+JP: カルベリーナの共鳴因子を{0}個獲得する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_3001
+CN: 消耗品可持续的区域数+{0}。
+EN: Consumables stay effective in <SapTag=0>{0}</SapTag> more {Cus:Sap,S=Zone P=Zones SapTag=0}.
+JP: 消費アイテムの効果持続エリア数+{0}。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventGetAttribute
+CN: {0} + {1}
+EN: {0} + {1}
+JP: {0} + {1}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_GameProcessShow
+CN: {0} [{1}]
+EN: {0} [{1}]
+JP: {0} [{1}]
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_GodUnlock_Double
+CN: 完成挑战后，解锁 <color=#ffdd53>{0}</color> 与 <color=#ffdd53>{1}</color> 的共鸣因子
+EN: Completing the challenge unlocks the Resonance Factors of <color=#ffdd53>{0}</color> and <color=#ffdd53>{1}</color>
+JP: ステージクリアで<color=#ffdd53>{0}</color>と<color=#ffdd53>{1}</color>の共鳴因子を解放
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_GodUnlock_Single
+CN: 完成挑战后，解锁 <color=#ffdd53>{0}</color> 的共鸣因子
+EN: Completing the challenge unlocks <color=#ffdd53>{0}</color>'s Resonance Factor
+JP: ステージクリアで<color=#ffdd53>{0}</color>の共鳴因子を解放
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_GodUnlock_Triple
+CN: 完成挑战后，解锁 <color=#ffdd53>{0}</color> 、 <color=#ffdd53>{1}</color> 与 <color=#ffdd53>{2}</color> 的共鸣因子
+EN: Completing the challenge unlocks the Resonance Factors of <color=#ffdd53>{0}</color> and <color=#ffdd53>{1}</color>
+JP: ステージクリアで<color=#ffdd53>{0}</color>、<color=#ffdd53>{1}</color>と<color=#ffdd53>{2}</color>の共鳴因子を解放
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_HintGetBlessing
+CN: 获得共鸣因子
+EN: You have obtained a Resonance Factor
+JP: 共鳴因子獲得
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_HintGetHint
+CN: 获得角色强化
+EN: You have gained a Resonator Enhancement
+JP: キャラ強化獲得
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_HintGetItem
+CN: 获得消耗品
+EN: You have gained a Consumable
+JP: 消費アイテム獲得
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_HintLoseBlessing
+CN: 失去共鸣因子
+EN: You have lost a Resonance Factor
+JP: 以下の共鳴因子は失われます
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_HintLoseHint
+CN: 失去角色强化
+EN: You have lost a Resonator Enhancement
+JP: 以下のキャラ強化は失われます
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_HintLoseItem
+CN: 失去消耗品
+EN: You have lost a Consumable
+JP: 以下の消費アイテムは失われます
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_InsufficientFund
+CN: 行动资金不足
+EN: Insufficient Op Credit
+JP: 行動資金が足りない
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_InsufficientTalent
+CN: 新知模块不足
+EN: Insufficient Knowledge Module
+JP: ナレッジモジュールが足りない
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_ItemDurationInGame
+CN: 剩余生效区域：{0}
+EN: Remaining Effective {Cus:Sap,S=Zone P=Zones SapTag=0}: <SapTag=0>{0}</SapTag>
+JP: 残り有効エリア数：{0}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_ItemDurationOutGame
+CN: 可生效区域：{0}
+EN: Effective {Cus:Sap,S=Zone P=Zones SapTag=0}: <SapTag=0>{0}</SapTag>
+JP: 有効エリア数：{0}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_ItemNotGet
+CN: 暂未获得消耗品
+EN: No Consumable obtained yet
+JP: 消費アイテム未獲得
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_LootOnlyDarkElement
+CN: 仅对湮灭属性漂泊者生效
+EN: Only effective for Rover: Havoc
+JP: 消滅属性の漂泊者にのみ有効
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_LootOnlyLightElement
+CN: 仅对衍射属性漂泊者生效
+EN: Only effective for Rover: Spectro
+JP: 回折属性の漂泊者にのみ有効
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_LootSystemUnlock
+CN: 尚未解锁
+EN: Locked
+JP: 未解放
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_LootUnchooseBlock
+CN: 完成难度1后解锁
+EN: Unlocked after clearing Difficulty 1
+JP: 難易度1クリア後に解放
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_LootUnlockDesc
+CN: 解锁后可查看收藏品详细效果
+EN: Unlock to view the detailed effects of the Keepsakes
+JP: 解放後、コレクションの詳細効果を確認できる
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_LootUnlockHint
+CN: 完成场景1后可解锁收藏品
+EN: Complete Scenario 1 to unlock Keepsake
+JP: ステージ1クリアでコレクション解放
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_LootUnlockText
+CN: 解锁条件
+EN: Unlock Condition
+JP: 解放条件
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_LootUpGradeCondition
+CN: 通过{0}个区域
+EN: Clear {0} Zones
+JP: {0}エリアをクリア
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_LootUpgradeText
+CN: 升级条件
+EN: Upgrade Condition
+JP: レベルアップ条件
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_ProcessingFloor
+CN: <color=#cccccc><size=36>当前进度：</size></color>{0}/{1} 第{2}层-{3}
+EN: <color=#cccccc><size=36>Current Progress:</size></color> {0}/{1} Floor {2}-{3}
+JP: <color=#cccccc><size=36>現在の進捗：</size></color>{0}/{1}第{2}層 - {3}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_ProcessingStage
+CN: 模拟总进度：{0}/{1}
+EN: Simulation Progress: {0}/{1}
+JP: シミュ進捗：{0}/{1}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_RefreshCost
+CN: {0}
+EN: {0}
+JP: {0}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_RefreshCount
+CN: 刷新{0}/{1}
+EN: Refresh {0}/{1}
+JP: 更新{0}/{1}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_RefreshSuccess
+CN: 刷新成功
+EN: Refresh successful
+JP: 更新しました
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_RoomProcessTitle
+CN: {0}/{1}
+EN: {0}/{1}
+JP: {0}/{1}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_RoomProcessTitleBigBoss
+CN: 首领敌人出现
+EN: Boss target appears
+JP: ボスが出現
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_RoomProcessTitleLittleBoss
+CN: 精英敌人出现
+EN: Elite target appears
+JP: エリート敵が出現
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_RoomTypeTitle
+CN: 第{0}区域-{1}
+EN: Zone {0}-{1}
+JP: 第{0}エリア‐{1}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_ShopBlessingType
+CN: 共鸣因子
+EN: Resonance Factor
+JP: 共鳴因子
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_ShopEnhanceType
+CN: 角色强化
+EN: Resonator Enhancement
+JP: キャラ強化
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_ShopItem
+CN: 消耗品
+EN: Consumable
+JP: 消費アイテム
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_ShopItemType
+CN: 消耗品
+EN: Consumable
+JP: 消費アイテム
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_ShopPrice
+CN: <color=#ffffff>{0}</color>
+EN: <color=#ffffff>{0}</color>
+JP: <color=#ffffff>{0}</color>
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_ShopPriceWithDiscount
+CN: <color=#ffffff>{0}</color><s><color=#adadad><size=-4>{1}</size></color></s>
+EN: <color=#ffffff>{0}</color><s><color=#adadad><size=-4>{1}</size></color></s>
+JP: <color=#ffffff>{0}</color><s><color=#adadad><size=-4>{1}</size></color></s>
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_ShopPriceWithDiscount_NE
+CN: <color=#c25757>{0}</color><s><color=#adadad><size=-4>{1}</size></color></s>
+EN: <color=#c25757>{0}</color><s><color=#adadad><size=-4>{1}</size></color></s>
+JP: <color=#c25757>{0}</color><s><color=#adadad><size=-4>{1}</size></color></s>
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_ShopPrice_NE
+CN: <color=#c25757>{0}</color>
+EN: <color=#c25757>{0}</color>
+JP: <color=#c25757>{0}</color>
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_ShopTag
+CN: 物资兑换
+EN: Supply Exchange
+JP: 物資交換
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_ShopTagGoods
+CN: 全部
+EN: All
+JP: すべて
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_StageLockedHint
+CN: 完成前置场景后解锁
+EN: Complete the required stage to unlock
+JP: 前のエリアをクリア後に解放
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_StartGame
+CN: 前往
+EN: Proceed
+JP: 進む
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_SystemShow_CoreBlessing
+CN: 技能因子
+EN: Skill Factor
+JP: スキル因子
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_SystemShow_Enhance
+CN: 角色强化
+EN: Resonator Enhancement
+JP: キャラ強化
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_SystemShow_Item
+CN: 消耗品
+EN: Consumable
+JP: 消費アイテム
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_SystemShow_NormalBlessing
+CN: 通用因子
+EN: General Factor
+JP: 汎用因子
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_SystemTag_Blessing
+CN: 共鸣因子
+EN: Resonance Factor
+JP: 共鳴因子
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_SystemTag_Enhance
+CN: 角色强化
+EN: Resonator Enhancement
+JP: キャラ強化
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_SystemTag_Item
+CN: 消耗品
+EN: Consumable
+JP: 消費アイテム
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_SystemTag_RoleAttr
+CN: 角色属性
+EN: Resonator Stats
+JP: キャラ属性
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_TalentTreeUnlockShow
+CN: 效果预览
+EN: Effect Preview
+JP: 効果プレビュー
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_TalentTree_Activate
+CN: 激活
+EN: Activate
+JP: 有効化
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_TalentTree_TypeLeft
+CN: 特殊协议
+EN: Special Protocol
+JP: 特殊プロトコル
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_TalentTree_TypeMiddle
+CN: 战斗协议
+EN: Combat Protocol
+JP: 戦闘プロトコル
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_TalentTree_TypeRight
+CN: 辅助协议
+EN: Support Protocol
+JP: 支援プロトコル
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_10_1
+CN: （在玄元境逃逸的那个残响，以及店长吕一见到的那个残响，或许是一个人。）
+EN: (The Reverberation that escaped from the Xuanyuan Domain... might also be the one Lyu Yi ran into.)
+JP: {Male=（玄元境から逃げた残響と、店長の呂一が見た残響……同じ相手かもしれないな）;Female=（玄元境から逃げた残響と、店長の呂一が見た残響……同じ相手かもしれない）}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_10_2
+CN: （……和若云说一下吧。）
+EN: (...I should tell Ruoyun about this.)
+JP: {Male=（……若雲にも伝えておくか）;Female=（……若雲にも伝えておこう）}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_11_1
+CN: （讲述事件经过）
+EN: (Recount what happened.)
+JP: （事の経緯を伝える）
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_11_2
+CN: 之前我们见到了一个残响，和玄元境逃逸的那个情况很像
+EN: We came across a Reverberation before, and it looked a lot like the one that got out of the Xuanyuan Domain.
+JP: {Male=この前、ある残響に会ったんだが、玄元境から逃げたやつと状況がそっくりだった。;Female=この前、ある残響に会ったの。玄元境から逃げた残響と状況がそっくりだった。}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_11_3
+CN: 他们都抱着同样的心愿，也都想要见到自己的家人
+EN: Both of them held onto the same wish. They just wanted to see their family again.
+JP: {Male=どちらも同じ願いを抱えて、家族に会いたがっていた。;Female=どちらも同じ願いを抱えて、家族に会いたがっていたの。}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_11_4
+CN: 即便最后事与愿违，但那最初的心愿并没有错
+EN: Even if it didn't end up the way they wanted, that wish was never a mistake.
+JP: {Male=結末は願い通りじゃなかったが、最初に抱いたあの願いは間違っていなかった。;Female=結末は願い通りじゃなかったけど、最初に抱いたあの願いは間違っていなかったと思う。}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_11_5
+CN: 原来是这样，听你的说法，他们确实是同一个残响诶！
+EN: I see. Sounds like they really are the same Reverberation.
+JP: そういうことでしたか。お話からすると、確かに同じ残響みたいですね！
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_11_6
+CN: 虽然外面已经沧海桑田，愿望无法实现，但我想，他的愿望传达出来，或许也算是一种慰藉
+EN: The world outside has changed so much that the wish can never come true, but I think having it reach someone still counts as a small comfort.
+JP: 外はすっかり様変わりして、願いはもう叶いません。でも、その想いはちゃんと誰かに届いた。それも一つの慰めなのかもしれません。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_11_7
+CN: 总之，这段隐藏数据可以归档了，问题解决！
+EN: In any case, this bit of hidden data is ready to file away. Problem solved!
+JP: ともあれ、この隠しデータはこれでアーカイブ化できます。問題解決です！
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_12_1
+CN: 总感觉这地方怪怪的……
+EN: This place just feels... off.
+JP: なんかここ、変な感じがするんだよなぁ……
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_13_1
+CN: 前方，数据区域，修复中。
+EN: Warning. Data sector ahead. Repairs in progress.
+JP: 前方、データ領域、修復中。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_13_2
+CN: 禁止，通行，谢谢配合。
+EN: Access denied. Please cooperate. Thank you.
+JP: 通行、禁止。ご協力、感謝。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_14_1
+CN: 我们在捉迷藏，捉——迷——藏——！
+EN: We're playing hide and seek! Hiiide! Aaand! Seeeek!
+JP: かくれんぼしてるの！か・く・れ・ん・ぼ——！
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_14_2
+CN: 捉迷藏，我是第一名！试试你能不能找到我吧！
+EN: Hide-and-seek, I'm the best! Bet you can't find me!
+JP: かくれんぼなら私が一番なんだから！見つけられるか試してみて！
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_14_3
+CN: 找到我！这个箱子就是你的啦！
+EN: Find me, and you can have this box!
+JP: 見つけられたら、この箱はあなたにあげる！
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_15_1
+CN: 什么？居然找到我了？
+EN: Huh? You actually found me?
+JP: ええっ？見つかっちゃった？
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_15_2
+CN: 你是不是有能看到千里之外的眼睛？还是能听到叶落声音的耳朵？
+EN: Do you have eyes that can see a thousand miles away? Or ears that can hear a leaf fall?
+JP: もしかして、千里先まで見通せる目でも持ってるの？それとも、葉っぱが落ちる音まで聞こえちゃう耳？
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_15_3
+CN: 再来，再来试试！
+EN: Again! Let's go again!
+JP: もう一回！もう一回、私とかくれんぼしよう！
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_16_1
+CN: 又被你找到了！
+EN: You found me again!
+JP: また見つかっちゃった！
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_16_2
+CN: 不管这里有什么隐藏的信息，都会被你找到吧！
+EN: Whatever's hiding around here, I bet you'll find that too!
+JP: ここにどんな秘密が隠れていても、きっとぜーんぶあなたに見つかっちゃうね！
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_16_3
+CN: 好啦，我要回家去了，再见！
+EN: Okay, I'm heading home now. See ya!
+JP: それじゃ、私はおうちに帰るね。ばいばーい！
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_17_1
+CN: 吃了吗？
+EN: Catch a bite yet?
+JP: 食ったか？
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_17_2
+CN: 还好啊，今天吃饱了来的。
+EN: I'm good. Had a full meal before I came.
+JP: まあ、今日は腹いっぱい食ってから来たけど。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_17_3
+CN: 我是问鱼，鱼吃了吗？
+EN: I meant the fish. They biting?
+JP: 魚の話だよ。魚は食いついたかって。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_17_4
+CN: 鱼应该也吃饱了。
+EN: The fish are probably full too.
+JP: 魚のほうも、今日は腹いっぱいなんだろうよ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_19_1
+CN: 玄元境里的这些，其实总让我感到怀念，所以没事的时候我就到处逛逛。
+EN: Being here in the Xuanyuan Domain always stirs up some nostalgia in me. So when I've got free time, I like to just wander about.
+JP: 玄元境の景色って、実はいつも懐かしくなっちゃうんです。だから暇な時は、あちこちお散歩してるんですよ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_19_2
+CN: 和这里的人聊聊天，说说话，也很好玩吧。
+EN: Having a little talk with folks around here is fun too, you know?
+JP: ここの人たちとおしゃべりするのも、けっこう楽しいものですしね。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_1_1
+CN: 嗨，{PlayerName}！
+EN: Hey, {PlayerName}!
+JP: やっほー、{PlayerName}さん！
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_1_10
+CN: 被你猜到了！我在玄元境等你！
+EN: Guilty as charged! See you in the Xuanyuan Domain!
+JP: その通りです！では、玄元境で待ってますね！
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_1_2
+CN: 我正按岁主大人之前的安排，在玄元境里做善后工作。
+EN: I'm doing clean-up work in the Xuanyuan Domain, just as the Sentinel arranged before.
+JP: 歳主様に前もって言われていた通り、玄元境で後片付けのお仕事中です。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_1_3
+CN: 只是，最近我在其中发现一些古怪，能麻烦你来看看吗？
+EN: But recently I found something odd in there. Mind coming to check it out?
+JP: ただ最近、その作業中にちょっと妙なものを見つけちゃいまして。見に来てもらえませんか？
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_1_4
+CN: 我又能进玄元境了？
+EN: I can get into the Xuanyuan Domain again?
+JP: {Male=俺、また玄元境に入れるのか？;Female=私、また玄元境に入れるの？}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_1_5
+CN: 我又能进玄元境了？
+EN: I can get into the Xuanyuan Domain again?
+JP: {Male=俺、また玄元境に入れるのか？;Female=私、また玄元境に入れるの？}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_1_6
+CN: 你身上有岁主大人给的「宿镜」，想进来当然没问题！
+EN: You've got the "Prism of Fate" the Sentinel gave you. Of course you can get back in!
+JP: {PlayerName}さんには歳主様から贈られた「宿鏡」がありますから、ぜんぜん問題ありません！
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_1_7
+CN: 而且，真的真的很需要你！
+EN: Besides, I really, REALLY need you!
+JP: それに、本当にほんっとーに、{PlayerName}さんの力が必要なんです！
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_1_8
+CN: 就是想要我帮忙吧。
+EN: So you just want me to help out, huh?
+JP: {Male=つまり、手伝ってほしいんだろ。;Female=つまり、手伝ってほしいんでしょ。}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_1_9
+CN: 你就是想要我帮忙吧。
+EN: So you just want me to help out, huh?
+JP: {Male=つまり、手伝ってほしいんだろ。;Female=つまり、手伝ってほしいんでしょ。}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_2_1
+CN: {PlayerName}，还好你来了。
+EN: {PlayerName}, I'm glad you came.
+JP: {PlayerName}さん、来てくれてよかった。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_2_2
+CN: 情况如何？
+EN: What's the situation?
+JP: {Male=状況はどうだ？;Female=状況はどう？}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_2_3
+CN: 有些复杂。
+EN: It's a bit complicated.
+JP: それが、少し込み入っていまして。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_2_4
+CN: 先前，我遵照岁主大人的安排，驻扎在此清除遗留的少许残响侵蚀。
+EN: Earlier, on the Sentinel's orders, I was stationed here to clear out the last traces of Reverberations.
+JP: 私、歳主様のご指図で以前からここに詰めて、残っていたわずかな残響の侵蝕を取り除いていたんです。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_2_5
+CN: 然而在其中，我发现一段奇怪的隐藏数据，也不知是什么时候留下的。
+EN: While I was at it, I came across an odd bit of hidden data. No telling how long it's been here.
+JP: ところが作業の途中で、いつ残されたのかも分からない奇妙な隠しデータを見つけてしまって。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_2_6
+CN: 以我的权限很难查看类似的隐藏数据。但你拥有岁主大人的信物，想必是没问题的。
+EN: Data like this is beyond my access level. But you carry the Sentinel's token, so it shouldn't be a problem for you.
+JP: 私の権限では、この手の隠しデータはなかなか閲覧できないんです。でも、歳主様の「印」を持つあなたなら、きっと閲覧できるはずです。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_2_7
+CN: 所以，可以麻烦你帮忙调查一二吗？
+EN: Could I trouble you to investigate a little?
+JP: そこでお願いです。調査を少しだけ手伝ってもらえませんか？
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_2_8
+CN: 我也会尽力辅助你，拜托了，{PlayerName}。
+EN: You'll get all the help from me. I'm counting on you, {PlayerName}.
+JP: 私も全力でサポートしますから。お願いします、{PlayerName}さん。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_3_1
+CN: 又见面啦。
+EN: We meet again!
+JP: また会いましたね。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_3_10
+CN: 等会儿跟我来就好啦！
+EN: Come along with me in a moment, okay?
+JP: あとは私についてくればオッケーですからね！
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_3_2
+CN: 才刚刚见过。
+EN: We literally just met.
+JP: {Male=ついさっき会ったばかりだろ。;Female=ついさっき会ったばかりでしょ。}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_3_3
+CN: 不不不，你刚才见到的是若云，现在见到的才是小玉。
+EN: No, no, no. Who you just saw was Ruoyun. This, right here, is Jadie.
+JP: ちっちっち……さっき会ったのは「若雲」で、今あなたの前にいるのは「玉」ですよ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_3_4
+CN: 为什么要换个身体？
+EN: Why switch bodies?
+JP: {Male=なんでわざわざ体を替えたんだ？;Female=どうしてわざわざ体を替えたの？}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_3_5
+CN: 因为之前“小玉”和你说，要在玄元境等你嘛！
+EN: Because "Jadie" promised to wait for you in the Xuanyuan Domain, and here Jadie is!
+JP: だってさっき、玄元境で待ってますって言ったのは「玉」ですから！
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_3_6
+CN: 不过我确实遇到了些麻烦。你看前面那个凉亭，我在那扫描出一些怎么也看不见的东西。
+EN: Anyway, I really did hit a snag. See that pavilion up ahead? My scan found something there that I just can't see.
+JP: でも、困りごとがあるのは本当なんです。ほら、前に見えるあの東屋。あそこで、どうやっても目に見えない「何か」をスキャンで拾っちゃったんです。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_3_7
+CN: 真是完全不知道该怎么办！不过，你身上或许会有能用的妙妙小道具？
+EN: I'm totally stumped! But maybe you have some handy little gadget that could do the trick?
+JP: もう、お手上げなんです！でも、{PlayerName}さんなら何か使えそうな便利なアイテムを持っているのでは？
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_3_8
+CN: 也许可以用妙眼铜镜试试？
+EN: Maybe I could try the Copper Mirror of Truth?
+JP: 明眼の銅鏡を試してみようか？
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_3_9
+CN: 噢噢！就是那个！那就拜托你试一试了，{PlayerName}！
+EN: Oh, oh! Yes, that's it! It's all yours to try, {PlayerName}!
+JP: おおっ、それですそれ！では、お願いします、{PlayerName}さん！
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_4_1
+CN: {PlayerName}！
+EN: {PlayerName}!
+JP: {PlayerName}さん！
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_4_2
+CN: 这里！这里！在这里使用妙眼铜镜看看？
+EN: Here, here! Try using the Copper Mirror of Truth right here?
+JP: ここです、ここ！その明眼の銅鏡を使ってみてください！
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_5_1
+CN: 这是个残响？
+EN: Is this a Reverberation?
+JP: これって……残響ですか？
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_5_2
+CN: 它好像到那边去了，我们去看看。
+EN: Looks like it went that way. Let's go check it out.
+JP: あっちへ行ったみたいです。追いかけましょう！
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_6_1
+CN: 这里是哪……我必须回去……
+EN: Where... is this... I have to go back...
+JP: ここはどこじゃ……わしは、帰らねばならんのじゃ……
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_6_2
+CN: ……还在等着我呢……
+EN: ...They're still waiting for me...
+JP: ……まだ、わしを待っておるでな……
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_6_3
+CN: 这儿不是我的家，我家在外面。外面……
+EN: This isn't home. Home is out there... Out there...
+JP: ここはわしの家ではない。わしの家は外じゃ。外に……
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_6_4
+CN: ……回……
+EN: ...home...
+JP: ……帰らねば……
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_8_3
+CN: 嗯？{PlayerName}，你想到什么了吗？
+EN: Hm? Figured something out, {PlayerName}?
+JP: ん？{PlayerName}さん、何か思い当たることでもあるんですか？
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_8_4
+CN: （说明情况）
+EN: (Explain the situation.)
+JP: （事情を説明する）
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_8_5
+CN: 原来是这样，听你的说法，他们确实是同一个残响。
+EN: So that's it. Sounds like they really are the same Reverberation.
+JP: ……そういうことでしたか。お話を聞く限り、確かに同じ残響のようですね。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_8_6
+CN: 虽然外面已经物是人非，它的愿望再也无法实现，但我想……它想说的话好好地传达给了他人，这或许也算是一种慰藉。
+EN: The world outside has moved on, so its wish can never really come true anymore. But still, I think getting its message through to someone in the end counts as a small comfort.
+JP: 外の世界はすっかり様変わりしてしまって、あの残響の願いはもう叶いません。でも……伝えたかった言葉は、ちゃんと誰かに届いた。それだけでも、ほんの少しは救われたのかもしれませんね。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_8_7
+CN: 总之，这段隐藏数据可以归档了，问题解决！
+EN: In any case, this bit of hidden data is ready to file away. Problem solved!
+JP: ともあれ、この隠しデータはこれでアーカイブ化できます。これで問題解決です！
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_9_1
+CN: 啊……数据记录就到这里了，看起来这个残响竟然逃到外界去了。
+EN: Ah... the data stops here. Seems this Reverberation somehow slipped out into the outside world.
+JP: あ……データの記録はここで終わりですね。この残響、どうやら外の世界へ逃げ出しちゃったみたいです。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_9_2
+CN: 我刚才比对了下数据库，这段残响或许是当年滞留在渊城中的一个行商。
+EN: I ran a quick check against the database. This Reverberation might be a traveling merchant who got stranded in Yuan Fortress back then.
+JP: さっきデータベースと照合してみたんですが、この残響はおそらく、当時淵城に足止めされていた行商人さんの一人だと思います。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_9_3
+CN: 按理……残响是不可能穿过岁主大人在玄元境外部设下的屏障的。
+EN: Technically... there's no way a Reverberation could pass through the barrier the Sentinel placed outside the Xuanyuan Domain.
+JP: 本来なら……歳主様が玄元境の外に張った障壁を、残響が通り抜けられるはずはないんですが……
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_9_4
+CN: 这或许是因为它非常思念家人。想要回家的这份心愿在无意中创造了“奇迹”吧。
+EN: Maybe it's because it missed its family so much. That wish to go home must have created a "miracle" somehow.
+JP: きっと、家族への想いがそれだけ強かったんでしょうね。「家に帰りたい」――その願いが、知らず知らずのうちに「奇跡」を起こしたんだと思います。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_9_5
+CN: 只不过，我们没办法判断逃逸的那份残响会造成什么影响。
+EN: That said, we have no way of knowing what impact that escaped Reverberation might cause.
+JP: ただ、逃げ出した残響が外の世界にどんな影響を及ぼすのかまでは、こちらでは判断できなくて……。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_9_6
+CN: {PlayerName}，要是在外遇到什么疑似这段残响的事情，一定要告诉我。
+EN: {PlayerName}, if you come across anything outside that seems to be related to this Reverberation, you've got to tell me.
+JP: {PlayerName}さん、もし外でこの残響と思われるものに出会ったら、必ず教えてくださいね。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XFC_YCSJ_9_7
+CN: 之后“若云”也会在这里，等着你来哦！
+EN: And "Ruoyun" will keep waiting here for you after this, okay?
+JP: この先は「若雲」もここで、あなたが来るのを待ってますからね！
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_10_1
+CN: 有什么事吗？
+EN: What can I help you with?
+JP: 何か用かい？
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_10_10
+CN: 还得搭配我这秘制酱料。不是我吹，这酱料蘸鞋底都好吃。
+EN: 
+JP: そこに、うちの秘伝ダレを合わせるのさ。自慢じゃないが、このタレなら靴底につけたって旨いぞ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_10_11
+CN: 要知道，从我爷爷那辈起，我家就做这个，已经做了几十年了。
+EN: 
+JP: なにしろじいちゃんの代から、うちはこの商売一筋。もう何十年も続けてきたんだ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_10_12
+CN: 只是，我还是没他老爷子做得好。每次吃的时候，都觉得和小时候吃的味道差了些。
+EN: 
+JP: ただ、俺はまだじいちゃんほどじゃないんだ。食うたびに、子供の頃の味とはどこか違う気がしてよ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_10_13
+CN: 唉，要是再能吃到他做的就好了。可惜老爷子早早走了，再没有机会喽……
+EN: 
+JP: もう一度じいちゃんの串焼きが食えたらなぁ。あいにく早くに逝っちまったから、もうその機会もないんだけどよ……
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_10_14
+CN: （哈欠……）
+EN: 
+JP: ふわぁ……
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_10_15
+CN: 没休息好吗？
+EN: 
+JP: {Male=寝不足か？;Female=寝不足なの？}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_10_16
+CN: 啊，嗯……抱歉抱歉，最近是有些失眠。
+EN: 
+JP: あ、ああ……悪い悪い、最近ちょっと寝つきが悪いんだ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_10_17
+CN: 干我们这行的，每天早上四点就得起来处理食材。
+EN: 
+JP: 毎朝4時起きで食材の仕込みをしなきゃならんのよ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_10_18
+CN: 不过这样一来，要是晚上睡不着，在床上多翻几个身，睁眼就得干活了。
+EN: 
+JP: 眠れない夜は、何度も寝返りを打ってるうちに、気づけばもう仕事の時間になっちまう。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_10_19
+CN: 难喽……
+EN: 
+JP: つらいもんだわなぁ……
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_10_2
+CN: 聊聊关于“鬼怪”的传闻。
+EN: 
+JP: 「幽霊」の噂について聞く。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_10_20
+CN: 好，那有事你再叫我就行！
+EN: 
+JP: 用があったらまた、声かけてくれよな！
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_10_21
+CN: 没有什么想问的了。
+EN: I have no more questions.
+JP: もう聞きたいことはない。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_10_3
+CN: 聊聊串串。
+EN: 
+JP: 串焼きについて聞く。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_10_4
+CN: 聊聊摊主……
+EN: 
+JP: 店主のことを聞く……
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_10_5
+CN: 说起来，最近附近有一些关于鬼怪的传闻。
+EN: 
+JP: {Male=そういえば、最近この辺で幽霊が出ると聞いたんだが……;Female=そういえば、最近この辺で幽霊が出るって聞いたんだけど……}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_10_6
+CN: 哦……那个啊，那传闻就只是些传闻嘛。
+EN: 
+JP: ああ……あれね。まあ、ただの噂ってやつさ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_10_7
+CN: 有几次晚上收工，我看到了些影子，还以为是鬼。后来想想，可能就是我看错了。
+EN: 
+JP: 夜店を畳もうとした時に、何度か影みたいなのを見たことがある。最初は幽霊かと思ってたが、よくよく考えりゃ、ありゃ見間違いだな。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_10_8
+CN: 毕竟世上怎么可能有鬼呢？你说是吧。
+EN: 
+JP: だいたい、この世に幽霊なんているわけない。あんたもそう思うだろ？
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_10_9
+CN: 你看我家这串串，用的都是今天赶集来的兽肉，新鲜得很。
+EN: 
+JP: 見てくれよ。今日仕入れたばかりの獣肉を使ってるんだ、新鮮さは折り紙付きだぜ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_11_1
+CN: 怎么样阿布？
+EN: 
+JP: どうよ、アブ？
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_11_2
+CN: 嗯……不对，这闻起来有些奇怪。
+EN: 
+JP: うーん……匂う、こいつはちょっと妙な匂いがするぞ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_11_3
+CN: 我说什么来着，这家有问题啊……
+EN: 
+JP: ほらね、うちの言った通り。この店、何かあるんだって……
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_12_1
+CN: 怎么样阿布，好吃吗？
+EN: 
+JP: {Male=どうだアブ、旨いか？;Female=どう、アブ、美味しい？}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_12_10
+CN: 没问题。
+EN: No problem.
+JP: {Male=分かった、任せてくれ。;Female=分かった、任せて。}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_12_11
+CN: 店长——老板——
+EN: 
+JP: 店長さーん——ちょっとぉ——
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_12_2
+CN: {PlayerName}，这串串里有残象的味道。
+EN: 
+JP: {PlayerName}、この串焼き……残像の味がするぞ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_12_3
+CN: 哇哦，残象做菜，这家有水平。
+EN: 
+JP: わぉ、残像を料理しちゃうとは、この店なかなかやるじゃん。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_12_4
+CN: 也不是那样啦，就是有些似有似无的味道，我也说不清楚……
+EN: 
+JP: いや、そういうんじゃなくてだな。あるようなないような、我もうまく言えんのだ……
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_12_5
+CN: 或许是附近确有残象经过，并且在这里呆过一段不短的时间。
+EN: 
+JP: {Male=おそらく、残像はこの近くを通り、この場所にしばらく留まっていたんだろう。;Female=たぶん、残像はこの近くを通って、この場所にしばらく留まっていたんだと思う。}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_12_6
+CN: 但我刚才和店长聊的时候，感觉他在遮掩什么。
+EN: 
+JP: {Male=さっき店長と話した感じだと、何か隠しているようだった。;Female=さっき店長と話した感じだと、何かを隠しているみたい。}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_12_7
+CN: 调查一下就知道啦。
+EN: 
+JP: 調べてみれば分かるって。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_12_8
+CN: 这样，我们来个调虎离山计，等会儿你抓紧进去，看我和阿布表演就好。
+EN: 
+JP: ここは、相手をおびき出す作戦でいこう！ボスはすかさず中へ入ってね。うちとアブの名演技を見ててよ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_12_9
+CN: 诶？还有本布的事？
+EN: 
+JP: えっ？我にも出番があるのか？
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_13_1
+CN: 诶诶？怎么了客人？
+EN: 
+JP: ええっ？どうしたんだよ、お客さん？
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_13_2
+CN: 这串串好像有问题！我家小骸好像吃坏了！
+EN: 
+JP: この串焼き、絶対何か変だよ！うちの音骸がお腹を壊しちゃったみたいなんだけど！
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_13_3
+CN: 啊？啊……呃、呕……呕呕……好难受呕……
+EN: 
+JP: え？あ……うっ、おえ……おえぇ……気持ち悪いのだぁ、おえぇ……
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_13_4
+CN: 我的肚子里好像有一万个幽翎火在爆炸，怎么办……
+EN: 
+JP: 我のお腹の中で、フェイイグニス一万匹が爆発してるみたいなのだ、どうしよう……
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_13_5
+CN: 店长——老板——你快来看看——
+EN: 
+JP: 店長さーん——ねえってばぁ——早く来て見てよぉ——
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_14_1
+CN: 今日食材
+禽肉……兽肉……鸟蛋……食盐……
+备注：最近兽肉便宜了些，鸟蛋却又涨价了。鸟怎么不能多下点蛋。
+EN: 
+JP: 本日の食材
+禽肉……獣肉……鳥の卵……食塩……
+備考：近頃、獣肉は少し値が下がったのに、鳥の卵はまた値上がり。鳥ってのは、もう少し多く卵を産めないもんかね。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_15_1
+CN: 上一个仪式阶段完成了！爷爷能说话了。他一直叫我：“乖孙……回……”他一定是思念我才回来的。
+用了水灯花、白玉美人，完成了第二阶段……呼，就差最后一个阶段了。只是这仪式要用的”妙心琢玉“还是有点贵……
+打听到有个地方能打折卖我，太好了。最近攒的钱也差不多刚好能买下“妙心琢玉”了，太好了。也许，这回真的可以见到爷爷了吧。
+……
+那就今晚试试吧。
+EN: 
+JP: 前の段階は成功した。じいちゃんが喋れるようになって、ずっと「孫や……帰……」って俺を呼んでる。きっと、俺に会いたくて戻ってきてくれたんだ。
+水灯花と白玉美人を使って、第二段階も無事に終わった。これで残る儀式はあと一つ。
+あとは「妙心の琢玉」さえ手に入ればいいんだが、それがまだちょっと高い……
+割引して譲ってくれるところがあるって聞いた。最近コツコツ貯めた金なら、ちょうど買えそうだ。今度こそ……本当にじいちゃんに会えるかもしれない。
+……
+よし。今夜、やってみよう。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_16_1
+CN: 卜灵 赊账……已还
+卜灵 赊账……已还
+……
+备注：这小姑娘一直在附近，看来是发现爷爷的事了。唉……本想装鬼让大家别来，没想到让真道士找上门了。这下只能把爷爷转移走……还好仪式就快能进行了，就等这几天……
+EN: 
+JP: 卜霊 ツケ……返済済み
+卜霊 ツケ……返済済み
+……
+備考：あの娘、ずっとこの辺をうろついてる。じいちゃんのことがバレたらしい。はぁ……幽霊のふりでみんなを遠ざけるつもりが、まさか本物の道士を呼び込んじまうとは。こうなったらじいちゃんを別の場所へ移すしかない……幸い、儀式はもうすぐだ。あと数日の辛抱……
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_17_1
+CN: 你总算回来啦，刚才一下子就要我装肚子痛……还好本布演技好。
+EN: 
+JP: やーっと戻ったか。急に腹痛の芝居をやらされるとはな……まあ、このくらい我にはなんてことないが。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_17_10
+CN: 我看这店长，应该也是被骗了吧。
+EN: 
+JP: あの店長も、たぶん騙されてる口だと思うなぁ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_17_11
+CN: 确实如此，我们再梳理一下现在已知的情况。
+EN: 
+JP: {Male=たしかに。手元の情報をもう一度整理してみよう。;Female=そうかも。手元の情報をもう一度整理してみよう。}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_17_2
+CN: 以后要是有什么拍戏的机会，本布也是个老演员了！
+EN: 
+JP: 今度芝居の話があったら、真っ先にこのアブ様を呼ぶのだぞ！我はもう、立派なベテラン役者だからな！
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_17_3
+CN: 怎么样，找到什么不？
+EN: 
+JP: それで、どうなのボス？何か見つけた？
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_17_4
+CN: （告知从账本里得来的信息）
+EN: 
+JP: （帳簿から得た情報を伝える）
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_17_5
+CN: 水灯花、白玉美人、玟华璧和未琢玉……原来如此。
+EN: 
+JP: 水灯花に白玉美人、玟華璧に未琢の玉……なるほどねぇ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_17_6
+CN: 这些材料当然不能用来烤串，但却和一个“灵魂召唤”仪式有关系。
+EN: 
+JP: こんな材料、もちろん串焼きには使えないよ。でもね、「霊魂召喚」の儀式となら関係があるんだ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_17_7
+CN: “灵魂召唤”？那是什么？
+EN: 
+JP: 「霊魂召喚」？なんだそりゃ？
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_17_8
+CN: 是一种民间流传的偏方。大概就是说，用这种偏方，可以让故去的灵魂归来……
+EN: 
+JP: 民間に伝わる、おまじないみたいなものだよ。ざっくり言えば、それを使えば亡くなった魂を呼び戻せるとか……
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_17_9
+CN: 说来说去，这些都是骗人的啦。只是用一些花言巧语，拿着人家的日思念想，去做一些损人的事罢了。
+EN: 
+JP: ま、結局はぜーんぶインチキなんだけどね。甘い言葉で人の切ない想いにつけ込んで、あくどいことをするだけの話だよ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_18_1
+CN: 你总算回来啦，刚才一下子就要我装肚子痛……还好本布演技好。
+EN: 
+JP: やーっと戻ったか。急に腹痛の芝居をやらされるとはな……まあ、このくらい我にはなんてことないが。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_18_10
+CN: 水灯花、白玉美人、妙心琢玉……咦！这不对吧，连本布都知道这肯定不能用来烤串！
+EN: 
+JP: 水灯花、白玉美人、妙心の琢玉……なんだこれ、おかしいぞ、こんなの串焼きに使えないってことくらい、我にだって分かるのだ！
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_18_11
+CN: 原来如此……这些材料都和一个“灵魂召唤”仪式有关系。
+EN: 
+JP: なるほどねぇ……この材料はどれも、ある「霊魂召喚」の儀式と関わりがあるんだよ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_18_12
+CN: “灵魂召唤”？那是什么？
+EN: 
+JP: 「霊魂召喚」？それはなんだ？
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_18_13
+CN: 是一种民间流传的偏方。大概就是说，用这种偏方，可以让故去的灵魂归来……
+EN: 
+JP: 民間に伝わる、おまじないみたいなものだよ。ざっくり言えば、それを使えば亡くなった魂を呼び戻せる……んだってさ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_18_14
+CN: 说来说去，这些都是骗人的啦。只是用一些花言巧语，拿着人家的念想，去做一些损人的事罢了。
+EN: 
+JP: ま、結局はぜーんぶインチキなんだけどね。甘い言葉で人の想いにつけ込んで、あくどいことをするだけの話だよ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_18_15
+CN: 我看这店长，应该也是被骗了吧。
+EN: 
+JP: あの店長も、たぶん騙されてる口だと思うなぁ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_18_16
+CN: 确实如此，再梳理一下现在已知的情况吧。
+EN: 
+JP: {Male=だろうな。手元の情報をもう一度整理してみよう。;Female=そうだと思う。手元の情報をもう一度整理してみよう。}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_18_2
+CN: 以后要是有什么拍戏的机会，本布也是个老演员了！
+EN: 
+JP: 今度芝居の話があったら、真っ先にこのアブ様を呼ぶのだぞ！我はもう、立派なベテラン役者だからな！
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_18_3
+CN: 而且，我刚从店长那拿到了这个，很厉害吧！
+EN: 
+JP: そ、れ、に、さっき店長のところからこーんな物を頂いてきたんだ。すごいでしょ！
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_18_4
+CN: 真厉害。
+EN: 
+JP: {Male=大したもんだな。;Female=大したものだね。}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_18_5
+CN: 怎么做到的？
+EN: But how?
+JP: {Male=どうやって手に入れたんだ？;Female=どうやって手に入れたの？}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_18_6
+CN: 当然是用我从风仪门那边偷学来的祥云探龙手！
+EN: 
+JP: もちろん、風儀門からこっそり習った「祥雲探龍手」でね！
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_18_7
+CN: 刚才我就这样……再这样……就把这东西拿来了。
+EN: 
+JP: さっきはね、こうやって……さらにこうして……こう！ってな感じで頂いてきたってわけ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_18_8
+CN: 老板你看，这上面写了每日购买食材的支出。
+EN: 
+JP: ボス、見て見て。ここに毎日の食材の仕入れ費用なんかが書いてある。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_18_9
+CN: 禽肉、兽肉、鸟蛋……
+EN: 
+JP: 禽肉、獣肉、鳥の卵……
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_19_1
+CN: 那么，从头来梳理一遍已知的情况吧。
+EN: 
+JP: {Male=さて、分かっていることを頭から整理していこう。;Female=それじゃ、分かっていることを頭から整理していこう。}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_19_2
+CN: 军策府接到有关“鬼魂”的报案，并拜托我们前来了解情况。在调查过程中，我们发现——
+EN: 
+JP: {Male=軍策府は「幽霊」の通報を受けて、俺たちに調査を依頼した。そしてその過程で判明したのは——;Female=軍策府は「幽霊」の通報を受けて、私たちに調査を頼んだ。そしてその過程で分かったのは——}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_1_1
+CN: {PlayerName}，最近接到报告称，衔翎村附近最近有“鬼怪”出没。
+EN: 
+JP: {PlayerName}よ、このところ銜翎村の近くで、「幽霊」が出没するという報告が届いていてな。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_1_10
+CN: 但近日我们人手吃紧，军策府的人员调度恐怕没办法即时响应。
+EN: 
+JP: だが近頃は人手が足りておらんでな、軍策府の手配ではすぐに動けそうにないのだ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_1_11
+CN: 可以麻烦你去看看吗？
+EN: 
+JP: すまぬが、様子を見に行ってはくれぬだろうか。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_1_12
+CN: 没问题。
+EN: No problem.
+JP: {Male=問題ない。;Female=問題ないよ。}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_1_13
+CN: 那真是辛苦你了，{PlayerName}。
+EN: 
+JP: 恩に着る、{PlayerName}。よろしく頼み申す。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_1_2
+CN: 我们本以为是误报，但记有这样情况的报告越来越多，不得不重视起来。
+EN: 
+JP: 当初は誤報と考えていたが、同様の報告が後を絶たず、軽視できなくなったのだ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_1_3
+CN: 会是残象吗？
+EN: 
+JP: {Male=残像か？;Female=残像？}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_1_4
+CN: 会是人假扮的吗？
+EN: 
+JP: {Male=誰かの変装なんじゃないのか？;Female=誰かの変装なんじゃないの？}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_1_6
+CN: 很有可能。但最近监测残象的四鸣井和巡霄环都没有回传与残象出没有关的报告。
+EN: 
+JP: その可能性は高い。だが、四鳴の井戸や霄巡りの環といった残像監視装置も、残像の出現を検知していない。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_1_8
+CN: 不是没有这种可能。
+EN: 
+JP: その線も否定はできんな。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_1_9
+CN: 不管是残象、鬼怪还是有人装神弄鬼，我们都需要一次审慎的调查。
+EN: 
+JP: 残像であれ幽霊であれ、あるいは人の悪ふざけであろうと、一度はっきりと調べねばなるまい。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_20_1
+CN: 不，这样会有无法解释的逻辑漏洞……再想想吧。
+EN: 
+JP: {Male=なんか違うな、それだと推理に穴ができてしまう……考え直しだ;Female=なんか違う、それだと推理に穴ができちゃう……考え直さないと}。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_21_1
+CN: 所有和鬼魂有关的传闻，都是店长吕一散播出来的。
+EN: 
+JP: 幽霊がらみの噂の出どころは、すべて店長の呂一だった。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_22_1
+CN: 不，逻辑链条尚不够完整……再想想吧。
+EN: No, that doesn't make sense... I should try again.
+JP: {Male=これだと筋が通らなくなる……考え直しだ。;Female=これじゃ筋が通らない……考え直さないと。}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_23_1
+CN: 结合阿布的说法，店长想要掩盖的就是附近出现残象这一事实。
+EN: 
+JP: {Male=アブの話も合わせて考えると、店長が隠したかったのは「近くに残像が現れた」という事実そのものだ。;Female=アブの話も合わせて考えると、店長が隠したかったのは「近くに残像が現れた」という事実そのもの。}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_24_1
+CN: 他在最近购买了水灯花、白玉美人、妙心琢玉……结合卜灵的说法，这些都是“灵魂召唤”相关的材料。
+EN: 
+JP: {Male=彼は最近、水灯花、白玉美人、妙心の琢玉を買い集めている……卜霊の話と照らし合わせると、どれも「霊魂召喚」の材料だ。;Female=彼は最近、水灯花、白玉美人、妙心の琢玉を買い集めている……卜霊の話と照らし合わせると、どれも「霊魂召喚」の材料だね。}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_24_2
+CN: 店长应该是被人骗了。但贸然和他说明这一点，恐怕会激起他的排斥。
+EN: 
+JP: {Male=店長はおそらく騙されている。だが、迂闊に指摘すれば、かえって警戒されるだけだ。;Female=店長はおそらく騙されてる。でも、迂闊に指摘したら、かえって警戒されるだけ。}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_25_1
+CN: 我明白了。阿布，卜灵，听我说。
+EN: 
+JP: {Male=見えてきたぞ。アブ、卜霊、聞いてくれ。;Female=見えてきた。アブ、卜霊、聞いて。}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_25_2
+CN: （告知推理的结果）
+EN: 
+JP: （推理の結果を伝える）
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_25_3
+CN: 原来如此！那么我来总结，现在已经知道，店长和残象有关。
+EN: 
+JP: なるほど！じゃ、うちがまとめるね。まず分かったのは、店長が残像と関わってるってこと。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_25_4
+CN: 他一直遮掩残象的行踪，是因为他以为残象与他的“灵魂召唤”仪式有关。
+EN: 
+JP: 店長がずーっと残像の行方を隠してたのは、残像が自分の「霊魂召喚」の儀式と関係があるって思い込んでたから。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_25_5
+CN: 这个仪式对他来说应该有非比寻常的意义，所以要是我们直接问他，可能不会有什么结果，反而会更加警惕。
+EN: 
+JP: あの儀式は、店長にとって並々ならぬ意味を持つもの。直接聞いても答えてはくれないだろうし、かえって警戒されるだけ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_25_6
+CN: 所以，我们只要等到晚上店长有动作了，再行动就可以啦。
+EN: 
+JP: だからうちらは、夜になって店長が動くのを待てばオッケーってわけ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_25_7
+CN: 这招就叫……螳螂捕蝉，黄雀在后！
+EN: 
+JP: 名付けて……「裏の裏をかく作戦」！
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_25_8
+CN: 原来是这样啊，那现在我们要做什么？
+EN: 
+JP: そうだったんだな。で、今は何をすればいいのだ？
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_25_9
+CN: 先把这些证据发给秋鸿吧，我们也需要军策府的帮助。
+EN: 
+JP: {Male=まずはこの証拠を秋鴻に送ろう。軍策府の力も借りたい。;Female=まずはこの証拠を秋鴻に送ろう。軍策府の力も借りたいから。}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_26_1
+CN: （发送相关证据）
+EN: 
+JP: （関連する証拠を送信）
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_26_2
+CN: 这是调查到的相关证据，注意查收
+EN: 
+JP: {Male=これが今回の調査で得た証拠だ、確認を頼む。;Female=これが今回の調査で得た証拠。確認をお願い。}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_26_3
+CN: 已发送文件——《“鬼魂”相关调查证据》
+EN: 
+JP: ファイル『「幽霊」関連調査報告』を送信しました。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_26_4
+CN: 收到了，{PlayerName}。谢谢你。
+EN: 
+JP: 確かに受け取り申した、{PlayerName}。感謝する。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_26_5
+CN: 这里面提到的“灵魂召唤仪式”，我们最近也有调查。
+EN: 
+JP: 「霊魂召喚の儀式」については、こちらでも近頃調べを進めていてな。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_26_6
+CN: 这边也有些线索，算上时间，军策府增援的人已经快到了。
+EN: 
+JP: こちらにもいくつか手掛かりがある。頃合いから見て、軍策府の増援も間もなくそちらへ到着するはずだ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_27_1
+CN: {PlayerName}，谢谢你们的调查。
+EN: 
+JP: {PlayerName}、調査の件、感謝いたします。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_27_2
+CN: 对于那个“灵魂召唤仪式”骗局，我们之前已经控制住了相关嫌疑人。
+EN: 
+JP: 例の「霊魂召喚の儀式」詐欺については、関係する容疑者の身柄はすでに確保していました。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_27_3
+CN: 他们利用“灵魂召唤仪式”欺骗别人以谋求钱财，现在已经被抓捕归案。
+EN: 
+JP: 連中は「霊魂召喚の儀式」を騙り、人々から金銭をだまし取っていましたが、一味はすでに捕縛済みです。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_27_4
+CN: 嗯，我知道了。
+EN: 
+JP: {Male=ああ、分かった。;Female=ええ、分かった。}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_27_5
+CN: 以及，在附近搜查的时候，我们找到了这个。
+EN: 
+JP: それともう一つ。付近を捜索した際に、こちらを発見しました。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_28_3
+CN: 好啦，用我的妙眼铜镜追踪吧。我已经都设置好了，现在使用它就可以追踪仪式的位置了！
+EN: 
+JP: よーし、明眼の銅鏡で追跡開始！設定は全部済んでるから、今使えばすぐ儀式の場所を特定できるよ！
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_29_1
+CN: 好像店长还没来……我们等到晚上看看！
+EN: 
+JP: 店長はまだ来てないみたいだな……夜まで待ってみるか！
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_2_1
+CN: 那我们去衔翎村看看吗？
+EN: 
+JP: それじゃ、銜翎村の様子でも見に行くか？
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_2_2
+CN: 没错，侦查就交给你了，阿布。
+EN: 
+JP: {Male=ああ、犯人探しは任せたぞ、アブ。;Female=うん、犯人探しは任せたからね、アブ。}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_2_3
+CN: 放心吧！不管是什么残象，都逃不过本布的鼻子！
+EN: 
+JP: 任せろ！どんな残像だろうと、我の鼻からは逃れられないさ！
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_30_1
+CN: 他在那里。
+EN: 
+JP: {Male=いたぞ、あそこだ。;Female=いた、あそこよ。}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_31_1
+CN: 你们……你们别过来！
+EN: 
+JP: お、お前たち……こっちへ来るな！
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_31_10
+CN: ……谢谢。
+EN: ...Thank you. I guess...
+JP: ……ありがとう。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_31_11
+CN: 吕一谢过你们，他怀着期盼启动仪式。
+EN: 
+JP: 呂一はあなたたちに礼を述べ、期待を胸に儀式を始めた。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_31_12
+CN: 然而片刻过去，什么也没有发生。
+EN: 
+JP: しかし、しばらく待っても——何も起こらなかった。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_31_13
+CN: 怎么会这样……我失败了吗……爷爷……
+EN: 
+JP: どうして……失敗したのか……じいちゃん……
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_31_14
+CN: 唉，还以为会有意外。
+EN: 
+JP: はぁ、番狂わせがあるかも、とか思ってたけど。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_31_15
+CN: 越逃避就越被追上，越想要就越得不到。
+EN: 
+JP: 逃げれば逃げるほど追いつかれるし、欲しがれば欲しがるほど、手に入らないんだよ。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SIDE_XUANFANG_SSJX_31_16
+CN: 店长，虽然这样说有些残酷，但那确实只是残象。
+EN: 
+JP: 店長、酷な言い方になっちゃうけど、それは確かに、ただの残像なの。
+VI: 
+HV: 
+

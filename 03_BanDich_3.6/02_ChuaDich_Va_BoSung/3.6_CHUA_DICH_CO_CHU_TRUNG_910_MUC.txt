@@ -1,0 +1,6372 @@
+# BẢN DỊCH 3.6 — NHÓM CÓ CHỮ TIẾNG TRUNG THẬT (910 MỤC) — CÓ THỂ DỊCH NGAY
+
+@@ lang_UiHotKot.db||HotKeyText||36
+CN: /
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_activity.db||ActivityTrigger||5
+CN: >
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_activity.db||ActivityTrigger||6
+CN: 1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_activity.db||ActivityTrigger||7
+CN: >
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_activity.db||ActivityTrigger||8
+CN: 1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_activity.db||ActivityTrigger||9
+CN: >
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_activity.db||ActivityTrigger||10
+CN: 1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_flow.db||Flow||1
+CN: {
+EN: 
+JP: None
+VI: 
+HV: 
+
+@@ lang_flow_text.db||FlowText||1
+CN: 1111111111111
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_flow_text.db||FlowText||2
+CN: 1111111111111
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_flow_text.db||FlowText||3
+CN: 1111111111111
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_flow_text.db||FlowText||4
+CN: 2222222222222
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_flow_text.db||FlowText||5
+CN: 2222222222222
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_flow_text.db||FlowText||6
+CN: 2222222222222
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_flow_text.db||FlowText||7
+CN: 333333333333333333
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_flow_text.db||FlowText||8
+CN: 3333333333333333
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_flow_text.db||FlowText||9
+CN: 333333333333333333
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_flow_text.db||FlowText||10
+CN: 4444444444444444444
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_flow_text.db||FlowText||11
+CN: 4444444444444444444
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_flow_text.db||FlowText||12
+CN: 4444444444444444444
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_flow_text.db||FlowText||13
+CN: DefaultState
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_flow_text.db||FlowText||14
+CN: DefaultState
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_flow_text.db||FlowText||15
+CN: DefaultState
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_generic_tips.db||GenericPrompt||142
+CN: {0}
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||40
+CN: test/BigWorld
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||89
+CN: test/POS
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||548
+CN: test/LV1_A_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||549
+CN: test/LV1_A_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||551
+CN: test/LV1_A_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||552
+CN: test/LV1_A_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||554
+CN: test/LV1_A_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||555
+CN: test/LV1_A_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||557
+CN: test/LV1_B_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||558
+CN: test/LV1_B_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||560
+CN: test/LV1_B_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||561
+CN: test/LV1_B_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||563
+CN: test/LV1_B_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||564
+CN: test/LV1_B_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||566
+CN: test/LV1_C_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||567
+CN: test/LV1_C_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||569
+CN: test/LV1_C_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||570
+CN: test/LV1_C_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||572
+CN: test/LV1_C_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||573
+CN: test/LV1_C_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||575
+CN: test/LV2_A_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||576
+CN: test/LV2_A_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||578
+CN: test/LV2_A_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||579
+CN: test/LV2_A_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||581
+CN: test/LV2_A_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||582
+CN: test/LV2_A_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||584
+CN: test/LV2_B_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||585
+CN: test/LV2_B_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||587
+CN: test/LV2_B_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||588
+CN: test/LV2_B_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||590
+CN: test/LV2_B_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||591
+CN: test/LV2_B_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||593
+CN: test/LV2_C_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||594
+CN: test/LV2_C_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||596
+CN: test/LV2_C_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||597
+CN: test/LV2_C_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||599
+CN: test/LV2_C_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||600
+CN: test/LV2_C_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||602
+CN: test/LV3_A_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||603
+CN: test/LV3_A_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||605
+CN: test/LV3_A_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||606
+CN: test/LV3_A_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||608
+CN: test/LV3_A_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||609
+CN: test/LV3_A_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||611
+CN: test/LV3_B_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||612
+CN: test/LV3_B_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||614
+CN: test/LV3_B_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||615
+CN: test/LV3_B_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||617
+CN: test/LV3_B_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||618
+CN: test/LV3_B_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||620
+CN: test/LV3_C_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||621
+CN: test/LV3_C_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||623
+CN: test/LV3_C_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||624
+CN: test/LV3_C_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||626
+CN: test/LV3_C_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||627
+CN: test/LV3_C_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||629
+CN: test/LV4_A_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||630
+CN: test/LV4_A_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||632
+CN: test/LV4_A_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||633
+CN: test/LV4_A_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||635
+CN: test/LV4_A_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||636
+CN: test/LV4_A_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||638
+CN: test/LV4_B_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||639
+CN: test/LV4_B_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||641
+CN: test/LV4_B_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||642
+CN: test/LV4_B_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||644
+CN: test/LV4_B_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||645
+CN: test/LV4_B_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||647
+CN: test/LV4_C_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||648
+CN: test/LV4_C_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||650
+CN: test/LV4_C_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||651
+CN: test/LV4_C_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||653
+CN: test/LV4_C_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||654
+CN: test/LV4_C_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||656
+CN: test/LV1_A_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||657
+CN: test/LV1_A_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||659
+CN: test/LV1_A_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||660
+CN: test/LV1_A_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||662
+CN: test/LV1_A_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||663
+CN: test/LV1_A_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||665
+CN: test/LV1_B_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||666
+CN: test/LV1_B_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||668
+CN: test/LV1_B_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||669
+CN: test/LV1_B_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||671
+CN: test/LV1_B_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||672
+CN: test/LV1_B_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||674
+CN: test/LV1_C_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||675
+CN: test/LV1_C_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||677
+CN: test/LV1_C_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||678
+CN: test/LV1_C_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||680
+CN: test/LV1_C_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||681
+CN: test/LV1_C_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||683
+CN: test/LV2_A_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||684
+CN: test/LV2_A_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||686
+CN: test/LV2_A_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||687
+CN: test/LV2_A_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||689
+CN: test/LV2_A_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||690
+CN: test/LV2_A_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||692
+CN: test/LV2_B_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||693
+CN: test/LV2_B_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||695
+CN: test/LV2_B_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||696
+CN: test/LV2_B_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||698
+CN: test/LV2_B_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||699
+CN: test/LV2_B_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||701
+CN: test/LV2_C_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||702
+CN: test/LV2_C_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||704
+CN: test/LV2_C_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||705
+CN: test/LV2_C_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||707
+CN: test/LV2_C_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||708
+CN: test/LV2_C_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||710
+CN: test/LV3_A_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||711
+CN: test/LV3_A_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||713
+CN: test/LV3_A_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||714
+CN: test/LV3_A_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||716
+CN: test/LV3_A_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||717
+CN: test/LV3_A_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||719
+CN: test/LV3_B_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||720
+CN: test/LV3_B_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||722
+CN: test/LV3_B_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||723
+CN: test/LV3_B_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||725
+CN: test/LV3_B_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||726
+CN: test/LV3_B_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||728
+CN: test/LV3_C_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||729
+CN: test/LV3_C_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||731
+CN: test/LV3_C_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||732
+CN: test/LV3_C_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||734
+CN: test/LV3_C_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||735
+CN: test/LV3_C_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||737
+CN: test/LV4_A_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||738
+CN: test/LV4_A_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||740
+CN: test/LV4_A_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||741
+CN: test/LV4_A_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||743
+CN: test/LV4_A_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||744
+CN: test/LV4_A_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||746
+CN: test/LV4_B_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||747
+CN: test/LV4_B_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||749
+CN: test/LV4_B_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||750
+CN: test/LV4_B_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||752
+CN: test/LV4_B_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||753
+CN: test/LV4_B_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||755
+CN: test/LV4_C_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||756
+CN: test/LV4_C_1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||758
+CN: test/LV4_C_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||759
+CN: test/LV4_C_2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||761
+CN: test/LV4_C_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_instance_dungeon.db||InstanceDungeon||762
+CN: test/LV4_C_3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_map_mark.db||MapMark||1
+CN: test/XXXXX
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_menu.db||MenuConfig||20
+CN: 3840*2160
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_menu.db||MenuConfig||21
+CN: 2560*1440
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_menu.db||MenuConfig||22
+CN: 1920*1200
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_menu.db||MenuConfig||23
+CN: 1920*1080
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_menu.db||MenuConfig||24
+CN: 1600*900
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_menu.db||MenuConfig||25
+CN: 1440*900
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_menu.db||MenuConfig||26
+CN: 1366*768
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_menu.db||MenuConfig||27
+CN: 1280*720
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_menu.db||MenuConfig||28
+CN: 800*600
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_menu.db||MenuConfig||31
+CN: 0.7
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_menu.db||MenuConfig||32
+CN: 0.75
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_menu.db||MenuConfig||33
+CN: 0.8
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_menu.db||MenuConfig||34
+CN: 0.85
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_menu.db||MenuConfig||195
+CN: H
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_menu.db||MenuConfig||198
+CN: V
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_menu.db||MenuConfig||246
+CN: NVIDIA DLSS
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_menu.db||MenuConfig||264
+CN: NVIDIA Reflex
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_menu.db||MenuConfig||272
+CN: FSR
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_monsterDisplay.db||MonsterDisplay||1
+CN: MonsterDisplay_1_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_monsterDisplay.db||MonsterDisplay||3
+CN: MonsterDisplay_1_Introduce
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_312800002_ChildQuestTip_312_6
+CN: dnt/到达新地图
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_320800007_QuestDesc_320_1
+CN: dnt/重建显隐控制
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_320800007_QuestName_320_1
+CN: dnt/重建二阶段显隐
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_171700001_ChildQuestTip_171_19
+CN: dnt/B-丽贝卡与西格莉卡的互动
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_171700001_ChildQuestTip_171_21
+CN: dnt/B-射击游戏结束道别
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750001_Original
+CN: dnt/Trading wept of yesterday
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750001_Translation
+CN: dnt/Trading wept of yesterday
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750002_Original
+CN: dnt/For what we sing today
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750002_Translation
+CN: dnt/For what we sing today
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750003_Original
+CN: dnt/Silent martyrs' flames
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750003_Translation
+CN: dnt/Silent martyrs' flames
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750004_Original
+CN: dnt/Burning phonies' grin
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750004_Translation
+CN: dnt/Burning phonies' grin
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750005_Original
+CN: dnt/Sacred breezes
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750005_Translation
+CN: dnt/Sacred breezes
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750006_Original
+CN: dnt/Let the bygone return
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750006_Translation
+CN: dnt/Let the bygone return
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750007_Original
+CN: dnt/All defiers'
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750007_Translation
+CN: dnt/All defiers'
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750008_Original
+CN: dnt/Slashing disbelief
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750008_Translation
+CN: dnt/Slashing disbelief
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750009_Original
+CN: dnt/Cleave the dark apart
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750009_Translation
+CN: dnt/Cleave the dark apart
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750010_Original
+CN: dnt/Through the blood
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750010_Translation
+CN: dnt/Through the blood
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750011_Original
+CN: dnt/Through the sinners' smiles
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750011_Translation
+CN: dnt/Through the sinners' smiles
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750012_Original
+CN: dnt/Cleave, to the hope
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750012_Translation
+CN: dnt/Cleave, to the hope
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750013_Original
+CN: dnt/To the faith
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750013_Translation
+CN: dnt/To the faith
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750014_Original
+CN: dnt/To the heart
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750014_Translation
+CN: dnt/To the heart
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750015_Original
+CN: dnt/To the glory of all
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750015_Translation
+CN: dnt/To the glory of all
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750016_Original
+CN: dnt/Dawn is breaking in now
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750016_Translation
+CN: dnt/Dawn is breaking in now
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750017_Original
+CN: dnt/Flame of sun
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750017_Translation
+CN: dnt/Flame of sun
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750018_Original
+CN: dnt/Songs of moon keep on playing with
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750018_Translation
+CN: dnt/Songs of moon keep on playing with
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750019_Original
+CN: dnt/Roaring tides
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750019_Translation
+CN: dnt/Roaring tides
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750020_Original
+CN: dnt/Rising from our despair
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750020_Translation
+CN: dnt/Rising from our despair
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750021_Original
+CN: dnt/Take the veils off
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750021_Translation
+CN: dnt/Take the veils off
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750022_Original
+CN: dnt/Show the truth underneath
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750022_Translation
+CN: dnt/Show the truth underneath
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750023_Original
+CN: dnt/Succumb to none
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750023_Translation
+CN: dnt/Succumb to none
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750024_Original
+CN: dnt/Shatter the shackles
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750024_Translation
+CN: dnt/Shatter the shackles
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750025_Original
+CN: dnt/break them free
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750025_Translation
+CN: dnt/break them free
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750026_Original
+CN: dnt/Set them free
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750026_Translation
+CN: dnt/Set them free
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750027_Original
+CN: dnt/Swallow pieces of sorrow
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750027_Translation
+CN: dnt/Swallow pieces of sorrow
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750028_Original
+CN: dnt/Absorb all the pain
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750028_Translation
+CN: dnt/Absorb all the pain
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750029_Original
+CN: dnt/Breathing in, Breathing out
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750029_Translation
+CN: dnt/Breathing in, Breathing out
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750030_Original
+CN: dnt/Hold on tight
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750030_Translation
+CN: dnt/Hold on tight
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750031_Original
+CN: dnt/Sliver lining of all
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750031_Translation
+CN: dnt/Sliver lining of all
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750032_Original
+CN: dnt/(Our one last chance)
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750032_Translation
+CN: dnt/(Our one last chance)
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750033_Original
+CN: dnt/Despite blurry clouds
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750033_Translation
+CN: dnt/Despite blurry clouds
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750034_Original
+CN: dnt/Blind my eyes
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750034_Translation
+CN: dnt/Blind my eyes
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750035_Original
+CN: dnt/Can't rewrite
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750035_Translation
+CN: dnt/Can't rewrite
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750036_Original
+CN: dnt/Our triumph's on my mind
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750036_Translation
+CN: dnt/Our triumph's on my mind
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750037_Original
+CN: dnt/Victory is shining bright
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750037_Translation
+CN: dnt/Victory is shining bright
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750038_Original
+CN: dnt/Cleave the dark apart
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750038_Translation
+CN: dnt/Cleave the dark apart
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750039_Original
+CN: dnt/Through the blood
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750039_Translation
+CN: dnt/Through the blood
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750040_Original
+CN: dnt/Hear the sinners' cries
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750040_Translation
+CN: dnt/Hear the sinners' cries
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750041_Original
+CN: dnt/Cleave, to“all will survive”
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750041_Translation
+CN: dnt/Cleave, to“all will survive”
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750042_Original
+CN: dnt/To leap of faith
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750042_Translation
+CN: dnt/To leap of faith
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750043_Original
+CN: dnt/Cleave, to“don't look behind”
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750043_Translation
+CN: dnt/Cleave, to“don't look behind”
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750044_Original
+CN: dnt/To dawn's here to stay
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LyricsText_750044_Translation
+CN: dnt/To dawn's here to stay
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_200700002_ChildQuestTip_200_13
+CN: dnt/击败目标
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_200700002_ChildQuestTip_200_14
+CN: dnt/击败目标
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_200700002_ChildQuestTip_200_15
+CN: dnt/击败目标-1/3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_200700002_ChildQuestTip_200_18
+CN: dnt/击败目标-2/3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_200700002_ChildQuestTip_200_19
+CN: dnt/击败目标-3/3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_200700002_ChildQuestTip_200_20
+CN: dnt/击败目标-1/3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_200700002_ChildQuestTip_200_21
+CN: dnt/击败目标-2/3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_200700002_ChildQuestTip_200_22
+CN: dnt/击败目标-3/3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_200700002_ChildQuestTip_200_23
+CN: dnt/击败目标-1/2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_200700002_ChildQuestTip_200_24
+CN: dnt/击败目标-2/2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_200700002_ChildQuestTip_316_3
+CN: dnt/击败目标
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_200700002_ChildQuestTip_316_4
+CN: dnt/击败目标
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_204800000_QuestDesc_204_1
+CN: dnt/1.4肉鸽难度Ⅴ开启
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_204800000_QuestName_204_1
+CN: dnt/1.4肉鸽难度Ⅴ开启
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_204800001_QuestDesc_204_3
+CN: dnt/1.4肉鸽难度Ⅵ开启
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_204800001_QuestName_204_3
+CN: dnt/1.4肉鸽难度Ⅵ开启
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_207850000_QuestDesc_207_2
+CN: dnt/经典肉鸽复刻关闭大世界入口和地图标记
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_207850000_QuestName_207_2
+CN: dnt/经典肉鸽复刻关闭大世界入口和地图标记
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_312850001_QuestDesc_207_1
+CN: dnt/经典肉鸽复刻后日谈
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_312850001_QuestName_207_1
+CN: dnt/经典肉鸽复刻后日谈
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_692850002_QuestName_692_1
+CN: dnt/刷新迷雾森林地底宝箱
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_147000007_ChildQuestTip_147_5
+CN: 阻止失控的核心
+EN: Contain the Kernel that went out of control
+JP: 暴走したコアを止める
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_165000004_ChildQuestTip_165_54
+CN: dnt/询问千咲
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_165850006_QuestDesc_165_1
+CN: dnt/沉思的少年
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_165850006_QuestName_165_1
+CN: dnt/沉思的少年
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_168800012_QuestDesc_168_1
+CN: dnt/将拉贝尔学部子关卡切换为常驻氛围
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_168800012_QuestName_168_1
+CN: dnt/切换拉贝尔学部子关卡
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_168800013_QuestDesc_168_2
+CN: dnt/切换礼堂子关卡为电影院氛围
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_168800013_QuestName_168_2
+CN: dnt/切换礼堂子关卡
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_159700000_QuestName_159_1
+CN: dnt/联动后日谈
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_189000005_ChildQuestTip_317_56
+CN: 查看当年云渊之役的痕迹
+EN: Examine the traces of the Fortress and Gorges War
+JP: 雲淵の役の痕跡を調べる
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_170000000_ChildQuestTip_886_98
+CN: dnt/销毁全部
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_320800009_ChildQuestTip_320_2
+CN: dnt/和小孩交谈
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_320800009_ChildQuestTip_320_3
+CN: dnt/和施工工人交谈
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_320800009_QuestDesc_320_2
+CN: dnt/帮助寻宝小孩找到宝藏
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_320800009_QuestName_320_2
+CN: dnt/寻宝小孩
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_165850001_QuestDesc_165_1
+CN: dnt/2.8历程记忆手册_彩蛋
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_165850001_QuestName_165_1
+CN: dnt/2.8历程记忆手册_彩蛋
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_189700000_QuestDesc_189_1
+CN: dnt/任务描述
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_189700000_QuestName_189_1
+CN: dnt/车站3丢失的货物
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_189700005_QuestDesc_189_1
+CN: dnt/任务描述
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_189700005_QuestName_189_1
+CN: dnt/流民营地发现货物
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_189700003_QuestDesc_189_1
+CN: dnt/任务描述
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_189700003_QuestName_189_1
+CN: dnt/流民营地人员名单
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_189700004_ChildQuestTip_189_7
+CN: dnt/回到学院
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_688750006_ChildQuestTip_688_90
+CN: 与机巧伶交谈
+EN: Talk to Q-L1NG
+JP: 機巧伶と会話する
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_180000000_QuestDesc_180_1
+CN: 你在玄方地界偶遇负伤的夜归军，素玙。交谈之中，你得知她是以司察身份，带一位特殊的共鸣者来此执行任务。以此为契机，你和这位共鸣者展开了一场调查「悬天构」危机的历程，同时也揭开了她心中的迷思……
+EN: You encounter Suyu, an injured Midnight Ranger, in Xuanfang. She tells you that she is here on a mission as an Oversight Officer, accompanying a unique Resonator. Seizing the chance, you join this Resonator in investigating a crisis unfolding in the Skyworks, and along the way, uncover the burdens she carries in her heart...
+JP: あなたは玄方地界で負傷した夜帰軍の素璵に遭遇する。彼女との会話の中で、彼女が司察として特別な共鳴者を連れて任務を遂行していることを知る。これを機に、あなたとその共鳴者は「懸天の構」の危機を調査する旅に出発し、同時に彼女の心の中にある迷いを解き明かしていく……
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_199750000_QuestDesc_199_1
+CN: 你在玄方地界偶遇负伤的夜归军，素玙。交谈之中，你得知她是以司察身份，带一位特殊的共鸣者来此执行任务。以此为契机，你和这位共鸣者展开了一场调查「悬天构」危机的历程，同时也揭开了她心中的迷思……
+EN: You encounter Suyu, an injured Midnight Ranger, in Xuanfang. She tells you that she is here on a mission as an Oversight Officer, accompanying a unique Resonator. Seizing the chance, you join this Resonator in investigating a crisis unfolding in the Skyworks, and along the way, uncover the burdens she carries in her heart...
+JP: あなたは玄方地界で負傷した夜帰軍の素璵に遭遇する。彼女との会話の中で、彼女が司察として特別な共鳴者を連れて任務を遂行していることを知る。これを機に、あなたとその共鳴者は「懸天の構」の危機を調査する旅に出発し、同時に彼女の心の中にある迷いを解き明かしていく……
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_191750000_QuestDesc_191_1
+CN: 你在玄方地界偶遇负伤的夜归军，素玙。交谈之中，你得知她是以司察身份，带一位特殊的共鸣者来此执行任务。以此为契机，你和这位共鸣者展开了一场调查「悬天构」危机的历程，同时也揭开了她心中的迷思……
+EN: You encounter Suyu, an injured Midnight Ranger, in Xuanfang. She tells you that she is here on a mission as an Oversight Officer, accompanying a unique Resonator. Seizing the chance, you join this Resonator in investigating a crisis unfolding in the Skyworks, and along the way, uncover the burdens she carries in her heart...
+JP: あなたは玄方地界で負傷した夜帰軍の素璵に遭遇する。彼女との会話の中で、彼女が司察として特別な共鳴者を連れて任務を遂行していることを知る。これを機に、あなたとその共鳴者は「懸天の構」の危機を調査する旅に出発し、同時に彼女の心の中にある迷いを解き明かしていく……
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_191750001_QuestDesc_191_1
+CN: 悬天构危机已经解除，丹瑾也寻得未来的方向，尽管道阻且长，但有明玉的光芒，有你的话语，她已不畏前行。
+EN: The Crisis at the Skyworks has come to an end, and Danjin has found her path. It is a treacherous one, but with the light pulsating in her jade pendant and your words in her heart, she no longer fears what lies ahead.
+JP: 懸天の構の危機は去り、丹瑾もまた、自らの進むべき道を見つけた。道のりはなお険しくとも、明玉の輝きと、あなたの言葉があれば、彼女はもう前を向くことを恐れない。
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_168800010_QuestDesc_168_1
+CN: dnt/爱弥斯coop发放
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_168800010_QuestName_168_1
+CN: dnt/爱弥斯coop发放
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_228700024_LevelPlayName_228_2
+CN: dnt/2,1联机雷岛子弹跑
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_165000007_QuestDesc_165_1
+CN: dnt/重复的告白
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_165000007_QuestName_165_1
+CN: dnt/重复的告白
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_165000008_QuestDesc_165_1
+CN: dnt/公交车怪谈
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_165000008_QuestName_165_1
+CN: dnt/公交车怪谈
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_165850003_QuestDesc_165_1
+CN: dnt/等待家人的女孩
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_165850003_QuestName_165_1
+CN: dnt/等待家人的女孩
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_165850004_QuestDesc_165_2
+CN: dnt/愿望巫女
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_165850004_QuestName_165_2
+CN: dnt/愿望巫女
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_165850005_QuestDesc_165_2
+CN: dnt/管家和大小姐
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_165850005_QuestName_165_2
+CN: dnt/管家和大小姐
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750021_LevelPlayName_150_1
+CN: 取偶匣·一
+EN: Auto Casket: I
+JP: 取偶匣・一
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750022_LevelPlayName_150_1
+CN: 取偶匣·二
+EN: Auto Casket: II
+JP: 取偶匣・二
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750023_LevelPlayName_150_1
+CN: 扶起甲大王
+EN: Help King Auto up
+JP: 甲大王を助け起こす
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750024_LevelPlayName_150_1
+CN: 取偶匣·三
+EN: Auto Casket: III
+JP: 取偶匣・三
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750025_LevelPlayName_150_1
+CN: 取偶匣·四
+EN: Auto Casket: IV
+JP: 取偶匣・四
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750026_LevelPlayName_150_1
+CN: 取偶匣·五
+EN: Auto Casket: V
+JP: 取偶匣・五
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750027_LevelPlayName_150_1
+CN: 取偶匣·六
+EN: Auto Casket: VI
+JP: 取偶匣・六
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750028_LevelPlayName_150_1
+CN: 取偶匣·七
+EN: Auto Casket: VII
+JP: 取偶匣・七
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750029_LevelPlayName_150_1
+CN: 取偶匣·八
+EN: Auto Casket: VIII
+JP: 取偶匣・八
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750030_LevelPlayName_150_1
+CN: 取偶匣·九
+EN: Auto Casket: IX
+JP: 取偶匣・九
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750031_LevelPlayName_150_1
+CN: 取偶匣·十
+EN: Auto Casket: X
+JP: 取偶匣・十
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750032_LevelPlayName_150_1
+CN: 取偶匣·十一
+EN: Auto Casket: XI
+JP: 取偶匣・十一
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750033_LevelPlayName_150_1
+CN: 取偶匣·十二
+EN: Auto Casket: XII
+JP: 取偶匣・十二
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750034_LevelPlayName_150_1
+CN: 取偶匣·十三
+EN: Auto Casket: XIII
+JP: 取偶匣・十三
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750035_LevelPlayName_150_1
+CN: 取偶匣·十四
+EN: Auto Casket: XIV
+JP: 取偶匣・十四
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_259750003_LevelPlayName_259_1
+CN: 损坏的取偶匣
+EN: Broken Auto Casket
+JP: 壊れた取偶匣
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_102750000_LevelPlayName_102_1
+CN: 反残象动能投射装置
+EN: Anti-TD Kinetic Stake
+JP: 対残像キネティックランチャー
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_886800000_QuestName_886_1
+CN: dnt/椿角色线任务
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_168850007_QuestDesc_168_1
+CN: dnt/重置小屋音乐
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_168850007_QuestName_168_1
+CN: dnt/重置小屋音乐
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_168850006_QuestDesc_168_1
+CN: dnt/绯雪角色生态初见
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_168850006_QuestName_168_1
+CN: dnt/绯雪角色生态初见
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_168850008_QuestDesc_168_1
+CN: dnt/绯雪生态白鸟
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_168850008_QuestName_168_1
+CN: dnt/绯雪生态白鸟
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||QuestChapter_8_ActName
+CN: 
+EN: 
+JP: 0
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||SoundAreaPlayInfo_1001004_BuffDescription
+CN: dnt/领主的远程投掷物可以被打回去
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_3223_MapName
+CN: dnt/BossCE-神王
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_3223_DungeonDesc
+CN: dnt/BossCE-神王
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_3224_MapName
+CN: dnt/BossCE-炉芯机骸
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_3224_DungeonDesc
+CN: dnt/BossCE-炉芯机骸
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_3225_MapName
+CN: dnt/BossCE-海维夏
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_3225_DungeonDesc
+CN: dnt/BossCE-海维夏
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_3226_MapName
+CN: dnt/BossCE-辛吉勒姆
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_3226_DungeonDesc
+CN: dnt/BossCE-辛吉勒姆
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_3227_MapName
+CN: dnt/BossCE-无铭探索者
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_3227_DungeonDesc
+CN: dnt/BossCE-无铭探索者
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_3228_MapName
+CN: dnt/BossCE-亚当重锤
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_3228_DungeonDesc
+CN: dnt/BossCE-亚当重锤
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_3921_MapName
+CN: dnt/战斗YJB测试
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_51_MapName
+CN: dnt/TD-植被测试
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_62_MapName
+CN: dnt/场景Ta测试
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_8226_MapName
+CN: dnt/柯莱塔角色试用副本
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeonEntrance_401_Name
+CN: dnt/BossCE-神王
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeonEntrance_401_Description
+CN: dnt/BossCE-神王
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeonEntrance_402_Name
+CN: dnt/BossCE-炉芯机骸
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeonEntrance_402_Description
+CN: dnt/BossCE-炉芯机骸
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeonEntrance_403_Name
+CN: dnt/BossCE-海维夏
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeonEntrance_403_Description
+CN: dnt/BossCE-海维夏
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeonEntrance_404_Name
+CN: dnt/BossCE-辛吉勒姆
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeonEntrance_404_Description
+CN: dnt/BossCE-辛吉勒姆
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeonEntrance_405_Name
+CN: dnt/BossCE-无铭探索者
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeonEntrance_405_Description
+CN: dnt/BossCE-无铭探索者
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeonEntrance_406_Name
+CN: dnt/BossCE-亚当重锤
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeonEntrance_406_Description
+CN: dnt/BossCE-亚当重锤
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_8407_MapName
+CN: dnt/永夜无终
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_8730_MapName
+CN: dnt/2.6塔防活动1-1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_8731_MapName
+CN: dnt/2.6塔防活动1-2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_8732_MapName
+CN: dnt/2.6塔防活动1-3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_8733_MapName
+CN: dnt/2.6塔防活动2-1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_8734_MapName
+CN: dnt/2.6塔防活动2-2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_8735_MapName
+CN: dnt/2.6塔防活动2-3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_8736_MapName
+CN: dnt/2.6塔防活动3-1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_8737_MapName
+CN: dnt/2.6塔防活动3-2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_8738_MapName
+CN: dnt/2.6塔防活动3-3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_8739_MapName
+CN: dnt/2.6塔防活动4-1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_8740_MapName
+CN: dnt/2.6塔防活动4-2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_8741_MapName
+CN: dnt/2.6塔防活动4-3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_8742_MapName
+CN: dnt/2.6塔防活动5-1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_8743_MapName
+CN: dnt/2.6塔防活动5-2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_8744_MapName
+CN: dnt/2.6塔防活动5-3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_8745_MapName
+CN: dnt/2.6塔防活动6-1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_8746_MapName
+CN: dnt/2.6塔防活动6-2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_8747_MapName
+CN: dnt/2.6塔防活动6-3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_8748_MapName
+CN: dnt/2.6塔防活动肉鸽-1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_8749_MapName
+CN: dnt/2.6塔防活动肉鸽-2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_8750_MapName
+CN: dnt/2.6塔防活动肉鸽-无尽
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_9600_MapName
+CN: dnt/2.6找BUG趣味活动今州
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_9601_MapName
+CN: dnt/2.6找BUG趣味活动乘霄山
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_9602_MapName
+CN: dnt/2.6找BUG趣味活动黑海岸
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_9603_MapName
+CN: dnt/2.6找BUG趣味活动黎娜汐塔1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_9604_MapName
+CN: dnt/2.6找BUG趣味活动黎娜汐塔2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_9605_MapName
+CN: dnt/2.6找BUG趣味活动阿维纽林
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||InstanceDungeon_9606_MapName
+CN: dnt/2.6找BUG趣味活动七丘
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_165000001_2544
+CN: dnt/该做啥选择呢
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||POI_DANJIN_99_1
+CN: 重墟，醒过来，把你的故事告诉我们吧。
+EN: Zhongxu, it's time to wake up and tell us your story.
+JP: {Male=重墟、目を覚ませ。あなたの物語を俺たちに聞かせてくれ。;Female=重墟、目を覚まして、あなたの物語を私たちに聞かせて。}
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||GNNPC_QXJRSPH_190_1
+CN: **
+EN: ***
+JP: **
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||GNNPC_QXJRSPH_191_1
+CN: **
+EN: ***
+JP: **
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_651_3
+CN: ***
+EN: **************
+JP: ***
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_655_11
+CN: **
+EN: **********
+JP: *****
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_665_21
+CN: ***
+EN: *******
+JP: ****
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_2_40_1
+CN: **
+EN: ***
+JP: **
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_2_40_29
+CN: **
+EN: *****
+JP: ***
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||GNNPC_QXJRSPH2_1_19
+CN: ***
+EN: ****
+JP: ***
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||GNNPC_QXJRSPH2_1_20
+CN: ***
+EN: ****
+JP: ***
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_415_12
+CN: ***
+EN: ********
+JP: *****
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_418_4
+CN: **
+EN: **********
+JP: *******
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_450_20
+CN: ***
+EN: ******
+JP: ****
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_450_21
+CN: **
+EN: *****
+JP: ***
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_450_22
+CN: ***
+EN: **************
+JP: ***
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_457_3
+CN: **
+EN: ***
+JP: **
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_590_19
+CN: ***
+EN: ******
+JP: ****
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_620_38
+CN: ***
+EN: *******
+JP: ********************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_630_9
+CN: ***
+EN: **********
+JP: *****
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_110_6
+CN: ***
+EN: ****
+JP: ***
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_110_15
+CN: **
+EN: ***
+JP: **
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_150_9
+CN: ***
+EN: ************
+JP: ****
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_161_2
+CN: **
+EN: ***
+JP: **
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_161_4
+CN: **
+EN: ****
+JP: ***
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_161_12
+CN: **
+EN: ***
+JP: **
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_170_17
+CN: ***
+EN: *********
+JP: *******************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_182_2
+CN: ***
+EN: ************
+JP: ****
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_182_7
+CN: ***
+EN: *****
+JP: ******
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_31_10
+CN: *
+EN: *
+JP: *
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_50_23
+CN: ***
+EN: *****************
+JP: ******
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_70_4
+CN: **
+EN: ***
+JP: **
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_70_27
+CN: ***
+EN: **********
+JP: *******************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_90_12
+CN: **
+EN: ***
+JP: **
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_200_1
+CN: **
+EN: ***
+JP: **
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_200_18
+CN: ***
+EN: *********
+JP: ********************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_250_2
+CN: **
+EN: *****
+JP: ***
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_260_6
+CN: **
+EN: ***
+JP: **
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_270_6
+CN: **
+EN: ***
+JP: **
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_309_1
+CN: **
+EN: ***
+JP: **
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_309_7
+CN: **
+EN: ***
+JP: **
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_310_1
+CN: **
+EN: ***
+JP: **
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_312_1
+CN: ***
+EN: ********
+JP: ******
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_330_16
+CN: **
+EN: ***
+JP: **
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_390_1
+CN: ***
+EN: ******
+JP: ****
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_406_4
+CN: **
+EN: ***
+JP: **
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_511_18
+CN: ***
+EN: **************
+JP: ***
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_516_3
+CN: ***
+EN: ******
+JP: ********************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_550_11
+CN: ***
+EN: *******
+JP: ********************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000156_27
+CN: DefaultState
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000156_28
+CN: DefaultState
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000156_29
+CN: DefaultState
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Huanglong_8_5
+CN: dnt/手机短信专用表情包:开心
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Huanglong_8_6
+CN: dnt/手机短信专用表情包:期待
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000161_8
+CN: OK!!!
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000162_124
+CN: 1V1_FS_01
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000162_125
+CN: 1V1_FS_02
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000162_126
+CN: 1V1_FS_03
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000162_127
+CN: 1V2_FS_01
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000162_128
+CN: 1V2_FS_02
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000162_129
+CN: 1V2_FS_03
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000162_131
+CN: 1V2_FS_04
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000162_132
+CN: 2V1_FS_01
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000162_133
+CN: 2V1_FS_02
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000162_134
+CN: 2V1_FS_03
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000162_135
+CN: 2V2_FS_01
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000162_136
+CN: 2V2_FS_02
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000162_137
+CN: 2V2_FS_03
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000162_138
+CN: 2V3_FS_01
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000162_139
+CN: 2V3_FS_02
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000162_140
+CN: 2V3_FS_03
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000162_141
+CN: 3V2_FS_01
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000162_142
+CN: 3V2_FS_02
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000162_143
+CN: 3V2_FS_03
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000162_144
+CN: 3V2_FS_04
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000162_145
+CN: 3V3_FS_01
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000162_146
+CN: 3V3_FS_02
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000162_147
+CN: 3V3_FS_03
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_11000000_102
+CN: /test 1
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_11000000_103
+CN: /test 2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_11000000_105
+CN: /test 3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_11000000_106
+CN: /test 4
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_11000000_107
+CN: /test 5
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_11000000_108
+CN: /test 6
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_11000000_109
+CN: /test 7
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_11000000_110
+CN: /test 8
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_42000000_39
+CN: by three they come
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_42000000_40
+CN: by three thy way opens
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_42000000_41
+CN: by the blood of the willing
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_42000000_42
+CN: we call thee home
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_1
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_2
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_3
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_4
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_5
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_6
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_7
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_8
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_9
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_10
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_11
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_12
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_13
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_14
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_15
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_16
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_17
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_18
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_19
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_20
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_21
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_22
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_23
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_24
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_25
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_26
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_27
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_28
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_29
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_30
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_31
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_32
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_33
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_34
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_35
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_36
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_37
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_38
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_39
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_40
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_41
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_42
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_44
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_45
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_46
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_47
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_48
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_49
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_50
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_51
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_52
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_53
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_54
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_55
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_56
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_57
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_58
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_59
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_60
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_61
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_62
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_63
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_64
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_65
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_66
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_67
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_68
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_69
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_70
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_71
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_72
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_73
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_74
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_75
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_76
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_77
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_78
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_79
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_80
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_82
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_83
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_84
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_85
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_86
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_87
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_88
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_89
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_90
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_91
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_92
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_93
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_94
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_95
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_96
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_97
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_98
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_99
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_100
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_101
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_102
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_103
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_104
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_105
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_106
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_107
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_108
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_109
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_110
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_111
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_112
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_113
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Flow_31000184_114
+CN: Test/123
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||QingXiao_Shengtai_1_21
+CN: **
+EN: ***
+JP: **
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||QingXiao_Shengtai_3_25
+CN: ***
+EN: ******
+JP: ***************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||ChangLi_Shengtai_1_5
+CN: ***
+EN: ***
+JP: **********************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_184850006_LevelPlayName_184_1
+CN: dnt/基建-1寂静断崖激活
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_184850007_LevelPlayName_184_2
+CN: dnt/基建-2封存地激活
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_184850008_LevelPlayName_184_2
+CN: dnt/基建-3恒黯之原激活
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_184850009_LevelPlayName_184_2
+CN: dnt/基建-4落日堤屿激活
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Skill_1006008_SkillName
+CN: 巧手烹调
+EN: Skillful Cooking
+JP: 調理の達人
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_169750031_ChildQuestTip_169_3
+CN: 查看「巡霄留讯」
+EN: Check the Skywatch Record
+JP: 「霄巡りの記録」を調べる
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Sheriff_Clue_23
+CN: dnt\
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Sheriff_ClueDesc_23
+CN: dnt\
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_147000029_LevelPlayName_147_1
+CN: dnt/巡霄留讯
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_147000030_LevelPlayName_147_1
+CN: dnt/巡霄留讯
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_147000032_LevelPlayName_147_1
+CN: dnt/潜在案件2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_147000033_ChildQuestTip_40_7
+CN: 再次追击核心
+EN: Pursue the kernel again
+JP: 追撃を再開する
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_147750025_LevelPlayName_147_1
+CN: dnt/潜在案件3
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_147750028_ChildQuestTip_147_2
+CN: 完成推理
+EN: Complete the reasoning
+JP: 推理を完成する
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_147750028_LevelPlayName_147_1
+CN: dnt/ 进行推理
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_147000036_ChildQuestTip_147_8
+CN: test/解决流放者
+EN: Take out the Exiles
+JP: 追放者を倒す
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_147000037_ChildQuestTip_147_1
+CN: 前往飞讯中提到的区域
+EN: Head to the area mentioned in the WavesLine message
+JP: メッセージで伝えられたエリアに向かう
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_147000037_ChildQuestTip_147_56
+CN: 寻找适合作为兽首的圆形物体
+EN: Find a spherical object that can replace Lionarch's head.
+JP: 獣首に使えそうな丸いものを探す
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_147000037_ChildQuestTip_147_70
+CN: 调查残留的痕迹
+EN: Investigate the traces
+JP: 残された痕跡を調べる
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_147000037_LevelPlayName_147_1
+CN: dnt/通缉石头狮子
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_147750024_LevelPlayName_147_1
+CN: 分析残留的痕迹
+EN: Analyze the traces
+JP: 残された痕跡を分析する
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||1
+CN: OccupationConfig_anke_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||3
+CN: OccupationConfig_yangyang_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||5
+CN: OccupationConfig_chenpi_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||7
+CN: OccupationConfig_ganxue_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||9
+CN: OccupationConfig_mahe_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||11
+CN: OccupationConfig_yuzan_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||13
+CN: OccupationConfig_zhuyi_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||15
+CN: OccupationConfig_yixin_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||17
+CN: OccupationConfig_xuxu_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||19
+CN: OccupationConfig_qingru_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||21
+CN: OccupationConfig_pinwen_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||23
+CN: OccupationConfig_langsheng_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||25
+CN: OccupationConfig_ashui_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||27
+CN: OccupationConfig_lizhu_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||29
+CN: OccupationConfig_feifei_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||31
+CN: OccupationConfig_jiyan_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||33
+CN: OccupationConfig_chixia_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||35
+CN: OccupationConfig_bailian_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||37
+CN: OccupationConfig_taoqi_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||39
+CN: OccupationConfig_lingyang_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||41
+CN: OccupationConfig_danjin_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||43
+CN: OccupationConfig_yinlin_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||45
+CN: OccupationConfig_kakaluo_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||47
+CN: OccupationConfig_sanhua_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||49
+CN: OccupationConfig_jinxi_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||51
+CN: OccupationConfig_qiushui_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||53
+CN: OccupationConfig_motefei_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||55
+CN: OccupationConfig_yuanwu_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||57
+CN: OccupationConfig_jueyuan_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||59
+CN: OccupationConfig_shuncai_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||61
+CN: OccupationConfig_guhong_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||63
+CN: OccupationConfig_juepopo_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||65
+CN: OccupationConfig_sixi_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||67
+CN: OccupationConfig_xiaojiu_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||69
+CN: OccupationConfig_guanghui_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||71
+CN: OccupationConfig_yunbo_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||73
+CN: OccupationConfig_yanyan_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||75
+CN: OccupationConfig_shilang_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||77
+CN: OccupationConfig_wyq_test_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||79
+CN: OccupationConfig_wyq_npc_test_Nam
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||81
+CN: OccupationConfig_npc_test_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||83
+CN: OccupationConfig_npc_test2_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||87
+CN: OccupationConfig_screenOccupation_Nam
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||89
+CN: OccupationConfig_timeOccupation_Nam
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||99
+CN: OccupationConfig_yihu_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||101
+CN: OccupationConfig_panhua_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||103
+CN: OccupationConfig_xieyang_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||105
+CN: OccupationConfig_mingming_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||107
+CN: OccupationConfig_doudou_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||111
+CN: OccupationConfig_fuyan_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||113
+CN: OccupationConfig_wyq_test2_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||115
+CN: OccupationConfig_linsu_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||127
+CN: OccupationConfig_shuoshuren_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||129
+CN: OccupationConfig_xiangliyao_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||131
+CN: OccupationConfig_gupan_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||133
+CN: OccupationConfig_huaijin_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||135
+CN: OccupationConfig_jifeng_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||137
+CN: OccupationConfig_TaoyuanxiangVillage_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||139
+CN: OccupationConfig_zhezhi_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||141
+CN: OccupationConfig_shouanren_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||143
+CN: OccupationConfig_youhu_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||145
+CN: OccupationConfig_chun_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||149
+CN: OccupationConfig_bulante_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||151
+CN: OccupationConfig_kamola_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||153
+CN: OccupationConfig_luokeke_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||155
+CN: OccupationConfig_zanni_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||157
+CN: OccupationConfig_keximo_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||159
+CN: OccupationConfig_feibi_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||161
+CN: OccupationConfig_mageliete_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||163
+CN: OccupationConfig_fenlaike_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||165
+CN: OccupationConfig_feilin_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||167
+CN: OccupationConfig_kelisituofu_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||169
+CN: OccupationConfig_katixiya_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||171
+CN: OccupationConfig_fuluoluo_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||173
+CN: OccupationConfig_naiyala_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||181
+CN: OccupationConfig_faluo_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||183
+CN: OccupationConfig_dina_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||185
+CN: OccupationConfig_luosimali_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||187
+CN: OccupationConfig_weituoliao_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||195
+CN: OccupationConfig_xiakong_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||197
+CN: OccupationConfig_kanteleila_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||203
+CN: wuyinqu2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||204
+CN: changdi2
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||221
+CN: OccupationConfig_suisui_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||223
+CN: OccupationConfig_suisui_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||225
+CN: OccupationConfig_suisui_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||227
+CN: OccupationConfig_suisui_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||229
+CN: OccupationConfig_suisui_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||231
+CN: OccupationConfig_suisui_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||233
+CN: OccupationConfig_suisui_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||235
+CN: OccupationConfig_suisui_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||237
+CN: OccupationConfig_suisui_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||239
+CN: OccupationConfig_suisui_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||241
+CN: OccupationConfig_suisui_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||243
+CN: OccupationConfig_suisui_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_occupation.db||OccupationConfig||245
+CN: OccupationConfig_suisui_Name
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_once_tower_challenge.db||TowerChallengeConfig||17
+CN: 42
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_once_tower_challenge.db||TowerChallengeConfig||22
+CN: 44
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_once_tower_challenge.db||TowerChallengeConfig||27
+CN: 46
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_once_tower_challenge.db||TowerChallengeConfig||32
+CN: 48
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_once_tower_challenge.db||TowerChallengeConfig||37
+CN: 50
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_once_tower_challenge.db||TowerChallengeConfig||42
+CN: 52
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_once_tower_challenge.db||TowerChallengeConfig||47
+CN: 54
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_once_tower_challenge.db||TowerChallengeConfig||52
+CN: 56
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_once_tower_challenge.db||TowerChallengeConfig||57
+CN: 58
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_once_tower_challenge.db||TowerChallengeConfig||62
+CN: 60
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_reson.db||RoleResonanceGrouth||271
+CN: test/test
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_reson.db||RoleResonanceGrouth||272
+CN: test/test
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_reson.db||RoleResonanceGrouth||273
+CN: test/test
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_reson.db||RoleResonanceGrouth||274
+CN: test/test
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_reson.db||RoleResonanceGrouth||275
+CN: test/test
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_reson.db||RoleResonanceGrouth||276
+CN: test/test
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||1
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||2
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||3
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||4
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||5
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||6
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||7
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||8
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||9
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||10
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||11
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||12
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||13
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||14
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||15
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||16
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||17
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||18
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||19
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||20
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||21
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||22
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||23
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||24
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||25
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||26
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||27
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||28
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||29
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||30
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||31
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||32
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||33
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||34
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||35
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||36
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||37
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||38
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||39
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||40
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||41
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||42
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||43
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||44
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||45
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||46
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||47
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||48
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||49
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||50
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||51
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||52
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||53
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||54
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||55
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||56
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||57
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||58
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||59
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||60
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||61
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||62
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||63
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||64
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||65
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||66
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||67
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||68
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||69
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||70
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||71
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||72
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||73
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||74
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||75
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||76
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||77
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||78
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||79
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||80
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||81
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||82
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||83
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||84
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||85
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||86
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||87
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||88
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||89
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||90
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||91
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||92
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||93
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||94
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||95
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||96
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||97
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||98
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||99
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_role_training_degree.db||RoleTrainingDegree||100
+CN: 0
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_skill.db||SkillDescription||521
+CN: {0}*10
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_text.db||Text||249
+CN: %s
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_text.db||Text||265
+CN: {0}/{1}
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_text.db||Text||267
+CN: /{0}
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_text.db||Text||271
+CN: {0}<color=#fff448>[{1}]</color>
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_text.db||Text||273
+CN: x{0}
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_text.db||Text||279
+CN: {0}/{1}
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_text.db||Text||281
+CN: {0}/{1}
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_text.db||Text||282
+CN: +{0}
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_text.db||Text||285
+CN: +{0}
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_text.db||Text||297
+CN: {0}
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_text.db||Text||298
+CN: {0}
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_text.db||Text||406
+CN: <color=#ac8549>{0}</color>/{1}
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_text.db||Text||407
+CN: {0}
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_text.db||Text||430
+CN: {0}<color=#a1a1a1>/{1}</color>
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_text.db||Text||468
+CN: {0}:{1}
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_text.db||Text||507
+CN: {0}x{1}
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_text.db||Text||559
+CN: ({0})
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_text.db||Text||561
+CN: {0}P
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_text.db||Text||578
+CN: {0}x{1}
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_text.db||Text||579
+CN: x{0}
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_text.db||Text||651
+CN: {0}/{1}
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_text.db||Text||652
+CN: <color=#ff0000ff>{0}</color>/{1}
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_text.db||Text||653
+CN: {0}/{1}
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_text.db||Text||654
+CN: {0}/{1}
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_text.db||Text||655
+CN: x{0}
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_text.db||Text||656
+CN: {0}x{1}
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_text.db||Text||665
+CN: ???
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_text.db||Text||711
+CN: {0}/<color=#808080>{1}</color>
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_text.db||Text||746
+CN: x:{0},y:{1},z:{2}
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_text.db||Text||766
+CN: ???
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_text.db||Text||769
+CN: <color=#bca868>{0}</color>/{1}
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_text.db||Text||771
+CN: {0}/{1}
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_text.db||Text||772
+CN: <color=#bca868>???</color>
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_text.db||Text||806
+CN: {0}
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_text.db||Text||891
+CN: [  <color=#f0a40cff>①</color>  ]
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_text.db||Text||892
+CN: [  <color=#f0a40cff>②</color>  ]
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_text.db||Text||893
+CN: [  <color=#f0a40cff>③</color>  ]
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_text.db||Text||894
+CN: [<color=#f0a40cff>{0}</color>]
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_text.db||Text||911
+CN: {0}/{1}
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_text.db||Text||912
+CN: {0}:{1}/{2}:{3}
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_text.db||Text||955
+CN: {0}%
+EN: 
+JP: 
+VI: 
+HV: 
+

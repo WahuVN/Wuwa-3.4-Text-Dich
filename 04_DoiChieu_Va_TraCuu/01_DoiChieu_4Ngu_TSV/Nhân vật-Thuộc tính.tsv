@@ -1,0 +1,633 @@
+﻿dbfile	key	version	category	folder	speaker	mission	trung_cn	anh_en	nhat_jp	viet_vi
+lang_multi_text.db	PropertyIndex_10001_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			等级	Level	レベル	Cấp
+lang_multi_text.db	PropertyIndex_10002_AnotherName	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			生命百分比	HP%	HP%	Phần trăm HP
+lang_multi_text.db	PropertyIndex_10002_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			生命	HP	HP	Sinh Lực
+lang_multi_text.db	PropertyIndex_10003_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			生命	HP	HP	Sinh Lực
+lang_multi_text.db	PropertyIndex_10004_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			护盾值	Shield	シールド値	Giá Trị Khiên
+lang_multi_text.db	PropertyIndex_10005_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/破盾倍率	Shield Break Multiplier	シールド破壊倍率	Tỷ lệ phá khiên
+lang_multi_text.db	PropertyIndex_10006_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/被破盾倍率	Shield Break Multiplier Received	シールド被破壊倍率	Tỷ lệ phá khiên
+lang_multi_text.db	PropertyIndex_10007_AnotherName	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			攻击百分比	ATK%	攻撃力%	Phần Trăm Tấn Công
+lang_multi_text.db	PropertyIndex_10007_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			攻击	ATK	攻撃力	Tấn Công
+lang_multi_text.db	PropertyIndex_10008_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			暴击	Crit. Rate	クリティカル	Tỷ Lệ Bạo Kích
+lang_multi_text.db	PropertyIndex_10009_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			暴击伤害	Crit. DMG	クリティカルダメージ	Sát Thương Bạo Kích
+lang_multi_text.db	PropertyIndex_10010_AnotherName	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			防御百分比	DEF%	防御力%	Phần Trăm Phòng Ngự
+lang_multi_text.db	PropertyIndex_10010_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			防御	DEF	防御力	Phòng Ngự
+lang_multi_text.db	PropertyIndex_10011_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			共鸣效率	Energy Regen	共鳴効率	Hiệu Suất Cộng Hưởng
+lang_multi_text.db	PropertyIndex_10012_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			冷却时间降低	Cooldown Reduction	クールタイム軽減	Giảm Thời Gian Hồi Chiêu
+lang_multi_text.db	PropertyIndex_10013_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/协奏升华	Concert Sublimation	協奏昇華	Thăng Hoa Hiệp Tấu
+lang_multi_text.db	PropertyIndex_10014_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			共鸣技能伤害加成	Resonance Skill DMG Bonus	共鳴スキルダメージアップ	Tăng Sát Thương Kỹ Năng Cộng Hưởng
+lang_multi_text.db	PropertyIndex_10015_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			通用伤害加成	General DMG Bonus	全ダメージアップ	Tăng Sát Thương Chung
+lang_multi_text.db	PropertyIndex_10016_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			通用受伤减免	General DMG Reduction	全体被ダメージ軽減	Giảm Sát Thương Chung Nhận Vào
+lang_multi_text.db	PropertyIndex_10017_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			普攻伤害加成	Basic Attack DMG Bonus	通常攻撃ダメージアップ	Tăng Sát Thương Đánh Thường
+lang_multi_text.db	PropertyIndex_10018_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			重击伤害加成	Heavy Attack DMG Bonus	重撃ダメージアップ	Tăng Sát Thương Đánh Mạnh
+lang_multi_text.db	PropertyIndex_10019_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			共鸣解放伤害加成	Resonance Liberation DMG Bonus	共鳴解放ダメージアップ	Tăng Sát Thương Giải Phóng Cộng Hưởng
+lang_multi_text.db	PropertyIndex_10020_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			变奏技能伤害加成	Intro Skill DMG Bonus	変奏スキルダメージアップ	Tăng Sát Thương Kỹ Năng Biến Tấu
+lang_multi_text.db	PropertyIndex_10021_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			物理伤害加成	Physical DMG Bonus	物理ダメージアップ	Tăng Sát Thương Vật Lý
+lang_multi_text.db	PropertyIndex_10022_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			冷凝伤害加成	Glacio DMG Bonus	凝縮ダメージアップ	Tăng Sát Thương Ngưng Băng
+lang_multi_text.db	PropertyIndex_10023_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			热熔伤害加成	Fusion DMG Bonus	焦熱ダメージアップ	Tăng Sát Thương Hỏa Liệt
+lang_multi_text.db	PropertyIndex_10024_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			导电伤害加成	Electro DMG Bonus	電導ダメージアップ	Tăng Sát Thương Điện Từ
+lang_multi_text.db	PropertyIndex_10025_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			气动伤害加成	Aero DMG Bonus	気動ダメージアップ	Tăng Sát Thương Khí Động
+lang_multi_text.db	PropertyIndex_10026_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			衍射伤害加成	Spectro DMG Bonus	回折ダメージアップ	Tăng Sát Thương Quang Phổ
+lang_multi_text.db	PropertyIndex_10027_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			湮灭伤害加成	Havoc DMG Bonus	消滅ダメージアップ	Tăng Sát Thương Hủy Diệt
+lang_multi_text.db	PropertyIndex_10028_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			物理伤害抗性	Physical RES	物理ダメージ耐性	Kháng Sát Thương Vật Lý
+lang_multi_text.db	PropertyIndex_10029_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			冷凝伤害抗性	Glacio RES	凝縮ダメージ耐性	Kháng Sát Thương Ngưng Băng
+lang_multi_text.db	PropertyIndex_10030_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			热熔伤害抗性	Fusion RES	焦熱ダメージ耐性	Kháng Sát Thương Hỏa Liệt
+lang_multi_text.db	PropertyIndex_10031_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			导电伤害抗性	Electro RES	電導ダメージ耐性	Kháng Sát Thương Điện Từ
+lang_multi_text.db	PropertyIndex_10032_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			气动伤害抗性	Aero RES	気動ダメージ耐性	Kháng Sát Thương Khí Động
+lang_multi_text.db	PropertyIndex_10033_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			衍射伤害抗性	Spectro RES	回折ダメージ耐性	Kháng Sát Thương Quang Phổ
+lang_multi_text.db	PropertyIndex_10034_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			湮灭伤害抗性	Havoc RES	消滅ダメージ耐性	Kháng Sát Thương Hủy Diệt
+lang_multi_text.db	PropertyIndex_10035_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			治疗效果加成	Healing Bonus	HP回復効果アップ	Tăng Hiệu Quả Trị Liệu
+lang_multi_text.db	PropertyIndex_10036_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			受治疗效果加成	Incoming Healing Bonus	被HP回復効果アップ	Tăng Hiệu Quả Được Trị Liệu
+lang_multi_text.db	PropertyIndex_10037_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			物理伤害减免	Physical DMG Reduction	物理被ダメージ軽減	Giảm Sát Thương Vật Lý
+lang_multi_text.db	PropertyIndex_10038_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			冷凝伤害减免	Glacio DMG Reduction	凝縮被ダメージ軽減	Giảm Sát Thương Ngưng Băng
+lang_multi_text.db	PropertyIndex_10039_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			热熔伤害减免	Fusion DMG Reduction	焦熱被ダメージ軽減	Giảm Sát Thương Hỏa Liệt
+lang_multi_text.db	PropertyIndex_10040_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			导电伤害减免	Electro DMG Reduction	電導被ダメージ軽減	Giảm Sát Thương Điện Từ
+lang_multi_text.db	PropertyIndex_10041_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			气动伤害减免	Aero DMG Reduction	気動被ダメージ軽減	Giảm Sát Thương Khí Động
+lang_multi_text.db	PropertyIndex_10042_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			衍射伤害减免	Spectro DMG Reduction	回折被ダメージ軽減	Giảm Sát Thương Quang Phổ
+lang_multi_text.db	PropertyIndex_10043_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			湮灭伤害减免	Havoc DMG Reduction	消滅被ダメージ軽減	Giảm Sát Thương Hủy Diệt
+lang_multi_text.db	PropertyIndex_10044_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/反应增幅系数1	Reaction Amplification Coefficient I	反応増幅係数1	Hệ số Khuếch Đại Phản Ứng I
+lang_multi_text.db	PropertyIndex_10045_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/反应增幅系数2	Reaction Amplification Coefficient II	反応増幅係数2	Hệ số Khuếch Đại Phản Ứng II
+lang_multi_text.db	PropertyIndex_10046_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/反应增幅系数3	Reaction Amplification Coefficient III	反応増幅係数3	Hệ số Khuếch Đại Phản Ứng III
+lang_multi_text.db	PropertyIndex_10047_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/反应增幅系数4	Reaction Amplification Coefficient IV	反応増幅係数4	Hệ số Khuếch Đại Phản Ứng IV
+lang_multi_text.db	PropertyIndex_10048_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/反应增幅系数5	Reaction Amplification Coefficient V	反応増幅係数5	Hệ số Khuếch Đại Phản Ứng V
+lang_multi_text.db	PropertyIndex_10049_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/反应增幅系数6	Reaction Amplification Coefficient VI	反応増幅係数6	Hệ số Khuếch Đại Phản Ứng VI
+lang_multi_text.db	PropertyIndex_10050_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/反应增幅系数7	Reaction Amplification Coefficient VII	反応増幅係数7	Hệ số Khuếch Đại Phản Ứng VII
+lang_multi_text.db	PropertyIndex_10051_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/反应增幅系数8	Reaction Amplification Coefficient VIII	反応増幅係数8	Hệ số Khuếch Đại Phản Ứng VIII
+lang_multi_text.db	PropertyIndex_10052_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/反应增幅系数9	Reaction Amplification Coefficient IX	反応増幅係数9	Hệ số Khuếch Đại Phản Ứng IX
+lang_multi_text.db	PropertyIndex_10053_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/反应增幅系数10	Reaction Amplification Coefficient X	反応増幅係数10	Hệ số Khuếch Đại Phản Ứng X
+lang_multi_text.db	PropertyIndex_10054_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/反应增幅系数11	Reaction Amplification Coefficient XI	反応増幅係数11	Hệ số Khuếch Đại Phản Ứng XI
+lang_multi_text.db	PropertyIndex_10055_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/反应增幅系数12	Reaction Amplification Coefficient XII	反応増幅係数12	Hệ số Khuếch Đại Phản Ứng XII
+lang_multi_text.db	PropertyIndex_10056_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/反应增幅系数13	Reaction Amplification Coefficient XIII	反応増幅係数13	Hệ số Khuếch Đại Phản Ứng XIII
+lang_multi_text.db	PropertyIndex_10057_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/反应增幅系数14	Reaction Amplification Coefficient XIV	反応増幅係数14	Hệ số Khuếch Đại Phản Ứng XIV
+lang_multi_text.db	PropertyIndex_10058_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/反应增幅系数15	Reaction Amplification Coefficient XV	反応増幅係数15	Hệ số Khuếch Đại Phản Ứng XV
+lang_multi_text.db	PropertyIndex_10059_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			共鸣能量上限	Max Resonance Energy	共鳴エネルギー上限	Giới Hạn Năng Lượng Cộng Hưởng
+lang_multi_text.db	PropertyIndex_10060_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			共鸣能量	Resonance Energy	共鳴エネルギー	Năng Lượng Cộng Hưởng
+lang_multi_text.db	PropertyIndex_10061_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/特殊能量1上限	Forte Gauge 1 Limit	特殊エネルギー1上限	Giới hạn Năng Lượng Forte I
+lang_multi_text.db	PropertyIndex_10062_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/特殊能量1	Forte Gauge 1	特殊エネルギー1	Năng Lượng Forte I
+lang_multi_text.db	PropertyIndex_10063_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/特殊能量2上限	Forte Gauge 2 Limit	特殊エネルギー2上限	Giới hạn Năng Lượng Forte II
+lang_multi_text.db	PropertyIndex_10064_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/特殊能量2	Forte Gauge 2	特殊エネルギー2	Năng Lượng Forte II
+lang_multi_text.db	PropertyIndex_10065_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/特殊能量3上限	Forte Gauge 3 Limit	特殊エネルギー3上限	Giới hạn Năng Lượng Forte III
+lang_multi_text.db	PropertyIndex_10066_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/特殊能量3	Forte Gauge 3	特殊エネルギー3	Năng Lượng Forte III
+lang_multi_text.db	PropertyIndex_10067_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/特殊能量4上限	Forte Gauge 4 Limit	特殊エネルギー4上限	Giới hạn Năng Lượng Forte IV
+lang_multi_text.db	PropertyIndex_10068_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/特殊能量4	Forte Gauge 4	特殊エネルギー4	Năng Lượng Forte IV
+lang_multi_text.db	PropertyIndex_10069_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			耐力上限	Max STA	スタミナ上限	Giới Hạn Thể Lực
+lang_multi_text.db	PropertyIndex_10070_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			耐力	STA	スタミナ	Thể Lực
+lang_multi_text.db	PropertyIndex_10071_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/耐力恢复速度	Stamina Recovery Speed	スタミナ回復速度	Tốc độ Hồi Phục Thể Lực
+lang_multi_text.db	PropertyIndex_10072_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/空耐力惩罚时间	Empty Stamina Penalty Time	スタミナ切れペナルティ時間	Thời gian Phạt Hết Thể Lực
+lang_multi_text.db	PropertyIndex_10073_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/疾跑耐力消耗速度	Running Stamina Consumption Speed	走りスタミナ消費速度	Tốc độ Tiêu Hao Thể Lực Khi Chạy
+lang_multi_text.db	PropertyIndex_10074_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/游泳耐力消耗速度	Swimming Stamina Consumption Speed	泳ぎスタミナ消費速度	Tốc độ Tiêu Hao Thể Lực Khi Bơi
+lang_multi_text.db	PropertyIndex_10075_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/快速游泳耐力消耗速度	Fast Swimming Stamina Consumption Speed	全速泳ぎスタミナ消費速度	Tốc độ Tiêu Hao Thể Lực Khi Bơi Nhanh
+lang_multi_text.db	PropertyIndex_10076_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/协奏能量上限	Climbing Stamina Consumption Speed	登りスタミナ消費速度	Tốc độ Tiêu Hao Thể Lực Khi Leo Trèo
+lang_multi_text.db	PropertyIndex_10077_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/协奏能量	Fast Climbing Stamina Consumption Speed	全速登りスタミナ消費速度	Tiêu Hao Thể Lực Khi Leo Trèo Nhanh
+lang_multi_text.db	PropertyIndex_10078_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			共振度上限	Max Vibration Strength	共振度上限	Giới Hạn Độ Cộng Hưởng
+lang_multi_text.db	PropertyIndex_10079_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			共振度上限	Max Vibration Strength	共振度上限	Giới Hạn Độ Cộng Hưởng
+lang_multi_text.db	PropertyIndex_10080_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			共振度恢复速度	Vibration Strength Recovery Rate	共振度回復速度	Tốc Độ Hồi Độ Cộng Hưởng
+lang_multi_text.db	PropertyIndex_10081_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			空共振度惩罚时间	Vibration Strength Exhaustion	共振度切れペナルティ時間	Thời Gian Phạt Rỗng Độ Cộng Hưởng
+lang_multi_text.db	PropertyIndex_10082_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			破共振度倍率	Vibration Strength Reduction Multiplier	共振度削減倍率	Bội Số Phá Độ Cộng Hưởng
+lang_multi_text.db	PropertyIndex_10083_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			被破共振度倍率	Vibration Strength Reduction RES Multiplier	共振度被削減倍率	Bội Số Bị Phá Độ Cộng Hưởng
+lang_multi_text.db	PropertyIndex_10084_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			韧性上限	Max Poise	強靭度上限	Giới Hạn Sức Bền
+lang_multi_text.db	PropertyIndex_10085_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			韧性	Poise	強靭度	Sức Bền
+lang_multi_text.db	PropertyIndex_10086_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			韧性恢复速度	Poise Recovery Rate	強靭度回復速度	Tốc Độ Hồi Sức Bền
+lang_multi_text.db	PropertyIndex_10087_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			削韧倍率	Poise Reduction Multiplier	強靭度削減倍率	Bội Số Giảm Sức Bền
+lang_multi_text.db	PropertyIndex_10088_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			被削韧倍率	Poise Reduction RES Multiplier	強靭度被削減倍率	Bội Số Bị Giảm Sức Bền
+lang_multi_text.db	PropertyIndex_10089_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/属性1能量值	Attribute 1 Energy Value	属性1エネルギー	Năng Lượng Thuộc Tính 1
+lang_multi_text.db	PropertyIndex_10090_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/属性2能量值	Attribute 2 Energy Value	属性2エネルギー	Năng Lượng Thuộc Tính 2
+lang_multi_text.db	PropertyIndex_10091_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/属性3能量值	Attribute 3 Energy Value	属性3エネルギー	Năng Lượng Thuộc Tính 3
+lang_multi_text.db	PropertyIndex_10092_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/属性4能量值	Attribute 4 Energy Value	属性4エネルギー	Năng Lượng Thuộc Tính 4
+lang_multi_text.db	PropertyIndex_10093_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/属性5能量值	Attribute 5 Energy Value	属性5エネルギー	Năng Lượng Thuộc Tính 5
+lang_multi_text.db	PropertyIndex_10094_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/属性6能量值	Attribute 6 Energy Value	属性6エネルギー	Năng Lượng Thuộc Tính 6
+lang_multi_text.db	PropertyIndex_10095_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/特殊伤害倍率	Special Damage Multiplier	特殊ダメージ倍率	Hệ số Sát Thương Đặc Biệt
+lang_multi_text.db	PropertyIndex_10096_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/快速攀爬耐力消耗x/帧	Quick Climb Stamina Consumption x/Frame	全速登りスタミナ消費x/フレーム	Tiêu Hao Thể Lực Leo Nhanh x/Khung hình
+lang_multi_text.db	PropertyIndex_10097_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/元素属性类型	Elemental Attribute Type	属性タイプ	Loại Thuộc Tính Nguyên Tố
+lang_multi_text.db	PropertyIndex_10098_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/脆弱时间	Vulnerability Time	無力時間	Thời gian Điểm Yếu
+lang_multi_text.db	PropertyIndex_10099_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			无视防御率	DEF Penetration Rate	防御力無視率	Tỷ Lệ Bỏ Qua Phòng Ngự
+lang_multi_text.db	PropertyIndex_100_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/无视物理伤害抗性	Ignore Physical Damage Resistance	物理ダメージ抵抗無視率	Bỏ Qua Kháng Sát Thương Vật Lý
+lang_multi_text.db	PropertyIndex_10100_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/无视物理伤害抗性	Ignore Physical Damage Resistance	物理ダメージ抵抗無視率	Bỏ Qua Kháng Sát Thương Vật Lý
+lang_multi_text.db	PropertyIndex_10101_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/无视属性1伤害抗性	Ignore Attribute 1 Damage Resistance	属性1ダメージ抵抗無視率	Bỏ Qua Kháng Sát Thương Thuộc Tính 1
+lang_multi_text.db	PropertyIndex_10102_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/无视属性2伤害抗性	Ignore Attribute 2 Damage Resistance	属性2ダメージ抵抗無視率	Bỏ Qua Kháng Sát Thương Thuộc Tính 2
+lang_multi_text.db	PropertyIndex_10103_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/无视属性3伤害抗性	Ignore Attribute 3 Damage Resistance	属性3ダメージ抵抗無視率	Bỏ Qua Kháng Sát Thương Thuộc Tính 3
+lang_multi_text.db	PropertyIndex_10104_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/无视属性4伤害抗性	Ignore Attribute 4 Damage Resistance	属性4ダメージ抵抗無視率	Bỏ Qua Kháng Sát Thương Thuộc Tính 4
+lang_multi_text.db	PropertyIndex_10105_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/无视属性5伤害抗性	Ignore Attribute 5 Damage Resistance	属性5ダメージ抵抗無視率	Bỏ Qua Kháng Sát Thương Thuộc Tính 5
+lang_multi_text.db	PropertyIndex_10106_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/无视属性6伤害抗性	Ignore Attribute 6 Damage Resistance	属性6ダメージ抵抗無視率	Bỏ Qua Kháng Sát Thương Thuộc Tính 6
+lang_multi_text.db	PropertyIndex_10107_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/技能状态韧性系数	Skill Status Poise Coefficient	スキル強靭度係数	Hệ số Độ Bền Trạng Thái Kỹ Năng
+lang_multi_text.db	PropertyIndex_10108_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/攀爬跳跃消耗的耐力（一次）	Climbing Jump Stamina Consumption (Once)	登り・ジャンプスタミナ消費（1回）	Thể Lực Tiêu Hao Khi Nhảy Leo Trèo (1 Lần)
+lang_multi_text.db	PropertyIndex_10109_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/滑翔耐力消耗速度x/秒	Gliding Stamina Consumption Speed x/Second	滑空スタミナ速度x/秒	Tốc độ Tiêu Hao Thể Lực Bay Lượn x/giây
+lang_multi_text.db	PropertyIndex_10110_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/质量	Mass	質量	Khối lượng
+lang_multi_text.db	PropertyIndex_10111_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/摩擦力系数	Friction Coefficient	摩擦係数	Hệ số Ma Sát
+lang_multi_text.db	PropertyIndex_10112_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/重力系数	Gravity Coefficient	重力係数	Hệ số Trọng Lực
+lang_multi_text.db	PropertyIndex_10113_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			移动速率	Movement Speed	移動速度	Tốc Độ Di Chuyển
+lang_multi_text.db	PropertyIndex_10114_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			声骸技能伤害加成	Echo Skill DMG Bonus	音骸スキルダメージアップ	Tăng Sát Thương Kỹ Năng Echo
+lang_multi_text.db	PropertyIndex_10115_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			普攻速度	Basic Attack Speed	通常攻撃速度	Tốc Độ Đánh Thường
+lang_multi_text.db	PropertyIndex_10116_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			重击速度	Heavy Attack Speed	重撃速度	Tốc Độ Đánh Mạnh
+lang_multi_text.db	PropertyIndex_10117_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/状态累积值1 上限	Status Accumulation Value 1 Limit	蓄積値1・上限	Giới Hạn Tích Lũy Trạng Thái I
+lang_multi_text.db	PropertyIndex_10118_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/状态累积值1	Status Accumulation Value 1	蓄積値1	Tích Lũy Trạng Thái I
+lang_multi_text.db	PropertyIndex_10119_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/状态累积值2 上限	Status Accumulation Value 2 Limit	蓄積値2・上限	Giới Hạn Tích Lũy Trạng Thái II
+lang_multi_text.db	PropertyIndex_10120_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/状态累积值2	Status Accumulation Value 2	蓄積値2	Tích Lũy Trạng Thái II
+lang_multi_text.db	PropertyIndex_10121_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/状态累积值3 上限	Status Accumulation Value 3 Limit	蓄積値3・上限	Giới Hạn Tích Lũy Trạng Thái III
+lang_multi_text.db	PropertyIndex_10122_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/状态累积值3	Status Accumulation Value 3	蓄積値3	Tích Lũy Trạng Thái III
+lang_multi_text.db	PropertyIndex_10123_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/状态累积值4 上限	Status Accumulation Value 4 Limit	蓄積値4・上限	Giới Hạn Tích Lũy Trạng Thái IV
+lang_multi_text.db	PropertyIndex_10124_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/状态累积值4	Status Accumulation Value 4	蓄積値4	Tích Lũy Trạng Thái IV
+lang_multi_text.db	PropertyIndex_10125_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/状态累积值5 上限	Status Accumulation Value 5 Limit	蓄積値5・上限	Giới Hạn Tích Lũy Trạng Thái V
+lang_multi_text.db	PropertyIndex_10126_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/状态累积值5	Status Accumulation Value 5	蓄積値5	Tích Lũy Trạng Thái V
+lang_multi_text.db	PropertyIndex_10127_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/狂暴上限	Rage Limit	暴走値上限	Giới Hạn Phẫn Nộ
+lang_multi_text.db	PropertyIndex_10128_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/狂暴	Rage	暴走値	Phẫn Nộ
+lang_multi_text.db	PropertyIndex_10129_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/狂暴恢复	Rage Recovery	暴走値回復	Hồi Phục Phẫn Nộ
+lang_multi_text.db	PropertyIndex_10130_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/空狂暴惩罚时间	Empty Rage Penalty Time	暴走値切れペナルティ時間	Thời Gian Phạt Hết Phẫn Nộ
+lang_multi_text.db	PropertyIndex_10131_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/破狂暴倍率	Broken Rage Multiplier	暴走値削減倍率	Hệ Số Phá Phẫn Nộ
+lang_multi_text.db	PropertyIndex_10132_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/被破狂暴倍率	Broken Rage Multiplier	暴走値被削減倍率	Hệ Số Phá Phẫn Nộ
+lang_multi_text.db	PropertyIndex_10133_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/韧性恢复延迟时间	Poise Recovery Delay Time	強靭度回復遅延	Thời Gian Trì Hoãn Hồi Phục Kháng Cự
+lang_multi_text.db	PropertyIndex_10141_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			偏谐值累积效率	Off-Tune Buildup Rate	不協和値蓄積効率	Hiệu Suất Tích Lũy Giá Trị Lệch Nhịp
+lang_multi_text.db	PropertyIndex_10142_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			谐度破坏增幅	Tune Break Boost	協和破壊増強	Tăng Cường Phá Nhịp
+lang_multi_text.db	PropertyIndex_101_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/无视属性1伤害抗性	Ignore Attribute 1 Damage Resistance	属性1ダメージ抵抗無視率	Bỏ Qua Kháng Sát Thương Thuộc Tính 1
+lang_multi_text.db	PropertyIndex_102_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/无视属性2伤害抗性	Ignore Attribute 2 Damage Resistance	属性2ダメージ抵抗無視率	Bỏ Qua Kháng Sát Thương Thuộc Tính 2
+lang_multi_text.db	PropertyIndex_103_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/无视属性3伤害抗性	Ignore Attribute 3 Damage Resistance	属性3ダメージ抵抗無視率	Bỏ Qua Kháng Sát Thương Thuộc Tính 3
+lang_multi_text.db	PropertyIndex_104_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/无视属性4伤害抗性	Ignore Attribute 4 Damage Resistance	属性4ダメージ抵抗無視率	Bỏ Qua Kháng Sát Thương Thuộc Tính 4
+lang_multi_text.db	PropertyIndex_105_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/无视属性5伤害抗性	Ignore Attribute 5 Damage Resistance	属性5ダメージ抵抗無視率	Bỏ Qua Kháng Sát Thương Thuộc Tính 5
+lang_multi_text.db	PropertyIndex_106_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/无视属性6伤害抗性	Ignore Attribute 6 Damage Resistance	属性6ダメージ抵抗無視率	Bỏ Qua Kháng Sát Thương Thuộc Tính 6
+lang_multi_text.db	PropertyIndex_107_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/技能状态韧性系数	Skill Status Poise Coefficient	スキル強靭度係数	Hệ số Độ Bền Trạng Thái Kỹ Năng
+lang_multi_text.db	PropertyIndex_108_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/攀爬跳跃消耗的耐力（一次）	Stamina Consumed by Climbing Jump (Once)	登り・ジャンプスタミナ消費（1回）	Thể Lực Tiêu Hao Khi Nhảy Leo Trèo (1 Lần)
+lang_multi_text.db	PropertyIndex_109_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/滑翔耐力消耗速度x/秒	Gliding Stamina Consumption Speed x/second	滑空スタミナ速度x/秒	Tốc độ Tiêu Hao Thể Lực Bay Lượn x/giây
+lang_multi_text.db	PropertyIndex_10_AnotherName	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			基础防御	Base DEF	基礎防御力	Phòng Ngự Cơ Bản
+lang_multi_text.db	PropertyIndex_10_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			防御	DEF	防御力	Phòng Ngự
+lang_multi_text.db	PropertyIndex_110_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/质量	Quality	質量	Khối lượng
+lang_multi_text.db	PropertyIndex_111_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/摩擦力系数	Coefficient of Friction	摩擦係数	Hệ số Ma Sát
+lang_multi_text.db	PropertyIndex_112_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/重力系数	Gravity Coefficient	重力係数	Hệ số Trọng Lực
+lang_multi_text.db	PropertyIndex_113_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			移动速率	Movement Speed	移動速度	Tốc Độ Di Chuyển
+lang_multi_text.db	PropertyIndex_114_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			声骸技能伤害加成	Echo Skill DMG Bonus	音骸スキルダメージアップ	Tăng Sát Thương Kỹ Năng Echo
+lang_multi_text.db	PropertyIndex_115_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			普攻速度	Basic Attack Speed	通常攻撃速度	Tốc Độ Đánh Thường
+lang_multi_text.db	PropertyIndex_116_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			重击速度	Heavy Attack Speed	重撃速度	Tốc Độ Đánh Mạnh
+lang_multi_text.db	PropertyIndex_117_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/状态累积值1 上限	Status Accumulation Value I Limit	蓄積値1・上限	Giới Hạn Tích Lũy Trạng Thái I
+lang_multi_text.db	PropertyIndex_118_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/状态累积值1	Status Accumulation Value I	蓄積値1	Tích Lũy Trạng Thái I
+lang_multi_text.db	PropertyIndex_119_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/状态累积值2 上限	Status Accumulation Value II Limit	蓄積値2・上限	Giới Hạn Tích Lũy Trạng Thái II
+lang_multi_text.db	PropertyIndex_11_Dec	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			提高常态攻击、共鸣技能、共鸣回路、共鸣解放、变奏技能获得的共鸣能量。	Increases the amount of Resonance Energy gained when using Normal Attack, Resonance Skill, Forte Circuit, and Intro Skill.	基本攻撃、共鳴スキル、共鳴回路、変奏スキルで獲得する共鳴エネルギーアップ	Tăng Năng Lượng Cộng Hưởng nhận được từ Đánh Thường, Kỹ Năng Cộng Hưởng, Mạch Cộng Hưởng, Giải Phóng Cộng Hưởng, Kỹ Năng Biến Tấu.
+lang_multi_text.db	PropertyIndex_11_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			共鸣效率	Energy Regen	共鳴効率	Hiệu Suất Cộng Hưởng
+lang_multi_text.db	PropertyIndex_120_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/状态累积值2	Status Accumulation Value II	蓄積値2	Tích Lũy Trạng Thái II
+lang_multi_text.db	PropertyIndex_121_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/状态累积值3 上限	Status Accumulation Value III Limit	蓄積値3・上限	Giới Hạn Tích Lũy Trạng Thái III
+lang_multi_text.db	PropertyIndex_122_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/状态累积值3	Status Accumulation Value III	蓄積値3	Tích Lũy Trạng Thái III
+lang_multi_text.db	PropertyIndex_123_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/状态累积值4 上限	Status Accumulation Value IV Limit	蓄積値4・上限	Giới Hạn Tích Lũy Trạng Thái IV
+lang_multi_text.db	PropertyIndex_124_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/状态累积值4	Status Accumulation Value IV	蓄積値4	Tích Lũy Trạng Thái IV
+lang_multi_text.db	PropertyIndex_125_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/状态累积值5 上限	Status Accumulation Value V Limit	蓄積値5・上限	Giới Hạn Tích Lũy Trạng Thái V
+lang_multi_text.db	PropertyIndex_126_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/状态累积值5	Status Accumulation Value V	蓄積値5	Tích Lũy Trạng Thái V
+lang_multi_text.db	PropertyIndex_127_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/狂暴上限	Rage Limit	暴走値上限	Giới Hạn Phẫn Nộ
+lang_multi_text.db	PropertyIndex_128_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/狂暴	Rage	暴走値	Phẫn Nộ
+lang_multi_text.db	PropertyIndex_129_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/狂暴恢复	Rage Recovery	暴走値回復	Hồi Phục Phẫn Nộ
+lang_multi_text.db	PropertyIndex_12_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			冷却时间降低	Cooldown Reduction	クールタイム軽減	Giảm Thời Gian Hồi Chiêu
+lang_multi_text.db	PropertyIndex_130_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/空狂暴惩罚时间	Empty Rage Punishment Time	暴走値切れペナルティ時間	Thời Gian Phạt Hết Phẫn Nộ
+lang_multi_text.db	PropertyIndex_131_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/破狂暴倍率	Broken Rage Multiplier	暴走値削減倍率	Hệ Số Phá Phẫn Nộ
+lang_multi_text.db	PropertyIndex_132_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/被破狂暴倍率	Broken Rage Multiplier	暴走値被削減倍率	Hệ Số Phá Phẫn Nộ
+lang_multi_text.db	PropertyIndex_133_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/韧性恢复延迟时间	Resilience Recovery Delay Time	強靭度回復遅延	Thời Gian Trì Hoãn Hồi Phục Kháng Cự
+lang_multi_text.db	PropertyIndex_138_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/弱点积蓄值	Weak Point Accumulator Value		Giá trị Tích lũy Điểm yếu
+lang_multi_text.db	PropertyIndex_138_Name_Soaring	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			翱翔耐力上限	Max Flight STA	ソアーのスタミナ上限	Giới Hạn Thể Lực Bay Lượn
+lang_multi_text.db	PropertyIndex_13_Dec	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			提升共鸣能量的效果。	Boosts the effect of Resonance Energy.	共鳴エネルギー効果アップ	Tăng hiệu quả của Năng Lượng Cộng Hưởng.
+lang_multi_text.db	PropertyIndex_13_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/协奏升华	Concert Sublimation	協奏昇華	Thăng Hoa Hiệp Tấu
+lang_multi_text.db	PropertyIndex_141_Dec	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			提升角色部分技能使目标获得的偏谐值。	Scales up the Off-Tune Level accumulated on targets through certain skills.	一部のスキルによる不協和値の蓄積アップ	Tăng lượng Giá Trị Lệch Nhịp mà một số kỹ năng của nhân vật gây ra cho mục tiêu.
+lang_multi_text.db	PropertyIndex_141_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			偏谐值累积效率	Off-Tune Buildup Rate	不協和値蓄積効率	Hiệu Suất Tích Lũy Giá Trị Lệch Nhịp
+lang_multi_text.db	PropertyIndex_142_Dec	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			谐度破坏增幅可以提升谐度破坏伤害，并提升角色对处于干涉状态目标的收益。	Tune Break Boost increases Tune Break DMG and the DMG dealt to Interfered targets	協和破壊増強は協和破壊ダメージをアップさせ、キャラがインターフェア状態の目標へのダメージがアップする。	Tăng Cường Phá Nhịp có thể tăng sát thương Phá Nhịp, và tăng lợi ích của nhân vật đối với mục tiêu trong trạng thái can thiệp.
+lang_multi_text.db	PropertyIndex_142_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			谐度破坏增幅	Tune Break Boost	協和破壊増強	Tăng Cường Phá Nhịp
+lang_multi_text.db	PropertyIndex_14_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			共鸣技能伤害加成	Resonance Skill DMG Bonus	共鳴スキルダメージアップ	Tăng Sát Thương Kỹ Năng Cộng Hưởng
+lang_multi_text.db	PropertyIndex_15_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			通用伤害加成	General DMG Bonus	全ダメージアップ	Tăng Sát Thương Chung
+lang_multi_text.db	PropertyIndex_16_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			通用受伤减免	General DMG Reduction	全体被ダメージ軽減	Giảm Sát Thương Chung Nhận Vào
+lang_multi_text.db	PropertyIndex_17_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			普攻伤害加成	Basic Attack DMG Bonus	通常攻撃ダメージアップ	Tăng Sát Thương Đánh Thường
+lang_multi_text.db	PropertyIndex_18_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			重击伤害加成	Heavy Attack DMG Bonus	重撃ダメージアップ	Tăng Sát Thương Đánh Mạnh
+lang_multi_text.db	PropertyIndex_19_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			共鸣解放伤害加成	Resonance Liberation DMG Bonus	共鳴解放ダメージアップ	Tăng Sát Thương Giải Phóng Cộng Hưởng
+lang_multi_text.db	PropertyIndex_1_Dec	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			这个是等级	This is your Level	レベル	Đây là Cấp
+lang_multi_text.db	PropertyIndex_1_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			等级	Level	レベル	Cấp
+lang_multi_text.db	PropertyIndex_20_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			变奏技能伤害加成	Intro Skill DMG Bonus	変奏スキルダメージアップ	Tăng Sát Thương Kỹ Năng Biến Tấu
+lang_multi_text.db	PropertyIndex_21_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			物理伤害加成	Physical DMG Bonus	物理ダメージアップ	Tăng Sát Thương Vật Lý
+lang_multi_text.db	PropertyIndex_22_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			冷凝伤害加成	Glacio DMG Bonus	凝縮ダメージアップ	Tăng Sát Thương Ngưng Băng
+lang_multi_text.db	PropertyIndex_23_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			热熔伤害加成	Fusion DMG Bonus	焦熱ダメージアップ	Tăng Sát Thương Hỏa Liệt
+lang_multi_text.db	PropertyIndex_24_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			导电伤害加成	Electro DMG Bonus	電導ダメージアップ	Tăng Sát Thương Điện Từ
+lang_multi_text.db	PropertyIndex_25_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			气动伤害加成	Aero DMG Bonus	気動ダメージアップ	Tăng Sát Thương Khí Động
+lang_multi_text.db	PropertyIndex_26_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			衍射伤害加成	Spectro DMG Bonus	回折ダメージアップ	Tăng Sát Thương Quang Phổ
+lang_multi_text.db	PropertyIndex_27_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			湮灭伤害加成	Havoc DMG Bonus	消滅ダメージアップ	Tăng Sát Thương Hủy Diệt
+lang_multi_text.db	PropertyIndex_28_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			物理伤害抗性	Physical RES	物理ダメージ耐性	Kháng Sát Thương Vật Lý
+lang_multi_text.db	PropertyIndex_29_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			冷凝伤害抗性	Glacio RES	凝縮ダメージ耐性	Kháng Sát Thương Ngưng Băng
+lang_multi_text.db	PropertyIndex_2_AnotherName	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			基础生命	Base HP	基礎HP	HP Cơ Bản
+lang_multi_text.db	PropertyIndex_2_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			生命	HP	HP	Sinh Lực
+lang_multi_text.db	PropertyIndex_30_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			热熔伤害抗性	Fusion RES	焦熱ダメージ耐性	Kháng Sát Thương Hỏa Liệt
+lang_multi_text.db	PropertyIndex_31_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			导电伤害抗性	Electro RES	電導ダメージ耐性	Kháng Sát Thương Điện Từ
+lang_multi_text.db	PropertyIndex_32_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			气动伤害抗性	Aero RES	気動ダメージ耐性	Kháng Sát Thương Khí Động
+lang_multi_text.db	PropertyIndex_33_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			衍射伤害抗性	Spectro RES	回折ダメージ耐性	Kháng Sát Thương Quang Phổ
+lang_multi_text.db	PropertyIndex_34_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			湮灭伤害抗性	Havoc RES	消滅ダメージ耐性	Kháng Sát Thương Hủy Diệt
+lang_multi_text.db	PropertyIndex_35_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			治疗效果加成	Healing Bonus	HP回復効果アップ	Tăng Hiệu Quả Trị Liệu
+lang_multi_text.db	PropertyIndex_36_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			受治疗效果加成	Incoming Healing Bonus	被HP回復効果アップ	Tăng Hiệu Quả Được Trị Liệu
+lang_multi_text.db	PropertyIndex_37_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			物理伤害减免	Physical DMG Reduction	物理被ダメージ軽減	Giảm Sát Thương Vật Lý
+lang_multi_text.db	PropertyIndex_38_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			冷凝伤害减免	Glacio DMG Reduction	凝縮被ダメージ軽減	Giảm Sát Thương Ngưng Băng
+lang_multi_text.db	PropertyIndex_39_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			热熔伤害减免	Fusion DMG Reduction	焦熱被ダメージ軽減	Giảm Sát Thương Hỏa Liệt
+lang_multi_text.db	PropertyIndex_3_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			生命	HP	HP	Sinh Lực
+lang_multi_text.db	PropertyIndex_40_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			导电伤害减免	Electro DMG Reduction	電導被ダメージ軽減	Giảm Sát Thương Điện Từ
+lang_multi_text.db	PropertyIndex_41_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			气动伤害减免	Aero DMG Reduction	気動被ダメージ軽減	Giảm Sát Thương Khí Động
+lang_multi_text.db	PropertyIndex_42_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			衍射伤害减免	Spectro DMG Reduction	回折被ダメージ軽減	Giảm Sát Thương Quang Phổ
+lang_multi_text.db	PropertyIndex_43_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			湮灭伤害减免	Havoc DMG Reduction	消滅被ダメージ軽減	Giảm Sát Thương Hủy Diệt
+lang_multi_text.db	PropertyIndex_44_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/反应增幅系数1	Reaction Amplification Coefficient I	反応増幅係数1	Hệ số Khuếch Đại Phản Ứng I
+lang_multi_text.db	PropertyIndex_45_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/反应增幅系数2	Reaction Amplification Coefficient II	反応増幅係数2	Hệ số Khuếch Đại Phản Ứng II
+lang_multi_text.db	PropertyIndex_46_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/反应增幅系数3	Reaction Amplification Coefficient III	反応増幅係数3	Hệ số Khuếch Đại Phản Ứng III
+lang_multi_text.db	PropertyIndex_47_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/反应增幅系数4	Reaction Amplification Coefficient IV	反応増幅係数4	Hệ số Khuếch Đại Phản Ứng IV
+lang_multi_text.db	PropertyIndex_48_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/反应增幅系数5	Reaction Amplification Coefficient V	反応増幅係数5	Hệ số Khuếch Đại Phản Ứng V
+lang_multi_text.db	PropertyIndex_49_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/反应增幅系数6	Reaction Amplification Coefficient VI	反応増幅係数6	Hệ số Khuếch Đại Phản Ứng VI
+lang_multi_text.db	PropertyIndex_4_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			护盾值	Shield	シールド値	Giá Trị Khiên
+lang_multi_text.db	PropertyIndex_50_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/反应增幅系数7	Reaction Amplification Coefficient VII	反応増幅係数7	Hệ số Khuếch Đại Phản Ứng VII
+lang_multi_text.db	PropertyIndex_51_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/反应增幅系数8	Reaction Amplification Coefficient VIII	反応増幅係数8	Hệ số Khuếch Đại Phản Ứng VIII
+lang_multi_text.db	PropertyIndex_52_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/反应增幅系数9	Reaction Amplification Coefficient IX	反応増幅係数9	Hệ số Khuếch Đại Phản Ứng IX
+lang_multi_text.db	PropertyIndex_53_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/反应增幅系数10	Reaction Amplification Coefficient X	反応増幅係数10	Hệ số Khuếch Đại Phản Ứng X
+lang_multi_text.db	PropertyIndex_54_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/反应增幅系数11	Reaction Amplification Coefficient XI	反応増幅係数11	Hệ số Khuếch Đại Phản Ứng XI
+lang_multi_text.db	PropertyIndex_55_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/反应增幅系数12	Reaction Amplification Coefficient XII	反応増幅係数12	Hệ số Khuếch Đại Phản Ứng XII
+lang_multi_text.db	PropertyIndex_56_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/反应增幅系数13	Reaction Amplification Coefficient XIII	反応増幅係数13	Hệ số Khuếch Đại Phản Ứng XIII
+lang_multi_text.db	PropertyIndex_57_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/反应增幅系数14	Reaction Amplification Coefficient XIV	反応増幅係数14	Hệ số Khuếch Đại Phản Ứng XIV
+lang_multi_text.db	PropertyIndex_58_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/反应增幅系数15	Reaction Amplification Coefficient XV	反応増幅係数15	Hệ số Khuếch Đại Phản Ứng XV
+lang_multi_text.db	PropertyIndex_59_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			共鸣能量上限	Max Resonance Energy	共鳴エネルギー上限	Giới Hạn Năng Lượng Cộng Hưởng
+lang_multi_text.db	PropertyIndex_5_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/破盾倍率	Shield Break Rate	シールド破壊倍率	Tỷ lệ phá khiên
+lang_multi_text.db	PropertyIndex_60_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			共鸣能量	Resonance Energy	共鳴エネルギー	Năng Lượng Cộng Hưởng
+lang_multi_text.db	PropertyIndex_61_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/特殊能量1上限	Forte Gauge I Limit	特殊エネルギー1上限	Giới hạn Năng Lượng Forte I
+lang_multi_text.db	PropertyIndex_62_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/特殊能量1	Forte Gauge I	特殊エネルギー1	Năng Lượng Forte I
+lang_multi_text.db	PropertyIndex_63_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/特殊能量2上限	Forte Gauge II Limit	特殊エネルギー2上限	Giới hạn Năng Lượng Forte II
+lang_multi_text.db	PropertyIndex_64_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/特殊能量2	Forte Gauge II	特殊エネルギー2	Năng Lượng Forte II
+lang_multi_text.db	PropertyIndex_65_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/特殊能量3上限	Forte Gauge III Limit	特殊エネルギー3上限	Giới hạn Năng Lượng Forte III
+lang_multi_text.db	PropertyIndex_66_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/特殊能量3	Forte Gauge III	特殊エネルギー3	Năng Lượng Forte III
+lang_multi_text.db	PropertyIndex_67_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/特殊能量4上限	Forte Gauge IV Limit	特殊エネルギー4上限	Giới hạn Năng Lượng Forte IV
+lang_multi_text.db	PropertyIndex_68_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/特殊能量4	Forte Gauge IV	特殊エネルギー4	Năng Lượng Forte IV
+lang_multi_text.db	PropertyIndex_69_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			耐力上限	Max STA	スタミナ上限	Giới Hạn Thể Lực
+lang_multi_text.db	PropertyIndex_6_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/被破盾倍率	Shield Break Rate	シールド被破壊倍率	Tỷ lệ phá khiên
+lang_multi_text.db	PropertyIndex_70_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			耐力	STA	スタミナ	Thể Lực
+lang_multi_text.db	PropertyIndex_71_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/耐力恢复速度	Stamina Recovery Speed	スタミナ回復速度	Tốc độ Hồi Phục Thể Lực
+lang_multi_text.db	PropertyIndex_72_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/空耐力惩罚时间	Empty Stamina Penalty Time	スタミナ切れペナルティ時間	Thời gian Phạt Hết Thể Lực
+lang_multi_text.db	PropertyIndex_73_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/疾跑耐力消耗速度	Running Stamina Consumption Speed	走りスタミナ消費速度	Tốc độ Tiêu Hao Thể Lực Khi Chạy
+lang_multi_text.db	PropertyIndex_74_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/游泳耐力消耗速度	Swimming Stamina Consumption Speed	泳ぎスタミナ消費速度	Tốc độ Tiêu Hao Thể Lực Khi Bơi
+lang_multi_text.db	PropertyIndex_75_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/快速游泳耐力消耗速度	Fast Swimming Stamina Consumption Speed	全速泳ぎスタミナ消費速度	Tốc độ Tiêu Hao Thể Lực Khi Bơi Nhanh
+lang_multi_text.db	PropertyIndex_76_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/攀爬耐力消耗速度	Climbing Stamina Consumption Speed	登りスタミナ消費速度	Tốc độ Tiêu Hao Thể Lực Khi Leo Trèo
+lang_multi_text.db	PropertyIndex_77_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/协奏能量	Fast Climbing Stamina Consumption	全速登りスタミナ消費速度	Tiêu Hao Thể Lực Khi Leo Trèo Nhanh
+lang_multi_text.db	PropertyIndex_78_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			共振度上限	Max Vibration Strength	共振度上限	Giới Hạn Độ Cộng Hưởng
+lang_multi_text.db	PropertyIndex_79_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			共振度上限	Max Vibration Strength	共振度上限	Giới Hạn Độ Cộng Hưởng
+lang_multi_text.db	PropertyIndex_7_AnotherName	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			基础攻击	Base ATK	基礎攻撃力	Tấn Công Cơ Bản
+lang_multi_text.db	PropertyIndex_7_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			攻击	ATK	攻撃力	Tấn Công
+lang_multi_text.db	PropertyIndex_80_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			共振度恢复速度	Vibration Strength Recovery Rate	共振度回復速度	Tốc Độ Hồi Độ Cộng Hưởng
+lang_multi_text.db	PropertyIndex_81_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			空共振度惩罚时间	Vibration Strength Exhaustion	共振度切れペナルティ時間	Thời Gian Phạt Rỗng Độ Cộng Hưởng
+lang_multi_text.db	PropertyIndex_82_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			破共振度倍率	Vibration Strength Reduction Multiplier	共振度削減倍率	Bội Số Phá Độ Cộng Hưởng
+lang_multi_text.db	PropertyIndex_83_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			被破共振度倍率	Vibration Strength Reduction RES Multiplier	共振度被削減倍率	Bội Số Bị Phá Độ Cộng Hưởng
+lang_multi_text.db	PropertyIndex_84_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			韧性上限	Max Poise	強靭度上限	Giới Hạn Sức Bền
+lang_multi_text.db	PropertyIndex_85_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			韧性	Poise	強靭度	Sức Bền
+lang_multi_text.db	PropertyIndex_86_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			韧性恢复速度	Poise Recovery Rate	強靭度回復速度	Tốc Độ Hồi Sức Bền
+lang_multi_text.db	PropertyIndex_87_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			削韧倍率	Poise Reduction Multiplier	強靭度削減倍率	Bội Số Giảm Sức Bền
+lang_multi_text.db	PropertyIndex_88_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			被削韧倍率	Poise Reduction RES Multiplier	強靭度被削減倍率	Bội Số Bị Giảm Sức Bền
+lang_multi_text.db	PropertyIndex_89_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/属性1能量值	Attribute 1 Energy Value	属性1エネルギー	Năng Lượng Thuộc Tính 1
+lang_multi_text.db	PropertyIndex_8_Dec	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			造成伤害时触发暴击的概率。	The chance of triggering a Critical Hit when dealing damage.	ダメージを与える時、クリティカルヒットになる確率	Xác suất kích hoạt bạo kích khi gây sát thương.
+lang_multi_text.db	PropertyIndex_8_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			暴击	Crit. Rate	クリティカル	Tỷ Lệ Bạo Kích
+lang_multi_text.db	PropertyIndex_90_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/属性2能量值	Attribute 2 Energy Value	属性2エネルギー	Năng Lượng Thuộc Tính 2
+lang_multi_text.db	PropertyIndex_91_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/属性3能量值	Attribute 3 Energy Value	属性3エネルギー	Năng Lượng Thuộc Tính 3
+lang_multi_text.db	PropertyIndex_92_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/属性4能量值	Attribute 4 Energy Value	属性4エネルギー	Năng Lượng Thuộc Tính 4
+lang_multi_text.db	PropertyIndex_93_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/属性5能量值	Attribute 5 Energy Value	属性5エネルギー	Năng Lượng Thuộc Tính 5
+lang_multi_text.db	PropertyIndex_94_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/属性6能量值	Attribute 6 Energy Value	属性6エネルギー	Năng Lượng Thuộc Tính 6
+lang_multi_text.db	PropertyIndex_95_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/特殊伤害倍率	Special Damage Multiplier	特殊ダメージ倍率	Hệ số Sát Thương Đặc Biệt
+lang_multi_text.db	PropertyIndex_96_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/快速攀爬耐力消耗x/帧	Quick Climb Stamina Consumption x/Frame	全速登りスタミナ消費x/フレーム	Tiêu Hao Thể Lực Leo Nhanh x/Khung hình
+lang_multi_text.db	PropertyIndex_97_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/元素属性类型	Elemental Attribute Type	属性タイプ	Loại Thuộc Tính Nguyên Tố
+lang_multi_text.db	PropertyIndex_98_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			dnt/脆弱时间	Vulnerability Time	無力時間	Thời gian Điểm Yếu
+lang_multi_text.db	PropertyIndex_99_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			无视防御率	DEF Penetration Rate	防御力無視率	Tỷ Lệ Bỏ Qua Phòng Ngự
+lang_multi_text.db	PropertyIndex_9_Dec	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			造成伤害触发暴击的伤害倍率。	The DMG Multiplier when triggering a Critical Hit.	クリティカルのダメージ倍率。	Bội số sát thương khi gây sát thương kích hoạt bạo kích.
+lang_multi_text.db	PropertyIndex_9_Name	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			暴击伤害	Crit. DMG	クリティカルダメージ	Sát Thương Bạo Kích
+lang_multi_text.db	RoleTag1	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			生存治疗	Support and Healer	耐久・回復	Sinh Tồn Trị Liệu
+lang_multi_text.db	RoleTag10	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			凝滞	Stagnation	停滞	Đình Trệ
+lang_multi_text.db	RoleTag10_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			可以降低一定范围内目标的行动速度	Slows down targets within a certain range	一定範囲内の敵の行動速度を低下させる	Có thể giảm tốc độ hành động của mục tiêu trong phạm vi nhất định
+lang_multi_text.db	RoleTag11	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			共鸣解放充能	Resonance Liberation Regeneration	共鳴解放チャージ	Nạp Giải Phóng Cộng Hưởng
+lang_multi_text.db	RoleTag11_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			可以为队伍内特定角色回复共鸣能量	Restores the Resonance Energy of a specific Resonator in the team	特定のチームメイトの共鳴エネルギーをチャージできる	Có thể hồi năng lượng Cộng Hưởng cho nhân vật cụ thể trong đội
+lang_multi_text.db	RoleTag12	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			共振摧毁	Vibration Strength Reduction	共振度削り	Phá Hủy Cộng Hưởng
+lang_multi_text.db	RoleTag12_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			可以更有效地削减目标的共振度	Reduces the Vibration Strength of targets more effectively	より効率的に敵の共振度を削れる	Có thể giảm độ cộng hưởng của mục tiêu hiệu quả hơn
+lang_multi_text.db	RoleTag13	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			伤害加深	DMG Amplification	ダメージブースト	Tăng Sát Thương
+lang_multi_text.db	RoleTag13_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			可以使队伍中特定角色伤害加深	Provides DMG Amplification for a specific Resonator in the team	特定のチームメイトにダメージブースト効果を付与する	Có thể làm sát thương của nhân vật cụ thể trong đội tăng lên
+lang_multi_text.db	RoleTag14	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			湮灭伤害加深	Havoc DMG Amplification	消滅ダメージブースト	Tăng Sát Thương Hủy Diệt
+lang_multi_text.db	RoleTag14_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			可以使队伍中特定角色湮灭伤害加深	Provides Havoc DMG Amplification for a specific Resonator in the team	特定のチームメイトに消滅ダメージブースト効果を付与する	Có thể làm sát thương Hủy Diệt của nhân vật cụ thể trong đội tăng lên
+lang_multi_text.db	RoleTag15	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			气动伤害加深	Aero DMG Amplification	気動ダメージブースト	Tăng Sát Thương Khí Động
+lang_multi_text.db	RoleTag15_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			可以使队伍中特定角色气动伤害加深	Provides Aero DMG Amplification for a specific Resonator in the team	特定のチームメイトに気動ダメージブースト効果を付与する	Có thể làm sát thương Khí Động của nhân vật cụ thể trong đội tăng lên
+lang_multi_text.db	RoleTag16	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			导电伤害加深	Electro DMG Amplification	電導ダメージブースト	Tăng Sát Thương Điện Từ
+lang_multi_text.db	RoleTag16_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			可以使队伍中特定角色导电伤害加深	Provides Electro DMG Amplification for a specific Resonator in the team	特定のチームメイトに電導ダメージブースト効果を付与する	Có thể làm sát thương Điện Từ của nhân vật cụ thể trong đội tăng lên
+lang_multi_text.db	RoleTag17	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			热熔伤害加深	Fusion DMG Amplification	焦熱ダメージブースト	Tăng Sát Thương Hỏa Liệt
+lang_multi_text.db	RoleTag17_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			可以使队伍中特定角色热熔伤害加深	Provides Fusion DMG Amplification for a specific Resonator in the team	特定のチームメイトに焦熱ダメージブースト効果を付与する	Có thể làm sát thương Hỏa Liệt của nhân vật cụ thể trong đội tăng lên
+lang_multi_text.db	RoleTag18	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			冷凝伤害加深	Glacio DMG Amplification	凝縮ダメージブースト	Tăng Sát Thương Ngưng Băng
+lang_multi_text.db	RoleTag18_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			可以使队伍中特定角色冷凝伤害加深	Provides Glacio DMG Amplification for a specific Resonator in the team	特定のチームメイトに凝縮ダメージブースト効果を付与する	Có thể làm sát thương Ngưng Băng của nhân vật cụ thể trong đội tăng lên
+lang_multi_text.db	RoleTag19	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			衍射伤害加深	Spectro DMG Amplification	回折ダメージブースト	Tăng Sát Thương Quang Phổ
+lang_multi_text.db	RoleTag19_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			可以使队伍中特定角色衍射伤害加深	Provides Spectro DMG Amplification for a specific Resonator in the team	特定のチームメイトに回折ダメージブースト効果を付与する	Có thể làm sát thương Quang Phổ của nhân vật cụ thể trong đội tăng lên
+lang_multi_text.db	RoleTag1_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			可以提升队伍的生存能力	Improves team survivability	チームの耐久力を向上させる	Có thể tăng khả năng sinh tồn của đội
+lang_multi_text.db	RoleTag2	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			主力输出	Main Damage Dealer	メインアタッカー	Sát Thương Chính
+lang_multi_text.db	RoleTag20	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			普攻伤害加深	Basic Attack DMG Amplification	通常攻撃ダメージブースト	Tăng Sát Thương Đánh Thường
+lang_multi_text.db	RoleTag20_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			可以使队伍中特定角色普攻伤害加深	Provides Basic Attack DMG Amplification for a specific Resonator in the team	特定のチームメイトに通常攻撃ダメージブースト効果を付与する	Có thể làm sát thương Đánh Thường của nhân vật cụ thể trong đội tăng lên
+lang_multi_text.db	RoleTag21	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			重击伤害加深	Heavy Attack DMG Amplification	重撃ダメージブースト	Tăng Sát Thương Đánh Mạnh
+lang_multi_text.db	RoleTag21_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			可以使队伍中特定角色重击伤害加深	Provides Heavy Attack DMG Amplification for a specific Resonator in the team	特定のチームメイトに重撃ダメージブースト効果を付与する	Có thể làm sát thương Đánh Mạnh của nhân vật cụ thể trong đội tăng lên
+lang_multi_text.db	RoleTag22	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			共鸣技能伤害加深	Resonance Skill DMG Amplification	共鳴スキルダメージブースト	Tăng Sát Thương Kỹ Năng Cộng Hưởng
+lang_multi_text.db	RoleTag22_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			可以使队伍中特定角色共鸣技能伤害加深	Provides Resonance Skill DMG Amplification for a specific Resonator in the team	特定のチームメイトに共鳴スキルダメージブースト効果を付与する	Có thể làm sát thương Kỹ Năng Cộng Hưởng của nhân vật cụ thể trong đội tăng lên
+lang_multi_text.db	RoleTag23	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			共鸣解放伤害加深	Resonance Liberation DMG Amplification	共鳴解放ダメージブースト	Tăng Sát Thương Giải Phóng Cộng Hưởng
+lang_multi_text.db	RoleTag23_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			可以使队伍中特定角色共鸣解放伤害加深	Provides Resonance Liberation DMG Amplification for a specific Resonator in the team	特定のチームメイトに共鳴解放ダメージブースト効果を付与する	Có thể làm sát thương Giải Phóng Cộng Hưởng của nhân vật cụ thể trong đội tăng lên
+lang_multi_text.db	RoleTag24	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			风蚀	Aero Erosion	風蝕効果	Phong Thực
+lang_multi_text.db	RoleTag24_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			可以运用风蚀效应	Utilizes Aero Erosion for combat advantage	風蝕効果を付与できる	Có thể ứng dụng hiệu ứng Phong Thực
+lang_multi_text.db	RoleTag25	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			电磁	Electro Flare	電磁効果	Điện Từ
+lang_multi_text.db	RoleTag25_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			可以运用电磁效应	Utilizes Electro Flare for combat advantage	電磁効果を付与できる	Có thể ứng dụng hiệu ứng Điện Từ
+lang_multi_text.db	RoleTag26	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			霜渐	Glacio Chafe	結霜効果	Sương Tiệm
+lang_multi_text.db	RoleTag26_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			可以运用霜渐效应	Utilizes Glacio Chafe for combat advantage	結霜効果を付与できる	Có thể ứng dụng hiệu ứng Sương Tiệm
+lang_multi_text.db	RoleTag27	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			聚爆	Fusion Burst	斉爆効果	Tụ Bạo
+lang_multi_text.db	RoleTag27_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			可以运用聚爆效应	Utilizes Fusion Burst for combat advantage	斉爆効果を付与できる	Có thể ứng dụng hiệu ứng Tụ Bạo
+lang_multi_text.db	RoleTag28	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			光噪	Spectro Frazzle	騒光効果	Quang Táo
+lang_multi_text.db	RoleTag28_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			可以运用光噪效应	Utilizes Spectro Frazzle for combat advantage	騒光効果を付与できる	Có thể ứng dụng hiệu ứng Quang Táo
+lang_multi_text.db	RoleTag29	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			虚湮	Havoc Bane	虚滅効果	Hư Nhân
+lang_multi_text.db	RoleTag29_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			可以运用虚湮效应	Utilizes Havoc Bane for combat advantage	虚滅効果を付与できる	Có thể ứng dụng hiệu ứng Hư Nhân
+lang_multi_text.db	RoleTag2_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			拥有较强的输出能力	Powerful damage dealer	高いダメージを出せる	Sở hữu khả năng gây sát thương mạnh
+lang_multi_text.db	RoleTag3	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			快速协奏	Concerto Efficiency	協奏効率	Hiệp Tấu Nhanh
+lang_multi_text.db	RoleTag30	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			抗打断	Interruption Resistance Boost	中断耐性	Kháng Gián Đoạn
+lang_multi_text.db	RoleTag30_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			可以提升队伍内特定角色的抗打断能力	Boosts the interruption resistance of a specific Resonator in the team	特定のチームメイトに中断耐性アップ効果を付与する	Có thể nâng cao khả năng Kháng Gián Đoạn cho nhân vật cụ thể trong đội
+lang_multi_text.db	RoleTag31	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			协同攻击伤害加深	Coordinated Attack DMG Amplification	協同攻撃ダメージブースト	Tăng Sát Thương Tấn Công Phối Hợp
+lang_multi_text.db	RoleTag31_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			可以使队伍中特定角色协同攻击伤害加深	Provides Coordinated Attack DMG Amplification for a specific Resonator in the team	特定のチームメイトに協同攻撃ダメージブースト効果を付与する	Có thể làm sát thương Tấn Công Phối Hợp của nhân vật cụ thể trong đội tăng lên
+lang_multi_text.db	RoleTag32	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			声骸技能伤害加深	Echo Skill DMG Amplification	音骸スキルダメージブースト	Tăng Sát Thương Kỹ Năng Echo
+lang_multi_text.db	RoleTag32_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			可以使队伍中特定角色声骸技能伤害加深	Provides Echo Skill DMG Amplification for a specific Resonator in the team	特定のチームメイトに音骸スキルダメージブースト効果を付与する	Có thể làm sát thương Kỹ Năng Echo của nhân vật cụ thể trong đội tăng lên
+lang_multi_text.db	RoleTag33	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			震谐响应	Tune Rupture Response	震撃協和レスポンス	Hưởng Ứng Chấn Hài
+lang_multi_text.db	RoleTag33_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			可以对目标造成震谐伤害	Deals Tune Rupture DMG to targets	震撃協和ダメージを与えることができる	Có thể gây sát thương Chấn Hài cho mục tiêu
+lang_multi_text.db	RoleTag34	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			谐度破坏增幅	Tune Break Boost	協和破壊増強	Tăng Cường Phá Vỡ Độ Hài Hòa
+lang_multi_text.db	RoleTag34_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			可以提升队伍内特定角色的谐度破坏增幅	Provides additional Tune Break Boost for a specific Resonator in the team	特定のチームメイトの協和破壊増強をアップできる	Có thể tăng mức độ Phá Vỡ Độ Hài Hòa cho nhân vật cụ thể trong đội
+lang_multi_text.db	RoleTag35	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			偏谐值累积效率	Off-Tune Buildup Efficiency	不協和値蓄積効率	Hiệu Suất Tích Lũy Giá Trị Lệch Hài Hòa
+lang_multi_text.db	RoleTag35_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			可以提升队伍内特定角色的偏谐值累积效率	Boosts the Off-Tune Buildup Rate for a specific Resonator in the team	特定のチームメイトの不協和値蓄積効率をアップできる	Có thể tăng hiệu suất Tích Lũy Giá Trị Lệch Hài Hòa cho nhân vật cụ thể trong đội
+lang_multi_text.db	RoleTag36	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			集谐响应	Tune Strain Response	密集協和レスポンス	Hưởng Ứng Tập Hài
+lang_multi_text.db	RoleTag36_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			根据自身谐度破坏增幅对目标造成最终伤害提升	Gains total DMG increase from Tune Break Boost	自身の協和破壊増強に基づいて、与える最終ダメージアップ	Tăng sát thương cuối cùng gây ra cho mục tiêu dựa trên Tăng Cường Phá Vỡ Độ Hài Hòa của bản thân
+lang_multi_text.db	RoleTag37	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			声骸技能伤害	Echo Skill DMG	音骸スキルダメージ	Sát Thương Kỹ Năng Echo
+lang_multi_text.db	RoleTag37_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			声骸技能伤害较高	Deals higher Echo Skill DMG	音骸スキルダメージが高い	Sát thương Kỹ Năng Echo khá cao
+lang_multi_text.db	RoleTag38	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			骇破响应	Hack Response	ハックレスポンス	Phản ứng Hack Phá
+lang_multi_text.db	RoleTag38_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			可以对目标造成骇破伤害	Deals Hack DMG to targets.	ハックダメージを与えることができる	Có thể gây sát thương Hại Phá cho mục tiêu
+lang_multi_text.db	RoleTag3_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			拥有较高的协奏效率	Quick concerto energy regeneration	高い協奏効率を持つ	Sở hữu hiệu suất Hiệp Tấu cao
+lang_multi_text.db	RoleTag4	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			普攻伤害	Basic Attack DMG	通常攻撃ダメージ	Sát Thương Đánh Thường
+lang_multi_text.db	RoleTag4_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			普攻伤害较高	Deals higher Basic Attack DMG	通常攻撃のダメージが高い	Sát thương Đánh Thường khá cao
+lang_multi_text.db	RoleTag5	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			重击伤害	Heavy Attack DMG	重撃ダメージ	Sát Thương Đánh Mạnh
+lang_multi_text.db	RoleTag5_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			重击伤害较高	Deals higher Heavy Attack DMG	重撃のダメージが高い	Sát thương Đánh Mạnh khá cao
+lang_multi_text.db	RoleTag6	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			共鸣技能伤害	Resonance Skill DMG	共鳴スキルダメージ	Sát Thương Kỹ Năng Cộng Hưởng
+lang_multi_text.db	RoleTag6_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			共鸣技能伤害较高	Deals higher Resonance Skill DMG	共鳴スキルのダメージが高い	Sát thương Kỹ Năng Cộng Hưởng khá cao
+lang_multi_text.db	RoleTag7	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			共鸣解放伤害	Resonance Liberation Damage	共鳴解放ダメージ	Sát Thương Giải Phóng Cộng Hưởng
+lang_multi_text.db	RoleTag7_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			共鸣解放伤害较高	Deals higher Resonance Liberation DMG	共鳴解放のダメージが高い	Sát thương Giải Phóng Cộng Hưởng khá cao
+lang_multi_text.db	RoleTag8	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			牵引	Traction	牽引	Hấp Dẫn
+lang_multi_text.db	RoleTag8_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			可以将一定范围内的目标牵引至特定位置	Pulls targets within range towards a specific position	一定範囲内の敵を特定の位置まで牽引できる	Có thể kéo mục tiêu trong phạm vi nhất định đến vị trí chỉ định
+lang_multi_text.db	RoleTag9	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			协同攻击	Coordinated Attack	協同攻撃	Tấn Công Phối Hợp
+lang_multi_text.db	RoleTag9_TagDesc	3.4	Hội thoại/Cốt truyện	Nhân vật/Thuộc tính			拥有较强的协同攻击能力	Excels at Coordinated Attacks	特定の状況で協同攻撃を行う	Sở hữu khả năng Tấn Công Phối Hợp mạnh
+lang_property.db	1	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			等级	Level	レベル	Cấp
+lang_property.db	10	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			造成伤害时触发暴击的概率。	The chance of triggering a critical hit when dealing damage.	ダメージを与えた時、クリティカルを出す確率。	Xác suất kích hoạt <ano=Crit. Hit>Bạo Kích</ano> khi gây sát thương.
+lang_property.db	100	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/特殊伤害倍率		特殊ダメージ倍率	Hệ Số Sát Thương <ano=Valuables>Đặc Biệt</ano>
+lang_property.db	101	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/快速攀爬耐力消耗x/帧		高速クライムスタミナ消費ｘ/フレイム	Tiêu Hao <ano=Stamina>Thể Lực</ano> Khi Leo Trèo Nhanh x/khung
+lang_property.db	102	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/元素属性类型		元素属性タイプ	Loại Thuộc Tính <ano=Element>Nguyên tố</ano>
+lang_property.db	103	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/脆弱时间		ウィーク時間	Thời Gian Yếu Điểm
+lang_property.db	104	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			无视防御率	Defense Penetration Ratio	防御無視率	Tỷ Lệ Bỏ Qua <ano=Defense>Phòng Ngự</ano>
+lang_property.db	105	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/无视物理伤害抗性		物理ダメージ抵抗無視	Bỏ Qua Kháng <ano=Physical DMG>Sát Thương Vật Lý</ano>
+lang_property.db	106	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/无视属性1伤害抗性		属性１ダメージ抵抗無視	Bỏ Qua Kháng Sát Thương <ano=Element>Nguyên tố</ano> 1
+lang_property.db	107	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/无视属性2伤害抗性		属性２ダメージ抵抗無視	Bỏ Qua Kháng Sát Thương <ano=Element>Nguyên tố</ano> 2
+lang_property.db	108	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/无视属性3伤害抗性		属性３ダメージ抵抗無視	Bỏ Qua Kháng Sát Thương <ano=Element>Nguyên tố</ano> 3
+lang_property.db	109	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/无视属性4伤害抗性		属性４ダメージ抵抗無視	Bỏ Qua Kháng Sát Thương <ano=Element>Nguyên tố</ano> 4
+lang_property.db	11	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			暴击伤害	Critical DMG	クリティカルダメージ	<ano=Crit. DMG>Sát Thương Bạo Kích</ano>
+lang_property.db	110	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/无视属性5伤害抗性		属性５ダメージ抵抗無視	Bỏ Qua Kháng Sát Thương <ano=Element>Nguyên tố</ano> 5
+lang_property.db	111	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/无视属性6伤害抗性		属性６ダメージ抵抗無視	Bỏ Qua Kháng Sát Thương <ano=Element>Nguyên tố</ano> 6
+lang_property.db	112	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/技能状态韧性系数		スキル状態忍耐力	Hệ Số Độ Bền Trạng Thái <ano=skill>kỹ năng</ano>
+lang_property.db	113	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/攀爬跳跃消耗的耐力（一次）		クライムで跳躍スタミナ消費（1回）	<ano=Stamina>Thể Lực</ano> Tiêu Hao Khi Nhảy Leo Trèo (mỗi lần)
+lang_property.db	114	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/滑翔耐力消耗速度x/秒		落下状態スタミナ消費速度ｘ/秒	<ano=Speed>Tốc độ</ano> Tiêu Hao <ano=Stamina>Thể Lực</ano> Khi <ano=Glide>Lượn</ano> x/giây
+lang_property.db	115	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/质量		質量	Khối Lượng
+lang_property.db	116	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/摩擦力系数		摩擦係数	Hệ Số Ma Sát
+lang_property.db	117	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/重力系数		重力係数	Hệ Số <ano=Gravity>Trọng Lực</ano>
+lang_property.db	118	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			移动速率	Movement Speed	移動スピード	Tốc Độ Di Chuyển
+lang_property.db	119	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			声骸技能伤害加成	Wutrelic skill DMG bonus	ファントムダメージ加算	<ano=Echo Skill DMG Bonus>Tăng Sát Thương Kỹ Năng Echo</ano>
+lang_property.db	12	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			造成伤害触发暴击的伤害倍率。	The DMG Multiplier when dealing a critical hit.	クリティカルを出す時、ダメージの倍数。	Hệ số sát thương khi gây sát thương kích hoạt <ano=Crit. Hit>Bạo Kích</ano>.
+lang_property.db	120	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			普攻速度	Normal Attack Speed	通常攻撃速度	<ano=Speed>Tốc độ</ano> <ano=Normal Attack>Đánh Thường</ano>
+lang_property.db	121	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			重击速度	Charged Attack Speed	重攻撃速度	<ano=Speed>Tốc độ</ano> <ano=Heavy Attack>Đánh Mạnh</ano>
+lang_property.db	122	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/状态累积值1 上限		状態蓄積値１上限	Giới Hạn Giá Trị Tích Lũy Trạng Thái 1
+lang_property.db	123	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/状态累积值1		状態蓄積値１	Giá Trị Tích Lũy Trạng Thái 1
+lang_property.db	124	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/状态累积值2 上限		状態蓄積値２上限	Giới Hạn Giá Trị Tích Lũy Trạng Thái 2
+lang_property.db	125	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/状态累积值2		状態蓄積値２	Giá Trị Tích Lũy Trạng Thái 2
+lang_property.db	126	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/状态累积值3 上限		状態蓄積値３上限	Giới Hạn Giá Trị Tích Lũy Trạng Thái 3
+lang_property.db	127	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/状态累积值3		状態蓄積値３	Giá Trị Tích Lũy Trạng Thái 3
+lang_property.db	128	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/状态累积值4 上限		状態蓄積値４上限	Giới Hạn Giá Trị Tích Lũy Trạng Thái 4
+lang_property.db	129	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/状态累积值4		状態蓄積値４	Giá Trị Tích Lũy Trạng Thái 4
+lang_property.db	13	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			防御	Defense	防御力	<ano=Defense>Phòng Ngự</ano>
+lang_property.db	130	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/状态累积值5 上限		状態蓄積値５上限	Giới Hạn Giá Trị Tích Lũy Trạng Thái 5
+lang_property.db	131	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/状态累积值5		状態蓄積値５	Giá Trị Tích Lũy Trạng Thái 5
+lang_property.db	132	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/狂暴上限		狂化上限	Giới Hạn <ano=Rampage>Cuồng Bạo</ano>
+lang_property.db	133	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/狂暴		狂化	<ano=Rampage>Cuồng Bạo</ano>
+lang_property.db	134	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/狂暴恢复		狂化復帰	<ano=Recovery>Hồi phục</ano> <ano=Rampage>Cuồng Bạo</ano>
+lang_property.db	135	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/空狂暴惩罚时间		狂化使い切るペナルティ	Thời Gian Phạt Khi Cạn <ano=Rampage>Cuồng Bạo</ano>
+lang_property.db	136	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/破狂暴倍率		狂化ブレイク倍率	Hệ Số Phá <ano=Rampage>Cuồng Bạo</ano>
+lang_property.db	137	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/被破狂暴倍率		狂化被ブレイク倍率	Hệ Số Bị Phá <ano=Rampage>Cuồng Bạo</ano>
+lang_property.db	138	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/韧性恢复延迟时间			test/Thời gian trễ hồi phục Độ Bền
+lang_property.db	139	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			等级	Level	レベル	Cấp
+lang_property.db	14	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			共鸣效率	Resonance Efficiency	共鳴効率	<ano=Energy Regen>Hiệu Suất Cộng Hưởng</ano>
+lang_property.db	140	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			生命	HP	ライフ	Sinh Lực
+lang_property.db	141	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			生命	HP	ライフ	Sinh Lực
+lang_property.db	142	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			护盾值	Shield	シールド値	<ano=Shield>Khiên</ano>
+lang_property.db	143	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/破盾倍率	DEF Down Multiplier	シールドブレイク倍率	Hệ Số Phá <ano=shield>khiên</ano>
+lang_property.db	144	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/被破盾倍率	Passive DEF Down Multiplier	被シールドブレイク倍率	Hệ Số Bị Phá <ano=shield>khiên</ano>
+lang_property.db	145	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			攻击	Attack	攻撃	Tấn Công
+lang_property.db	146	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			暴击	Crit. Rate	クリティカル	Tỷ Lệ <ano=Crit. Hit>Bạo Kích</ano>
+lang_property.db	147	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			暴击伤害	Critical DMG	クリティカルダメージ	<ano=Crit. DMG>Sát Thương Bạo Kích</ano>
+lang_property.db	148	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			防御	Defense	防御力	<ano=Defense>Phòng Ngự</ano>
+lang_property.db	149	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			共鸣效率	Resonance Efficiency	共鳴効率	<ano=Energy Regen>Hiệu Suất Cộng Hưởng</ano>
+lang_property.db	15	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			提高每次使用普攻、共鸣技能、战斗异能、共鸣能量获得的共鸣解放能量。	Increases the amount of resonance liberation energy gained per use of Punch, Resonance Skill, Combat Ability, and Resonance Energy.	通常攻撃、共鳴スキル、戦闘異能を実行し、共鳴エネルギーを消費する時、\n獲得する共鳴解放エネルギーを増加する比率。	Tăng lượng <ano=energy>năng lượng</ano> <ano=Resonance Liberation>Giải Phóng Cộng Hưởng</ano> nhận được mỗi khi sử dụng <ano=Normal Attack>Đánh Thường</ano>, <ano=Resonance Skill>Kỹ Năng Cộng Hưởng</ano>, <ano=Combat Ability>Dị năng chiến đấu</ano> và <ano=Resonance Energy>Năng lượng Cộng hưởng</ano>.
+lang_property.db	150	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			冷却时间降低	Cooldown Reduction	クールダウン低減	Giảm Thời Gian Hồi Chiêu
+lang_property.db	151	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/协奏升华	Concerto Sublimation	共鳴昇華	<ano=Concerto>Hiệp tấu</ano> thăng hoa
+lang_property.db	152	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			共鸣技能伤害加成	Resonance skill damage bonus	共鳴スキルダメージ加算	Tăng Sát Thương <ano=Resonance Skill>Kỹ Năng Cộng Hưởng</ano>
+lang_property.db	153	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			通用伤害加成	General DMG bonus	基本ダメージ加算	Tăng Sát Thương Cơ Bản
+lang_property.db	154	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			通用受伤减免	General Injury Reduction	基本被ダメージ低減	Giảm Sát Thương Phải Chịu Cơ Bản
+lang_property.db	155	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			普攻伤害加成	Normal Attack bonus	通常攻撃ダメージ加算	Tăng <ano=Normal Attack>Sát Thương Đánh Thường</ano>
+lang_property.db	156	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			蓄力攻击伤害加成	Charged Attack bonus	チャージ攻撃ダメージ加算	Tăng Sát Thương <ano=Charged Attack>Đòn Tích Lực</ano>
+lang_property.db	157	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			共鸣解放伤害加成	Resonance liberation DMG bonus	共鳴解放ダメージ加算	Tăng Sát Thương <ano=Resonance Liberation>Giải Phóng Cộng Hưởng</ano>
+lang_property.db	158	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			连携技能伤害加成	Combo skill DMG bonus	連携スキルダメージ加算	Tăng Sát Thương <ano=Coordinated Attack>Kỹ Năng Liên Kết</ano>
+lang_property.db	159	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			物理伤害加成	Physical DMG bonus	物理ダメージ加算	Tăng <ano=Physical DMG>Sát Thương Vật Lý</ano>
+lang_property.db	16	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			冷却时间降低	Cooldown Reduction	クールダウン低減	Giảm Thời Gian Hồi Chiêu
+lang_property.db	160	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			冷凝伤害加成	Frozen DMG bonus	凝縮ダメージ加算	Tăng Sát Thương <ano=Glacio>Ngưng Băng</ano>
+lang_property.db	161	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			热熔伤害加成	Smelt DMG bonus	溶解ダメージ加算	Tăng Sát Thương <ano=Fusion>Hỏa Liệt</ano>
+lang_property.db	162	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			导电伤害加成	Conduction DMG bonus	伝導ダメージ加算	Tăng Sát Thương <ano=Electro>Điện Từ</ano>
+lang_property.db	163	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			气动伤害加成	Aerodynamic DMG bonus	気動ダメージ加算	Tăng <ano=Aero>Sát Thương Khí Động</ano>
+lang_property.db	164	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			衍射伤害加成	Diffusion DMG bonus	回折ダメージ加算	Tăng Sát Thương <ano=Spectro>Quang Phổ</ano>
+lang_property.db	165	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			解离伤害加成	Dissociation DMG bonus	支離ダメージ加算	Tăng <ano=Havoc>Sát Thương Hủy Diệt</ano>
+lang_property.db	166	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			物理伤害抗性	Physical DMG Resistance	物理ダメージ抵抗	Kháng <ano=Physical DMG>Sát Thương Vật Lý</ano>
+lang_property.db	167	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			冷凝伤害抗性	Frozen DMG Resistance	凝縮ダメージ抵抗	Kháng Sát Thương <ano=Glacio>Ngưng Băng</ano>
+lang_property.db	168	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			热熔伤害抗性	Smelt DMG Resistance	溶解ダメージ抵抗	Kháng Sát Thương <ano=Fusion>Hỏa Liệt</ano>
+lang_property.db	169	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			导电伤害抗性	Conduction DMG Resistance	伝導ダメージ抵抗	Kháng Sát Thương <ano=Electro>Điện Từ</ano>
+lang_property.db	17	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/协奏升华	Concerto Sublimation	協奏昇華	<ano=Concerto>Hiệp tấu thăng hoa</ano>
+lang_property.db	170	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			气动伤害抗性	Aerodynamic DMG Resistance	気動ダメージ抵抗	Kháng <ano=Aero>Sát Thương Khí Động</ano>
+lang_property.db	171	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			衍射伤害抗性	Diffusion DMG Resistance	回折ダメージ抵抗	Kháng Sát Thương <ano=Spectro>Quang Phổ</ano>
+lang_property.db	172	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			解离伤害抗性	Dissociation DMG Resistance	支離ダメージ抵抗	Kháng <ano=Havoc>Sát Thương Hủy Diệt</ano>
+lang_property.db	173	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			治疗效果加成	Healing Effect bonus	治療効果加算	Tăng Hiệu Quả <ano=treatment>Điều Trị</ano>
+lang_property.db	174	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			受治疗效果加成	Recovery Effect bonus	治療受け効果加算	Tăng Hiệu Quả Nhận <ano=treatment>Điều Trị</ano>
+lang_property.db	175	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			物理伤害减免	Physical DMG Immunity	物理ダメージカット	<ano=DMG Reduction>Giảm Sát Thương</ano> <ano=Physical DMG>Vật Lý</ano>
+lang_property.db	176	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			冷凝伤害减免	Element 1 DMG Immunity	属性１ダメージカット	<ano=DMG Reduction>Giảm Sát Thương</ano> <ano=Glacio>Ngưng Băng</ano>
+lang_property.db	177	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			热熔伤害减免	Element 2 DMG Immunity	属性２ダメージカット	<ano=DMG Reduction>Giảm Sát Thương</ano> <ano=Fusion>Hỏa Liệt</ano>
+lang_property.db	178	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			导电伤害减免	Element 3 DMG Immunity	属性３ダメージカット	<ano=DMG Reduction>Giảm Sát Thương</ano> <ano=Electro>Điện Từ</ano>
+lang_property.db	179	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			气动伤害减免	Element 4 DMG Immunity	属性４ダメージカット	<ano=DMG Reduction>Giảm Sát Thương</ano> <ano=Aero>Khí Động</ano>
+lang_property.db	18	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			提升共鸣能量的效果。	Boosts the effect of resonant energy.	共鳴エネルギーの効果を強化。	Tăng hiệu quả của <ano=Resonance Energy>Năng lượng Cộng hưởng</ano>.
+lang_property.db	180	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			衍射伤害减免	Element 5 DMG Immunity	属性５ダメージカット	<ano=DMG Reduction>Giảm Sát Thương</ano> <ano=Spectro>Quang Phổ</ano>
+lang_property.db	181	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			解离伤害减免	Element 6 DMG Immunity	属性６ダメージカット	<ano=DMG Reduction>Giảm Sát Thương</ano> <ano=Havoc>Hủy Diệt</ano>
+lang_property.db	182	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/反应增幅系数1	Reaction increase factor 1	反応増幅係数１	Hệ Số <ano=Buff>Tăng Cường</ano> Phản Ứng 1
+lang_property.db	183	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/反应增幅系数2	Reaction increase factor 2	反応増幅係数２	Hệ Số <ano=Buff>Tăng Cường</ano> Phản Ứng 2
+lang_property.db	184	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/反应增幅系数3	Reaction increase factor 3	反応増幅係数３	Hệ Số <ano=Buff>Tăng Cường</ano> Phản Ứng 3
+lang_property.db	185	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/反应增幅系数4	Reaction increase factor 4	反応増幅係数４	Hệ Số <ano=Buff>Tăng Cường</ano> Phản Ứng 4
+lang_property.db	186	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/反应增幅系数5	Reaction increase factor 5	反応増幅係数５	Hệ Số <ano=Buff>Tăng Cường</ano> Phản Ứng 5
+lang_property.db	187	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/反应增幅系数6	Reaction increase factor 6	反応増幅係数６	Hệ Số <ano=Buff>Tăng Cường</ano> Phản Ứng 6
+lang_property.db	188	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/反应增幅系数7	Reaction increase factor 7	反応増幅係数７	Hệ Số <ano=Buff>Tăng Cường</ano> Phản Ứng 7
+lang_property.db	189	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/反应增幅系数8	Reaction increase factor 8	反応増幅係数８	Hệ Số <ano=Buff>Tăng Cường</ano> Phản Ứng 8
+lang_property.db	19	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			共鸣技能伤害加成	Resonance skill damage bonus	共鳴スキルダメージ加算	Tăng Sát Thương <ano=Resonance Skill>Kỹ Năng Cộng Hưởng</ano>
+lang_property.db	190	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/反应增幅系数9	Reaction increase factor 9	反応増幅係数９	Hệ Số <ano=Buff>Tăng Cường</ano> Phản Ứng 9
+lang_property.db	191	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/反应增幅系数10	Reaction increase factor 10	反応増幅係数１０	Hệ Số <ano=Buff>Tăng Cường</ano> Phản Ứng 10
+lang_property.db	192	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/反应增幅系数11	Reaction increase factor 11	反応増幅係数１１	Hệ Số <ano=Buff>Tăng Cường</ano> Phản Ứng 11
+lang_property.db	193	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/反应增幅系数12	Reaction increase factor 12	反応増幅係数１２	Hệ Số <ano=Buff>Tăng Cường</ano> Phản Ứng 12
+lang_property.db	194	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/反应增幅系数13	Reaction increase factor 13	反応増幅係数１３	Hệ Số <ano=Buff>Tăng Cường</ano> Phản Ứng 13
+lang_property.db	195	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/反应增幅系数14	Reaction increase factor 14	反応増幅係数１４	Hệ Số <ano=Buff>Tăng Cường</ano> Phản Ứng 14
+lang_property.db	196	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/反应增幅系数15	Reaction increase factor 15	反応増幅係数１５	Hệ Số <ano=Buff>Tăng Cường</ano> Phản Ứng 15
+lang_property.db	197	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			共鸣能量上限	Resonance energy limit	共鳴エネルギー上限	Giới Hạn <ano=Resonance Energy>Năng Lượng Cộng Hưởng</ano>
+lang_property.db	198	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			共鸣能量	Resonance energy	共鳴エネルギー	<ano=Resonance Energy>Năng Lượng Cộng Hưởng</ano>
+lang_property.db	199	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/特殊能量1上限	Special energy 1 limit	特殊エネルギー上限	Giới Hạn <ano=Special Energy>Năng Lượng Đặc Biệt</ano> 1
+lang_property.db	2	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			这个是等级	A Level	レベルです	Đây là Cấp độ
+lang_property.db	20	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			通用伤害加成	General DMG bonus	基本ダメージ加算	Tăng Sát Thương Cơ Bản
+lang_property.db	200	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/特殊能量1	Special energy 1	特殊エネルギー１	<ano=Special Energy>Năng Lượng Đặc Biệt</ano> 1
+lang_property.db	201	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/特殊能量2上限	Special energy 2 limit	特殊エネルギー上限	Giới Hạn <ano=Special Energy>Năng Lượng Đặc Biệt</ano> 2
+lang_property.db	202	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/特殊能量2	Special energy 2	特殊エネルギー２	<ano=Special Energy>Năng Lượng Đặc Biệt</ano> 2
+lang_property.db	203	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/特殊能量3上限	Special energy 3 limit	特殊エネルギー上限	Giới Hạn <ano=Special Energy>Năng Lượng Đặc Biệt</ano> 3
+lang_property.db	204	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/特殊能量3	Special energy 3	特殊エネルギー３	<ano=Special Energy>Năng Lượng Đặc Biệt</ano> 3
+lang_property.db	205	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/特殊能量4上限	Special energy 4 limit	特殊エネルギー上限	Giới Hạn <ano=Special Energy>Năng Lượng Đặc Biệt</ano> 4
+lang_property.db	206	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/特殊能量4	Special energy 4	特殊エネルギー４	<ano=Special Energy>Năng Lượng Đặc Biệt</ano> 4
+lang_property.db	207	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			耐力上限	Stamina Limit	スタミナ上限	Giới Hạn <ano=Stamina>Thể Lực</ano>
+lang_property.db	208	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			耐力	Stamina	スタミナ	<ano=Stamina>Thể Lực</ano>
+lang_property.db	209	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/耐力恢复速度	Stamina Recovery	スタミナ回復速度	<ano=Speed>Tốc độ</ano> <ano=Recovery>Hồi phục</ano> <ano=Stamina>Thể Lực</ano>
+lang_property.db	21	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			通用受伤减免	General Injury Reduction	基本被ダメージ低減	Giảm Sát Thương Phải Chịu Cơ Bản
+lang_property.db	210	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/空耐力惩罚时间	Zero stamina penalty time	スタミナ使い切るペナルティ	Thời Gian Phạt Khi Cạn <ano=Stamina>Thể Lực</ano>
+lang_property.db	211	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/疾跑耐力消耗速度		走るスタミナ消費	<ano=Speed>Tốc độ</ano> Tiêu Hao <ano=Stamina>Thể Lực</ano> Khi <ano=Dash>Lao Tới</ano>
+lang_property.db	212	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/游泳耐力消耗速度		泳ぐスタミナ消費	<ano=Speed>Tốc độ</ano> Tiêu Hao <ano=Stamina>Thể Lực</ano> Khi Bơi
+lang_property.db	213	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/快速游泳耐力消耗速度		高速泳ぐスタミナ消費	<ano=Speed>Tốc độ</ano> Tiêu Hao <ano=Stamina>Thể Lực</ano> Khi Bơi Nhanh
+lang_property.db	214	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/攀爬耐力消耗速度		クライムスタミナ消費	<ano=Speed>Tốc độ</ano> Tiêu Hao <ano=Stamina>Thể Lực</ano> Khi Leo Trèo
+lang_property.db	215	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/快速攀爬耐力消耗		高速クライムスタミナ消費	Tiêu Hao <ano=Stamina>Thể Lực</ano> Khi Leo Trèo Nhanh
+lang_property.db	216	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			共振度上限	Max Plangency	白いバー上限	Giới Hạn <ano=Vibration Strength>Độ Cộng hưởng</ano>
+lang_property.db	217	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			共振度上限	Max Plangency	白いバー上限	Giới Hạn <ano=Vibration Strength>Độ Cộng hưởng</ano>
+lang_property.db	218	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			共振度恢复速度	Plangency Recovery Rate	白いバー回復速度	<ano=Speed>Tốc độ</ano> <ano=Recovery>Hồi phục</ano> <ano=Vibration Strength>Độ Cộng hưởng</ano>
+lang_property.db	219	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			空共振度惩罚时间	Extra zero Plangency time	白いバー使い切るペナルティ	Thời Gian Phạt Khi Cạn <ano=Vibration Strength>Độ Cộng hưởng</ano>
+lang_property.db	22	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			普攻伤害加成	Normal Attack bonus	通常攻撃ダメージ加算	Tăng <ano=Normal Attack>Sát Thương Đánh Thường</ano>
+lang_property.db	220	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			破共振度倍率	Plangency Reduction multiplier	白いバーブレイク倍率	Hệ Số Phá <ano=Vibration Strength>Độ Cộng hưởng</ano>
+lang_property.db	221	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			被破共振度倍率	Passive Plangency Reduction multiplier	白いバー被ブレイク倍率	Hệ Số Bị Phá <ano=Vibration Strength>Độ Cộng hưởng</ano>
+lang_property.db	222	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			韧性上限	Max Toughness	忍耐上限	Giới Hạn Độ Bền
+lang_property.db	223	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			韧性	Toughness	忍耐	Độ Bền
+lang_property.db	224	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			韧性恢复速度	Toughness Recovery Speed	忍耐回復速度	<ano=Speed>Tốc độ</ano> <ano=Recovery>Hồi phục</ano> Độ Bền
+lang_property.db	225	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			削韧倍率	Toughness Reduction multiplier	忍耐削減倍率	Hệ Số Giảm Độ Bền
+lang_property.db	226	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			被削韧倍率	Passive Toughness Reduction multiplier	忍耐被削減倍率	Hệ Số Bị Giảm Độ Bền
+lang_property.db	227	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/属性1能量值		属性１エネルギー	Giá Trị <ano=energy>năng lượng</ano> <ano=Element>Nguyên tố</ano> 1
+lang_property.db	228	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/属性2能量值		属性２エネルギー	Giá Trị <ano=energy>năng lượng</ano> <ano=Element>Nguyên tố</ano> 2
+lang_property.db	229	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/属性3能量值		属性３エネルギー	Giá Trị <ano=energy>năng lượng</ano> <ano=Element>Nguyên tố</ano> 3
+lang_property.db	23	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			蓄力攻击伤害加成	Charged Attack bonus	チャージ攻撃ダメージ加算	Tăng Sát Thương <ano=Charged Attack>Đòn Tích Lực</ano>
+lang_property.db	230	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/属性4能量值		属性４エネルギー	Giá Trị <ano=energy>năng lượng</ano> <ano=Element>Nguyên tố</ano> 4
+lang_property.db	231	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/属性5能量值		属性５エネルギー	Giá Trị <ano=energy>năng lượng</ano> <ano=Element>Nguyên tố</ano> 5
+lang_property.db	232	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/属性6能量值		属性６エネルギー	Giá Trị <ano=energy>năng lượng</ano> <ano=Element>Nguyên tố</ano> 6
+lang_property.db	233	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/特殊伤害倍率		特殊ダメージ倍率	Hệ Số Sát Thương <ano=Valuables>Đặc Biệt</ano>
+lang_property.db	234	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/快速攀爬耐力消耗x/帧		高速クライムスタミナ消費ｘ/フレイム	Tiêu Hao <ano=Stamina>Thể Lực</ano> Khi Leo Trèo Nhanh x/khung
+lang_property.db	235	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/元素属性类型		元素属性タイプ	Loại Thuộc Tính <ano=Element>Nguyên tố</ano>
+lang_property.db	236	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/脆弱时间		ウィーク時間	Thời Gian Yếu Điểm
+lang_property.db	237	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			无视防御率	Defense Penetration Ratio	防御無視率	Tỷ Lệ Bỏ Qua <ano=Defense>Phòng Ngự</ano>
+lang_property.db	238	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/无视物理伤害抗性		物理ダメージ抵抗無視	Bỏ Qua Kháng <ano=Physical DMG>Sát Thương Vật Lý</ano>
+lang_property.db	239	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/无视属性1伤害抗性		属性１ダメージ抵抗無視	Bỏ Qua Kháng Sát Thương <ano=Element>Nguyên tố</ano> 1
+lang_property.db	24	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			共鸣解放伤害加成	Resonance liberation DMG bonus	共鳴解放ダメージ加算	Tăng Sát Thương <ano=Resonance Liberation>Giải Phóng Cộng Hưởng</ano>
+lang_property.db	240	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/无视属性2伤害抗性		属性２ダメージ抵抗無視	Bỏ Qua Kháng Sát Thương <ano=Element>Nguyên tố</ano> 2
+lang_property.db	241	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/无视属性3伤害抗性		属性３ダメージ抵抗無視	Bỏ Qua Kháng Sát Thương <ano=Element>Nguyên tố</ano> 3
+lang_property.db	242	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/无视属性4伤害抗性		属性４ダメージ抵抗無視	Bỏ Qua Kháng Sát Thương <ano=Element>Nguyên tố</ano> 4
+lang_property.db	243	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/无视属性5伤害抗性		属性５ダメージ抵抗無視	Bỏ Qua Kháng Sát Thương <ano=Element>Nguyên tố</ano> 5
+lang_property.db	244	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/无视属性6伤害抗性		属性６ダメージ抵抗無視	Bỏ Qua Kháng Sát Thương <ano=Element>Nguyên tố</ano> 6
+lang_property.db	245	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/技能状态韧性系数		スキル状態忍耐力	Hệ Số Độ Bền Trạng Thái <ano=skill>kỹ năng</ano>
+lang_property.db	246	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/攀爬跳跃消耗的耐力（一次）		クライムで跳躍スタミナ消費（1回）	<ano=Stamina>Thể Lực</ano> Tiêu Hao Khi Nhảy Leo Trèo (mỗi lần)
+lang_property.db	247	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/滑翔耐力消耗速度x/秒		落下状態スタミナ消費速度ｘ/秒	<ano=Speed>Tốc độ</ano> Tiêu Hao <ano=Stamina>Thể Lực</ano> Khi <ano=Glide>Lượn</ano> x/giây
+lang_property.db	248	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/质量		質量	Khối Lượng
+lang_property.db	249	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/摩擦力系数		摩擦係数	Hệ Số Ma Sát
+lang_property.db	25	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			连携技能伤害加成	Combo skill DMG bonus	連携スキルダメージ加算	Tăng Sát Thương <ano=Coordinated Attack>Kỹ Năng Liên Kết</ano>
+lang_property.db	250	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/重力系数		重力係数	Hệ Số <ano=Gravity>Trọng Lực</ano>
+lang_property.db	251	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			移动速率	Movement Speed	移動スピード	Tốc Độ Di Chuyển
+lang_property.db	252	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			声骸技能伤害加成	Wutrelic skill DMG bonus	ファントムダメージ加算	Tăng Sát Thương Kỹ Năng Echo
+lang_property.db	253	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			普攻速度	Normal Attack Speed	通常攻撃速度	Tốc Độ Đánh Thường
+lang_property.db	254	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			重击速度	Charged Attack Speed	重攻撃速度	Tốc Độ Đánh Mạnh
+lang_property.db	255	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/状态累积值1 上限		状態蓄積値１上限	test/Giới hạn giá trị tích lũy trạng thái 1
+lang_property.db	256	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/状态累积值1		状態蓄積値１	test/Giá trị tích lũy trạng thái 1
+lang_property.db	257	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/状态累积值2 上限		状態蓄積値２上限	test/Giới hạn giá trị tích lũy trạng thái 2
+lang_property.db	258	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/状态累积值2		状態蓄積値２	test/Giá trị tích lũy trạng thái 2
+lang_property.db	259	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/状态累积值3 上限		状態蓄積値３上限	test/Giới hạn giá trị tích lũy trạng thái 3
+lang_property.db	26	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			物理伤害加成	Physical DMG bonus	物理ダメージ加算	Tăng <ano=Physical DMG>Sát Thương Vật Lý</ano>
+lang_property.db	260	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/状态累积值3		状態蓄積値３	test/Giá trị tích lũy trạng thái 3
+lang_property.db	261	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/状态累积值4 上限		状態蓄積値４上限	test/Giới hạn giá trị tích lũy trạng thái 4
+lang_property.db	262	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/状态累积值4		状態蓄積値４	test/Giá trị tích lũy trạng thái 4
+lang_property.db	263	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/状态累积值5 上限		状態蓄積値５上限	test/Giới hạn giá trị tích lũy trạng thái 5
+lang_property.db	264	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/状态累积值5		状態蓄積値５	test/Giá trị tích lũy trạng thái 5
+lang_property.db	265	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/狂暴上限		狂化上限	test/Giới hạn cuồng nộ
+lang_property.db	266	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/狂暴		狂化	test/Cuồng nộ
+lang_property.db	267	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/狂暴恢复		狂化復帰	test/Hồi phục cuồng nộ
+lang_property.db	268	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/空狂暴惩罚时间		狂化使い切るペナルティ	test/Thời gian phạt khi hết cuồng nộ
+lang_property.db	269	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/破狂暴倍率		狂化ブレイク倍率	test/Tỷ lệ phá cuồng nộ
+lang_property.db	27	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			冷凝伤害加成	Frozen DMG bonus	凝縮ダメージ加算	Tăng Sát Thương <ano=Glacio>Ngưng Băng</ano>
+lang_property.db	270	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/被破狂暴倍率		狂化被ブレイク倍率	test/Tỷ lệ bị phá cuồng nộ
+lang_property.db	271	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/韧性恢复延迟时间			test/Thời gian trễ hồi phục Độ Bền
+lang_property.db	28	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			热熔伤害加成	Smelt DMG bonus	溶解ダメージ加算	Tăng Sát Thương <ano=Fusion>Hỏa Liệt</ano>
+lang_property.db	29	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			导电伤害加成	Conduction DMG bonus	伝導ダメージ加算	Tăng Sát Thương <ano=Electro>Điện Từ</ano>
+lang_property.db	3	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			生命	HP	ライフ	Sinh Lực
+lang_property.db	30	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			气动伤害加成	Aerodynamic DMG bonus	気動ダメージ加算	Tăng <ano=Aero>Sát Thương Khí Động</ano>
+lang_property.db	31	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			衍射伤害加成	Diffusion DMG bonus	回折ダメージ加算	Tăng Sát Thương <ano=Spectro>Quang Phổ</ano>
+lang_property.db	32	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			解离伤害加成	Dissociation DMG bonus	支離ダメージ加算	Tăng <ano=Havoc>Sát Thương Hủy Diệt</ano>
+lang_property.db	33	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			物理伤害抗性	Physical DMG Resistance	物理ダメージ抵抗	Kháng <ano=Physical DMG>Sát Thương Vật Lý</ano>
+lang_property.db	34	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			冷凝伤害抗性	Frozen DMG Resistance	凝縮ダメージ抵抗	Kháng Sát Thương <ano=Glacio>Ngưng Băng</ano>
+lang_property.db	35	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			热熔伤害抗性	Smelt DMG Resistance	溶解ダメージ抵抗	Kháng Sát Thương <ano=Fusion>Hỏa Liệt</ano>
+lang_property.db	36	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			导电伤害抗性	Conduction DMG Resistance	伝導ダメージ抵抗	Kháng Sát Thương <ano=Electro>Điện Từ</ano>
+lang_property.db	37	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			气动伤害抗性	Aerodynamic DMG Resistance	気動ダメージ抵抗	Kháng <ano=Aero>Sát Thương Khí Động</ano>
+lang_property.db	38	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			衍射伤害抗性	Diffusion DMG Resistance	回折ダメージ抵抗	Kháng Sát Thương <ano=Spectro>Quang Phổ</ano>
+lang_property.db	39	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			解离伤害抗性	Dissociation DMG Resistance	支離ダメージ抵抗	Kháng <ano=Havoc>Sát Thương Hủy Diệt</ano>
+lang_property.db	4	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			生命	HP	ライフ	Sinh Lực
+lang_property.db	40	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			治疗效果加成	Healing Effect bonus	治療効果加算	Tăng Hiệu Quả <ano=treatment>Điều Trị</ano>
+lang_property.db	41	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			受治疗效果加成	Recovery Effect bonus	治療受け効果加算	Tăng Hiệu Quả Nhận <ano=treatment>Điều Trị</ano>
+lang_property.db	42	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			物理伤害减免	Physical DMG Immunity	物理ダメージカット	<ano=DMG Reduction>Giảm Sát Thương</ano> <ano=Physical DMG>Vật Lý</ano>
+lang_property.db	43	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			冷凝伤害减免	Element 1 DMG Immunity	属性１ダメージカット	<ano=DMG Reduction>Giảm Sát Thương</ano> <ano=Glacio>Ngưng Băng</ano>
+lang_property.db	44	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			热熔伤害减免	Element 2 DMG Immunity	属性２ダメージカット	<ano=DMG Reduction>Giảm Sát Thương</ano> <ano=Fusion>Hỏa Liệt</ano>
+lang_property.db	45	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			导电伤害减免	Element 3 DMG Immunity	属性３ダメージカット	<ano=DMG Reduction>Giảm Sát Thương</ano> <ano=Electro>Điện Từ</ano>
+lang_property.db	46	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			气动伤害减免	Element 4 DMG Immunity	属性４ダメージカット	<ano=DMG Reduction>Giảm Sát Thương</ano> <ano=Aero>Khí Động</ano>
+lang_property.db	47	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			衍射伤害减免	Element 5 DMG Immunity	属性５ダメージカット	<ano=DMG Reduction>Giảm Sát Thương</ano> <ano=Spectro>Quang Phổ</ano>
+lang_property.db	48	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			解离伤害减免	Element 6 DMG Immunity	属性６ダメージカット	<ano=DMG Reduction>Giảm Sát Thương</ano> <ano=Havoc>Hủy Diệt</ano>
+lang_property.db	49	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/反应增幅系数1	Reaction increase factor 1	反応増幅係数１	Hệ Số <ano=Buff>Tăng Cường</ano> Phản Ứng 1
+lang_property.db	5	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			护盾值	Shield	シールド値	<ano=Shield>Khiên</ano>
+lang_property.db	50	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/反应增幅系数2	Reaction increase factor 2	反応増幅係数２	Hệ Số <ano=Buff>Tăng Cường</ano> Phản Ứng 2
+lang_property.db	51	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/反应增幅系数3	Reaction increase factor 3	反応増幅係数３	Hệ Số <ano=Buff>Tăng Cường</ano> Phản Ứng 3
+lang_property.db	52	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/反应增幅系数4	Reaction increase factor 4	反応増幅係数４	Hệ Số <ano=Buff>Tăng Cường</ano> Phản Ứng 4
+lang_property.db	53	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/反应增幅系数5	Reaction increase factor 5	反応増幅係数５	Hệ Số <ano=Buff>Tăng Cường</ano> Phản Ứng 5
+lang_property.db	54	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/反应增幅系数6	Reaction increase factor 6	反応増幅係数６	Hệ Số <ano=Buff>Tăng Cường</ano> Phản Ứng 6
+lang_property.db	55	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/反应增幅系数7	Reaction increase factor 7	反応増幅係数７	Hệ Số <ano=Buff>Tăng Cường</ano> Phản Ứng 7
+lang_property.db	56	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/反应增幅系数8	Reaction increase factor 8	反応増幅係数８	Hệ Số <ano=Buff>Tăng Cường</ano> Phản Ứng 8
+lang_property.db	57	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/反应增幅系数9	Reaction increase factor 9	反応増幅係数９	Hệ Số <ano=Buff>Tăng Cường</ano> Phản Ứng 9
+lang_property.db	58	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/反应增幅系数10	Reaction increase factor 10	反応増幅係数１０	Hệ Số <ano=Buff>Tăng Cường</ano> Phản Ứng 10
+lang_property.db	59	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/反应增幅系数11	Reaction increase factor 11	反応増幅係数１１	Hệ Số <ano=Buff>Tăng Cường</ano> Phản Ứng 11
+lang_property.db	6	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/破盾倍率	DEF Down Multiplier	シールドブレイク倍率	Hệ Số Phá <ano=shield>khiên</ano>
+lang_property.db	60	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/反应增幅系数12	Reaction increase factor 12	反応増幅係数１２	Hệ Số <ano=Buff>Tăng Cường</ano> Phản Ứng 12
+lang_property.db	61	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/反应增幅系数13	Reaction increase factor 13	反応増幅係数１３	Hệ Số <ano=Buff>Tăng Cường</ano> Phản Ứng 13
+lang_property.db	62	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/反应增幅系数14	Reaction increase factor 14	反応増幅係数１４	Hệ Số <ano=Buff>Tăng Cường</ano> Phản Ứng 14
+lang_property.db	63	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/反应增幅系数15	Reaction increase factor 15	反応増幅係数１５	Hệ Số <ano=Buff>Tăng Cường</ano> Phản Ứng 15
+lang_property.db	64	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			共鸣能量上限	Resonance energy limit	共鳴エネルギー上限	Giới Hạn <ano=Resonance Energy>Năng Lượng Cộng Hưởng</ano>
+lang_property.db	65	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			共鸣能量	Resonance energy	共鳴エネルギー	<ano=Resonance Energy>Năng Lượng Cộng Hưởng</ano>
+lang_property.db	66	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/特殊能量1上限	Special energy 1 limit	特殊エネルギー上限	Giới Hạn <ano=Special Energy>Năng Lượng Đặc Biệt</ano> 1
+lang_property.db	67	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/特殊能量1	Special energy 1	特殊エネルギー１	<ano=Special Energy>Năng Lượng Đặc Biệt</ano> 1
+lang_property.db	68	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/特殊能量2上限	Special energy 2 limit	特殊エネルギー上限	Giới Hạn <ano=Special Energy>Năng Lượng Đặc Biệt</ano> 2
+lang_property.db	69	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/特殊能量2	Special energy 2	特殊エネルギー２	<ano=Special Energy>Năng Lượng Đặc Biệt</ano> 2
+lang_property.db	7	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/被破盾倍率	Passive DEF Down Multiplier	被シールドブレイク倍率	Hệ Số Bị Phá <ano=shield>khiên</ano>
+lang_property.db	70	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/特殊能量3上限	Special energy 3 limit	特殊エネルギー上限	Giới Hạn <ano=Special Energy>Năng Lượng Đặc Biệt</ano> 3
+lang_property.db	71	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/特殊能量3	Special energy 3	特殊エネルギー３	<ano=Special Energy>Năng Lượng Đặc Biệt</ano> 3
+lang_property.db	72	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/特殊能量4上限	Special energy 4 limit	特殊エネルギー上限	Giới Hạn <ano=Special Energy>Năng Lượng Đặc Biệt</ano> 4
+lang_property.db	73	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/特殊能量4	Special energy 4	特殊エネルギー４	<ano=Special Energy>Năng Lượng Đặc Biệt</ano> 4
+lang_property.db	74	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			耐力上限	Stamina Limit	スタミナ上限	Giới Hạn <ano=Stamina>Thể Lực</ano>
+lang_property.db	75	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			耐力	Stamina	スタミナ	<ano=Stamina>Thể Lực</ano>
+lang_property.db	76	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/耐力恢复速度	Stamina Recovery	スタミナ回復速度	<ano=Speed>Tốc độ</ano> <ano=Recovery>Hồi phục</ano> <ano=Stamina>Thể Lực</ano>
+lang_property.db	77	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/空耐力惩罚时间	Zero stamina penalty time	スタミナ使い切るペナルティ	Thời Gian Phạt Khi Cạn <ano=Stamina>Thể Lực</ano>
+lang_property.db	78	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/疾跑耐力消耗速度		走るスタミナ消費	<ano=Speed>Tốc độ</ano> Tiêu Hao <ano=Stamina>Thể Lực</ano> Khi <ano=Dash>Lao Tới</ano>
+lang_property.db	79	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/游泳耐力消耗速度		泳ぐスタミナ消費	<ano=Speed>Tốc độ</ano> Tiêu Hao <ano=Stamina>Thể Lực</ano> Khi Bơi
+lang_property.db	8	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			攻击	Attack	攻撃	Tấn Công
+lang_property.db	80	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/快速游泳耐力消耗速度		高速泳ぐスタミナ消費	<ano=Speed>Tốc độ</ano> Tiêu Hao <ano=Stamina>Thể Lực</ano> Khi Bơi Nhanh
+lang_property.db	81	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/攀爬耐力消耗速度		クライムスタミナ消費	<ano=Speed>Tốc độ</ano> Tiêu Hao <ano=Stamina>Thể Lực</ano> Khi Leo Trèo
+lang_property.db	82	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/快速攀爬耐力消耗		高速クライムスタミナ消費	Tiêu Hao <ano=Stamina>Thể Lực</ano> Khi Leo Trèo Nhanh
+lang_property.db	83	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			共振度上限	Max Plangency	白いバー上限	Giới Hạn <ano=Vibration Strength>Độ Cộng hưởng</ano>
+lang_property.db	84	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			共振度上限	Max Plangency	白いバー上限	Giới Hạn <ano=Vibration Strength>Độ Cộng hưởng</ano>
+lang_property.db	85	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			共振度恢复速度	Plangency Recovery Rate	白いバー回復速度	<ano=Speed>Tốc độ</ano> <ano=Recovery>Hồi phục</ano> <ano=Vibration Strength>Độ Cộng hưởng</ano>
+lang_property.db	86	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			空共振度惩罚时间	Extra zero Plangency time	白いバー使い切るペナルティ	Thời Gian Phạt Khi Cạn <ano=Vibration Strength>Độ Cộng hưởng</ano>
+lang_property.db	87	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			破共振度倍率	Plangency Reduction multiplier	白いバーブレイク倍率	Hệ Số Phá <ano=Vibration Strength>Độ Cộng hưởng</ano>
+lang_property.db	88	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			被破共振度倍率	Passive Plangency Reduction multiplier	白いバー被ブレイク倍率	Hệ Số Bị Phá <ano=Vibration Strength>Độ Cộng hưởng</ano>
+lang_property.db	89	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			韧性上限	Max Toughness	忍耐上限	Giới Hạn Độ Bền
+lang_property.db	9	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			暴击	Crit. Rate	クリティカル	Tỷ Lệ <ano=Crit. Hit>Bạo Kích</ano>
+lang_property.db	90	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			韧性	Toughness	忍耐	Độ Bền
+lang_property.db	91	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			韧性恢复速度	Toughness Recovery Speed	忍耐回復速度	<ano=Speed>Tốc độ</ano> <ano=Recovery>Hồi phục</ano> Độ Bền
+lang_property.db	92	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			削韧倍率	Toughness Reduction multiplier	忍耐削減倍率	Hệ Số Giảm Độ Bền
+lang_property.db	93	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			被削韧倍率	Passive Toughness Reduction multiplier	忍耐被削減倍率	Hệ Số Bị Giảm Độ Bền
+lang_property.db	94	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/属性1能量值		属性１エネルギー	Giá Trị <ano=energy>năng lượng</ano> <ano=Element>Nguyên tố</ano> 1
+lang_property.db	95	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/属性2能量值		属性２エネルギー	Giá Trị <ano=energy>năng lượng</ano> <ano=Element>Nguyên tố</ano> 2
+lang_property.db	96	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/属性3能量值		属性３エネルギー	Giá Trị <ano=energy>năng lượng</ano> <ano=Element>Nguyên tố</ano> 3
+lang_property.db	97	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/属性4能量值		属性４エネルギー	Giá Trị <ano=energy>năng lượng</ano> <ano=Element>Nguyên tố</ano> 4
+lang_property.db	98	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/属性5能量值		属性５エネルギー	Giá Trị <ano=energy>năng lượng</ano> <ano=Element>Nguyên tố</ano> 5
+lang_property.db	99	3.4	Nhân vật/Thuộc tính	Nhân vật/Thuộc tính			test/属性6能量值		属性６エネルギー	Giá Trị <ano=energy>năng lượng</ano> <ano=Element>Nguyên tố</ano> 6

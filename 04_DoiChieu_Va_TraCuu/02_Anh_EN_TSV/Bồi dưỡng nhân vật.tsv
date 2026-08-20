@@ -1,0 +1,99 @@
+﻿dbfile	key	version	category	folder	speaker	mission	anh_en
+lang_multi_text.db	RoleProject_Access_01	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Convene
+lang_multi_text.db	RoleProject_Access_02	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Crafting
+lang_multi_text.db	RoleProject_Access_03	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Pioneer Podcast
+lang_multi_text.db	RoleProject_Access_04	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Quests
+lang_multi_text.db	RoleProject_Access_None	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Currently unobtainable
+lang_multi_text.db	RoleProject_Button01	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Upgrade
+lang_multi_text.db	RoleProject_Button02	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			View
+lang_multi_text.db	RoleProject_Button03	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Go
+lang_multi_text.db	RoleProject_Button04	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Switch
+lang_multi_text.db	RoleProject_Button05	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Equip
+lang_multi_text.db	RoleProject_Button06	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			View
+lang_multi_text.db	RoleProject_Button_SkillUpgradeBasic	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Show Basic Plan
+lang_multi_text.db	RoleProject_Button_SkillUpgradePrefect	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Show Complete Plan
+lang_multi_text.db	RoleProject_Button_WeaponRecommend	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			View Weapon Recommendations
+lang_multi_text.db	RoleProject_Button_WeaponUpgrade	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			View Weapon Upgrade
+lang_multi_text.db	RoleProject_COST4	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			COST 4
+lang_multi_text.db	RoleProject_CancelRoleButton	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Cancel Settings
+lang_multi_text.db	RoleProject_ChoseRoleTitle	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Set Focus
+lang_multi_text.db	RoleProject_ChoseRole_FinishTips	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Resonator Ascension Complete
+lang_multi_text.db	RoleProject_ChoseRole_ItemTips01	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Insufficient Resonator/Weapon EXP Material
+lang_multi_text.db	RoleProject_ChoseRole_ItemTips02	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			EXP Material Ready
+lang_multi_text.db	RoleProject_ChoseRole_PhantomTips01	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Sonata Effect not fully activated
+lang_multi_text.db	RoleProject_ChoseRole_PhantomTips02	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Echo quality too low
+lang_multi_text.db	RoleProject_ChoseRole_PhantomTips03	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Echo Level upgrade available
+lang_multi_text.db	RoleProject_ChoseRole_PhantomTips04	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Unlock Substats
+lang_multi_text.db	RoleProject_ChoseRole_RoleTips01	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Resonator Level upgrade available
+lang_multi_text.db	RoleProject_ChoseRole_SkillTips01	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Skill Level upgrade available
+lang_multi_text.db	RoleProject_ChoseRole_WeaponTips01	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Weapon quality too low
+lang_multi_text.db	RoleProject_ChoseRole_WeaponTips02	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Weapon Level upgrade available
+lang_multi_text.db	RoleProject_ChoseTargetButton	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Set Focus
+lang_multi_text.db	RoleProject_ConfirmRoleButton	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Set as Focus Resonator
+lang_multi_text.db	RoleProject_Entrance	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Ascension Planner
+lang_multi_text.db	RoleProject_GuideBookTips01	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			<color=#c25757>Consider a weapon of higher quality</color>
+lang_multi_text.db	RoleProject_GuideBookTitle00	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Required Materials
+lang_multi_text.db	RoleProject_GuideBookTitle01	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Upgrade
+lang_multi_text.db	RoleProject_GuideBookTitle02	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Convene
+lang_multi_text.db	RoleProject_ItemCount	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Required Quantity: {0}
+lang_multi_text.db	RoleProject_ItemEnoughTips	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			EXP Material Ready
+lang_multi_text.db	RoleProject_ItemSynthesisTips	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Replenishable
+lang_multi_text.db	RoleProject_ItemType01	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Resonator EXP Material
+lang_multi_text.db	RoleProject_ItemType02	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Weapon EXP Material
+lang_multi_text.db	RoleProject_ItemType03	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Weapon and Skill Material
+lang_multi_text.db	RoleProject_ItemType04	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Weapon and Skill Material
+lang_multi_text.db	RoleProject_ItemType05	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Skill Upgrade Material
+lang_multi_text.db	RoleProject_ItemType06	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Ascension Material
+lang_multi_text.db	RoleProject_ItemType07	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Resonator Ascension Material
+lang_multi_text.db	RoleProject_MaxLevel	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Max level reached
+lang_multi_text.db	RoleProject_Name	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Resonator Ascension Planner
+lang_multi_text.db	RoleProject_NoneTarget	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			No Focus Resonator selected
+lang_multi_text.db	RoleProject_NoneTargetTips	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			No Focus Resonator selected
+lang_multi_text.db	RoleProject_Phantom	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Echoes
+lang_multi_text.db	RoleProject_PhantomRecommend	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Echo Recommendations
+lang_multi_text.db	RoleProject_PhantomRecommend_Button01	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Switch Plan
+lang_multi_text.db	RoleProject_PhantomRecommend_Tips01	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Plan already selected
+lang_multi_text.db	RoleProject_PhantomRecommend_Title	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Switch Plan
+lang_multi_text.db	RoleProject_PhantomUpgrade	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Echoes Upgrade
+lang_multi_text.db	RoleProject_Popular	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			<color=#d5b55e>Current</color>
+lang_multi_text.db	RoleProject_Prospect	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			<color=#5ed5af>Preview</color>
+lang_multi_text.db	RoleProject_Review	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			<color=#84c6f5>Preview</color>
+lang_multi_text.db	RoleProject_Role	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Resonator
+lang_multi_text.db	RoleProject_RoleList	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Resonator List
+lang_multi_text.db	RoleProject_RoleUpgrade	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Resonator Upgrade
+lang_multi_text.db	RoleProject_Skill	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Skills
+lang_multi_text.db	RoleProject_SkillLevel01	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			<color=#36cd33>{0}</color>
+lang_multi_text.db	RoleProject_SkillLevel02	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			<color=#ffd12f>{0}</color>
+lang_multi_text.db	RoleProject_SkillRecommand01	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Core
+lang_multi_text.db	RoleProject_SkillRecommand02	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Recommended
+lang_multi_text.db	RoleProject_SkillRecommandButton	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Ascension Tips
+lang_multi_text.db	RoleProject_SkillUpgradeBasic	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Skills Upgrade - Basic
+lang_multi_text.db	RoleProject_SkillUpgradePrefect	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Skill Upgrade
+lang_multi_text.db	RoleProject_Target	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Focus Resonator
+lang_multi_text.db	RoleProject_TargetLevel	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Suggested Level: {0}
+lang_multi_text.db	RoleProject_TargetProperty	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Core Attribute: {0}
+lang_multi_text.db	RoleProject_Tips01	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Current Equipment
+lang_multi_text.db	RoleProject_Tips02	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Equipped
+lang_multi_text.db	RoleProject_Tips03	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			No available data
+lang_multi_text.db	RoleProject_Tips04	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			<color=#c25757>Max level reached. Please increase your SOL3 Phase</color>
+lang_multi_text.db	RoleProject_Tips05	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Please increase Resonator Level
+lang_multi_text.db	RoleProject_Tips06	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Max level reached
+lang_multi_text.db	RoleProject_Tips07	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Not owned
+lang_multi_text.db	RoleProject_Tips08	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			<color=#c25757>Consider switching to a weapon of higher quality</color>
+lang_multi_text.db	RoleProject_Tips09	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Max Level Reached
+lang_multi_text.db	RoleProject_Tips10	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			The target area is open for early access for a limited time. Arriving early may influence your story experience. Proceed anyway?
+lang_multi_text.db	RoleProject_Tips11	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Pinned to top
+lang_multi_text.db	RoleProject_Tips12	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Note: The shown quantity reflects the total materials needed for all suggested skill upgrades.
+lang_multi_text.db	RoleProject_Tips13	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Unpinned
+lang_multi_text.db	RoleProject_Tips14	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			{0} has been set as Focus Resonator
+lang_multi_text.db	RoleProject_Tips15	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Focus Cancelled
+lang_multi_text.db	RoleProject_Weapon	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Weapons
+lang_multi_text.db	RoleProject_WeaponRecommandButton	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			View Recommendations
+lang_multi_text.db	RoleProject_WeaponRecommend	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Weapon Recommendations
+lang_multi_text.db	RoleProject_WeaponRecommend_Title	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Popular Weapons
+lang_multi_text.db	RoleProject_WeaponType01	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Weapon Type: Broadblade
+lang_multi_text.db	RoleProject_WeaponType02	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Weapon Type: Sword
+lang_multi_text.db	RoleProject_WeaponType03	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Weapon Type: Pistols
+lang_multi_text.db	RoleProject_WeaponType04	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Weapon Type: Gauntlets
+lang_multi_text.db	RoleProject_WeaponType05	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Weapon Type: Rectifier
+lang_multi_text.db	RoleProject_WeaponUpgrade	3.4	Hội thoại/Cốt truyện	Bồi dưỡng nhân vật			Weapon Upgrade

@@ -1,0 +1,280 @@
+================================================================================
+BÁO CÁO ĐỐI CHIẾU CHI TIẾT DỮ LIỆU GỐC 3.6 VỚI BẢN VIỆT HÓA WAHU (3.6)
+================================================================================
+
+Tổng số file .db trong 3.6 GỐC     : 109 file
+Tổng số file .db trong BẢN VIỆT HÓA: 98 file
+
+• Số file .db gốc CÓ BẢNG DỮ LIỆU THẬT: 96 file
+• Số file .db gốc RỖNG (dummy 4KB)      : 13 file (đã loại bỏ an toàn)
+
+================================================================================
+KẾT QUẢ KIỂM TRA ĐỐI CHIẾU TỔNG THỂ:
+================================================================================
+• Tổng số mục text đã kiểm tra  : 349,608 mục
+• Số mục đã Việt Hóa trong game : 300,344 mục
+• Số lỗi lệch cột / kiểu dữ liệu : 0 lỗi
+• Số bảng bị thiếu dòng / thiếu key: 0 bảng
+• Số mục lỗi placeholder / biến  : 7301 mục
+• Số mục lỗi ký tự điều khiển/NULL : 0 mục
+
+--------------------------------------------------------------------------------
+DANH SÁCH CÁC MỤC BỊ LỆCH BIẾN / LỖI PLACEHOLDER (Cần sửa):
+--------------------------------------------------------------------------------
+🔴 [lang_advice.db || AdviceParams || 3]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{PlayerName}']
+   Gốc  : 
+   Dịch : Tố Ngôn của "{PlayerName}"
+
+🔴 [lang_cgVideo.db || VideoCaption || 64]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{TA}', '{TA}']
+   Gốc  : 
+   Dịch : Việc chính? Cái <ano=Rover>Rover</ano> mà ngươi gọi là âm thanh bất hòa đó, chính là "việc chính" của ta. Người dưới quy
+
+🔴 [lang_cgVideo.db || VideoCaption || 66]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{TA}', '{TA}', '{TA}']
+   Gốc  : 
+   Dịch : Ta tưởng rằng đó chỉ là lời nói dối cầu xin tha mạng của con chuột, nhưng nếu......{TA} chính là thứ trong kén, thì mọi 
+
+🔴 [lang_confirmbox.db || ConfirmBox || 2]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}', '{1}', '{2}']
+   Gốc  : 
+   Dịch : Nguyên liệu nâng cấp Vũ Khí có chứa <color=#8c7e51>{0}</color>, <color=#8c7e51>{1}</color> và <color=#8c7e51>{2}</color>
+
+🔴 [lang_confirmbox.db || ConfirmBox || 6]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}', '{1}']
+   Gốc  : 
+   Dịch : Nguyên liệu nâng cấp Vũ Khí có chứa <color=#8c7e51>{0}</color> và <color=#8c7e51>{1}</color>, vui lòng xác nhận có tiếp 
+
+🔴 [lang_confirmbox.db || ConfirmBox || 10]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}']
+   Gốc  : 
+   Dịch : Nguyên liệu nâng cấp Vũ Khí có chứa Vũ Khí <color=#8c7e51>{0}</color>, vui lòng xác nhận có tiếp tục nâng cấp không?
+
+🔴 [lang_confirmbox.db || ConfirmBox || 34]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}', '{1}']
+   Gốc  : 
+   Dịch : Sẽ tiêu hao <color=#8c7e51>{0}*{1}</color> để giao nộp
+
+🔴 [lang_confirmbox.db || ConfirmBox || 38]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}']
+   Gốc  : 
+   Dịch : {0}
+
+🔴 [lang_confirmbox.db || ConfirmBox || 81]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}', '{1}', '{2}']
+   Gốc  : 
+   Dịch : Vui lòng xác nhận có tiêu hao Nguyên liệu <color=#8c7e51>{0}</color> để nâng cấp bậc Cộng Hưởng Điều Hòa của Vũ Khí <col
+
+🔴 [lang_confirmbox.db || ConfirmBox || 85]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}', '{1}']
+   Gốc  : 
+   Dịch : <color=#8c7e51>{0}</color> đã được <color=#8c7e51>{1}</color> trang bị, vui lòng xác nhận có thay thế không?
+
+🔴 [lang_confirmbox.db || ConfirmBox || 97]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}', '{1}', '{2}']
+   Gốc  : 
+   Dịch : Nguyên liệu đã chọn đã qua Cộng Hưởng Điều Hòa, vui lòng xác nhận có tiêu hao Nguyên liệu <color=#8c7e51>{0}</color> để 
+
+🔴 [lang_confirmbox.db || ConfirmBox || 101]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}', '{1}', '{2}']
+   Gốc  : 
+   Dịch : Nguyên liệu đã chọn đã qua tăng cường, vui lòng xác nhận có tiêu hao Nguyên liệu <color=#8c7e51>{0}</color> để nâng bậc 
+
+🔴 [lang_confirmbox.db || ConfirmBox || 105]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}', '{1}', '{2}']
+   Gốc  : 
+   Dịch : Nguyên liệu đã chọn đã qua tăng cường và Cộng Hưởng Điều Hòa, vui lòng xác nhận có tiêu hao Nguyên liệu <color=#8c7e51>{
+
+🔴 [lang_confirmbox.db || ConfirmBox || 119]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}']
+   Gốc  : 
+   Dịch : Xác Nhận {0}
+
+🔴 [lang_confirmbox.db || ConfirmBox || 121]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}']
+   Gốc  : 
+   Dịch : Echo này đã được <color=#8c7e51>{0}</color> trang bị, vui lòng xác nhận có thay thế không?
+
+🔴 [lang_confirmbox.db || ConfirmBox || 125]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}']
+   Gốc  : 
+   Dịch : Cộng Hưởng Giả (Jué) này đã trang bị Echo <color=#8c7e51>{0}</color>, vui lòng xác nhận có thay thế không?
+
+🔴 [lang_confirmbox.db || ConfirmBox || 129]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}']
+   Gốc  : 
+   Dịch : {0}
+
+🔴 [lang_confirmbox.db || ConfirmBox || 132]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}', '{1}']
+   Gốc  : 
+   Dịch : Trong lần thay thế này <color=#8c7e51>{0}</color> không thể trang bị <color=#8c7e51>{1}</color>, vui lòng xác nhận có ti
+
+🔴 [lang_confirmbox.db || ConfirmBox || 143]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}']
+   Gốc  : 
+   Dịch : Sinh lực của <color=#8c7e51>{0}</color> đã đầy, vui lòng xác nhận có tiếp tục sử dụng không?
+
+🔴 [lang_confirmbox.db || ConfirmBox || 150]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}']
+   Gốc  : 
+   Dịch : {0}
+
+🔴 [lang_confirmbox.db || ConfirmBox || 152]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}']
+   Gốc  : 
+   Dịch : Thử lại{0}
+
+🔴 [lang_confirmbox.db || ConfirmBox || 154]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}', '{1}']
+   Gốc  : 
+   Dịch : Vui lòng tải xuống phiên bản client mới nhất để chơi
+
+Phiên bản hiện tại: {0}
+Phiên bản mới nhất: {1}
+
+🔴 [lang_confirmbox.db || ConfirmBox || 158]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}']
+   Gốc  : 
+   Dịch : Đã phát hiện gói cập nhật mới {0}, môi trường mạng hiện tại là mạng di động, vui lòng chọn có sử dụng mạng di động để tả
+
+🔴 [lang_confirmbox.db || ConfirmBox || 162]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}']
+   Gốc  : 
+   Dịch : {0}
+
+🔴 [lang_confirmbox.db || ConfirmBox || 173]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}']
+   Gốc  : 
+   Dịch : "<color=#8c7e51>{0}</color>" sinh ra trong mê hoặc,
+đã sẵn sàng để tái thiết tương lai vỡ vụn chưa?
+
+🔴 [lang_confirmbox.db || ConfirmBox || 193]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}']
+   Gốc  : 
+   Dịch : {0}
+
+🔴 [lang_confirmbox.db || ConfirmBox || 213]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}']
+   Gốc  : 
+   Dịch : Hủy kết bạn với {0}
+
+🔴 [lang_confirmbox.db || ConfirmBox || 217]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}']
+   Gốc  : 
+   Dịch : Thêm {0} vào danh sách đen
+
+🔴 [lang_confirmbox.db || ConfirmBox || 229]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}', '{1}']
+   Gốc  : 
+   Dịch : Thiếu <color=#8c7e51>{0}</color> {1}
+Nhấn xác nhận để đến Sàn Giao Dịch Liên Hợp tiến hành mua neo giá.
+
+🔴 [lang_confirmbox.db || ConfirmBox || 233]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}', '{1}', '{2}', '{3}']
+   Gốc  : 
+   Dịch : Thiếu <color=#8c7e51>{0}</color> {1}
+Vui lòng xác nhận có tiêu hao <color=#8c7e51>{2}</color> {3} để mua không.
+
+🔴 [lang_confirmbox.db || ConfirmBox || 237]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}', '{1}', '{2}']
+   Gốc  : 
+   Dịch : {0} không đủ, nhấn xác nhận có thể sử dụng {1} để đổi ngang lượng {2}.
+
+🔴 [lang_confirmbox.db || ConfirmBox || 241]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}']
+   Gốc  : 
+   Dịch : {0} cần thiết không đủ, nhấn xác nhận để đến Sàn Giao Dịch Liên Hợp tiến hành mua neo giá.
+
+🔴 [lang_confirmbox.db || ConfirmBox || 245]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}']
+   Gốc  : 
+   Dịch : Nhận thưởng cần tiêu hao <color=#8c7e51>{0}</color> điểm Tinh Thể Sóng, vui lòng xác nhận có nhận không?
+
+🔴 [lang_confirmbox.db || ConfirmBox || 253]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}']
+   Gốc  : 
+   Dịch : Tiến hành Thu Hồi Dữ liệu cho {0} Echo đã chọn, vui lòng xác nhận Nguyên liệu sắp nhận được dưới đây.
+
+🔴 [lang_confirmbox.db || ConfirmBox || 266]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}', '{1}']
+   Gốc  : 
+   Dịch : Gói giọng nói {0} cần tải xuống {1}, hiện đang ở môi trường dữ liệu di động, sẽ tiêu hao lưu lượng, vui lòng xác nhận có
+
+🔴 [lang_confirmbox.db || ConfirmBox || 270]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}', '{1}']
+   Gốc  : 
+   Dịch : Gói giọng nói {0} cần tải xuống {1}, vui lòng xác nhận có tải xuống không?
+
+🔴 [lang_confirmbox.db || ConfirmBox || 274]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}']
+   Gốc  : 
+   Dịch : Vui lòng xác nhận có gỡ cài đặt gói giọng nói {0} không?
+
+🔴 [lang_confirmbox.db || ConfirmBox || 278]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}']
+   Gốc  : 
+   Dịch : Liên lạc {0} có vẻ gặp chút sự cố, vui lòng xác nhận lại sau xem đã nhận được vật phẩm mua hay chưa.
+
+🔴 [lang_confirmbox.db || ConfirmBox || 304]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}', '{1}']
+   Gốc  : 
+   Dịch : Vui lòng xác nhận có tiêu hao <color=#8c7e51>{0} điểm mở khóa</color> để mở nhiệm vụ nhân vật của <color=#8c7e51>{1}</co
+
+🔴 [lang_confirmbox.db || ConfirmBox || 308]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}']
+   Gốc  : 
+   Dịch : Tải gói giọng nói cần {0} dung lượng trống, vui lòng giải phóng đủ dung lượng rồi thử lại.
+
+🔴 [lang_confirmbox.db || ConfirmBox || 312]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}']
+   Gốc  : 
+   Dịch : Đang trong thử thách {0}, vui lòng xác nhận có tiếp tục không?
+
+🔴 [lang_confirmbox.db || ConfirmBox || 335]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}', '{1}', '{2}']
+   Gốc  : 
+   Dịch : Hiện đang thám hiểm tại "{0}·{1}·Tầng số {2}", tiếp tục thám hiểm sẽ bắt đầu từ tiến độ của tầng đó; nếu từ bỏ thám hiểm
+
+🔴 [lang_confirmbox.db || ConfirmBox || 358]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}']
+   Gốc  : 
+   Dịch : Vui lòng xác nhận có vào màn hướng dẫn <color=#8c7e51>{0}</color> không?
+
+🔴 [lang_confirmbox.db || ConfirmBox || 374]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}', '{1}']
+   Gốc  : 
+   Dịch : Hồi sinh tức thời sẽ tiêu hao 1 {0}, dự kiến khoảng cách sử dụng là {1}, vui lòng xác nhận có sử dụng không.
+
+🔴 [lang_confirmbox.db || ConfirmBox || 408]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}', '{1}', '{2}']
+   Gốc  : 
+   Dịch : Có tiêu hao {0} {1} để sửa chữa {2} không?
+
+🔴 [lang_confirmbox.db || ConfirmBox || 420]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}']
+   Gốc  : 
+   Dịch : Bạn có muốn đổi tên thành {0} không?
+
+🔴 [lang_error_code.db || ErrorCode || 147]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}', '{1}']
+   Gốc  : 
+   Dịch : Tiêu hao {0}{1}, đổi thưởng thành công
+
+🔴 [lang_error_code.db || ErrorCode || 161]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}', '{1}']
+   Gốc  : 
+   Dịch : {0}+{1}
+
+🔴 [lang_error_code.db || ErrorCode || 943]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}']
+   Gốc  : 
+   Dịch : Không thể tham gia thế giới của người chơi có cấp bậc <ano=Resonance Nexus>Vực Minh</ano> cao hơn bản thân {0} cấp
+
+🔴 [lang_error_code.db || ErrorCode || 1040]
+   Lý do: Lệch biến: Gốc=[] -> Dịch=['{0}']
+   Gốc  : 
+   Dịch : Thông tin dẫn hướng trống, nhóm dẫn hướng: {0}
+
+... và 7251 mục khác.

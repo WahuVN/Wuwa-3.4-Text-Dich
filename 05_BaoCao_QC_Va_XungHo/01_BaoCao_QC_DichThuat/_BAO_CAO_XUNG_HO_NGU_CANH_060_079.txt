@@ -1,0 +1,1705 @@
+BÁO CÁO ĐẦY ĐỦ TEXT SỬA XƯNG HÔ THEO NGỮ CẢNH — PHẦN 060–079
+
+Tổng số key có thay đổi đại từ/xưng hô: 170
+Mỗi mục ghi đầy đủ part, key, dòng nguồn, dòng corrected, người nói/người nghe khi có thể suy ra từ cụm cảnh, câu trước–sau, text hiện tại và text đã sửa.
+Các trường hợp “ta–ngươi” được giữ có chủ ý được liệt kê trong một file riêng, không tính vào danh sách cần sửa.
+
+1. PART 060
+KEY: lang_multi_text.db||MultiText||STNPC_JZST_2_6
+Dòng nguồn: 17 | Dòng corrected: 7
+Ngữ cảnh trước: [STNPC_JZST_2_5] Nói theo cách của người Rinascita các anh, thì giống như ảo thuật tàng hình trong gánh hát vậy, có thể khiến anh biến mất trong nháy mắt.
+CN: 有了这东西，你再也不用愁怎么过关了。
+VI nguồn: Có món này rồi, ngươi chẳng còn phải lo làm sao qua ải nữa.
+VI sửa đầy đủ: Có món này rồi, anh sẽ không còn phải lo bị chặn ở cửa kiểm soát nữa.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [STNPC_JZST_2_7] Thật sao? Lá bùa tàng hình này thần kỳ quá đi! Nhưng mà cái này có hợp lệ không vậy?
+
+2. PART 060
+KEY: lang_multi_text.db||MultiText||STNPC_JZST_2_8
+Dòng nguồn: 27 | Dòng corrected: 13
+Ngữ cảnh trước: [STNPC_JZST_2_7] Thật sao? Lá bùa tàng hình này thần kỳ quá đi! Nhưng mà cái này có hợp lệ không vậy?
+CN: 时谅，怎么又是你！
+VI nguồn: Thời Lượng, sao lại là ngươi nữa vậy!
+VI sửa đầy đủ: Thời Lượng, sao lại là cậu nữa!
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [STNPC_JZST_2_9] Chết rồi, người quản lý tới rồi…anh quyết định nhanh lên, tôi còn loại Đạo Trưởng Cửu Phong nữa, anh có lấy không?
+
+3. PART 060
+KEY: lang_multi_text.db||MultiText||STNPC_JZST_47_1
+Dòng nguồn: 392 | Dòng corrected: 232
+Ngữ cảnh trước: [STNPC_JZST_46_2] Hoàn tiền! Tôi muốn hoàn tiền!!!
+CN: 这些年，谢谢你帮我和阿垒传信。
+VI nguồn: Bao năm nay, cảm ơn ngươi đã giúp ta và A Lũy đưa thư.
+VI sửa đầy đủ: Bao năm qua, cảm ơn cậu đã giúp tôi và A Lũy chuyển thư.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [STNPC_JZST_47_2] Mỗi khi trực ca, điều tôi và A Lũy mong chờ nhất chính là thấy cậu bay tới.
+
+4. PART 060
+KEY: lang_multi_text.db||MultiText||STNPC_JZST_47_2
+Dòng nguồn: 397 | Dòng corrected: 235
+Ngữ cảnh trước: [STNPC_JZST_47_1] Bao năm qua, cảm ơn cậu đã giúp tôi và A Lũy chuyển thư.
+CN: 值班时，我和阿垒最期待的就是看见你飞过来。
+VI nguồn: Lúc trực ca, điều ta và A Lũy mong chờ nhất chính là thấy ngươi bay tới.
+VI sửa đầy đủ: Mỗi khi trực ca, điều tôi và A Lũy mong chờ nhất chính là thấy cậu bay tới.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [STNPC_JZST_47_3] Ngày mai tôi sẽ mang di vật của anh ấy về nhà, nhưng không thể đưa cậu theo…
+
+5. PART 060
+KEY: lang_multi_text.db||MultiText||STNPC_JZST_47_3
+Dòng nguồn: 402 | Dòng corrected: 238
+Ngữ cảnh trước: [STNPC_JZST_47_2] Mỗi khi trực ca, điều tôi và A Lũy mong chờ nhất chính là thấy cậu bay tới.
+CN: 明天我就要带他的遗物回家了，但我带不走你……
+VI nguồn: Ngày mai ta sẽ mang di vật của anh ấy về nhà, nhưng ta không thể mang ngươi theo được……
+VI sửa đầy đủ: Ngày mai tôi sẽ mang di vật của anh ấy về nhà, nhưng không thể đưa cậu theo…
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [STNPC_JZST_47_4] Cậu có thể mang lá thư này đến Cữu Đình mà A Lũy thường lui tới được không?
+
+6. PART 060
+KEY: lang_multi_text.db||MultiText||STNPC_JZST_47_4
+Dòng nguồn: 407 | Dòng corrected: 241
+Ngữ cảnh trước: [STNPC_JZST_47_3] Ngày mai tôi sẽ mang di vật của anh ấy về nhà, nhưng không thể đưa cậu theo…
+CN: 这封信，你送到阿垒常去的咎庭，好吗？
+VI nguồn: Lá thư này, ngươi mang đến Cữu Đình mà A Lũy thường lui tới, được không?
+VI sửa đầy đủ: Cậu có thể mang lá thư này đến Cữu Đình mà A Lũy thường lui tới được không?
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [STNPC_JZST_47_5] Sau đó cậu sẽ được tự do, không cần chờ anh ấy hồi âm cho tôi nữa…
+
+7. PART 060
+KEY: lang_multi_text.db||MultiText||STNPC_JZST_47_5
+Dòng nguồn: 412 | Dòng corrected: 244
+Ngữ cảnh trước: [STNPC_JZST_47_4] Cậu có thể mang lá thư này đến Cữu Đình mà A Lũy thường lui tới được không?
+CN: 然后你就自由了，不用等他回信给我……
+VI nguồn: Sau đó ngươi được tự do rồi, không cần đợi anh ấy hồi thư cho ta nữa……
+VI sửa đầy đủ: Sau đó cậu sẽ được tự do, không cần chờ anh ấy hồi âm cho tôi nữa…
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [STNPC_JZST_48_1] Hậu Cần Lollo, trả tiền lại! Chắc chắn các người thu phí bừa rồi!
+
+8. PART 060
+KEY: lang_multi_text.db||MultiText||STNPC_JZST_51_3
+Dòng nguồn: 502 | Dòng corrected: 298
+Ngữ cảnh trước: [STNPC_JZST_51_2] Dạo này việc nhiều quá, chẳng còn thời gian ghé 「Uyên Trung Tiên」 nữa…
+CN: 爆三珍，锦霞珠，掌味天下，我好想你们！
+VI nguồn: Bạo Tam Trân, Cẩm Hà Châu, Chưởng Vị Thiên Hạ, ta nhớ các ngươi quá!
+VI sửa đầy đủ: Bạo Tam Trân, Cẩm Hà Châu, Chưởng Vị Thiên Hạ, tôi nhớ các món quá!
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [STNPC_JZST_51_4] Chỗ tôi có một phần đồ ăn…
+
+9. PART 060
+KEY: lang_multi_text.db||MultiText||STNPC_JZST_59_3
+Dòng nguồn: 677 | Dòng corrected: 403
+Ngữ cảnh trước: [STNPC_JZST_59_2] Dạo này việc nhiều quá, chẳng còn thời gian ghé 「Uyên Trung Tiên」 nữa…
+CN: 爆三珍，锦霞珠，掌味天下，我好想你们！
+VI nguồn: Bạo Tam Trân, Cẩm Hà Châu, Chưởng Vị Thiên Hạ, ta nhớ các ngươi quá!
+VI sửa đầy đủ: Bạo Tam Trân, Cẩm Hà Châu, Chưởng Vị Thiên Hạ, tôi nhớ các món quá!
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [STNPC_JZST_5_1] Ngài thật sự không cân nhắc ở lại Địa Giới Huyền Phương sao?
+
+10. PART 060
+KEY: lang_multi_text.db||MultiText||STNPC_RCGCST_2_1
+Dòng nguồn: 1117 | Dòng corrected: 667
+Ngữ cảnh trước: [STNPC_RCGCST_29_5] Nói thật, nếu có ai chịu đối xử với tôi như vậy, tôi cũng cam lòng đổ bệnh…
+CN: 你面前的玉驹行厝身上写着数行小字：
+VI nguồn: Trên thân Ngọc Câu Hành Thố trước mặt ngươi có viết vài dòng chữ nhỏ:
+VI sửa đầy đủ: Trên thân Ngọc Câu Hành Thố trước mặt bạn có viết vài dòng chữ nhỏ:
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [STNPC_RCGCST_2_2] "Xinh đẹp dễ chịu, Huyền Phương tươi đẹp, hoan nghênh quý khách ghé thăm tiệm tạp hóa tự phục vụ 'Mỹ Nghi Phương'."
+
+11. PART 060
+KEY: lang_multi_text.db||MultiText||STNPC_RCGCST_34_2
+Dòng nguồn: 1222 | Dòng corrected: 730
+Ngữ cảnh trước: [STNPC_RCGCST_34_11] Các con không cần lo lắng cho ta. Ta cứ ở nhà, đợi các con đánh thắng trận trở về.
+CN: 你左右望了望，没看到其他人的身影。老人似乎在对你说话。
+VI nguồn: Ngươi nhìn quanh, chẳng thấy bóng dáng ai khác. Ông lão dường như đang nói chuyện với ngươi.
+VI sửa đầy đủ: Bạn nhìn quanh nhưng không thấy bóng dáng ai khác. Ông lão dường như đang nói với bạn.
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [STNPC_RCGCST_34_3] Cụ ơi, cụ đang nói chuyện với cháu ạ?
+
+12. PART 061
+KEY: lang_multi_text.db||MultiText||STNPC_RCGCST_36_15
+Dòng nguồn: 52 | Dòng corrected: 28
+Ngữ cảnh trước: [STNPC_RCGCST_36_14] Đương nhiên không thành vấn đề, hai đứa con đã về, ta còn ra ngoài làm gì? Tất nhiên là ở nhà bầu bạn với các con.
+CN: 明雍朝你和淮宁慈祥地笑着，但你却感到了一阵悲凉。
+VI nguồn: Minh Ung mỉm cười hiền từ với ngươi và Hoài Ninh, nhưng ngươi lại cảm thấy một nỗi buồn thê lương.
+VI sửa đầy đủ: Minh Ung mỉm cười hiền từ với bạn và Hoài Ninh, nhưng cảnh tượng ấy lại khiến bạn chợt thấy xót xa.
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [STNPC_RCGCST_36_2] Trên đường có việc nên trễ… Con về rồi đây, cha.
+
+13. PART 061
+KEY: lang_multi_text.db||MultiText||STNPC_RCGCST_36_5
+Dòng nguồn: 72 | Dòng corrected: 40
+Ngữ cảnh trước: [STNPC_RCGCST_36_4] A, Minh Trọng con cũng đến rồi!
+CN: 一旁的淮宁朝你使了个眼色。你决定顺着老先生的话演下去。
+VI nguồn: Hoài Ninh bên cạnh nháy mắt với ngươi. Ngươi quyết định thuận theo lời ông cụ mà diễn tiếp.
+VI sửa đầy đủ: Hoài Ninh đứng bên cạnh khẽ ra hiệu bằng mắt. Bạn quyết định thuận theo lời ông lão và tiếp tục đóng vai.
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [STNPC_RCGCST_36_6] Lại đây lại đây, Minh Trọng, anh con cũng vừa mới đến, thế là cả nhà ta cuối cùng cũng đoàn viên rồi!
+
+14. PART 061
+KEY: lang_multi_text.db||MultiText||STNPC_XFCPYST1_28_5
+Dòng nguồn: 552 | Dòng corrected: 328
+Ngữ cảnh trước: [STNPC_XFCPYST1_28_4] Thủy hí chính do vị đường chủ đời đầu của Trác Quân Đường sáng tạo ra, các nghệ nhân thủy hí ở Mộng Châu gần như đều là thành viên Trác Quân Đường.
+CN: 你是外地来的吧？有机会去梦州的话，一定要到移渊上去看看，保准你大饱眼福。
+VI nguồn: Ngươi từ nơi khác đến à? Nếu có dịp đến Mộng Châu, nhất định phải lên Di Uyên xem thử, bảo đảm ngươi được no con mắt.
+VI sửa đầy đủ: Anh từ nơi khác đến à? Có dịp tới Mộng Châu thì nhất định phải ghé Di Uyên xem thử, bảo đảm sẽ được mở mang tầm mắt.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [STNPC_XFCPYST1_28_6] Nơi đó là đâu vậy? Là đại bản doanh của Trác Quân Đường sao?
+
+15. PART 061
+KEY: lang_multi_text.db||MultiText||STNPC_XFCPYST1_31_1
+Dòng nguồn: 647 | Dòng corrected: 385
+Ngữ cảnh trước: [STNPC_XFCPYST1_30_9] Vâng! Về nhà con cũng phải ăn thật no, tích đủ sức để chờ Tiểu Phán quay về!
+CN: 明馗，我带你回家了……
+VI nguồn: Minh Quỳ, ta đưa ngươi về nhà rồi đây…
+VI sửa đầy đủ: Minh Quỳ, tôi đưa cậu về nhà rồi đây…
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [STNPC_XFCPYST1_32_1] Minh Quỳ, tôi đưa cậu về nhà rồi đây…
+
+16. PART 061
+KEY: lang_multi_text.db||MultiText||STNPC_XFCPYST1_32_1
+Dòng nguồn: 652 | Dòng corrected: 388
+Ngữ cảnh trước: [STNPC_XFCPYST1_31_1] Minh Quỳ, tôi đưa cậu về nhà rồi đây…
+CN: 明馗，我带你回家了……
+VI nguồn: Minh Quỳ, ta đưa ngươi về nhà rồi đây…
+VI sửa đầy đủ: Minh Quỳ, tôi đưa cậu về nhà rồi đây…
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [STNPC_XFCPYST1_32_2] Vị Định Huyền Vệ trước mặt bạn lấy ra một chiếc mũ giáp phủ đầy dấu vết, rồi trịnh trọng đặt trước cửa nhà.
+
+17. PART 061
+KEY: lang_multi_text.db||MultiText||STNPC_XFCPYST1_32_2
+Dòng nguồn: 657 | Dòng corrected: 391
+Ngữ cảnh trước: [STNPC_XFCPYST1_32_1] Minh Quỳ, tôi đưa cậu về nhà rồi đây…
+CN: 你面前的定玄卫拿出了一个痕迹斑驳的头盔，郑重地放在了屋前。
+VI nguồn: Vị Định Huyền Vệ trước mặt ngươi lấy ra một chiếc mũ giáp loang lổ vết tích, trang trọng đặt trước cửa nhà.
+VI sửa đầy đủ: Vị Định Huyền Vệ trước mặt bạn lấy ra một chiếc mũ giáp phủ đầy dấu vết, rồi trịnh trọng đặt trước cửa nhà.
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [STNPC_XFCPYST1_33_1] Món Mộng Châu vị cay quá nhạt, thật sự ăn không quen.
+
+18. PART 061
+KEY: lang_multi_text.db||MultiText||STNPC_XFCPYST1_33_3
+Dòng nguồn: 672 | Dòng corrected: 400
+Ngữ cảnh trước: [STNPC_XFCPYST1_33_2] Chẳng nói so với Trọng Châu, ngay cả Kim Châu cũng đậm đà hơn ở đây.
+CN: 你那是琢羽雕吃多了石头，尝不惯细糠！
+VI nguồn: Ngươi đúng là Trác Vũ Điêu ăn đá nhiều quá, nên nếm không quen cám mịn thôi!
+VI sửa đầy đủ: Cậu đúng là Trác Vũ Điêu ăn đá nhiều quá, nên không quen nổi món thanh đạm!
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [STNPC_XFCPYST1_34_1] Trong Thần Cung chắc chắn có cả ngàn Cơ Khôi hầu hạ Tâm Nguyệt Hồ…
+
+19. PART 061
+KEY: lang_multi_text.db||MultiText||STNPC_XFCPYST1_35_2
+Dòng nguồn: 697 | Dòng corrected: 415
+Ngữ cảnh trước: [STNPC_XFCPYST1_35_1] Ông lão bên kia phố lúc nào cũng dắt chim đi dạo là ai vậy?
+CN: 你放尊重点，那可是定玄卫长秋鸿！
+VI nguồn: Ngươi tôn trọng chút đi, đó chính là Định Huyền Vệ Trường Thu Hồng đấy!
+VI sửa đầy đủ: Nói năng cho tôn trọng một chút, đó là Vệ Trưởng Thu Hồng đấy!
+Lý do: Đồng bộ đại từ theo ngữ cảnh: {'ngươi': 1} → {}.
+Ngữ cảnh sau: [STNPC_XFCPYST1_36_1] Có kẻ tên là Giáp Đại Vương nói muốn tái dựng cái gọi là đế quốc cơ giáp gì đó, có phải đang lừa đảo không?
+
+20. PART 061
+KEY: lang_multi_text.db||MultiText||STNPC_XFCPYST1_37_2
+Dòng nguồn: 722 | Dòng corrected: 430
+Ngữ cảnh trước: [STNPC_XFCPYST1_37_1] Thấy con Dung Kim Thủ này chưa? Nó là điềm lành mang lại tài vận đấy.
+CN: 你就是再有钱，在这玄方地界里也没啥好买的……
+VI nguồn: Ngươi có giàu đến mấy, ở vùng đất Huyền Phương này cũng chẳng có gì đáng mua đâu…
+VI sửa đầy đủ: Cậu có giàu đến mấy thì ở Địa Giới Huyền Phương này cũng chẳng có gì đáng mua đâu…
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [STNPC_XFCPYST1_37_3] Cậu cứ mỉa tôi đi, lúc ngủ nó vẫn chỉ nằm trên mái nhà tôi, chẳng bao giờ sang chỗ cậu!
+
+21. PART 061
+KEY: lang_multi_text.db||MultiText||STNPC_XFCPYST1_37_3
+Dòng nguồn: 727 | Dòng corrected: 433
+Ngữ cảnh trước: [STNPC_XFCPYST1_37_2] Cậu có giàu đến mấy thì ở Địa Giới Huyền Phương này cũng chẳng có gì đáng mua đâu…
+CN: 你再怎么酸我，它睡觉也只趴我家房顶，从不去你那！
+VI nguồn: Ngươi có mỉa mai ta thế nào đi nữa, lúc ngủ nó cũng chỉ nằm trên mái nhà ta, chưa bao giờ sang chỗ ngươi!
+VI sửa đầy đủ: Cậu cứ mỉa tôi đi, lúc ngủ nó vẫn chỉ nằm trên mái nhà tôi, chẳng bao giờ sang chỗ cậu!
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [STNPC_XFCPYST1_38_1] Ta đi đến đâu, đèn dẫn đường sáng đến đó, Cơ Khôi thật là tiện lợi.
+
+22. PART 061
+KEY: lang_multi_text.db||MultiText||STNPC_XFCPYST1_41_2
+Dòng nguồn: 782 | Dòng corrected: 466
+Ngữ cảnh trước: [STNPC_XFCPYST1_41_1] Đến nếm thử đi! Mì Trọng Châu bánh Kim Châu, đồ chiên Việt Châu canh Mộng Châu!
+CN: 卖这么杂，你这味道地不地道啊？
+VI nguồn: Bán tạp nham thế này, hương vị của ngươi có chuẩn không đấy?
+VI sửa đầy đủ: Bán đủ thứ thế này, món ăn của anh có đúng vị không đấy?
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [STNPC_XFCPYST1_42_1] Hàng mới về từ Tỉnh Sạn đây, ai đi ngang qua chớ bỏ lỡ nhé!
+
+23. PART 061
+KEY: lang_multi_text.db||MultiText||STNPC_XFDJPYNPCZX_10_4
+Dòng nguồn: 1082 | Dòng corrected: 646
+Ngữ cảnh trước: [STNPC_XFDJPYNPCZX_10_3] Từ đường trong thôn…lần này lại phải thêm tên mới rồi…kẻ đầu bạc tiễn người đầu xanh, trong lòng thật chẳng dễ chịu chút nào.
+CN: 说起来， 你家那小子不也一心参军么？我看要不让他打消这个念头，送去梦州城读书，求个安稳仕途……
+VI nguồn: Nói mới nhớ, thằng nhóc nhà ngươi chẳng phải cũng một lòng muốn tòng quân sao? Ta thấy hay là bảo nó dẹp cái ý định đó đi, gửi đến thành Mộng Châu học hành, tìm một con đường công danh ổn định……
+VI sửa đầy đủ: Nói mới nhớ, thằng bé nhà cậu chẳng phải cũng một lòng muốn tòng quân sao? Tôi thấy hay là khuyên nó bỏ ý định đó, gửi đến Mộng Châu Thành học hành để tìm một con đường công danh ổn định…
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [STNPC_XFDJPYNPCZX_10_5] Tôi khuyên từ lâu rồi… Thằng bé cứng đầu, chẳng chịu nghe lời người lớn. Mỗi người một chí hướng, cứ để nó đi vậy…
+
+24. PART 061
+KEY: lang_multi_text.db||MultiText||STNPC_XFDJPYNPCZX_10_5
+Dòng nguồn: 1087 | Dòng corrected: 649
+Ngữ cảnh trước: [STNPC_XFDJPYNPCZX_10_4] Nói mới nhớ, thằng bé nhà cậu chẳng phải cũng một lòng muốn tòng quân sao? Tôi thấy hay là khuyên nó bỏ ý định đó, gửi đến Mộng Châu Thành học hành để tìm một con đường công danh ổn định…
+CN: 早劝过啦……小子死犟，从不听长辈的话……人各有志，让他去吧……
+VI nguồn: Ta khuyên sớm rồi mà… Thằng nhóc cứng đầu, chẳng bao giờ chịu nghe lời người lớn… Mỗi người mỗi chí, cứ để nó đi vậy…
+VI sửa đầy đủ: Tôi khuyên từ lâu rồi… Thằng bé cứng đầu, chẳng chịu nghe lời người lớn. Mỗi người một chí hướng, cứ để nó đi vậy…
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [STNPC_XFDJPYNPCZX_110_1] A Ngạn cứ luôn miệng nói cậu ấy muốn làm Định Huyền Vệ…
+
+25. PART 062
+KEY: lang_multi_text.db||MultiText||STNPC_XFDJPYNPCZX_556_1
+Dòng nguồn: 612 | Dòng corrected: 364
+Ngữ cảnh trước: [STNPC_XFDJPYNPCZX_555_1] Sao lại…
+CN: 你们啊……还远远没练到家。
+VI nguồn: Các ngươi à... còn lâu mới luyện tới nơi tới chốn.
+VI sửa đầy đủ: Các cậu vẫn còn phải luyện thêm nhiều lắm.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [STNPC_XFDJPYNPCZX_557_1] Vâng…! Xin Vệ Trưởng chỉ giáo!
+
+26. PART 062
+KEY: lang_multi_text.db||MultiText||STNPC_XFDJPYNPCZX_565_1
+Dòng nguồn: 667 | Dòng corrected: 397
+Ngữ cảnh trước: [STNPC_XFDJPYNPCZX_564_1] Ơ… vẫn nhìn không rõ…
+CN: ……承让了，我们点到为止吧。
+VI nguồn: ...Nhường ngươi rồi, chúng ta dừng ở đây thôi.
+VI sửa đầy đủ: Đa tạ đã nhường. Chúng ta dừng ở đây thôi.
+Lý do: Đồng bộ đại từ theo ngữ cảnh: {'ngươi': 1, 'chúng ta': 1} → {'chúng ta': 1}.
+Ngữ cảnh sau: [STNPC_XFDJPYNPCZX_566_1] Lợi hại thật, tôi chưa chạm được vào anh lần nào…
+
+27. PART 062
+KEY: lang_multi_text.db||MultiText||ST_XFDJGNNPC_18_1
+Dòng nguồn: 972 | Dòng corrected: 580
+Ngữ cảnh trước: [ST_XFDJGNNPC_1800_1] Mau, mau lại đây ai đó… đỡ Đại Vương ta dậy!
+CN: 你将这只高大的机傀扶了起来。
+VI nguồn: Ngươi đỡ con Cơ Khôi cao lớn này dậy.
+VI sửa đầy đủ: Bạn đỡ cỗ Cơ Khôi cao lớn đứng dậy.
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [ST_XFDJGNNPC_18_2] Khụ khụ… Ngươi cũng muốn gia nhập đại nghiệp tái thiết Đế Quốc Cơ Giáp của ta sao?
+
+28. PART 063
+KEY: lang_multi_text.db||MultiText||Sheriff_ClueDesc_10
+Dòng nguồn: 232 | Dòng corrected: 136
+Ngữ cảnh trước: [Sheriff_ClueDesc_1] Người qua đường gần đó nói, Thú Tôn Tễ Tức tuần tra ở vùng này gần đây đã mất tích…
+CN: 地面出现了变形和复原的痕迹，这种操纵岩石的共鸣能力不适合战斗。你在今州见到过拥有类似共鸣能力的工匠。
+VI nguồn: Trên mặt đất xuất hiện dấu vết biến dạng rồi phục hồi, loại năng lực cộng hưởng thao túng đá này không thích hợp cho chiến đấu. Ngươi từng gặp người thợ có năng lực cộng hưởng tương tự ở Kim Châu.
+VI sửa đầy đủ: Trên mặt đất xuất hiện dấu vết biến dạng rồi phục hồi, loại năng lực cộng hưởng thao túng đá này không thích hợp cho chiến đấu. Bạn từng gặp người thợ có năng lực cộng hưởng tương tự ở Kim Châu.
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [Sheriff_ClueDesc_11] Mảnh giấy xé ra từ sổ tay, viết những từ "Rinascita", "công trình tái thiết", "cử phái đi" và "cầu" bằng chữ Hoàng Long.
+
+29. PART 063
+KEY: lang_multi_text.db||MultiText||Sheriff_ClueDesc_13
+Dòng nguồn: 247 | Dòng corrected: 145
+Ngữ cảnh trước: [Sheriff_ClueDesc_12] Trong đoạn hình ảnh mà Tuần Tiêu Hoàn ghi lại, không hề xuất hiện bóng dáng của kẻ đứng sau… có lẽ chúng đã dùng cách nào đó gây nhiễu bản ghi của Giếng Tứ Minh.
+CN: 由巡霄环记录下的一份影像。\n绑架者似乎知道你的存在，并显然在今州时就对你积怨颇深。
+VI nguồn: Một đoạn hình ảnh được Tuần Tiêu Hoàn ghi lại.\nKẻ bắt cóc dường như biết đến sự tồn tại của ngươi, và rõ ràng đã ôm hận sâu với ngươi từ khi còn ở Kim Châu.
+VI sửa đầy đủ: Một đoạn hình ảnh được Tuần Tiêu Hoàn ghi lại.\nKẻ bắt cóc dường như biết đến sự tồn tại của bạn, và rõ ràng đã ôm hận sâu với bạn từ khi còn ở Kim Châu.
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [Sheriff_ClueDesc_14] Một đoạn hình ảnh được Tuần Tiêu Hoàn ghi lại.\nMục đích của kẻ bắt cóc dường như là dụ bạn đến điều tra, còn mục tiêu thứ yếu có thể là dụ Tuần Phương Sứ đến, nhằm làm suy yếu lực lượng bảo vệ Giếng Tứ Minh.
+
+30. PART 063
+KEY: lang_multi_text.db||MultiText||Sheriff_ClueDesc_14
+Dòng nguồn: 252 | Dòng corrected: 148
+Ngữ cảnh trước: [Sheriff_ClueDesc_13] Một đoạn hình ảnh được Tuần Tiêu Hoàn ghi lại.\nKẻ bắt cóc dường như biết đến sự tồn tại của bạn, và rõ ràng đã ôm hận sâu với bạn từ khi còn ở Kim Châu.
+CN: 由巡霄环记录下的一份影像。\n绑架者的目的似乎是引诱你前来调查，而次要的目标可能是引诱巡方使前来，以削弱对四鸣井的保护力量。
+VI nguồn: Một đoạn hình ảnh được Tuần Tiêu Hoàn ghi lại.\nMục đích của kẻ bắt cóc dường như là dụ ngươi đến điều tra, còn mục tiêu thứ yếu có thể là dụ Tuần Phương Sứ đến, nhằm làm suy yếu lực lượng bảo vệ Tứ Minh Tỉnh.
+VI sửa đầy đủ: Một đoạn hình ảnh được Tuần Tiêu Hoàn ghi lại.\nMục đích của kẻ bắt cóc dường như là dụ bạn đến điều tra, còn mục tiêu thứ yếu có thể là dụ Tuần Phương Sứ đến, nhằm làm suy yếu lực lượng bảo vệ Giếng Tứ Minh.
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [Sheriff_ClueDesc_15] Hai thị dân trong lúc trò chuyện có nhắc đến, quỹ này chưa hề báo cáo với Ngoại Sự Phủ.
+
+31. PART 063
+KEY: lang_multi_text.db||MultiText||Sheriff_EventProgress_10_Content_2
+Dòng nguồn: 732 | Dòng corrected: 436
+Ngữ cảnh trước: [Sheriff_EventProgress_10_Content_1] Một Cơ Khôi được đưa đi sửa gần đây, giữa lúc hiệu chỉnh do lệch bộ phận, hiện chỉ có thể di chuyển lùi. Cơ Khôi bị lỗi này nay bất ngờ đi lạc…
+CN: 在方擎西峰的万机台上方，你发现了这个机傀留下的痕迹。
+VI nguồn: Ở phía trên Vạn Cơ Đài của Phương Kình Tây Phong, ngươi phát hiện dấu vết mà Cơ Khôi này để lại.
+VI sửa đầy đủ: Ở phía trên Vạn Cơ Đài của Phương Kình Tây Phong, bạn phát hiện dấu vết mà Cơ Khôi này để lại.
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [Sheriff_EventProgress_10_Content_3] Bạn quyết định lần theo manh mối tiếp tục truy tra, cho đến khi tìm ra Cơ Khôi bị lỗi đi lạc.
+
+32. PART 063
+KEY: lang_multi_text.db||MultiText||Sheriff_EventProgress_10_Content_3
+Dòng nguồn: 737 | Dòng corrected: 439
+Ngữ cảnh trước: [Sheriff_EventProgress_10_Content_2] Ở phía trên Vạn Cơ Đài của Phương Kình Tây Phong, bạn phát hiện dấu vết mà Cơ Khôi này để lại.
+CN: 你决定沿着线索继续追查，直到找出走失的故障机傀。
+VI nguồn: Ngươi quyết định lần theo manh mối tiếp tục truy tra, cho đến khi tìm ra Cơ Khôi bị lỗi đi lạc.
+VI sửa đầy đủ: Bạn quyết định lần theo manh mối tiếp tục truy tra, cho đến khi tìm ra Cơ Khôi bị lỗi đi lạc.
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [Sheriff_EventProgress_10_Content_4] Lần theo dấu chân, cuối cùng bạn đã tìm được nơi Cơ Khôi ở. Nhưng Cơ Khôi xuất hiện trước mắt bạn lại có tới ba con… bạn cần tìm ra đáp án đúng trong số đó.
+
+33. PART 063
+KEY: lang_multi_text.db||MultiText||Sheriff_EventProgress_10_Content_4
+Dòng nguồn: 742 | Dòng corrected: 442
+Ngữ cảnh trước: [Sheriff_EventProgress_10_Content_3] Bạn quyết định lần theo manh mối tiếp tục truy tra, cho đến khi tìm ra Cơ Khôi bị lỗi đi lạc.
+CN: 沿着脚印，你终于找到了机傀的所在地。但出现在你眼前的机傀居然有三具……你需要从中找出正确答案。
+VI nguồn: Lần theo dấu chân, cuối cùng ngươi đã tìm được nơi Cơ Khôi ở. Nhưng Cơ Khôi xuất hiện trước mắt ngươi lại có tới ba con…… ngươi cần tìm ra đáp án đúng trong số đó.
+VI sửa đầy đủ: Lần theo dấu chân, cuối cùng bạn đã tìm được nơi Cơ Khôi ở. Nhưng Cơ Khôi xuất hiện trước mắt bạn lại có tới ba con… bạn cần tìm ra đáp án đúng trong số đó.
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [Sheriff_EventProgress_10_Title_1] 01. Cơ Khôi đi lạc
+
+34. PART 063
+KEY: lang_multi_text.db||MultiText||Sheriff_EventProgress_11_Content_2
+Dòng nguồn: 777 | Dòng corrected: 463
+Ngữ cảnh trước: [Sheriff_EventProgress_11_Content_1] Một Tâm Khôi thường rời khỏi phạm vi tuần tra mà nó phụ trách, và di chuyển về hướng Vụ Ẩn Các…
+CN: 在雾隐阁的一个囿间中，你发现了这个心傀留下的痕迹。
+VI nguồn: Trong một hựu gian của Vụ Ẩn Các, ngươi phát hiện dấu vết mà Tâm Khôi này để lại.
+VI sửa đầy đủ: Trong một hựu gian của Vụ Ẩn Các, bạn phát hiện dấu vết mà Tâm Khôi này để lại.
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [Sheriff_EventProgress_11_Content_3] Trong Vụ Ẩn Các bạn không điều tra ra được nguyên nhân Tâm Khôi này trốn ca, quyết định đến Trầm Xu Uyên tiếp tục điều tra.
+
+35. PART 063
+KEY: lang_multi_text.db||MultiText||Sheriff_EventProgress_11_Content_3
+Dòng nguồn: 782 | Dòng corrected: 466
+Ngữ cảnh trước: [Sheriff_EventProgress_11_Content_2] Trong một hựu gian của Vụ Ẩn Các, bạn phát hiện dấu vết mà Tâm Khôi này để lại.
+CN: 在雾隐阁中你没能调查出这个心傀跷班的原因，决定前往沉枢渊继续调查。
+VI nguồn: Trong Vụ Ẩn Các ngươi không điều tra ra được nguyên nhân Tâm Khôi này trốn ca, quyết định đến Trầm Khu Uyên tiếp tục điều tra.
+VI sửa đầy đủ: Trong Vụ Ẩn Các bạn không điều tra ra được nguyên nhân Tâm Khôi này trốn ca, quyết định đến Trầm Xu Uyên tiếp tục điều tra.
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [Sheriff_EventProgress_11_Title_1] 01. Cơ Khôi trốn ca
+
+36. PART 063
+KEY: lang_multi_text.db||MultiText||Sheriff_EventProgress_4_Content_1
+Dòng nguồn: 992 | Dòng corrected: 592
+Ngữ cảnh trước: [Sheriff_EventProgress_4] Thưởng ủy thác
+CN: 外事府收到报案，漂泊者——也就是你——很可能失踪了。
+VI nguồn: Ngoại Sự Phủ nhận được báo án, Lữ Khách — cũng chính là ngươi — rất có thể đã mất tích.
+VI sửa đầy đủ: Ngoại Sự Phủ nhận được báo án, Rover — cũng chính là bạn — rất có thể đã mất tích.
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [Sheriff_EventProgress_4_Content_2] Theo manh mối do cư dân A Sâm cung cấp, "Rover" kia dường như đã bị bắt cóc.
+
+37. PART 063
+KEY: lang_multi_text.db||MultiText||Sheriff_EventProgress_4_Content_3
+Dòng nguồn: 1002 | Dòng corrected: 598
+Ngữ cảnh trước: [Sheriff_EventProgress_4_Content_2] Theo manh mối do cư dân A Sâm cung cấp, "Rover" kia dường như đã bị bắt cóc.
+CN: 你在现场发现了打斗的痕迹，以及绑架者留下的影像。
+VI nguồn: Ngươi phát hiện dấu vết ẩu đả tại hiện trường, cùng đoạn hình ảnh mà kẻ bắt cóc để lại.
+VI sửa đầy đủ: Bạn phát hiện dấu vết ẩu đả tại hiện trường, cùng đoạn hình ảnh mà kẻ bắt cóc để lại.
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [Sheriff_EventProgress_4_Content_4] Bạn lần theo manh mối tìm được "Rover" bị bắt cóc, và đánh bại Tàn Tượng canh giữ họ.
+
+38. PART 063
+KEY: lang_multi_text.db||MultiText||Sheriff_EventProgress_4_Content_4
+Dòng nguồn: 1007 | Dòng corrected: 601
+Ngữ cảnh trước: [Sheriff_EventProgress_4_Content_3] Bạn phát hiện dấu vết ẩu đả tại hiện trường, cùng đoạn hình ảnh mà kẻ bắt cóc để lại.
+CN: 你跟随线索找到了被绑架的“漂泊者”，并击败了看守他们的残象。
+VI nguồn: Ngươi lần theo manh mối tìm được "Lữ Khách" bị bắt cóc, và đánh bại Tàn Tượng canh giữ họ.
+VI sửa đầy đủ: Bạn lần theo manh mối tìm được "Rover" bị bắt cóc, và đánh bại Tàn Tượng canh giữ họ.
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [Sheriff_EventProgress_4_Title_1] 01. "Sự kiện Rover mất tích"
+
+39. PART 063
+KEY: lang_multi_text.db||MultiText||Sheriff_EventProgress_5_Content_3
+Dòng nguồn: 1047 | Dòng corrected: 625
+Ngữ cảnh trước: [Sheriff_EventProgress_5_Content_2] Theo manh mối do Phù Lăng cung cấp, trước khi mất tích Giản Tập nghi <color=#e3e5ae>đã cãi vã với ai đó</color>.
+CN: 在调查现场后，你发现简集疑似是<color=#e3e5ae>被和他合作的“行商”带走了</color>。
+VI nguồn: Sau khi điều tra hiện trường, ngươi phát hiện Giản Tập nghi <color=#e3e5ae>đã bị "Hành Thương" hợp tác với ông ta đưa đi</color>.
+VI sửa đầy đủ: Sau khi điều tra hiện trường, bạn phát hiện Giản Tập nghi <color=#e3e5ae>đã bị "Hành Thương" hợp tác với ông ta đưa đi</color>.
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [Sheriff_EventProgress_5_Content_4] Sau khi điều tra hiện trường, bạn phát hiện tuy có điểm nghi ngờ, nhưng đáng lẽ là do Giản Tập làm.
+
+40. PART 063
+KEY: lang_multi_text.db||MultiText||Sheriff_EventProgress_5_Content_4
+Dòng nguồn: 1052 | Dòng corrected: 628
+Ngữ cảnh trước: [Sheriff_EventProgress_5_Content_3] Sau khi điều tra hiện trường, bạn phát hiện Giản Tập nghi <color=#e3e5ae>đã bị "Hành Thương" hợp tác với ông ta đưa đi</color>.
+CN: 在调查现场后，你发现虽然有疑点，但应该就是简集所为。
+VI nguồn: Sau khi điều tra hiện trường, ngươi phát hiện tuy có điểm nghi ngờ, nhưng đáng lẽ là do Giản Tập làm.
+VI sửa đầy đủ: Sau khi điều tra hiện trường, bạn phát hiện tuy có điểm nghi ngờ, nhưng đáng lẽ là do Giản Tập làm.
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [Sheriff_EventProgress_5_Content_5] Bạn lần theo manh mối tìm được Giản Tập, cùng bọn "Hành Thương". Và sau khi đánh bại "Hành Thương" đã thu hồi số vốn.
+
+41. PART 063
+KEY: lang_multi_text.db||MultiText||Sheriff_EventProgress_5_Content_5
+Dòng nguồn: 1057 | Dòng corrected: 631
+Ngữ cảnh trước: [Sheriff_EventProgress_5_Content_4] Sau khi điều tra hiện trường, bạn phát hiện tuy có điểm nghi ngờ, nhưng đáng lẽ là do Giản Tập làm.
+CN: 你跟随线索找到了简集，以及“行商”等人。并在击败“行商”后追回了资金。
+VI nguồn: Ngươi lần theo manh mối tìm được Giản Tập, cùng bọn "Hành Thương". Và sau khi đánh bại "Hành Thương" đã thu hồi số vốn.
+VI sửa đầy đủ: Bạn lần theo manh mối tìm được Giản Tập, cùng bọn "Hành Thương". Và sau khi đánh bại "Hành Thương" đã thu hồi số vốn.
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [Sheriff_EventProgress_5_Title_1] 01. Kẻ bỏ trốn khả nghi
+
+42. PART 063
+KEY: lang_multi_text.db||MultiText||Sheriff_EventProgress_6_Content_2
+Dòng nguồn: 1097 | Dòng corrected: 655
+Ngữ cảnh trước: [Sheriff_EventProgress_6_Content_1] Ngoại Sự Phủ nhận được tin báo, có thương nhân ngoại lai giao dịch Cơ Khôi trong Huyền Phương Thành.
+CN: 在找到了买家后，你发现他并不知道自己购买了机傀。
+VI nguồn: Sau khi tìm được người mua, ngươi phát hiện anh ta không hề biết mình đã mua Cơ Khôi.
+VI sửa đầy đủ: Sau khi tìm được người mua, bạn phát hiện anh ta không hề biết mình đã mua Cơ Khôi.
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [Sheriff_EventProgress_6_Content_3] Để tìm ra sự thật, bạn quyết định đi tìm "nghệ sĩ" bán đồ thủ công.
+
+43. PART 063
+KEY: lang_multi_text.db||MultiText||Sheriff_EventProgress_6_Content_3
+Dòng nguồn: 1102 | Dòng corrected: 658
+Ngữ cảnh trước: [Sheriff_EventProgress_6_Content_2] Sau khi tìm được người mua, bạn phát hiện anh ta không hề biết mình đã mua Cơ Khôi.
+CN: 为了找到事情的真相，你决定去找贩卖工艺品的“艺术家”。
+VI nguồn: Để tìm ra sự thật, ngươi quyết định đi tìm "nghệ sĩ" bán đồ thủ công.
+VI sửa đầy đủ: Để tìm ra sự thật, bạn quyết định đi tìm "nghệ sĩ" bán đồ thủ công.
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [Sheriff_EventProgress_6_Title_1] 01. Người mua Cơ Khôi
+
+44. PART 064
+KEY: lang_multi_text.db||MultiText||Sheriff_QuestDesc_End_11
+Dòng nguồn: 17 | Dòng corrected: 7
+Ngữ cảnh trước: [Sheriff_QuestDesc_End_10] Chuyện "Vụ Đăng Dạ Hành" quái dị ly kỳ ấy, hóa ra là câu chuyện thoại bản của Trang Ngu.
+CN: 经过你的指导，机傀小队顺利通过了实战考核，但队长认为它们仍有进步的空间。
+VI nguồn: Nhờ sự chỉ dẫn của ngươi, đội Cơ Khôi đã vượt qua khảo hạch thực chiến suôn sẻ, nhưng đội trưởng cho rằng chúng vẫn còn không gian để tiến bộ.
+VI sửa đầy đủ: Nhờ sự chỉ dẫn của bạn, đội Cơ Khôi đã thuận lợi vượt qua kỳ sát hạch thực chiến, nhưng đội trưởng cho rằng chúng vẫn còn có thể tiến bộ thêm.
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [Sheriff_QuestDesc_End_12] Bạn đã đầu tư vào quỹ mà Giản Tập nói đến, nhưng liệu có thật sự nhận được khoản lợi tức ông ta hứa hẹn không?
+
+45. PART 064
+KEY: lang_multi_text.db||MultiText||Sheriff_QuestDesc_End_12
+Dòng nguồn: 22 | Dòng corrected: 10
+Ngữ cảnh trước: [Sheriff_QuestDesc_End_11] Nhờ sự chỉ dẫn của bạn, đội Cơ Khôi đã thuận lợi vượt qua kỳ sát hạch thực chiến, nhưng đội trưởng cho rằng chúng vẫn còn có thể tiến bộ thêm.
+CN: 你对简集所说的基金会进行了投资，但真能拿到他承诺的分红吗？
+VI nguồn: Ngươi đã đầu tư vào quỹ mà Giản Tập nói đến, nhưng liệu có thật sự nhận được khoản lợi tức ông ta hứa hẹn không?
+VI sửa đầy đủ: Bạn đã đầu tư vào quỹ mà Giản Tập nói đến, nhưng liệu có thật sự nhận được khoản lợi tức ông ta hứa hẹn không?
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [Sheriff_QuestDesc_End_13] Bạn đã cứu Giản Tập ra, và phát hiện sự kiện này do Kẻ Lưu Đày trà trộn vào Huyền Phương Thành gây ra. Bạn đã thu hồi số vốn, và với sự hỗ trợ của Ngoại Sự Phủ đã trả chúng lại cho nạn nhân.
+
+46. PART 064
+KEY: lang_multi_text.db||MultiText||Sheriff_QuestDesc_End_13
+Dòng nguồn: 27 | Dòng corrected: 13
+Ngữ cảnh trước: [Sheriff_QuestDesc_End_12] Bạn đã đầu tư vào quỹ mà Giản Tập nói đến, nhưng liệu có thật sự nhận được khoản lợi tức ông ta hứa hẹn không?
+CN: 你救出了简集，并发现这起事件是混入玄方城的流放者所为。你追回了资金，并在外事府的协助下将它们还给了受害者。
+VI nguồn: Ngươi đã cứu Giản Tập ra, và phát hiện sự kiện này do Kẻ Lưu Đày trà trộn vào Huyền Phương Thành gây ra. Ngươi đã thu hồi số vốn, và với sự hỗ trợ của Ngoại Sự Phủ đã trả chúng lại cho nạn nhân.
+VI sửa đầy đủ: Bạn đã cứu Giản Tập ra, và phát hiện sự kiện này do Kẻ Lưu Đày trà trộn vào Huyền Phương Thành gây ra. Bạn đã thu hồi số vốn, và với sự hỗ trợ của Ngoại Sự Phủ đã trả chúng lại cho nạn nhân.
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [Sheriff_QuestDesc_End_2] Sóng gió Cơ Khôi mất kiểm soát ở Huyền Phương Thành nổi lên đột ngột, bạn được ủy thác điều tra Thẩm Uyên — kẻ đã ẩn nấp trong Bộ Thiên Công hơn hai mươi năm. Lần theo manh mối tìm được Cửu Ngô, ông ta lấy danh mục Cơ Khôi nguy hiểm làm điều kiện, yêu cầu bạn xóa bản ghi bảo trì của mình. Bạn giả vờ đồng ý, sau đó ngầm phối hợp với chuyên viên 「Thiên Công Lục」, dưới sự khuyên nhủ của Sonya, cuối cùng Cửu Ngô đã tỉnh ngộ, chủ động giao ra danh mục, dọn sạch chướng ngại cho công tác rà soát.
+
+47. PART 064
+KEY: lang_multi_text.db||MultiText||Sheriff_QuestDesc_End_2
+Dòng nguồn: 32 | Dòng corrected: 16
+Ngữ cảnh trước: [Sheriff_QuestDesc_End_13] Bạn đã cứu Giản Tập ra, và phát hiện sự kiện này do Kẻ Lưu Đày trà trộn vào Huyền Phương Thành gây ra. Bạn đã thu hồi số vốn, và với sự hỗ trợ của Ngoại Sự Phủ đã trả chúng lại cho nạn nhân.
+CN: 玄方城机傀失控风波骤起，你受托调查潜伏天工部二十余年的沈渊。循着线索找到久梧，他以风险机傀名录为筹码，要求你删除其维修记录。你假意应承，后与「天工箓」专员暗中配合，在索尼娅的劝说下，久梧终于幡然醒悟，主动交出名录，为筛查工作扫清障碍。
+VI nguồn: Sóng gió Cơ Khôi mất kiểm soát ở Huyền Phương Thành nổi lên đột ngột, ngươi được ủy thác điều tra Thẩm Uyên — kẻ đã ẩn nấp trong Bộ Thiên Công hơn hai mươi năm. Lần theo manh mối tìm được Cửu Ngô, ông ta lấy danh mục Cơ Khôi nguy hiểm làm điều kiện, yêu cầu ngươi xóa bản ghi bảo trì của mình. Ngươi giả vờ đồng ý, sau đó ngầm phối hợp với chuyên viên 「Thiên Công Lục」, dưới sự khuyên nhủ của Sonia, cuối cùng Cửu Ngô đã tỉnh ngộ, chủ động giao ra danh mục, dọn sạch chướng ngại cho công tác rà soát.
+VI sửa đầy đủ: Sóng gió Cơ Khôi mất kiểm soát ở Huyền Phương Thành nổi lên đột ngột, bạn được ủy thác điều tra Thẩm Uyên — kẻ đã ẩn nấp trong Bộ Thiên Công hơn hai mươi năm. Lần theo manh mối tìm được Cửu Ngô, ông ta lấy danh mục Cơ Khôi nguy hiểm làm điều kiện, yêu cầu bạn xóa bản ghi bảo trì của mình. Bạn giả vờ đồng ý, sau đó ngầm phối hợp với chuyên viên 「Thiên Công Lục」, dưới sự khuyên nhủ của Sonya, cuối cùng Cửu Ngô đã tỉnh ngộ, chủ động giao ra danh mục, dọn sạch chướng ngại cho công tác rà soát.
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [Sheriff_QuestDesc_End_2_2] Sóng gió Cơ Khôi mất kiểm soát ở Huyền Phương Thành nổi lên đột ngột, bạn được ủy thác điều tra Thẩm Uyên — kẻ đã ẩn nấp trong Bộ Thiên Công hơn hai mươi năm. Lần theo manh mối tìm được Cửu Ngô, ông ta lấy danh mục Cơ Khôi nguy hiểm làm điều kiện, yêu cầu bạn xóa bản ghi bảo trì của mình. Trước sự do dự và sợ hãi của Cửu Ngô, bạn không cứng rắn ép buộc, mà kể cho ông ta nghe về những nỗ lực của các người thợ khác nhằm giải quyết sự kiện Cơ Khôi mất kiểm soát. Cửu Ngô lung lay trong lòng, hẹn ngày hôm sau tự thú, nhưng vì đắn đo mà để lại lá thư tự thú còn dang dở. Cuối cùng dưới sự chất vấn của Sonya, ông ta hoàn toàn hối ngộ, quyết định đối diện với lỗi lầm, phối hợp điều tra.
+
+48. PART 064
+KEY: lang_multi_text.db||MultiText||Sheriff_QuestDesc_End_2_2
+Dòng nguồn: 37 | Dòng corrected: 19
+Ngữ cảnh trước: [Sheriff_QuestDesc_End_2] Sóng gió Cơ Khôi mất kiểm soát ở Huyền Phương Thành nổi lên đột ngột, bạn được ủy thác điều tra Thẩm Uyên — kẻ đã ẩn nấp trong Bộ Thiên Công hơn hai mươi năm. Lần theo manh mối tìm được Cửu Ngô, ông ta lấy danh mục Cơ Khôi nguy hiểm làm điều kiện, yêu cầu bạn xóa bản ghi bảo trì của mình. Bạn giả vờ đồng ý, sau đó ngầm phối hợp với chuyên viên 「Thiên Công Lục」, dưới sự khuyên nhủ của Sonya, cuối cùng Cửu Ngô đã tỉnh ngộ, chủ động giao ra danh mục, dọn sạch chướng ngại cho công tác rà soát.
+CN: 玄方城机傀失控风波骤起，你受托调查潜伏天工部二十余年的沈渊。循着线索找到久梧，他以风险机傀名录为筹码，要求你删除其维修记录。面对久梧的犹豫与恐惧，你并未强硬逼迫，将其他工匠为解决机傀失控事件做出的诸般努力告知于他。久梧内心动摇，约定次日自首，却因纠结留下未竟的自白信。最终在索尼娅的质问下，他彻底悔悟，决定直面过错，配合调查。
+VI nguồn: Sóng gió Cơ Khôi mất kiểm soát ở Huyền Phương Thành nổi lên đột ngột, ngươi được ủy thác điều tra Thẩm Uyên — kẻ đã ẩn nấp trong Bộ Thiên Công hơn hai mươi năm. Lần theo manh mối tìm được Cửu Ngô, ông ta lấy danh mục Cơ Khôi nguy hiểm làm điều kiện, yêu cầu ngươi xóa bản ghi bảo trì của mình. Trước sự do dự và sợ hãi của Cửu Ngô, ngươi không cứng rắn ép buộc, mà kể cho ông ta nghe về những nỗ lực của các người thợ khác nhằm giải quyết sự kiện Cơ Khôi mất kiểm soát. Cửu Ngô lung lay trong lòng, hẹn ngày hôm sau tự thú, nhưng vì đắn đo mà để lại lá thư tự thú còn dang dở. Cuối cùng dưới sự chất vấn của Sonia, ông ta hoàn toàn hối ngộ, quyết định đối diện với lỗi lầm, phối hợp điều tra.
+VI sửa đầy đủ: Sóng gió Cơ Khôi mất kiểm soát ở Huyền Phương Thành nổi lên đột ngột, bạn được ủy thác điều tra Thẩm Uyên — kẻ đã ẩn nấp trong Bộ Thiên Công hơn hai mươi năm. Lần theo manh mối tìm được Cửu Ngô, ông ta lấy danh mục Cơ Khôi nguy hiểm làm điều kiện, yêu cầu bạn xóa bản ghi bảo trì của mình. Trước sự do dự và sợ hãi của Cửu Ngô, bạn không cứng rắn ép buộc, mà kể cho ông ta nghe về những nỗ lực của các người thợ khác nhằm giải quyết sự kiện Cơ Khôi mất kiểm soát. Cửu Ngô lung lay trong lòng, hẹn ngày hôm sau tự thú, nhưng vì đắn đo mà để lại lá thư tự thú còn dang dở. Cuối cùng dưới sự chất vấn của Sonya, ông ta hoàn toàn hối ngộ, quyết định đối diện với lỗi lầm, phối hợp điều tra.
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [Sheriff_QuestDesc_End_2_3] Sóng gió Cơ Khôi mất kiểm soát ở Huyền Phương Thành nổi lên đột ngột, bạn được ủy thác điều tra Thẩm Uyên — kẻ đã ẩn nấp trong Bộ Thiên Công hơn hai mươi năm. Lần theo manh mối tìm được Cửu Ngô, ông ta lấy danh mục Cơ Khôi nguy hiểm làm điều kiện, yêu cầu bạn xóa bản ghi bảo trì của mình. Bạn thận trọng cân nhắc rồi từ chối lời thỉnh cầu của ông ta, giữa lúc giằng co, biến cố bỗng ập đến, Cửu Ngô tận mắt chứng kiến nỗ lực và quyết tâm của các người thợ khác nhằm giải quyết sự kiện này, ông ta tỉnh ngộ, hiểu ra rằng che giấu hành sự chẳng phải chính đạo, chỉ phí hoài thời gian quý báu, ông ta quyết tâm dốc sức phối hợp điều tra, gánh chịu hậu quả cho hành vi của mình.
+
+49. PART 064
+KEY: lang_multi_text.db||MultiText||Sheriff_QuestDesc_End_2_3
+Dòng nguồn: 42 | Dòng corrected: 22
+Ngữ cảnh trước: [Sheriff_QuestDesc_End_2_2] Sóng gió Cơ Khôi mất kiểm soát ở Huyền Phương Thành nổi lên đột ngột, bạn được ủy thác điều tra Thẩm Uyên — kẻ đã ẩn nấp trong Bộ Thiên Công hơn hai mươi năm. Lần theo manh mối tìm được Cửu Ngô, ông ta lấy danh mục Cơ Khôi nguy hiểm làm điều kiện, yêu cầu bạn xóa bản ghi bảo trì của mình. Trước sự do dự và sợ hãi của Cửu Ngô, bạn không cứng rắn ép buộc, mà kể cho ông ta nghe về những nỗ lực của các người thợ khác nhằm giải quyết sự kiện Cơ Khôi mất kiểm soát. Cửu Ngô lung lay trong lòng, hẹn ngày hôm sau tự thú, nhưng vì đắn đo mà để lại lá thư tự thú còn dang dở. Cuối cùng dưới sự chất vấn của Sonya, ông ta hoàn toàn hối ngộ, quyết định đối diện với lỗi lầm, phối hợp điều tra.
+CN: 玄方城机傀失控风波骤起，你受托调查潜伏天工部二十余年的沈渊。循着线索找到久梧，他以风险机傀名录为筹码，要求你删除其维修记录。你慎重考虑拒绝了他的请求，僵持之际，异变突发，久梧亲眼见到了其他工匠为解决这一事件做出的努力和决心，他幡然醒悟，明白遮掩行事并非正途，只会浪费宝贵的时间，他决心全力配合调查，为自己的行为承担后果。
+VI nguồn: Sóng gió Cơ Khôi mất kiểm soát ở Huyền Phương Thành nổi lên đột ngột, ngươi được ủy thác điều tra Thẩm Uyên — kẻ đã ẩn nấp trong Bộ Thiên Công hơn hai mươi năm. Lần theo manh mối tìm được Cửu Ngô, ông ta lấy danh mục Cơ Khôi nguy hiểm làm điều kiện, yêu cầu ngươi xóa bản ghi bảo trì của mình. Ngươi thận trọng cân nhắc rồi từ chối lời thỉnh cầu của ông ta, giữa lúc giằng co, biến cố bỗng ập đến, Cửu Ngô tận mắt chứng kiến nỗ lực và quyết tâm của các người thợ khác nhằm giải quyết sự kiện này, ông ta tỉnh ngộ, hiểu ra rằng che giấu hành sự chẳng phải chính đạo, chỉ phí hoài thời gian quý báu, ông ta quyết tâm dốc sức phối hợp điều tra, gánh chịu hậu quả cho hành vi của mình.
+VI sửa đầy đủ: Sóng gió Cơ Khôi mất kiểm soát ở Huyền Phương Thành nổi lên đột ngột, bạn được ủy thác điều tra Thẩm Uyên — kẻ đã ẩn nấp trong Bộ Thiên Công hơn hai mươi năm. Lần theo manh mối tìm được Cửu Ngô, ông ta lấy danh mục Cơ Khôi nguy hiểm làm điều kiện, yêu cầu bạn xóa bản ghi bảo trì của mình. Bạn thận trọng cân nhắc rồi từ chối lời thỉnh cầu của ông ta, giữa lúc giằng co, biến cố bỗng ập đến, Cửu Ngô tận mắt chứng kiến nỗ lực và quyết tâm của các người thợ khác nhằm giải quyết sự kiện này, ông ta tỉnh ngộ, hiểu ra rằng che giấu hành sự chẳng phải chính đạo, chỉ phí hoài thời gian quý báu, ông ta quyết tâm dốc sức phối hợp điều tra, gánh chịu hậu quả cho hành vi của mình.
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [Sheriff_QuestDesc_End_3] Trong quá trình hỗ trợ Viện Hoa Tư phát vật tư y tế, Thanh Ngạn tất bật giữa những người bị thương, nghe mọi người bàn về nỗi sợ hãi, chức trách và lý tưởng, Thanh Ngạn dần hiểu ra, bảo vệ người khác không chỉ cần dũng khí và nhiệt huyết, mà còn có nghĩa là gánh vác trách nhiệm và cái giá nặng nề… cậu bắt đầu nghiêm túc suy nghĩ, tương lai mình muốn trở thành người như thế nào.
+
+50. PART 064
+KEY: lang_multi_text.db||MultiText||Sheriff_QuestDesc_End_4
+Dòng nguồn: 52 | Dòng corrected: 28
+Ngữ cảnh trước: [Sheriff_QuestDesc_End_3] Trong quá trình hỗ trợ Viện Hoa Tư phát vật tư y tế, Thanh Ngạn tất bật giữa những người bị thương, nghe mọi người bàn về nỗi sợ hãi, chức trách và lý tưởng, Thanh Ngạn dần hiểu ra, bảo vệ người khác không chỉ cần dũng khí và nhiệt huyết, mà còn có nghĩa là gánh vác trách nhiệm và cái giá nặng nề… cậu bắt đầu nghiêm túc suy nghĩ, tương lai mình muốn trở thành người như thế nào.
+CN: 在汇珍坊，你们遇到了穗穗，你们一起化解了一起商业纠纷，并为玉白和商明提出了一个更好的合作方案。虽然过程有些曲折，但你们确实度过了一日悠然。
+VI nguồn: Ở Hối Trân Phường, các ngươi gặp Suisui, các ngươi cùng nhau hóa giải một vụ tranh chấp thương mại, và đề xuất cho Ngọc Bạch cùng Thương Minh một phương án hợp tác tốt hơn. Tuy quá trình có chút gian nan, nhưng các ngươi quả thực đã trải qua một ngày thảnh thơi.
+VI sửa đầy đủ: Ở Hối Trân Phường, các bạn gặp Suisui, các bạn cùng nhau hóa giải một vụ tranh chấp thương mại, và đề xuất cho Ngọc Bạch cùng Thương Minh một phương án hợp tác tốt hơn. Tuy quá trình có chút gian nan, nhưng các bạn quả thực đã trải qua một ngày thảnh thơi.
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [Sheriff_QuestDesc_End_5] Bạn đã giải cứu Kẻ Lưu Đày lỡ xông vào Trầm Xu Uyên, và chứng kiến kết cục cuối cùng của đại ca họ — một người từng là thợ tạo của Hội Tàn Tinh.\nVào phút cuối, ông ta rốt cuộc đã thoát khỏi tiếng nói điên cuồng không ngừng thì thầm bên tai, đạt được sự bình yên chưa từng có.
+
+51. PART 064
+KEY: lang_multi_text.db||MultiText||Sheriff_QuestDesc_End_5
+Dòng nguồn: 57 | Dòng corrected: 31
+Ngữ cảnh trước: [Sheriff_QuestDesc_End_4] Ở Hối Trân Phường, các bạn gặp Suisui, các bạn cùng nhau hóa giải một vụ tranh chấp thương mại, và đề xuất cho Ngọc Bạch cùng Thương Minh một phương án hợp tác tốt hơn. Tuy quá trình có chút gian nan, nhưng các bạn quả thực đã trải qua một ngày thảnh thơi.
+CN: 你解救了误闯沉枢渊的流放者，并见证了他们的大哥——一位曾经的残星会造匠最后的结局。\n在最后，他终于摆脱了那在他耳畔不断低语的疯狂声音，获得了前所未有的宁静。
+VI nguồn: Ngươi đã giải cứu Kẻ Lưu Đày lỡ xông vào Trầm Khu Uyên, và chứng kiến kết cục cuối cùng của đại ca họ — một người từng là thợ tạo của Hội Tàn Tinh.\nVào phút cuối, ông ta rốt cuộc đã thoát khỏi tiếng nói điên cuồng không ngừng thì thầm bên tai, đạt được sự bình yên chưa từng có.
+VI sửa đầy đủ: Bạn đã giải cứu Kẻ Lưu Đày lỡ xông vào Trầm Xu Uyên, và chứng kiến kết cục cuối cùng của đại ca họ — một người từng là thợ tạo của Hội Tàn Tinh.\nVào phút cuối, ông ta rốt cuộc đã thoát khỏi tiếng nói điên cuồng không ngừng thì thầm bên tai, đạt được sự bình yên chưa từng có.
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [Sheriff_QuestDesc_End_6] Hóa ra đây chỉ là một dự án tương tác thực cảnh do người ta dàn dựng. Nhận lời mời của Văn Sướng, bạn đã trải nghiệm "Ngũ Hồ Sơn Hạ Định Tâm Khôi" của cô ấy, "giải cứu" Cơ Khôi ra khỏi chân núi. Cô ấy định viết một bài tuyên truyền gửi cho Hiệp Ước Tiên Phong, và đưa Cơ Khôi mượn về Ngoại Sự Phủ. Có lẽ… sau này bạn có thể gặp lại cô ấy ở gần Tỉnh Sạn.
+
+52. PART 064
+KEY: lang_multi_text.db||MultiText||Sheriff_QuestDesc_End_6
+Dòng nguồn: 62 | Dòng corrected: 34
+Ngữ cảnh trước: [Sheriff_QuestDesc_End_5] Bạn đã giải cứu Kẻ Lưu Đày lỡ xông vào Trầm Xu Uyên, và chứng kiến kết cục cuối cùng của đại ca họ — một người từng là thợ tạo của Hội Tàn Tinh.\nVào phút cuối, ông ta rốt cuộc đã thoát khỏi tiếng nói điên cuồng không ngừng thì thầm bên tai, đạt được sự bình yên chưa từng có.
+CN: 原来这只是经人策划的实景互动项目。你应文畅的邀请，体验了她的“五狐山下定心傀”，将机傀从山下“解救”了出来。她打算写一篇宣传稿投递给先行公约，并将租借的机傀送回外事府。或许……日后你能在井栈附近再遇到她。
+VI nguồn: Hóa ra đây chỉ là một dự án tương tác thực cảnh do người ta dàn dựng. Nhận lời mời của Văn Sướng, ngươi đã trải nghiệm "Ngũ Hồ Sơn Hạ Định Tâm Khôi" của cô ấy, "giải cứu" Cơ Khôi ra khỏi chân núi. Cô ấy định viết một bài tuyên truyền gửi cho Hiệp Ước Tiên Phong, và đưa Cơ Khôi mượn về Ngoại Sự Phủ. Có lẽ…… sau này ngươi có thể gặp lại cô ấy ở gần Tỉnh Sạn.
+VI sửa đầy đủ: Hóa ra đây chỉ là một dự án tương tác thực cảnh do người ta dàn dựng. Nhận lời mời của Văn Sướng, bạn đã trải nghiệm "Ngũ Hồ Sơn Hạ Định Tâm Khôi" của cô ấy, "giải cứu" Cơ Khôi ra khỏi chân núi. Cô ấy định viết một bài tuyên truyền gửi cho Hiệp Ước Tiên Phong, và đưa Cơ Khôi mượn về Ngoại Sự Phủ. Có lẽ… sau này bạn có thể gặp lại cô ấy ở gần Tỉnh Sạn.
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [Sheriff_QuestDesc_End_7] Bạn cùng Lũy Đào sửa xong Thủ Ngẫu Hạp bị hỏng, và hiểu được nguyên nhân Thủ Ngẫu Hạp gặp trục trặc.
+
+53. PART 064
+KEY: lang_multi_text.db||MultiText||Sheriff_QuestDesc_End_7
+Dòng nguồn: 67 | Dòng corrected: 37
+Ngữ cảnh trước: [Sheriff_QuestDesc_End_6] Hóa ra đây chỉ là một dự án tương tác thực cảnh do người ta dàn dựng. Nhận lời mời của Văn Sướng, bạn đã trải nghiệm "Ngũ Hồ Sơn Hạ Định Tâm Khôi" của cô ấy, "giải cứu" Cơ Khôi ra khỏi chân núi. Cô ấy định viết một bài tuyên truyền gửi cho Hiệp Ước Tiên Phong, và đưa Cơ Khôi mượn về Ngoại Sự Phủ. Có lẽ… sau này bạn có thể gặp lại cô ấy ở gần Tỉnh Sạn.
+CN: 你与累陶一起修好了故障的取偶匣，并了解了取偶匣出现故障的原因。
+VI nguồn: Ngươi cùng Lũy Đào sửa xong Thủ Ngẫu Hạp bị hỏng, và hiểu được nguyên nhân Thủ Ngẫu Hạp gặp trục trặc.
+VI sửa đầy đủ: Bạn cùng Lũy Đào sửa xong Thủ Ngẫu Hạp bị hỏng, và hiểu được nguyên nhân Thủ Ngẫu Hạp gặp trục trặc.
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [Sheriff_QuestDesc_End_8] Những đoạn ghi âm đến từ quá khứ này ghi lại quãng thời gian Cơ Binh từng bị mắc kẹt trong nhiệm vụ.\nNay nhiệm vụ đã kết thúc, chúng mong sau này mình sẽ không tỉnh lại nữa.
+
+54. PART 064
+KEY: lang_multi_text.db||MultiText||Sheriff_QuestDesc_End_9
+Dòng nguồn: 77 | Dòng corrected: 43
+Ngữ cảnh trước: [Sheriff_QuestDesc_End_8] Những đoạn ghi âm đến từ quá khứ này ghi lại quãng thời gian Cơ Binh từng bị mắc kẹt trong nhiệm vụ.\nNay nhiệm vụ đã kết thúc, chúng mong sau này mình sẽ không tỉnh lại nữa.
+CN: 在你的帮助下，纪录片素材顺利拍摄完成。
+VI nguồn: Nhờ ngươi giúp đỡ, tư liệu phim tài liệu đã quay xong suôn sẻ.
+VI sửa đầy đủ: Nhờ bạn giúp đỡ, tư liệu phim tài liệu đã quay xong suôn sẻ.
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [Sheriff_QuestDesc_Start_1] Uyên Trung Tiên đón vị thực khách khó tính nhất từ trước đến nay, Khoái Nương quyết tâm tái hiện hương vị tươi ngon nhất của Huyền Phương. Thế nhưng, quá trình phục nguyên công thức cổ và tìm kiếm nguyên liệu liên tục xảy ra bất trắc…
+
+55. PART 064
+KEY: lang_multi_text.db||MultiText||Sheriff_QuestDesc_Start_4
+Dòng nguồn: 117 | Dòng corrected: 67
+Ngữ cảnh trước: [Sheriff_QuestDesc_Start_3] Trận thủ thành đã tạm lắng, hiện giờ, tình hình của các Định Huyền Vệ ra sao rồi?
+CN: 汇珍坊正在举办年度特惠活动，你和阿布准备去看看。
+VI nguồn: Hối Trân Phường đang tổ chức sự kiện ưu đãi thường niên, ngươi và Abby chuẩn bị đến xem thử.
+VI sửa đầy đủ: Hối Trân Phường đang tổ chức sự kiện ưu đãi thường niên, bạn và Abby chuẩn bị đến xem thử.
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [Sheriff_QuestDesc_Start_5] Trầm Xu Uyên vốn là thiết bị khổng lồ dùng để giam giữ và xử lý Tàn Tượng, không nên có người thường lui tới. Nhưng khi thăm dò ở Trầm Xu Uyên, lại nghe thấy tiếng người kêu cứu…
+
+56. PART 064
+KEY: lang_multi_text.db||MultiText||Sheriff_QuestDesc_Start_8
+Dòng nguồn: 137 | Dòng corrected: 79
+Ngữ cảnh trước: [Sheriff_QuestDesc_Start_7] Để phục hưng đế quốc Cơ Giáp, Đại Vương Giáp có việc muốn nhờ bạn.
+CN: 在已经停止运行多年的方庭中，你收到了来自过去的录音。
+VI nguồn: Trong Phương Đình đã ngừng vận hành nhiều năm, ngươi nhận được một đoạn ghi âm đến từ quá khứ.
+VI sửa đầy đủ: Trong Phương Đình đã ngừng vận hành nhiều năm, bạn nhận được một đoạn ghi âm đến từ quá khứ.
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [Sheriff_QuestDesc_Start_9] Đoàn làm phim đến từ Hiệp Ước Tiên Phong đang quay tư liệu phim tài liệu, có lẽ họ cần bạn giúp đỡ.
+
+57. PART 064
+KEY: lang_multi_text.db||MultiText||Sheriff_QuestDesc_Start_9
+Dòng nguồn: 142 | Dòng corrected: 82
+Ngữ cảnh trước: [Sheriff_QuestDesc_Start_8] Trong Phương Đình đã ngừng vận hành nhiều năm, bạn nhận được một đoạn ghi âm đến từ quá khứ.
+CN: 来自先行公约的剧组正在拍摄纪录片素材，也许他们需要你的帮助。
+VI nguồn: Đoàn làm phim đến từ Hiệp Ước Tiên Phong đang quay tư liệu phim tài liệu, có lẽ họ cần ngươi giúp đỡ.
+VI sửa đầy đủ: Đoàn làm phim đến từ Hiệp Ước Tiên Phong đang quay tư liệu phim tài liệu, có lẽ họ cần bạn giúp đỡ.
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [Sheriff_Shop_1] Tích lũy nhận Tuần Phương Lệnh
+
+58. PART 065
+KEY: lang_multi_text.db||MultiText||Side_HLDX_2_15
+Dòng nguồn: 987 | Dòng corrected: 589
+Ngữ cảnh trước: [Side_HLDX_2_14] Trong bức tượng chắc chắn không có Tâm Nguyệt Hồ đâu! Chẳng ai có thể dửng dưng trước ngần ấy món ngon được!
+CN: 你伸手，摸了摸狐狸雕像的头。
+VI nguồn: Cậu đưa tay ra, xoa đầu bức tượng cáo.
+VI sửa đầy đủ: Bạn đưa tay ra, xoa đầu bức tượng cáo.
+Lý do: Đồng bộ đại từ theo ngữ cảnh: {'cậu': 1} → {'bạn': 1}.
+Ngữ cảnh sau: [Side_HLDX_2_16] Bức tượng im lìm, không hề đáp lại.
+
+59. PART 065
+KEY: lang_multi_text.db||MultiText||Side_HSCSSHZ_1_2
+Dòng nguồn: 1147 | Dòng corrected: 685
+Ngữ cảnh trước: [Side_HSCSSHZ_1_14] Cảm ơn cậu. Hiện giờ tôi và các đồng nghiệp trong đoàn đã đến gần Huyền Thiên Cấu rồi, cậu có thể đến tìm chúng tôi bất cứ lúc nào.
+CN: 你是……？
+VI nguồn: Cậu là...?
+VI sửa đầy đủ: Bạn là…?
+Lý do: Đồng bộ đại từ theo ngữ cảnh: {'cậu': 1} → {'bạn': 1}.
+Ngữ cảnh sau: [Side_HSCSSHZ_1_3] Bạn là…?
+
+60. PART 065
+KEY: lang_multi_text.db||MultiText||Side_HSCSSHZ_1_3
+Dòng nguồn: 1152 | Dòng corrected: 688
+Ngữ cảnh trước: [Side_HSCSSHZ_1_2] Bạn là…?
+CN: 你是谁？
+VI nguồn: Cậu là...?
+VI sửa đầy đủ: Bạn là…?
+Lý do: Đồng bộ đại từ theo ngữ cảnh: {'cậu': 1} → {'bạn': 1}.
+Ngữ cảnh sau: [Side_HSCSSHZ_1_4] Ồ, tôi tên Duy Dương, là một đạo diễn. Đồng thời cũng là thành viên của Hiệp Ước Tiên Phong.
+
+61. PART 066
+KEY: lang_multi_text.db||MultiText||Side_JSQWBFLC_4_1
+Dòng nguồn: 467 | Dòng corrected: 277
+Ngữ cảnh trước: [Side_JSQWBFLC_3_9] Tôi đã chuẩn bị cho cậu một món quà nhỏ — coi như phần thưởng cho việc giúp quay đoạn tư liệu này.
+CN: 镕金守好奇地看着你，也许它肚子饿了……
+VI nguồn: Dung Kim Thủ tò mò nhìn ngươi, có lẽ nó đói bụng rồi...
+VI sửa đầy đủ: Dung Kim Thủ tò mò nhìn bạn, có lẽ nó đang đói…
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [Side_JSQWBFLC_4_2] A Mặc vẫn để lại khá nhiều đồng xu. Bạn nghĩ đây là dịp tốt để luyện “Kim Thú Ngoạm Tài”. Có muốn thử không?
+
+62. PART 066
+KEY: lang_multi_text.db||MultiText||Side_JSQWBFLC_4_2
+Dòng nguồn: 472 | Dòng corrected: 280
+Ngữ cảnh trước: [Side_JSQWBFLC_4_1] Dung Kim Thủ tò mò nhìn bạn, có lẽ nó đang đói…
+CN: 阿墨留下的硬币还有不少，你觉得这是个练习“金兽咬财”的好机会。要试试看吗？
+VI nguồn: A Mặc để lại vẫn còn không ít đồng xu, ngươi thấy đây là dịp tốt để luyện tập "Kim Thú Ngoạm Tài". Có muốn thử không?
+VI sửa đầy đủ: A Mặc vẫn để lại khá nhiều đồng xu. Bạn nghĩ đây là dịp tốt để luyện “Kim Thú Ngoạm Tài”. Có muốn thử không?
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [Side_JSQWBFLC_4_3] Thử lại lần nữa.
+
+63. PART 066
+KEY: lang_multi_text.db||MultiText||Side_JSQWBFLC_5_5
+Dòng nguồn: 507 | Dòng corrected: 301
+Ngữ cảnh trước: [Side_JSQWBFLC_5_4] Được, chuẩn bị xong chưa? Các bộ phận sẵn sàng — máy chạy!
+CN: 是吗……没关系，等你有时间再说吧！
+VI nguồn: Vậy à... không sao, đợi khi nào ngươi có thời gian hẵng hay!
+VI sửa đầy đủ: Vậy à… Không sao, khi nào cậu rảnh rồi quay lại nhé!
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [Side_LJSJZB_1_1] Linh kiện mà đạo sư yêu cầu cậu đã tìm đủ chưa?
+
+64. PART 066
+KEY: lang_multi_text.db||MultiText||Side_QYWYYJTP_12_1
+Dòng nguồn: 727 | Dòng corrected: 433
+Ngữ cảnh trước: [Side_QYWYYJTP_11_2] Hết cách rồi, dù sao đối thủ cũng quá mạnh…
+CN: 真是精彩，{PlayerName}！连我都忍不住热血沸腾起来了！
+VI nguồn: Thật xuất sắc, {PlayerName}! Đến ta cũng không nhịn được mà sôi sục nhiệt huyết lên rồi!
+VI sửa đầy đủ: Thật xuất sắc, {PlayerName}! Đến tôi cũng không nhịn được mà sôi sục nhiệt huyết lên rồi!
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [Side_QYWYYJTP_12_2] Có muốn tỉ thí một trận với tôi không? Cũng để bọn họ được thấy — thế nào mới là chiến đấu thực thụ!
+
+65. PART 066
+KEY: lang_multi_text.db||MultiText||Side_QYWYYJTP_12_2
+Dòng nguồn: 732 | Dòng corrected: 436
+Ngữ cảnh trước: [Side_QYWYYJTP_12_1] Thật xuất sắc, {PlayerName}! Đến tôi cũng không nhịn được mà sôi sục nhiệt huyết lên rồi!
+CN: 要不要和我一战？也能让他们看看——何谓真正的战斗！
+VI nguồn: Có muốn tỉ thí một trận với ta không? Cũng để bọn họ được thấy — thế nào mới là chiến đấu thực thụ!
+VI sửa đầy đủ: Có muốn tỉ thí một trận với tôi không? Cũng để bọn họ được thấy — thế nào mới là chiến đấu thực thụ!
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [Side_QYWYYJTP_12_3] Tôi cũng đang có ý đó.
+
+66. PART 066
+KEY: lang_multi_text.db||MultiText||Side_QYWYYJTP_12_3
+Dòng nguồn: 737 | Dòng corrected: 439
+Ngữ cảnh trước: [Side_QYWYYJTP_12_2] Có muốn tỉ thí một trận với tôi không? Cũng để bọn họ được thấy — thế nào mới là chiến đấu thực thụ!
+CN: 我正有此意。
+VI nguồn: Ta cũng đang có ý đó.
+VI sửa đầy đủ: Tôi cũng đang có ý đó.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [Side_QYWYYJTP_12_4] Không vấn đề gì.
+
+67. PART 066
+KEY: lang_multi_text.db||MultiText||Side_QYWYYJTP_14_1
+Dòng nguồn: 762 | Dòng corrected: 454
+Ngữ cảnh trước: [Side_QYWYYJTP_13_2] Xem chiêu này đây…!
+CN: 不愧是你，{PlayerName}！
+VI nguồn: Quả không hổ là ngươi, {PlayerName}!
+VI sửa đầy đủ: Quả không hổ là cậu, {PlayerName}!
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [Side_QYWYYJTP_15_1] Mạnh, mạnh quá đi!
+
+68. PART 066
+KEY: lang_multi_text.db||MultiText||Side_QYWYYJTP_15_11
+Dòng nguồn: 777 | Dòng corrected: 463
+Ngữ cảnh trước: [Side_QYWYYJTP_15_10] — Con hiểu rồi! Chúng con sẽ dốc hết sức, quyết không làm bôi mặt Định Huyền Vệ!
+CN: 不对！你们要好好学习，好好训练！你们现在记住的每一个诀窍，在练习时流下的每一滴汗，到时候都有可能救你们的命！
+VI nguồn: Không đúng! Các ngươi phải học hành cho tử tế, luyện tập cho tử tế! Mỗi bí quyết các ngươi ghi nhớ lúc này, mỗi giọt mồ hôi đổ xuống khi luyện tập, đến lúc đó đều có thể cứu mạng các ngươi!
+VI sửa đầy đủ: Không đúng! Các cậu phải học hành cho tử tế, luyện tập cho tử tế! Mỗi bí quyết các cậu ghi nhớ lúc này, mỗi giọt mồ hôi đổ xuống khi luyện tập, đến lúc đó đều có thể cứu mạng các cậu!
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [Side_QYWYYJTP_15_12] Hóa ra người muốn nói điều này ạ… Con hiểu rồi.
+
+69. PART 066
+KEY: lang_multi_text.db||MultiText||Side_QYWYYJTP_15_13
+Dòng nguồn: 787 | Dòng corrected: 469
+Ngữ cảnh trước: [Side_QYWYYJTP_15_12] Hóa ra người muốn nói điều này ạ… Con hiểu rồi.
+CN: 考虑到刚才我介绍机傀的时候你们基本上都没认真听——回去之后每人做一百个俯卧撑吧，就当是个小小的惩罚。
+VI nguồn: Xét thấy lúc nãy khi ta giới thiệu về Cơ Khôi các ngươi về cơ bản đều chẳng nghe cho nghiêm túc — về rồi mỗi người chống đẩy một trăm cái đi, coi như một hình phạt nho nhỏ.
+VI sửa đầy đủ: Xét thấy lúc nãy khi tôi giới thiệu về Cơ Khôi các cậu về cơ bản đều chẳng nghe cho nghiêm túc — về rồi mỗi người chống đẩy một trăm cái đi, coi như một hình phạt nho nhỏ.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [Side_QYWYYJTP_15_14] Nhớ kỹ, sau này đừng có lơ đãng nữa!
+
+70. PART 066
+KEY: lang_multi_text.db||MultiText||Side_QYWYYJTP_15_3
+Dòng nguồn: 807 | Dòng corrected: 481
+Ngữ cảnh trước: [Side_QYWYYJTP_15_2] Tuy {PlayerName} mạnh đến mức phi lý, nhưng giáo quan cũng lợi hại lắm…
+CN: 哈哈哈……痛快！负伤退役之后当了这么多年教官，我都快忘了战斗的滋味了。
+VI nguồn: Ha ha ha... Đã quá! Sau khi bị thương giải ngũ rồi làm giáo quan bao nhiêu năm, ta suýt quên mất mùi vị của chiến đấu rồi.
+VI sửa đầy đủ: Ha ha ha… Đã quá! Sau khi bị thương giải ngũ rồi làm giáo quan bao nhiêu năm, tôi suýt quên mất mùi vị của chiến đấu rồi.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [Side_QYWYYJTP_15_4] Nghe cho kỹ, tân binh! Có lẽ về sau các cậu sẽ đối mặt với nguy cơ, khi khoảnh khắc sinh tử ập đến, các cậu nhất định phải tin tưởng vào Cơ Khôi bên cạnh mình.
+
+71. PART 066
+KEY: lang_multi_text.db||MultiText||Side_QYWYYJTP_15_4
+Dòng nguồn: 812 | Dòng corrected: 484
+Ngữ cảnh trước: [Side_QYWYYJTP_15_3] Ha ha ha… Đã quá! Sau khi bị thương giải ngũ rồi làm giáo quan bao nhiêu năm, tôi suýt quên mất mùi vị của chiến đấu rồi.
+CN: 听好了，新兵们！也许你们之后会面临危机，当生死关头来临的时候，你们一定要相信身旁的机傀。
+VI nguồn: Nghe cho kỹ, tân binh! Có lẽ về sau các ngươi sẽ đối mặt với nguy cơ, khi khoảnh khắc sinh tử ập đến, các ngươi nhất định phải tin tưởng vào Cơ Khôi bên cạnh mình.
+VI sửa đầy đủ: Nghe cho kỹ, tân binh! Có lẽ về sau các cậu sẽ đối mặt với nguy cơ, khi khoảnh khắc sinh tử ập đến, các cậu nhất định phải tin tưởng vào Cơ Khôi bên cạnh mình.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [Side_QYWYYJTP_15_5] Biết đâu điều đó có thể cứu mạng các cậu — giống như khi ấy chúng đã dốc hết sức, giành lại tôi từ tay Tàn Tượng vậy.
+
+72. PART 066
+KEY: lang_multi_text.db||MultiText||Side_QYWYYJTP_15_5
+Dòng nguồn: 817 | Dòng corrected: 487
+Ngữ cảnh trước: [Side_QYWYYJTP_15_4] Nghe cho kỹ, tân binh! Có lẽ về sau các cậu sẽ đối mặt với nguy cơ, khi khoảnh khắc sinh tử ập đến, các cậu nhất định phải tin tưởng vào Cơ Khôi bên cạnh mình.
+CN: 说不定这能够救你们一命——就像它们当时拼尽全力，从残象手中救下我一样。
+VI nguồn: Biết đâu điều đó có thể cứu mạng các ngươi — giống như khi ấy chúng đã dốc hết sức, giành lại ta từ tay Tàn Tượng vậy.
+VI sửa đầy đủ: Biết đâu điều đó có thể cứu mạng các cậu — giống như khi ấy chúng đã dốc hết sức, giành lại tôi từ tay Tàn Tượng vậy.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [Side_QYWYYJTP_15_6] Khoảnh khắc sinh tử sao…
+
+73. PART 066
+KEY: lang_multi_text.db||MultiText||Side_QYWYYJTP_15_7
+Dòng nguồn: 827 | Dòng corrected: 493
+Ngữ cảnh trước: [Side_QYWYYJTP_15_6] Khoảnh khắc sinh tử sao…
+CN: 没错，只要穿上这身军服，你们也总会遇到那么一天。
+VI nguồn: Đúng vậy, chỉ cần khoác lên bộ quân phục này, rồi sẽ có ngày các ngươi cũng gặp phải khoảnh khắc đó.
+VI sửa đầy đủ: Đúng vậy, chỉ cần khoác lên bộ quân phục này, rồi sẽ có ngày các cậu cũng gặp phải khoảnh khắc đó.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [Side_QYWYYJTP_15_8] Thứ các cậu có thể tin cậy, chỉ có chiến hữu, Cơ Khôi, cùng đao kiếm trong tay.
+
+74. PART 066
+KEY: lang_multi_text.db||MultiText||Side_QYWYYJTP_15_8
+Dòng nguồn: 832 | Dòng corrected: 496
+Ngữ cảnh trước: [Side_QYWYYJTP_15_7] Đúng vậy, chỉ cần khoác lên bộ quân phục này, rồi sẽ có ngày các cậu cũng gặp phải khoảnh khắc đó.
+CN: 你们能信赖的，只有袍泽、机傀，以及手中的刀剑。
+VI nguồn: Thứ các ngươi có thể tin cậy, chỉ có chiến hữu, Cơ Khôi, cùng đao kiếm trong tay.
+VI sửa đầy đủ: Thứ các cậu có thể tin cậy, chỉ có chiến hữu, Cơ Khôi, cùng đao kiếm trong tay.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [Side_QYWYYJTP_15_9] Cho nên, các cậu phải…
+
+75. PART 066
+KEY: lang_multi_text.db||MultiText||Side_QYWYYJTP_15_9
+Dòng nguồn: 837 | Dòng corrected: 499
+Ngữ cảnh trước: [Side_QYWYYJTP_15_8] Thứ các cậu có thể tin cậy, chỉ có chiến hữu, Cơ Khôi, cùng đao kiếm trong tay.
+CN: 所以，你们要——
+VI nguồn: Cho nên, các ngươi phải…
+VI sửa đầy đủ: Cho nên, các cậu phải…
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [Side_QYWYYJTP_16_1] {PlayerName}, chuẩn bị sẵn sàng đón nhận thử thách tối thượng chưa?
+
+76. PART 066
+KEY: lang_multi_text.db||MultiText||Side_QYWYYJTP_16_6
+Dòng nguồn: 867 | Dòng corrected: 517
+Ngữ cảnh trước: [Side_QYWYYJTP_16_5] Rất tốt, vậy chúng ta bắt đầu thôi.
+CN: 嗯，想试试看的话就随时找我。
+VI nguồn: Ừ, nếu muốn thử thì cứ tìm ta bất cứ lúc nào.
+VI sửa đầy đủ: Ừ, nếu muốn thử thì cứ tìm tôi bất cứ lúc nào.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [Side_QYWYYJTP_1_1] — Nhớ kỹ, Cơ Khôi là những chiến hữu đáng tin cậy.
+
+77. PART 066
+KEY: lang_multi_text.db||MultiText||Side_QYWYYJTP_2_1
+Dòng nguồn: 887 | Dòng corrected: 529
+Ngữ cảnh trước: [Side_QYWYYJTP_1_3] Ra đúng mệnh lệnh vào đúng thời điểm, chúng mới có thể phát huy sức mạnh mãnh liệt nhất.
+CN: ——所以，你们知道我带你们来这里的原因了吗？
+VI nguồn: — Vậy nên, các ngươi đã hiểu lý do ta đưa các ngươi đến đây chưa?
+VI sửa đầy đủ: — Vậy nên, các cậu đã hiểu lý do tôi đưa các cậu đến đây chưa?
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [Side_QYWYYJTP_2_10] Bọn họ tuy thường ngày đã thấy không ít Cơ Khôi trong thành, nhưng chưa thật sự tìm hiểu chúng ở cự ly gần bao giờ.
+
+78. PART 066
+KEY: lang_multi_text.db||MultiText||Side_QYWYYJTP_2_12
+Dòng nguồn: 902 | Dòng corrected: 538
+Ngữ cảnh trước: [Side_QYWYYJTP_2_11] Bọn họ không biết đám Cơ Khôi này có đặc điểm chiến thuật ra sao, cũng không biết làm sao chỉ huy chúng chiến đấu hay phối hợp tác chiến một cách hiệu quả nhất.
+CN: 我带他们来悬天构，是打算让他们学习与机傀协同作战的技艺。
+VI nguồn: Ta đưa bọn họ đến Huyền Thiên Cấu, là muốn để bọn họ học kỹ nghệ phối hợp tác chiến với Cơ Khôi.
+VI sửa đầy đủ: Tôi đưa bọn họ đến Huyền Thiên Cấu, là muốn để bọn họ học kỹ nghệ phối hợp tác chiến với Cơ Khôi.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [Side_QYWYYJTP_2_13] Dù sao, so với chỉ đọc sách hay xem video giảng dạy, thì tự mình trải nghiệm bao giờ cũng học nhanh hơn.
+
+79. PART 066
+KEY: lang_multi_text.db||MultiText||Side_QYWYYJTP_2_16
+Dòng nguồn: 922 | Dòng corrected: 550
+Ngữ cảnh trước: [Side_QYWYYJTP_2_15] Đây quả là một cách hay.
+CN: 我已经把向机傀下达指令的方式告诉他们了，接下来就是正式的实际练习。
+VI nguồn: Ta đã chỉ cho bọn họ cách ra mệnh lệnh cho Cơ Khôi rồi, tiếp theo chính là luyện tập thực tế chính thức.
+VI sửa đầy đủ: Tôi đã chỉ cho bọn họ cách ra mệnh lệnh cho Cơ Khôi rồi, tiếp theo chính là luyện tập thực tế chính thức.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [Side_QYWYYJTP_2_17] Cơ hội hiếm có, cậu chỉ dạy bọn họ một chút nhé, {PlayerName}?
+
+80. PART 066
+KEY: lang_multi_text.db||MultiText||Side_QYWYYJTP_2_17
+Dòng nguồn: 927 | Dòng corrected: 553
+Ngữ cảnh trước: [Side_QYWYYJTP_2_16] Tôi đã chỉ cho bọn họ cách ra mệnh lệnh cho Cơ Khôi rồi, tiếp theo chính là luyện tập thực tế chính thức.
+CN: 机会难得，要指导一下他们吗，{PlayerName}？
+VI nguồn: Cơ hội hiếm có, ngươi chỉ dạy bọn họ một chút nhé, {PlayerName}?
+VI sửa đầy đủ: Cơ hội hiếm có, cậu chỉ dạy bọn họ một chút nhé, {PlayerName}?
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [Side_QYWYYJTP_2_18] Chuyện đó thì không thành vấn đề. Luật lệ là gì?
+
+81. PART 066
+KEY: lang_multi_text.db||MultiText||Side_QYWYYJTP_2_3
+Dòng nguồn: 972 | Dòng corrected: 580
+Ngữ cảnh trước: [Side_QYWYYJTP_2_24] Rất tốt — vậy thì bắt đầu thôi.
+CN: 我们是不是离得太近了？它们不会突然失控吧……
+VI nguồn: Chúng ta có đứng gần quá không? Chúng sẽ không đột nhiên mất kiểm soát chứ...
+VI sửa đầy đủ: Chúng tôi có đứng gần quá không? Chúng sẽ không đột nhiên mất kiểm soát chứ…
+Lý do: Đồng bộ đại từ theo ngữ cảnh: {'chúng ta': 1} → {'chúng tôi': 1}.
+Ngữ cảnh sau: [Side_QYWYYJTP_2_4] Có thể lắm, nhưng cũng không hẳn…
+
+82. PART 066
+KEY: lang_multi_text.db||MultiText||Side_QYWYYJTP_2_9
+Dòng nguồn: 1002 | Dòng corrected: 598
+Ngữ cảnh trước: [Side_QYWYYJTP_2_8] Đây là đang có hành động gì sao?
+CN: 你好，{PlayerName}。我在训练这些新招募的士兵。
+VI nguồn: Xin chào, {PlayerName}. Ta đang huấn luyện đám binh sĩ mới chiêu mộ này.
+VI sửa đầy đủ: Xin chào, {PlayerName}. Tôi đang huấn luyện đám binh sĩ mới chiêu mộ này.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [Side_QYWYYJTP_4_1] Đây chính là Cơ Khôi sao, ngầu quá đi!
+
+83. PART 066
+KEY: lang_multi_text.db||MultiText||Side_QYWYYJTP_4_2
+Dòng nguồn: 1012 | Dòng corrected: 604
+Ngữ cảnh trước: [Side_QYWYYJTP_4_1] Đây chính là Cơ Khôi sao, ngầu quá đi!
+CN: 看我出绝招——
+VI nguồn: Xem tuyệt chiêu của ta đây…
+VI sửa đầy đủ: Xem tuyệt chiêu của tôi đây…
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [Side_QYWYYJTP_5_1] Không, không ổn rồi… {PlayerName} mạnh quá thể còn gì…
+
+84. PART 067
+KEY: lang_multi_text.db||MultiText||Side_QZFZZFHXM_27_5
+Dòng nguồn: 327 | Dòng corrected: 193
+Ngữ cảnh trước: [Side_QZFZZFHXM_27_4] À, đủ rồi đủ rồi. Đừng lải nhải với hắn nữa, đại ca. Phải khiến hắn câm miệng mới được…
+CN: ——住手，你是想把定玄卫引过来吗？
+VI nguồn: — Dừng tay, ngươi muốn dẫn Định Huyền Vệ tới đây à?
+VI sửa đầy đủ: —Dừng tay, cậu muốn kéo Định Huyền Vệ tới đây à?
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [Side_QZFZZFHXM_27_6] Nhớ kỹ, giờ chúng ta là thương đội, không thể lỗ mãng như trước nữa… Đưa hắn về, tôi sẽ đích thân nói chuyện với hắn.
+
+85. PART 067
+KEY: lang_multi_text.db||MultiText||Side_QZFZZFHXM_27_6
+Dòng nguồn: 332 | Dòng corrected: 196
+Ngữ cảnh trước: [Side_QZFZZFHXM_27_5] —Dừng tay, cậu muốn kéo Định Huyền Vệ tới đây à?
+CN: 记住，我们现在可是商队，不能像之前那么鲁莽了……把他带回去，我跟他亲自谈谈。
+VI nguồn: Nhớ đấy, giờ chúng ta là thương đội, không thể lỗ mãng như trước được nữa... Đưa hắn về, ta sẽ đích thân nói chuyện với hắn.
+VI sửa đầy đủ: Nhớ kỹ, giờ chúng ta là thương đội, không thể lỗ mãng như trước nữa… Đưa hắn về, tôi sẽ đích thân nói chuyện với hắn.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [Side_QZFZZFHXM_28_1] (…Giản Tập chắc là đã bị bọn chúng đưa đi rồi. Có điều, xem ra trước mắt tính mạng anh ta chưa gặp nguy hiểm gì.)
+
+86. PART 067
+KEY: lang_multi_text.db||MultiText||Side_QZFZZFHXM_31_22
+Dòng nguồn: 442 | Dòng corrected: 262
+Ngữ cảnh trước: [Side_QZFZZFHXM_31_21] Các người là…?
+CN: 哦，是你们啊。
+VI nguồn: Ồ, là các ngươi à.
+VI sửa đầy đủ: Ồ, là các anh à.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [Side_QZFZZFHXM_31_23] …Ngài quả đúng là quý nhân hay quên nhỉ. Haha, ngài còn nhớ không? Hồi đó bọn tôi chỉ muốn ngâm suối nước nóng thôi, kết quả lại bị ngài dạy cho một trận.
+
+87. PART 067
+KEY: lang_multi_text.db||MultiText||Side_QZFZZFHXM_31_25
+Dòng nguồn: 457 | Dòng corrected: 271
+Ngữ cảnh trước: [Side_QZFZZFHXM_31_24] Trí nhớ của ngài quả không tệ. Hồi đó bọn tôi chỉ muốn ngâm suối nước nóng thôi, kết quả lại bị ngài dạy cho một trận.
+CN: 等等，头儿……当时好像是我们先动的手……
+VI nguồn: Khoan đã, đại ca... hồi đó hình như là bọn ta ra tay trước thì phải...
+VI sửa đầy đủ: Khoan đã, đại ca… hồi đó hình như là bọn mình ra tay trước thì phải…
+Lý do: Đồng bộ đại từ theo ngữ cảnh: {'bọn ta': 1} → {'mình': 1}.
+Ngữ cảnh sau: [Side_QZFZZFHXM_31_26] Kẻ Lưu Đày từ Kim Châu, sao lại chạy tới Địa Giới Huyền Phương thế này?
+
+88. PART 067
+KEY: lang_multi_text.db||MultiText||Side_QZFZZFHXM_31_29
+Dòng nguồn: 477 | Dòng corrected: 283
+Ngữ cảnh trước: [Side_QZFZZFHXM_31_28] Giờ bọn tôi là hành thương an phận thủ thường, mấy chuyện chém giết chốn giang hồ trước kia, bọn tôi tuyệt đối không làm nữa đâu.
+CN: 我可没看出来。
+VI nguồn: Ta thì chẳng thấy vậy.
+VI sửa đầy đủ: Tôi thì không nghĩ vậy.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [Side_QZFZZFHXM_31_3] Dù sao cậu cũng chẳng thể ở lại đây được nữa, đúng không?
+
+89. PART 067
+KEY: lang_multi_text.db||MultiText||Side_QZFZZFHXM_31_7
+Dòng nguồn: 522 | Dòng corrected: 310
+Ngữ cảnh trước: [Side_QZFZZFHXM_31_6] Ừm… tôi là người văn minh, Giản Tập bằng hữu. Nhưng phải thừa nhận, cái cách giải quyết này… đối với tôi cũng vô cùng hấp dẫn.
+CN: ……你绝不敢动手。如果我再不出现，大家就会向外事府报案，会查到你头上。
+VI nguồn: ...Ngươi tuyệt đối không dám ra tay. Nếu tôi cứ mãi không xuất hiện, mọi người sẽ báo án lên Ngoại Sự Phủ, sẽ lần ra tới đầu các ngươi.
+VI sửa đầy đủ: …Anh tuyệt đối không dám ra tay. Nếu tôi tiếp tục mất tích, mọi người sẽ báo án lên Ngoại Sự Phủ, rồi sớm muộn cũng điều tra ra các anh.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [Side_QZFZZFHXM_31_8] Các anh vẫn còn cần tôi trấn an mọi người và tiếp tục diễn kịch, cho đến khi cả bọn thuận lợi rời khỏi Huyền Phương Thành.
+
+90. PART 067
+KEY: lang_multi_text.db||MultiText||Side_QZFZZFHXM_31_8
+Dòng nguồn: 527 | Dòng corrected: 313
+Ngữ cảnh trước: [Side_QZFZZFHXM_31_7] …Anh tuyệt đối không dám ra tay. Nếu tôi tiếp tục mất tích, mọi người sẽ báo án lên Ngoại Sự Phủ, rồi sớm muộn cũng điều tra ra các anh.
+CN: 你还指望我安抚大家，和你继续演戏，直到你们顺利离开玄方城为止。
+VI nguồn: Các ngươi vẫn còn trông cậy tôi trấn an mọi người, tiếp tục diễn kịch với các ngươi, cho đến khi các ngươi thuận lợi rời khỏi Huyền Phương Thành.
+VI sửa đầy đủ: Các anh vẫn còn cần tôi trấn an mọi người và tiếp tục diễn kịch, cho đến khi cả bọn thuận lợi rời khỏi Huyền Phương Thành.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [Side_QZFZZFHXM_31_9] Ồ? Ha ha ha… Nhìn xem, bằng hữu của chúng ta rốt cuộc cũng thông minh được một lần.
+
+91. PART 067
+KEY: lang_multi_text.db||MultiText||Side_QZFZZFHXM_33_5
+Dòng nguồn: 677 | Dòng corrected: 403
+Ngữ cảnh trước: [Side_QZFZZFHXM_33_4] Đám vũ khí đó từ đâu ra?
+CN: 你说的“那几位大人”是谁？
+VI nguồn: "Mấy vị đại nhân" mà ngươi nói là ai?
+VI sửa đầy đủ: “Mấy vị đại nhân” mà anh vừa nhắc đến là ai?
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [Side_QZFZZFHXM_33_6] Tôi không còn gì để hỏi.
+
+92. PART 067
+KEY: lang_multi_text.db||MultiText||Side_QZFZZFHXM_33_6
+Dòng nguồn: 682 | Dòng corrected: 406
+Ngữ cảnh trước: [Side_QZFZZFHXM_33_5] “Mấy vị đại nhân” mà anh vừa nhắc đến là ai?
+CN: 我没有问题了。
+VI nguồn: Ta không còn câu hỏi nào nữa.
+VI sửa đầy đủ: Tôi không còn gì để hỏi.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [Side_QZFZZFHXM_33_7] Nói ra thì dài dòng. Năm đó sau khi bị ngài dạy cho một trận, bọn tôi cũng coi như đã cải tà quy chính được một thời gian.
+
+93. PART 067
+KEY: lang_multi_text.db||MultiText||Side_QZFZZFHXM_6_13
+Dòng nguồn: 1032 | Dòng corrected: 616
+Ngữ cảnh trước: [Side_QZFZZFHXM_6_12] Ngoại Sự Phủ có biết kế hoạch này không?
+CN: 我没有问题了。
+VI nguồn: Ta không còn câu hỏi nào nữa.
+VI sửa đầy đủ: Tôi không còn gì để hỏi.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [Side_QZFZZFHXM_6_14] Vùng đất Huyền Phương tuy cách Kim Châu không xa, nhưng cũng là nơi trọng yếu nối liền Kim Châu và Mộng Châu.
+
+94. PART 068
+KEY: lang_multi_text.db||MultiText||Side_TFSJJKYY_3_12
+Dòng nguồn: 117 | Dòng corrected: 67
+Ngữ cảnh trước: [Side_TFSJJKYY_3_11] Tôi nghe nói, anh có tham gia vào một vụ giao dịch Cơ Khôi.
+CN: 你向布莱德说明了事情的经过。
+VI nguồn: Cậu nói rõ diễn biến sự việc cho Barrado.
+VI sửa đầy đủ: Bạn giải thích đầu đuôi sự việc cho Blade.
+Lý do: Đồng bộ đại từ theo ngữ cảnh: {'cậu': 1} → {'bạn': 1}.
+Ngữ cảnh sau: [Side_TFSJJKYY_3_13] "Cơ Khôi"…? Ý ngài là mấy con robot tuần tra trên phố ấy à?
+
+95. PART 068
+KEY: lang_multi_text.db||MultiText||Side_XFC_XBZX_14_2
+Dòng nguồn: 562 | Dòng corrected: 334
+Ngữ cảnh trước: [Side_XFC_XBZX_14_12] Vậy thì tốt, chúng ta đi xem thử luôn.
+CN: 她需要我解救某个机偶……
+VI nguồn: Cô bé cần ta giải cứu một cơ ngẫu nào đó...
+VI sửa đầy đủ: Cô bé cần tôi giải cứu một Cơ Ngẫu nào đó…
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [Side_XFC_XBZX_14_3] Cô bé gọi tôi là thứ dân.
+
+96. PART 068
+KEY: lang_multi_text.db||MultiText||Side_XFC_XBZX_14_3
+Dòng nguồn: 567 | Dòng corrected: 337
+Ngữ cảnh trước: [Side_XFC_XBZX_14_2] Cô bé cần tôi giải cứu một Cơ Ngẫu nào đó…
+CN: 她叫我庶民。
+VI nguồn: Cô bé gọi ta là thứ dân.
+VI sửa đầy đủ: Cô bé gọi tôi là thứ dân.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [Side_XFC_XBZX_14_4] Ra vậy, thế thì đơn giản rồi.
+
+97. PART 068
+KEY: lang_multi_text.db||MultiText||Side_XFC_XBZX_14_9
+Dòng nguồn: 597 | Dòng corrected: 355
+Ngữ cảnh trước: [Side_XFC_XBZX_14_8] Nên tôi quyết định tới xem thử, chỉ là sửa cái này cũng cần một trợ thủ. Tôi vừa nhắc với con bé một câu, kết quả…
+CN: 她就拜托了我。
+VI nguồn: Cô bé liền nhờ ta.
+VI sửa đầy đủ: Rồi cô bé liền nhờ tôi.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [Side_XFC_XBZX_15_1] (Đám đồ này, xem ra cũng không phải thứ một đứa trẻ có thể khiêng nổi.)
+
+98. PART 068
+KEY: lang_multi_text.db||MultiText||Side_XFC_XBZX_1_10
+Dòng nguồn: 662 | Dòng corrected: 394
+Ngữ cảnh trước: [Side_XFC_XBZX_1_1] Thứ dân, lại đây! Bổn đại vương có một thỉnh cầu!
+CN: 甲大王把你拉到一边……
+VI nguồn: Đại Vương Giáp kéo ngươi sang một bên...
+VI sửa đầy đủ: Đại Vương Giáp kéo bạn sang một bên…
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [Side_XFC_XBZX_1_11] Xin lỗi, vừa nãy, dù sao cũng là trước mặt thần dân, bổn đại vương… ta phải giữ tôn nghiêm của bậc vương mà.
+
+99. PART 068
+KEY: lang_multi_text.db||MultiText||Side_XFC_XBZX_2_2
+Dòng nguồn: 762 | Dòng corrected: 454
+Ngữ cảnh trước: [Side_XFC_XBZX_2_13] Vậy vừa hay, nhìn này, ở đây có một cái hộp Thủ Ngẫu, bạn có muốn chơi thử không?
+CN: 她需要我解救某个机偶……
+VI nguồn: Cô bé cần ta giải cứu một cơ ngẫu nào đó...
+VI sửa đầy đủ: Cô bé cần tôi giải cứu một Cơ Ngẫu nào đó…
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [Side_XFC_XBZX_2_3] Cô bé gọi tôi là thứ dân.
+
+100. PART 068
+KEY: lang_multi_text.db||MultiText||Side_XFC_XBZX_2_3
+Dòng nguồn: 767 | Dòng corrected: 457
+Ngữ cảnh trước: [Side_XFC_XBZX_2_2] Cô bé cần tôi giải cứu một Cơ Ngẫu nào đó…
+CN: 她叫我庶民。
+VI nguồn: Cô bé gọi ta là thứ dân.
+VI sửa đầy đủ: Cô bé gọi tôi là thứ dân.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [Side_XFC_XBZX_2_4] Ra vậy, thế thì đơn giản rồi.
+
+101. PART 068
+KEY: lang_multi_text.db||MultiText||Side_XFC_XBZX_2_9
+Dòng nguồn: 797 | Dòng corrected: 475
+Ngữ cảnh trước: [Side_XFC_XBZX_2_8] Nên tôi quyết định tới đây xem thử, chỉ là sửa cái này cũng cần một trợ thủ. Tôi vừa nhắc với con bé một câu, kết quả…
+CN: 她就拜托了我。
+VI nguồn: Cô bé liền nhờ ta.
+VI sửa đầy đủ: Rồi cô bé liền nhờ tôi.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [Side_XFC_XBZX_3_1] Kỹ thuật khá đấy, đi thôi, chúng ta đi xem cái hộp Thủ Ngẫu bị hỏng kia.
+
+102. PART 068
+KEY: lang_multi_text.db||MultiText||Side_XFC_XBZX_8_12
+Dòng nguồn: 877 | Dòng corrected: 523
+Ngữ cảnh trước: [Side_XFC_XBZX_8_11] Chưa chắc đâu.
+CN: 刚才我在里面看到的那些堵塞物，明显不是你这样的小孩能搬动的。
+VI nguồn: Đám vật cản mà lúc nãy ta thấy bên trong, rõ ràng không phải thứ một đứa nhỏ như cháu có thể khiêng nổi.
+VI sửa đầy đủ: Đám vật cản tôi thấy bên trong lúc nãy rõ ràng không phải thứ một đứa trẻ như cháu có thể di chuyển.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [Side_XFC_XBZX_8_13] Tuyệt quá! Nhưng mà, cháu, cháu xin lỗi.
+
+103. PART 068
+KEY: lang_multi_text.db||MultiText||Side_XFC_XBZX_9_4
+Dòng nguồn: 982 | Dòng corrected: 586
+Ngữ cảnh trước: [Side_XFC_XBZX_9_3] Cứ từ từ nói là được.
+CN: 在你的安抚下，贺玉将前因后果同累陶再讲了一遍。
+VI nguồn: Nhờ sự trấn an của ngươi, Hạ Ngọc kể lại đầu đuôi câu chuyện cho Lũy Đào nghe một lần nữa.
+VI sửa đầy đủ: Nhờ bạn trấn an, Hạ Ngọc kể lại đầu đuôi câu chuyện cho Lũy Đào nghe.
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [Side_XFC_XBZX_9_5] Ra là vậy. Tôi cũng nói mà, lúc nãy khi {PlayerName} ở bên trong, tôi cũng kiểm tra một lượt, phát hiện đúng là có vài linh kiện được lắp bù vào.
+
+104. PART 068
+KEY: lang_multi_text.db||MultiText||Side_XFC_ZHDFTYW_10_1
+Dòng nguồn: 1012 | Dòng corrected: 604
+Ngữ cảnh trước: [Side_XFC_XBZX_9_9] Thích ạ! Cháu sưu tầm rất nhiều mô hình cơ ngẫu như thế này, ở nhà còn nhiều lắm!
+CN: 谢谢你，帮我们，完成使命。
+VI nguồn: Cảm ơn ngươi, đã giúp chúng ta, hoàn thành sứ mệnh.
+VI sửa đầy đủ: Cảm ơn bạn đã giúp chúng tôi hoàn thành sứ mệnh.
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [Side_XFC_ZHDFTYW_11_1] …Cảm ơn bạn đã giúp chúng tôi hoàn thành nhiệm vụ trước đó.
+
+105. PART 068
+KEY: lang_multi_text.db||MultiText||Side_XFC_ZHDFTYW_11_1
+Dòng nguồn: 1017 | Dòng corrected: 607
+Ngữ cảnh trước: [Side_XFC_ZHDFTYW_10_1] Cảm ơn bạn đã giúp chúng tôi hoàn thành sứ mệnh.
+CN: ……感谢你帮我们完成之前的任务。
+VI nguồn: ...Cảm ơn ngươi đã giúp chúng ta hoàn thành nhiệm vụ trước đó.
+VI sửa đầy đủ: …Cảm ơn bạn đã giúp chúng tôi hoàn thành nhiệm vụ trước đó.
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [Side_XFC_ZHDFTYW_11_10] Vì vậy, chúng ta ngủ đông.
+
+106. PART 068
+KEY: lang_multi_text.db||MultiText||Side_XFC_ZHDFTYW_11_2
+Dòng nguồn: 1042 | Dòng corrected: 622
+Ngữ cảnh trước: [Side_XFC_ZHDFTYW_11_13] Hãy sát cánh cùng chúng ta, dùng trận chiến cuối cùng, kết thúc sứ mệnh của chúng ta.
+CN: 我之前听到的那些，是你们过去的记录？
+VI nguồn: Những thứ ta nghe được lúc trước, là ghi chép trong quá khứ của các ngươi?
+VI sửa đầy đủ: Những gì tôi nghe thấy trước đó là bản ghi chép trong quá khứ của các bạn sao?
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [Side_XFC_ZHDFTYW_11_3] Đó là nỗi đau khổ… đã rất lâu rồi không có mệnh lệnh nào.
+
+107. PART 068
+KEY: lang_multi_text.db||MultiText||Side_XFC_ZHDFTYW_13_2
+Dòng nguồn: 1097 | Dòng corrected: 655
+Ngữ cảnh trước: [Side_XFC_ZHDFTYW_13_1] Sứ mệnh cần… chúng ta… hoàn thành nhiệm vụ…
+CN: 请你帮忙，去方庭……
+VI nguồn: Nhờ ngươi giúp một tay, đến Phương Đình...
+VI sửa đầy đủ: Xin bạn giúp chúng tôi đến Phương Đình…
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [Side_XFC_ZHDFTYW_14_1] Chúng ta cảm nhận được, những Cơ Khôi bên phía Tước Hồi Uyển, cũng đã hoàn thành sứ mệnh của mình.
+
+108. PART 068
+KEY: lang_multi_text.db||MultiText||Side_XFC_ZHDFTYW_1_4
+Dòng nguồn: 1147 | Dòng corrected: 685
+Ngữ cảnh trước: [Side_XFC_ZHDFTYW_1_3] Ta là Cơ Khôi dùng cho Phương Đình Diễn Võ, số hiệu Cơ Vệ Nhất. Có thể tiến hành, thuyết minh.
+CN: 你是谁？
+VI nguồn: Cậu là...?
+VI sửa đầy đủ: Bạn là…?
+Lý do: Đồng bộ đại từ theo ngữ cảnh: {'cậu': 1} → {'bạn': 1}.
+Ngữ cảnh sau: [Side_XFC_ZHDFTYW_1_5] Nơi này để làm gì vậy?
+
+109. PART 068
+KEY: lang_multi_text.db||MultiText||Side_XJBGYBHY_10_2
+Dòng nguồn: 1247 | Dòng corrected: 745
+Ngữ cảnh trước: [Side_XJBGYBHY_10_1] Đáng ghét… Chỉ là một con Quyển Lân Giáp thôi mà chạy nhanh thật đấy. Nhưng mà… đã dừng lại rồi thì…
+CN: ……终于逮到你了，你这个坏家伙……！
+VI nguồn: ...Cuối cùng cũng tóm được ngươi rồi, cái đồ ranh con này...!
+VI sửa đầy đủ: …Cuối cùng cũng tóm được mày rồi, đồ phá phách…!
+Lý do: Đồng bộ đại từ theo ngữ cảnh: {'ngươi': 1, 'con': 1} → {}.
+Ngữ cảnh sau: [Side_XJBGYBHY_10_3] Ở đây thì làm gì còn chỗ nào mà trốn nữa… Chỉ cần…
+
+110. PART 069
+KEY: lang_multi_text.db||MultiText||Side_XJBGYBHY_16_5
+Dòng nguồn: 57 | Dòng corrected: 31
+Ngữ cảnh trước: [Side_XJBGYBHY_16_4] Yên tâm đi, tôi đã xử lý xong hết rồi.
+CN: 你向裴文大体说明了事情的经过。
+VI nguồn: Cậu đại khái kể lại cho Bùi Văn diễn biến sự việc.
+VI sửa đầy đủ: Bạn kể sơ lược diễn biến sự việc cho Bùi Văn.
+Lý do: Đồng bộ đại từ theo ngữ cảnh: {'cậu': 1} → {'bạn': 1}.
+Ngữ cảnh sau: [Side_XJBGYBHY_16_6] …Một con Tàn Tượng giả dạng thành Quyển Lân Giáp ư? Ừm… hình như tôi từng nghe sư phụ của tôi trong Định Huyền Vệ kể một câu chuyện tương tự.
+
+111. PART 069
+KEY: lang_multi_text.db||MultiText||Side_XJBGYBHY_4_7
+Dòng nguồn: 297 | Dòng corrected: 175
+Ngữ cảnh trước: [Side_XJBGYBHY_4_6] Cậu hẳn chính là Ổ Thập Tam nhỉ.
+CN: 你向邬十三和老金说明了自己的来意。
+VI nguồn: Cậu nói rõ ý định của mình cho Ổ Thập Tam và Lão Kim.
+VI sửa đầy đủ: Bạn nói rõ ý định của mình cho Ổ Thập Tam và Lão Kim.
+Lý do: Đồng bộ đại từ theo ngữ cảnh: {'cậu': 1, 'mình': 1} → {'bạn': 1, 'mình': 1}.
+Ngữ cảnh sau: [Side_XJBGYBHY_4_9] Này, Ổ Thập Tam, hôm đó rốt cuộc cậu đã gặp phải thứ gì, mau kể cho {PlayerName} nghe đi.
+
+112. PART 069
+KEY: lang_multi_text.db||MultiText||Side_XJBGYBHY_7_34
+Dòng nguồn: 427 | Dòng corrected: 253
+Ngữ cảnh trước: [Side_XJBGYBHY_7_33] Chúc cậu may mắn, {PlayerName}!
+CN: 你向裴文说明了自己的来意。
+VI nguồn: Cậu nói rõ ý định của mình cho Bùi Văn.
+VI sửa đầy đủ: Bạn nói rõ ý định của mình cho Bùi Văn.
+Lý do: Đồng bộ đại từ theo ngữ cảnh: {'cậu': 1, 'mình': 1} → {'bạn': 1, 'mình': 1}.
+Ngữ cảnh sau: [Side_XJBGYBHY_7_4] Quanh đây nguy hiểm lắm đấy, tuy với cao thủ như cậu thì chẳng đáng là gì…
+
+113. PART 069
+KEY: lang_multi_text.db||MultiText||Side_XJBGZMTX_15_23
+Dòng nguồn: 642 | Dòng corrected: 382
+Ngữ cảnh trước: [Side_XJBGZMTX_15_22] Thì, thì cho dù là vậy, cũng rất đáng sợ mà!
+CN: ……我明白了。
+VI nguồn: ...Vâng, ta hiểu rồi.
+VI sửa đầy đủ: …Tôi hiểu rồi.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [Side_XJBGZMTX_15_24] Tôi định điều tra thêm khu vực này một chút, các cậu đợi tôi ở đây nhé.
+
+114. PART 070
+KEY: lang_multi_text.db||MultiText||Side_XJBGZMTX_4_12
+Dòng nguồn: 67 | Dòng corrected: 37
+Ngữ cảnh trước: [Side_XJBGZMTX_4_11] Thật ra, tôi chính là {PlayerName}. Tôi nhận ủy thác của Ngoại Sự Phủ, đến điều tra… ờ, vụ mất tích của "chính mình".
+CN: 你和卫宁进行通讯，她帮你证实了自己的身份。
+VI nguồn: Bạn liên lạc với Vệ Ninh, cô ấy giúp bạn xác nhận thân phận của mình.
+VI sửa đầy đủ: Bạn liên lạc với Vệ Ninh, nhờ cô ấy xác nhận thân phận của mình.
+Lý do: Đồng bộ đại từ theo ngữ cảnh: {'bạn': 2, 'mình': 1} → {'bạn': 1, 'mình': 1}.
+Ngữ cảnh sau: [Side_XJBGZMTX_4_13] Tôi có thể chứng minh, vị tiểu thư này đúng là không phải Chixia. Ngoài việc tóc đều màu đỏ ra, về cơ bản chẳng có điểm nào giống nhau cả.
+
+115. PART 070
+KEY: lang_multi_text.db||MultiText||Side_XJBGZMTX_9_1
+Dòng nguồn: 277 | Dòng corrected: 163
+Ngữ cảnh trước: [Side_XJBGZMTX_8_2] Rõ ràng ở đây từng xảy ra một trận chiến… Kết quả thì đã quá rõ ràng.
+CN: 你……你们是……
+VI nguồn: Ngươi... các ngươi là...
+VI sửa đầy đủ: Các… các người là…
+Lý do: Đồng bộ đại từ theo ngữ cảnh: {'ngươi': 1, 'các ngươi': 1} → {}.
+Ngữ cảnh sau: [Side_XJBGZMTX_9_2] Không ngờ mình lại có ngày này chứ, Rover… Ngươi yếu hơn nhiều so với trong truyền thuyết đấy.
+
+116. PART 070
+KEY: lang_multi_text.db||MultiText||Side_XJBGZMTX_9_4
+Dòng nguồn: 292 | Dòng corrected: 172
+Ngữ cảnh trước: [Side_XJBGZMTX_9_3] Bọn ta cũng chỉ làm theo lệnh thôi. Biết điều thì buông vũ khí, đừng chống cự nữa mà đi theo bọn ta.
+CN: ……你们到底想做什么？别过来！尝尝我的必杀技——
+VI nguồn: ...Rốt cuộc các ngươi muốn làm gì? Đừng lại gần! Nếm thử tuyệt chiêu của ta đây…
+VI sửa đầy đủ: …Rốt cuộc các người muốn làm gì? Đừng lại gần! Nếm thử tuyệt chiêu của tôi đây—
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [Side_XJBGZMTX_9_5] Bạn để ý thấy, trong đoạn ghi hình không hề có bóng dáng kẻ đang nói chuyện với "Rover".
+
+117. PART 070
+KEY: lang_multi_text.db||MultiText||Side_YJYAHXWJ_29_10
+Dòng nguồn: 932 | Dòng corrected: 556
+Ngữ cảnh trước: [Side_YJYAHXWJ_29_1] Sự anh dũng và ngoan cường của các người… khiến bọn ta ấn tượng sâu sắc. Nhưng lẽ ra các người không cần phải như vậy.
+CN: 按照我对残星会的了解，如果你说的是那些我打过交道的残星会的话，应该会用“我们”吧。
+VI nguồn: Theo hiểu biết của tôi về Tàn Tinh Hội, nếu ngươi nói đến đám Tàn Tinh Hội mà tôi từng đối đầu, thì lẽ ra phải dùng "chúng ta" chứ.
+VI sửa đầy đủ: Theo hiểu biết của tôi về Tàn Tinh Hội, nếu anh đang nói đến những kẻ tôi từng đối đầu thì lẽ ra phải dùng “chúng tôi” mới đúng.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [Side_YJYAHXWJ_29_11] …Hừ. Lẽ ra là vậy. Nhưng bọn chúng đã vứt bỏ chúng ta trong cái ngục tù mục ruỗng này… như thể đám Tàn Tượng hèn mọn bị nhốt trong Vạn Ngoa Lao.
+
+118. PART 075
+KEY: lang_multi_text.db||MultiText||StJCFYLQ_15_3
+Dòng nguồn: 152 | Dòng corrected: 88
+Ngữ cảnh trước: [StJCFYLQ_15_2] Chào, chào ngài, tôi… đây…
+CN: 你找我？
+VI nguồn: Cậu tìm ta?
+VI sửa đầy đủ: Cậu tìm tôi à?
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [StJCFYLQ_15_4] À, đúng vậy! Ừm, dám hỏi các hạ có phải từng sát cánh chiến đấu với tướng quân Jiyan ở Bắc Lạc Dã không?
+
+119. PART 075
+KEY: lang_multi_text.db||MultiText||Term750057_Desc
+Dòng nguồn: 1022 | Dòng corrected: 610
+Ngữ cảnh trước: [Term750056_Title] Người Tế Thanh
+CN: 曾在今州活动的一个犯罪组织，借由能让人看到已故家人的宣传口号，从而吸引了一大批成员加入。在你与吟霖的介入下，如今已经覆灭。
+VI nguồn: Một tổ chức tội phạm từng hoạt động ở Kim Châu, nhờ khẩu hiệu tuyên truyền có thể khiến người ta nhìn thấy người thân đã khuất, mà thu hút một lượng lớn thành viên gia nhập. Dưới sự can thiệp của ngươi và Ngâm Lâm, nay đã bị tiêu diệt.
+VI sửa đầy đủ: Một tổ chức tội phạm từng hoạt động ở Kim Châu, nhờ khẩu hiệu tuyên truyền có thể khiến người ta nhìn thấy người thân đã khuất, mà thu hút một lượng lớn thành viên gia nhập. Dưới sự can thiệp của bạn và Yinlin, nay đã bị tiêu diệt.
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [Term750057_Title] Hội Tương Trợ Quy Hồn
+
+120. PART 076
+KEY: lang_multi_text.db||MultiText||WDYX_201_1
+Dòng nguồn: 472 | Dòng corrected: 280
+Ngữ cảnh trước: [WDYX_2001_3] Hành Đạo Cự sợ đến mức quay đầu bỏ chạy!
+CN: 你好啊，要听听那流传已久的诡秘之事吗？
+VI nguồn: Chào ngươi, có muốn nghe câu chuyện bí hiểm đã lưu truyền từ lâu ấy không?
+VI sửa đầy đủ: Chào cậu, có muốn nghe câu chuyện bí hiểm đã lưu truyền từ lâu ấy không?
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [WDYX_201_2] Nói nghe thử xem.
+
+121. PART 076
+KEY: lang_multi_text.db||MultiText||WDYX_21_10
+Dòng nguồn: 502 | Dòng corrected: 298
+Ngữ cảnh trước: [WDYX_21_1] Thế nào thế nào? Câu chuyện này ra sao?
+CN: 可惜大师最近不知怎么，突然断了篇章，我天天等新回，等得心里跟猫抓一样。唉！唉！
+VI nguồn: Tiếc là gần đây đại sư chẳng hiểu sao lại đột ngột ngừng viết, ta ngày nào cũng ngóng hồi mới, ngóng đến sốt cả ruột như mèo cào. Haiz! Haiz!
+VI sửa đầy đủ: Tiếc là gần đây đại sư chẳng hiểu sao lại đột ngột ngừng viết, tôi ngày nào cũng ngóng hồi mới, ngóng đến sốt cả ruột như mèo cào. Haiz! Haiz!
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [WDYX_21_11] Hết cách, tôi đành tự mình cầm bút viết vậy. Tuy còn cách 《Tầm U Ký》 tận mười vạn tám ngàn dặm… nhưng cũng chỉ đành tạm bợ cho đỡ ngứa ngáy trong lòng thôi.
+
+122. PART 076
+KEY: lang_multi_text.db||MultiText||WDYX_21_11
+Dòng nguồn: 507 | Dòng corrected: 301
+Ngữ cảnh trước: [WDYX_21_10] Tiếc là gần đây đại sư chẳng hiểu sao lại đột ngột ngừng viết, tôi ngày nào cũng ngóng hồi mới, ngóng đến sốt cả ruột như mèo cào. Haiz! Haiz!
+CN: 没法子，我就只好自己动笔写了。虽说离《寻幽记》还差十万八千里……但也只能先凑合着解解心里的痒了。
+VI nguồn: Hết cách, ta đành tự mình cầm bút viết vậy. Tuy còn cách 《Tầm U Ký》 tận mười vạn tám ngàn dặm... nhưng cũng chỉ đành tạm bợ cho đỡ ngứa ngáy trong lòng thôi.
+VI sửa đầy đủ: Hết cách, tôi đành tự mình cầm bút viết vậy. Tuy còn cách 《Tầm U Ký》 tận mười vạn tám ngàn dặm… nhưng cũng chỉ đành tạm bợ cho đỡ ngứa ngáy trong lòng thôi.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [WDYX_21_12] Biết đâu ngày nào đó, chuyện của tôi thật sự lọt vào mắt đại sư — dù chỉ phê cho tôi một câu "tạm được", rồi để lại chữ ký, là tôi đủ khoác lác nửa đời rồi!
+
+123. PART 076
+KEY: lang_multi_text.db||MultiText||WDYX_21_12
+Dòng nguồn: 512 | Dòng corrected: 304
+Ngữ cảnh trước: [WDYX_21_11] Hết cách, tôi đành tự mình cầm bút viết vậy. Tuy còn cách 《Tầm U Ký》 tận mười vạn tám ngàn dặm… nhưng cũng chỉ đành tạm bợ cho đỡ ngứa ngáy trong lòng thôi.
+CN: 说不准哪天，我的故事真能被大师看见——哪怕只给我批一句“尚可”，再留个签名，我就够吹半辈子了！
+VI nguồn: Biết đâu ngày nào đó, chuyện của ta thật sự lọt vào mắt đại sư — dù chỉ phê cho ta một câu "tạm được", rồi để lại chữ ký, là ta đủ khoác lác nửa đời rồi!
+VI sửa đầy đủ: Biết đâu ngày nào đó, chuyện của tôi thật sự lọt vào mắt đại sư — dù chỉ phê cho tôi một câu "tạm được", rồi để lại chữ ký, là tôi đủ khoác lác nửa đời rồi!
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [WDYX_21_13] Vậy… mong cậu thành công.
+
+124. PART 076
+KEY: lang_multi_text.db||MultiText||WDYX_21_13
+Dòng nguồn: 517 | Dòng corrected: 307
+Ngữ cảnh trước: [WDYX_21_12] Biết đâu ngày nào đó, chuyện của tôi thật sự lọt vào mắt đại sư — dù chỉ phê cho tôi một câu "tạm được", rồi để lại chữ ký, là tôi đủ khoác lác nửa đời rồi!
+CN: 那……期待你的成功。
+VI nguồn: Vậy... mong ngươi thành công.
+VI sửa đầy đủ: Vậy… mong cậu thành công.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [WDYX_21_14] Ây ây, đa tạ, đa tạ! Tôi đi nghĩ tiếp phần sau đây… khi nào rảnh, cũng hoan nghênh cậu lại đến nghe nhé!
+
+125. PART 076
+KEY: lang_multi_text.db||MultiText||WDYX_21_14
+Dòng nguồn: 522 | Dòng corrected: 310
+Ngữ cảnh trước: [WDYX_21_13] Vậy… mong cậu thành công.
+CN: 哎哎，多谢，多谢！我继续琢磨后文去了……等有空时，也欢迎你再来听啊！
+VI nguồn: Ây ây, đa tạ, đa tạ! Ta đi nghĩ tiếp phần sau đây... khi nào rảnh, cũng hoan nghênh ngươi lại đến nghe nhé!
+VI sửa đầy đủ: Ây ây, đa tạ, đa tạ! Tôi đi nghĩ tiếp phần sau đây… khi nào rảnh, cũng hoan nghênh cậu lại đến nghe nhé!
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [WDYX_21_2] Cũng có chút thú vị.
+
+126. PART 076
+KEY: lang_multi_text.db||MultiText||WDYX_21_5
+Dòng nguồn: 542 | Dòng corrected: 322
+Ngữ cảnh trước: [WDYX_21_4] Thế còn nội dung phía sau thì sao?
+CN: 哈哈，是吧！哎呀，得到你的肯定，我这一天的苦思冥想算是值当了。
+VI nguồn: Haha, phải không nào! Ôi chao, được ngươi khen ngợi, cả một ngày vắt óc suy nghĩ của ta coi như cũng đáng công.
+VI sửa đầy đủ: Haha, phải không nào! Ôi chao, được cậu khen ngợi, cả một ngày vắt óc suy nghĩ của tôi coi như cũng đáng công.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [WDYX_21_6] Hả? Thật sao? Vậy chẳng phải cả ngày nay tôi nghĩ nhiều đến thế là phí công rồi ư…
+
+127. PART 076
+KEY: lang_multi_text.db||MultiText||WDYX_21_6
+Dòng nguồn: 547 | Dòng corrected: 325
+Ngữ cảnh trước: [WDYX_21_5] Haha, phải không nào! Ôi chao, được cậu khen ngợi, cả một ngày vắt óc suy nghĩ của tôi coi như cũng đáng công.
+CN: 啊？真的吗？那我这一天岂不是白想这么多了……
+VI nguồn: Hả? Thật sao? Vậy chẳng phải cả ngày nay ta nghĩ nhiều đến thế là phí công rồi ư...
+VI sửa đầy đủ: Hả? Thật sao? Vậy chẳng phải cả ngày nay tôi nghĩ nhiều đến thế là phí công rồi ư…
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [WDYX_21_7] Ờ, vẫn chưa nghĩ ra xong.
+
+128. PART 076
+KEY: lang_multi_text.db||MultiText||WDYX_21_8
+Dòng nguồn: 557 | Dòng corrected: 331
+Ngữ cảnh trước: [WDYX_21_7] Ờ, vẫn chưa nghĩ ra xong.
+CN: 其实吧，跟你说实话，刚刚那些……都是我自己瞎琢磨出来的故事。
+VI nguồn: Thật ra thì, nói thật với ngươi, mấy chuyện vừa rồi... đều là những câu chuyện ta tự bịa ra thôi.
+VI sửa đầy đủ: Thật ra thì, nói thật với cậu, mấy chuyện vừa rồi… đều là những câu chuyện tôi tự bịa ra thôi.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [WDYX_21_9] Tôi thường ngày mê nhất là mấy chuyện truyền kỳ chí quái! Nhất là bộ 《Tầm U Ký》 của đại sư Quỷ Miêu Xiết Đăng — chao ôi, hơn một trăm bốn mươi hồi cơ đấy, chuyện quái dị gì ông ấy cũng viết ra được y như thật vậy!
+
+129. PART 076
+KEY: lang_multi_text.db||MultiText||WDYX_21_9
+Dòng nguồn: 562 | Dòng corrected: 334
+Ngữ cảnh trước: [WDYX_21_8] Thật ra thì, nói thật với cậu, mấy chuyện vừa rồi… đều là những câu chuyện tôi tự bịa ra thôi.
+CN: 我平时最爱看那些传说志异了！尤其是鬼猫掣灯大师的《寻幽记》——乖乖，一百四十多回啊，什么怪事都能给他写得跟真见过似的！
+VI nguồn: Ta thường ngày mê nhất là mấy chuyện truyền kỳ chí quái! Nhất là bộ 《Tầm U Ký》 của đại sư Quỷ Miêu Xiết Đăng — chao ôi, hơn một trăm bốn mươi hồi cơ đấy, chuyện quái dị gì ông ấy cũng viết ra được y như thật vậy!
+VI sửa đầy đủ: Tôi thường ngày mê nhất là mấy chuyện truyền kỳ chí quái! Nhất là bộ 《Tầm U Ký》 của đại sư Quỷ Miêu Xiết Đăng — chao ôi, hơn một trăm bốn mươi hồi cơ đấy, chuyện quái dị gì ông ấy cũng viết ra được y như thật vậy!
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [WDYX_2_1] Nói đến chuyện 「Vụ Đăng Dạ Hành」 ấy à! Quả là bí hiểm khôn lường, khiến người ta dựng tóc gáy rợn cả người… Ối! Cậu đến từ lúc nào vậy!
+
+130. PART 076
+KEY: lang_multi_text.db||MultiText||WDYX_2_1
+Dòng nguồn: 567 | Dòng corrected: 337
+Ngữ cảnh trước: [WDYX_21_9] Tôi thường ngày mê nhất là mấy chuyện truyền kỳ chí quái! Nhất là bộ 《Tầm U Ký》 của đại sư Quỷ Miêu Xiết Đăng — chao ôi, hơn một trăm bốn mươi hồi cơ đấy, chuyện quái dị gì ông ấy cũng viết ra được y như thật vậy!
+CN: 若说那“雾灯夜行”之事！可谓是诡秘莫测，直叫人毛森骨立……吓！你什么时候来的！
+VI nguồn: Nói đến chuyện 「Vụ Đăng Dạ Hành」 ấy à! Quả là bí hiểm khôn lường, khiến người ta dựng tóc gáy rợn cả người... Ối! Ngươi đến từ lúc nào vậy!
+VI sửa đầy đủ: Nói đến chuyện 「Vụ Đăng Dạ Hành」 ấy à! Quả là bí hiểm khôn lường, khiến người ta dựng tóc gáy rợn cả người… Ối! Cậu đến từ lúc nào vậy!
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [WDYX_2_10] Haiz, tiếc thật! Vậy khi nào rảnh, cậu nhất định phải đến nhé.
+
+131. PART 076
+KEY: lang_multi_text.db||MultiText||WDYX_2_10
+Dòng nguồn: 572 | Dòng corrected: 340
+Ngữ cảnh trước: [WDYX_2_1] Nói đến chuyện 「Vụ Đăng Dạ Hành」 ấy à! Quả là bí hiểm khôn lường, khiến người ta dựng tóc gáy rợn cả người… Ối! Cậu đến từ lúc nào vậy!
+CN: 唉，可惜了！那等有空时，你可一定要来啊。
+VI nguồn: Haiz, tiếc thật! Vậy khi nào rảnh, ngươi nhất định phải đến nhé.
+VI sửa đầy đủ: Haiz, tiếc thật! Vậy khi nào rảnh, cậu nhất định phải đến nhé.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [WDYX_2_2] Xin chào.
+
+132. PART 076
+KEY: lang_multi_text.db||MultiText||WDYX_2_9
+Dòng nguồn: 612 | Dòng corrected: 364
+Ngữ cảnh trước: [WDYX_2_8] Vùng đất Huyền Phương của chúng ta khu vực này, ban đêm sương dày, nhất là những ngày âm u ẩm thấp, hơi nước bốc lên là đến bóng người cách mười bước cũng chẳng thấy rõ. Vì thế, Huyền Thiên Cấu đã bố trí dọc đường những "Hành Đạo Cự".
+CN: 不妨想象一下，假若你就是那行道炬……
+VI nguồn: Cứ thử tưởng tượng xem, giả như ngươi chính là Hành Đạo Cự đó...
+VI sửa đầy đủ: Cứ thử tưởng tượng xem, giả như cậu chính là Hành Đạo Cự đó…
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [WDYX_3_1] Mỗi khi đêm sương, chúng sẽ men theo lộ trình định sẵn mà di chuyển, thắp đèn cho các trạm đèn khắp nơi.
+
+133. PART 076
+KEY: lang_multi_text.db||MultiText||XFCSBST_14_6
+Dòng nguồn: 1117 | Dòng corrected: 667
+Ngữ cảnh trước: [XFCSBST_14_5] Mau lại đây xem, con Lương Diên tôi vừa chụp được — nhìn này!
+CN: 你凑过去看他手上的相机屏：只看到一片空白。
+VI nguồn: Cậu ghé lại nhìn màn hình máy ảnh trên tay anh ta: chỉ thấy một khoảng trắng trơn.
+VI sửa đầy đủ: Bạn ghé lại nhìn màn hình máy ảnh trên tay anh ta: chỉ thấy một khoảng trắng trơn.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [XFCSBST_14_7] Trên này chẳng có gì cả…
+
+134. PART 077
+KEY: lang_multi_text.db||MultiText||XFCSYJST_5_4
+Dòng nguồn: 992 | Dòng corrected: 592
+Ngữ cảnh trước: [XFCSYJST_5_3] Haiz, cái ngày đường sá tắc nghẽn thế này, bao giờ mới đến hồi kết đây…
+CN: 察觉到你停在商货面前，那张愁苦的脸立刻停下叹息，撑起一个有些勉强的笑脸。
+VI nguồn: Nhận ra ngươi dừng lại trước quầy hàng, gương mặt sầu khổ ấy lập tức ngừng thở dài, gượng nở một nụ cười có phần miễn cưỡng.
+VI sửa đầy đủ: Thấy bạn dừng lại trước quầy hàng, người bán đang mang vẻ mặt sầu khổ lập tức thôi thở dài và gượng nở một nụ cười.
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [XFCSYJST_5_5] …À, chào cậu chào cậu, đến mua đặc sản núi rừng à!
+
+135. PART 078
+KEY: lang_multi_text.db||MultiText||XFJCFST_2_1
+Dòng nguồn: 337 | Dòng corrected: 199
+Ngữ cảnh trước: [XFJCFST_29_7] Sớm nhìn rõ thực tế, sớm điều chỉnh sách lược đi. Đi thôi, chẳng phải cậu muốn luyện liều mạng sao? Tôi đi chạy thêm hai vòng với cậu.
+CN: 梦州一别，没想到你我还能再见……
+VI nguồn: Mộng Châu chia tay, không ngờ ta và ngươi còn có thể gặp lại...
+VI sửa đầy đủ: Chia tay ở Mộng Châu, không ngờ tôi và ông còn có ngày gặp lại…
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [XFJCFST_2_2] Tôi còn tưởng ông đã sớm nản lòng thoái chí, lui về ở ẩn và từ bỏ việc làm Định Huyền Vệ rồi.
+
+136. PART 078
+KEY: lang_multi_text.db||MultiText||XFJCFST_2_2
+Dòng nguồn: 342 | Dòng corrected: 202
+Ngữ cảnh trước: [XFJCFST_2_1] Chia tay ở Mộng Châu, không ngờ tôi và ông còn có ngày gặp lại…
+CN: 我还以为你早已心灰意冷，归隐山林，放弃做定玄卫了。
+VI nguồn: Ta còn tưởng ngươi sớm đã nản lòng thoái chí, quy ẩn núi rừng, từ bỏ việc làm Định Huyền Vệ rồi.
+VI sửa đầy đủ: Tôi còn tưởng ông đã sớm nản lòng thoái chí, lui về ở ẩn và từ bỏ việc làm Định Huyền Vệ rồi.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [XFJCFST_2_3] Sao có thể? Tôi biết sai thì nhận, nhưng lại chẳng biết hai chữ “bỏ cuộc” viết thế nào.
+
+137. PART 078
+KEY: lang_multi_text.db||MultiText||XFJCFST_2_3
+Dòng nguồn: 347 | Dòng corrected: 205
+Ngữ cảnh trước: [XFJCFST_2_2] Tôi còn tưởng ông đã sớm nản lòng thoái chí, lui về ở ẩn và từ bỏ việc làm Định Huyền Vệ rồi.
+CN: 怎么会？我这人，知错认错，偏不知道什么叫放弃。
+VI nguồn: Sao có thể? Con người ta, biết sai nhận sai, nhưng lại chẳng biết thế nào là từ bỏ.
+VI sửa đầy đủ: Sao có thể? Tôi biết sai thì nhận, nhưng lại chẳng biết hai chữ “bỏ cuộc” viết thế nào.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [XFJCFST_30_1] Một tấm bia đá lâu đời, nét chữ trên đó mờ nhạt không rõ.
+
+138. PART 078
+KEY: lang_multi_text.db||MultiText||XFJCFST_30_2
+Dòng nguồn: 357 | Dòng corrected: 211
+Ngữ cảnh trước: [XFJCFST_30_1] Một tấm bia đá lâu đời, nét chữ trên đó mờ nhạt không rõ.
+CN: 你仔细地辨认后，依稀看到了一些人名：
+VI nguồn: Sau khi ngươi cẩn thận nhận diện, mơ hồ thấy được một số tên người:
+VI sửa đầy đủ: Sau khi quan sát kỹ, bạn mơ hồ nhận ra một vài cái tên:
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [XFJCFST_30_3] Nhược Vân, Lưu Vũ Hàm, ▇▇, Quan Xuyên, An Nham, ▇▇▇, Linh Phường…
+
+139. PART 078
+KEY: lang_multi_text.db||MultiText||XFJCFST_3_1
+Dòng nguồn: 367 | Dòng corrected: 217
+Ngữ cảnh trước: [XFJCFST_30_3] Nhược Vân, Lưu Vũ Hàm, ▇▇, Quan Xuyên, An Nham, ▇▇▇, Linh Phường…
+CN: 梦州一别，没想到还能在这儿碰见你。
+VI nguồn: Mộng Châu chia tay, không ngờ còn có thể gặp lại ngươi ở đây.
+VI sửa đầy đủ: Chia tay ở Mộng Châu, không ngờ lại gặp ông ở đây.
+Lý do: Đồng bộ đại từ theo ngữ cảnh: {'ngươi': 1} → {'ông': 1}.
+Ngữ cảnh sau: [XFJCFST_3_2] Sau chuyện đó, ông rời Quân Sách Phủ Mộng Châu rồi bặt vô âm tín. Tôi còn tưởng ông đã nản lòng, lui về ở ẩn rồi.
+
+140. PART 078
+KEY: lang_multi_text.db||MultiText||XFJCFST_3_2
+Dòng nguồn: 372 | Dòng corrected: 220
+Ngữ cảnh trước: [XFJCFST_3_1] Chia tay ở Mộng Châu, không ngờ lại gặp ông ở đây.
+CN: 那件事之后，你离开了梦州军策府，许久没有音讯。我还以为你已心灰意冷，归隐山林了。
+VI nguồn: Sau chuyện đó, ngươi rời khỏi Quân Sách Phủ Mộng Châu, bặt vô âm tín đã lâu. Ta còn tưởng ngươi đã nản lòng thoái chí, quy ẩn núi rừng rồi.
+VI sửa đầy đủ: Sau chuyện đó, ông rời Quân Sách Phủ Mộng Châu rồi bặt vô âm tín. Tôi còn tưởng ông đã nản lòng, lui về ở ẩn rồi.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [XFJCFST_3_3] Vậy thì ông đoán sai rồi. Tôi vẫn cứng đầu như trước; biết sai thì nhận, nhưng chẳng biết thế nào là bỏ cuộc.
+
+141. PART 078
+KEY: lang_multi_text.db||MultiText||XFJCFST_3_3
+Dòng nguồn: 377 | Dòng corrected: 223
+Ngữ cảnh trước: [XFJCFST_3_2] Sau chuyện đó, ông rời Quân Sách Phủ Mộng Châu rồi bặt vô âm tín. Tôi còn tưởng ông đã nản lòng, lui về ở ẩn rồi.
+CN: 那你可就猜错了。我这个人顽性不改，虽然知错认错，偏不知道什么叫放弃。
+VI nguồn: Vậy thì ngươi đoán sai rồi. Con người ta tính ngoan cố không đổi, tuy biết sai nhận sai, nhưng lại chẳng biết thế nào là từ bỏ.
+VI sửa đầy đủ: Vậy thì ông đoán sai rồi. Tôi vẫn cứng đầu như trước; biết sai thì nhận, nhưng chẳng biết thế nào là bỏ cuộc.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [XFJCFST_3_4] Cũng phải, trước đây ông đã cứng đầu lắm rồi. Bề ngoài trông nhẹ tênh, nhưng thật ra lại chẳng buông được điều gì.
+
+142. PART 078
+KEY: lang_multi_text.db||MultiText||XFJCFST_3_4
+Dòng nguồn: 382 | Dòng corrected: 226
+Ngữ cảnh trước: [XFJCFST_3_3] Vậy thì ông đoán sai rồi. Tôi vẫn cứng đầu như trước; biết sai thì nhận, nhưng chẳng biết thế nào là bỏ cuộc.
+CN: 也是，从前你就顽固得很。看着云淡风轻的，其实比谁都放不下。
+VI nguồn: Cũng phải, trước giờ ngươi vốn ngoan cố lắm. Trông thì nhẹ nhàng thanh thản, thực ra lại canh cánh hơn ai hết.
+VI sửa đầy đủ: Cũng phải, trước đây ông đã cứng đầu lắm rồi. Bề ngoài trông nhẹ tênh, nhưng thật ra lại chẳng buông được điều gì.
+Lý do: Đồng bộ đại từ theo ngữ cảnh: {'ngươi': 1} → {'ông': 1}.
+Ngữ cảnh sau: [XFJCFST_3_5] Đừng chỉ chọc tôi nữa, bạn cũ. Nói chuyện của ông đi—đáng lẽ ông phải an hưởng tuổi già ở Mộng Châu, sao bỗng chạy đến Huyền Phương Thành?
+
+143. PART 078
+KEY: lang_multi_text.db||MultiText||XFJCFST_3_5
+Dòng nguồn: 387 | Dòng corrected: 229
+Ngữ cảnh trước: [XFJCFST_3_4] Cũng phải, trước đây ông đã cứng đầu lắm rồi. Bề ngoài trông nhẹ tênh, nhưng thật ra lại chẳng buông được điều gì.
+CN: 别光损我了，老朋友。还是说说你吧——你本该在梦州颐养天年，怎么忽然跑到这玄方城来了？
+VI nguồn: Đừng chỉ chăm chăm chê ta, bạn cũ à. Còn nói về ngươi thì hơn... Đáng lẽ ngươi phải an hưởng tuổi già ở Mộng Châu, sao bỗng chạy đến thành Huyền Phương này?
+VI sửa đầy đủ: Đừng chỉ chọc tôi nữa, bạn cũ. Nói chuyện của ông đi—đáng lẽ ông phải an hưởng tuổi già ở Mộng Châu, sao bỗng chạy đến Huyền Phương Thành?
+Lý do: Lời kể/mô tả hướng đến người chơi: dùng “bạn”, không dùng “ngươi”.
+Ngữ cảnh sau: [XFJCFST_3_6] Tôi à? Tôi lui về từ lâu rồi. Cháu trai giờ là Định Huyền Vệ ở Huyền Phương Thành, tôi chỉ là người nhà theo quân đến đây thôi.
+
+144. PART 078
+KEY: lang_multi_text.db||MultiText||XFJCFST_3_6
+Dòng nguồn: 392 | Dòng corrected: 232
+Ngữ cảnh trước: [XFJCFST_3_5] Đừng chỉ chọc tôi nữa, bạn cũ. Nói chuyện của ông đi—đáng lẽ ông phải an hưởng tuổi già ở Mộng Châu, sao bỗng chạy đến Huyền Phương Thành?
+CN: 我？我早就退下来了。侄儿现在是玄方城的定玄卫，我就是个随军过来的家属。
+VI nguồn: Ta ư? Ta lui về từ lâu rồi. Cháu trai giờ là Định Huyền Vệ của thành Huyền Phương, ta chỉ là người nhà theo quân đến đây thôi.
+VI sửa đầy đủ: Tôi à? Tôi lui về từ lâu rồi. Cháu trai giờ là Định Huyền Vệ ở Huyền Phương Thành, tôi chỉ là người nhà theo quân đến đây thôi.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [XFJCFST_3_7] Biết ông đang làm Vệ Trưởng ở đây, tôi có thể yên tâm giao thằng bé cho ông. Hãy rèn giũa nó cho tốt, để sau này trở thành một Định Huyền Vệ xuất sắc như ông.
+
+145. PART 078
+KEY: lang_multi_text.db||MultiText||XFJCFST_3_7
+Dòng nguồn: 397 | Dòng corrected: 235
+Ngữ cảnh trước: [XFJCFST_3_6] Tôi à? Tôi lui về từ lâu rồi. Cháu trai giờ là Định Huyền Vệ ở Huyền Phương Thành, tôi chỉ là người nhà theo quân đến đây thôi.
+CN: 既然是你在这边担任卫长，我把他交给你就放心了。让他好好历练，得像你一样，当个优秀的定玄卫。
+VI nguồn: Đã là ngươi đảm nhiệm vệ trưởng ở đây, ta giao nó cho ngươi là yên tâm rồi. Cho nó rèn luyện cho tốt, phải như ngươi, làm một Định Huyền Vệ ưu tú.
+VI sửa đầy đủ: Biết ông đang làm Vệ Trưởng ở đây, tôi có thể yên tâm giao thằng bé cho ông. Hãy rèn giũa nó cho tốt, để sau này trở thành một Định Huyền Vệ xuất sắc như ông.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [XFJCFST_3_8] Cứ yên tâm. Sau này thằng bé nhất định sẽ trở thành một Định Huyền Vệ xuất sắc như ông. Thu Hồng này sẽ không phụ lòng gửi gắm.
+
+146. PART 078
+KEY: lang_multi_text.db||MultiText||XFJCFST_3_8
+Dòng nguồn: 402 | Dòng corrected: 238
+Ngữ cảnh trước: [XFJCFST_3_7] Biết ông đang làm Vệ Trưởng ở đây, tôi có thể yên tâm giao thằng bé cho ông. Hãy rèn giũa nó cho tốt, để sau này trở thành một Định Huyền Vệ xuất sắc như ông.
+CN: 放心吧，他将来一定会是个像你一样出色的定玄卫。秋鸿必不负所托。
+VI nguồn: Yên tâm đi, sau này nó nhất định sẽ là một Định Huyền Vệ xuất sắc như ngươi. Thu Hồng ắt không phụ sự ủy thác.
+VI sửa đầy đủ: Cứ yên tâm. Sau này thằng bé nhất định sẽ trở thành một Định Huyền Vệ xuất sắc như ông. Thu Hồng này sẽ không phụ lòng gửi gắm.
+Lý do: Đồng bộ đại từ theo ngữ cảnh: {'ngươi': 1} → {'ông': 1}.
+Ngữ cảnh sau: [XFJCFST_4_1] Vệ trưởng… à không, ông Thu Hồng! Số Lương Diên thu về hôm nay đều ở đây cả rồi.
+
+147. PART 078
+KEY: lang_multi_text.db||MultiText||XLCSYJST_1_1
+Dòng nguồn: 767 | Dòng corrected: 457
+Ngữ cảnh trước: [XLCSYJST_19_3] …Không sao đâu mẹ, có Mạt Mạt đây, con sẽ luôn ở bên mẹ.
+CN: 阿帆，这次玄方的战事已经平息，我来看你了。
+VI nguồn: A Phàm, chiến sự lần này ở Huyền Phương đã lắng xuống, ta đến thăm ngươi đây.
+VI sửa đầy đủ: A Phàm, chiến sự ở Huyền Phương đã lắng xuống rồi. Tôi đến thăm cậu đây.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [XLCSYJST_1_2] Mẹ cậu vẫn khỏe, chỉ là quá đau buồn… Em trai cậu đang chăm sóc bà.
+
+148. PART 078
+KEY: lang_multi_text.db||MultiText||XLCSYJST_1_2
+Dòng nguồn: 772 | Dòng corrected: 460
+Ngữ cảnh trước: [XLCSYJST_1_1] A Phàm, chiến sự ở Huyền Phương đã lắng xuống rồi. Tôi đến thăm cậu đây.
+CN: 你母亲现在身体也还好，只是伤心太重……你弟弟在照顾她。
+VI nguồn: Mẹ ngươi giờ sức khỏe cũng ổn, chỉ là đau buồn quá đỗi... Em trai ngươi đang chăm sóc bà.
+VI sửa đầy đủ: Mẹ cậu vẫn khỏe, chỉ là quá đau buồn… Em trai cậu đang chăm sóc bà.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [XLCSYJST_1_3] Tôi và mọi người ở Làng Hàm Linh sau này cũng sẽ thay cậu chăm lo cho bà.
+
+149. PART 078
+KEY: lang_multi_text.db||MultiText||XLCSYJST_1_3
+Dòng nguồn: 777 | Dòng corrected: 463
+Ngữ cảnh trước: [XLCSYJST_1_2] Mẹ cậu vẫn khỏe, chỉ là quá đau buồn… Em trai cậu đang chăm sóc bà.
+CN: 我和衔翎村的人，也会在未来替你看顾她的生活。
+VI nguồn: Ta và người làng Hàm Linh, sau này cũng sẽ thay ngươi trông nom cuộc sống của bà.
+VI sửa đầy đủ: Tôi và mọi người ở Làng Hàm Linh sau này cũng sẽ thay cậu chăm lo cho bà.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [XLCSYJST_20_1] …Mạt Mạt, dạo này mẹ con lại lẫn hơn trước một chút rồi.
+
+150. PART 078
+KEY: lang_multi_text.db||MultiText||XLCSYJST_2_1
+Dòng nguồn: 967 | Dòng corrected: 577
+Ngữ cảnh trước: [XLCSYJST_29_3] Chim Huyền Linh… ta không tin là chúng đã thực sự tuyệt chủng…
+CN: 阿帆，这次玄方的战事已经平息，我来看你了。
+VI nguồn: A Phàm, chiến sự lần này ở Huyền Phương đã lắng xuống, ta đến thăm ngươi đây.
+VI sửa đầy đủ: A Phàm, chiến sự ở Huyền Phương đã lắng xuống rồi. Tôi đến thăm cậu đây.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [XLCSYJST_2_2] Mẹ cậu vẫn khỏe, chỉ là quá đau buồn… Em trai cậu đang chăm sóc bà.
+
+151. PART 078
+KEY: lang_multi_text.db||MultiText||XLCSYJST_2_2
+Dòng nguồn: 972 | Dòng corrected: 580
+Ngữ cảnh trước: [XLCSYJST_2_1] A Phàm, chiến sự ở Huyền Phương đã lắng xuống rồi. Tôi đến thăm cậu đây.
+CN: 你母亲现在身体也还好，只是伤心太重……你弟弟在照顾她。
+VI nguồn: Mẹ ngươi giờ sức khỏe cũng ổn, chỉ là đau buồn quá đỗi... Em trai ngươi đang chăm sóc bà.
+VI sửa đầy đủ: Mẹ cậu vẫn khỏe, chỉ là quá đau buồn… Em trai cậu đang chăm sóc bà.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [XLCSYJST_2_3] Tôi và mọi người ở Làng Hàm Linh sau này cũng sẽ thay cậu chăm lo cho bà.
+
+152. PART 078
+KEY: lang_multi_text.db||MultiText||XLCSYJST_2_3
+Dòng nguồn: 977 | Dòng corrected: 583
+Ngữ cảnh trước: [XLCSYJST_2_2] Mẹ cậu vẫn khỏe, chỉ là quá đau buồn… Em trai cậu đang chăm sóc bà.
+CN: 我和衔翎村的人，也会在未来替你看顾她的生活。
+VI nguồn: Ta và người làng Hàm Linh, sau này cũng sẽ thay ngươi trông nom cuộc sống của bà.
+VI sửa đầy đủ: Tôi và mọi người ở Làng Hàm Linh sau này cũng sẽ thay cậu chăm lo cho bà.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [XLCSYJST_2_4] Đám bạn chúng ta, hồi đó rủ nhau bắt chước các chú các bác, đến Quân Sách Phủ ứng tuyển Định Huyền Vệ…
+
+153. PART 078
+KEY: lang_multi_text.db||MultiText||XLCSYJST_37_1
+Dòng nguồn: 1152 | Dòng corrected: 688
+Ngữ cảnh trước: [XLCSYJST_36_4] Em cũng đâu còn là trẻ con nữa, chị à, em sẽ tự chăm sóc bản thân tốt mà.
+CN: 你、你把手放下来！不然，我就用砖头扔过去了！
+VI nguồn: Ngươi, ngươi bỏ tay xuống! Không thì, ta ném gạch qua đấy!
+VI sửa đầy đủ: C-cậu bỏ tay xuống! Không thì tớ ném gạch đấy!
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [XLCSYJST_37_2] Đừng sợ, cỗ Cơ Khôi này bên Thiên Công đã kiểm tra rồi, xác nhận an toàn.
+
+154. PART 078
+KEY: lang_multi_text.db||MultiText||XLCSYJST_38_1
+Dòng nguồn: 1167 | Dòng corrected: 697
+Ngữ cảnh trước: [XLCSYJST_37_3] Từ nay về sau nó chỉ bảo vệ ngôi làng thôi, người của Quân Sách Phủ chúng tôi cũng sẽ để mắt trông chừng.
+CN: 上次……你动的时候，突然就开始打人了……！
+VI nguồn: Lần trước... khi ngươi động đậy, đột nhiên bắt đầu đánh người...!
+VI sửa đầy đủ: Lần trước… vừa cử động là cậu đã đột nhiên đánh người…!
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [XLCSYJST_38_2] Chị Định Huyền Vệ bảo cậu đã ổn rồi, có thật không?
+
+155. PART 078
+KEY: lang_multi_text.db||MultiText||XLCSYJST_38_2
+Dòng nguồn: 1172 | Dòng corrected: 700
+Ngữ cảnh trước: [XLCSYJST_38_1] Lần trước… vừa cử động là cậu đã đột nhiên đánh người…!
+CN: 定玄卫姐姐说你已经好了，是真的吗？
+VI nguồn: Chị Định Huyền Vệ bảo ngươi đã ổn rồi, có thật không?
+VI sửa đầy đủ: Chị Định Huyền Vệ bảo cậu đã ổn rồi, có thật không?
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [XLCSYJST_38_3] …Vậy thì tớ sẽ thử tin cậu thêm một lần nữa…
+
+156. PART 078
+KEY: lang_multi_text.db||MultiText||XLCSYJST_38_3
+Dòng nguồn: 1177 | Dòng corrected: 703
+Ngữ cảnh trước: [XLCSYJST_38_2] Chị Định Huyền Vệ bảo cậu đã ổn rồi, có thật không?
+CN: ……那，我再试着信你一次吧……
+VI nguồn: ...Vậy thì, để ta thử tin ngươi thêm một lần nữa...
+VI sửa đầy đủ: …Vậy thì tớ sẽ thử tin cậu thêm một lần nữa…
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [XLCSYJST_3_1] A Trọng nó… lúc cuối có nói gì không?
+
+157. PART 079
+KEY: lang_multi_text.db||MultiText||XTSJ_12_5
+Dòng nguồn: 157 | Dòng corrected: 91
+Ngữ cảnh trước: [XTSJ_12_4] Xin, chỉ, dẫn!
+CN: 我暂时有事。
+VI nguồn: Ta tạm thời có việc.
+VI sửa đầy đủ: Tôi tạm thời còn có việc.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [XTSJ_1_1] Tôi, yếu quá…
+
+158. PART 079
+KEY: lang_multi_text.db||MultiText||XTSJ_1_1
+Dòng nguồn: 162 | Dòng corrected: 94
+Ngữ cảnh trước: [XTSJ_12_5] Tôi tạm thời còn có việc.
+CN: 我、太弱了……
+VI nguồn: Bản, máy yếu quá...
+VI sửa đầy đủ: Tôi, yếu quá…
+Lý do: Đồng bộ đại từ theo ngữ cảnh: {} → {'tôi': 1}.
+Ngữ cảnh sau: [XTSJ_21_1] Thực hiện yêu cầu: Thay đơn vị này hướng dẫn tiểu đội hoàn thành kỳ sát hạch.
+
+159. PART 079
+KEY: lang_multi_text.db||MultiText||XTSJ_2_1
+Dòng nguồn: 192 | Dòng corrected: 112
+Ngữ cảnh trước: [XTSJ_21_5] Phản hồi đã xác nhận. Xin theo tôi, đi tới địa điểm sát hạch.
+CN: 我、太弱了……
+VI nguồn: Bản, máy yếu quá...
+VI sửa đầy đủ: Tôi, yếu quá…
+Lý do: Đồng bộ đại từ theo ngữ cảnh: {} → {'tôi': 1}.
+Ngữ cảnh sau: [XTSJ_2_10] Phát hiện, cá thể mạnh mẽ thân thiện.
+
+160. PART 079
+KEY: lang_multi_text.db||MultiText||XTSJ_2_7
+Dòng nguồn: 257 | Dòng corrected: 151
+Ngữ cảnh trước: [XTSJ_2_6] Đáp án, phủ định. Mức độ thân thiện, không thể phân giải. Có thể, sẽ bị tháo dỡ.
+CN: 我、太弱了……
+VI nguồn: Bản, máy yếu quá...
+VI sửa đầy đủ: Tôi, yếu quá…
+Lý do: Đồng bộ đại từ theo ngữ cảnh: {} → {'tôi': 1}.
+Ngữ cảnh sau: [XTSJ_2_8] Cố lên một chút!
+
+161. PART 079
+KEY: lang_multi_text.db||MultiText||XTSJ_2_9
+Dòng nguồn: 267 | Dòng corrected: 157
+Ngữ cảnh trước: [XTSJ_2_8] Cố lên một chút!
+CN: 我是、友善个体。
+VI nguồn: Ta là, cá thể thân thiện.
+VI sửa đầy đủ: Tôi là… cá thể thân thiện.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [XTSJ_31_1] Bắt đầu kiểm tra.
+
+162. PART 079
+KEY: lang_multi_text.db||MultiText||XTSJ_5_1
+Dòng nguồn: 277 | Dòng corrected: 163
+Ngữ cảnh trước: [XTSJ_31_1] Bắt đầu kiểm tra.
+CN: 果然、我、太弱了……
+VI nguồn: Quả nhiên, bản, máy yếu quá...
+VI sửa đầy đủ: Quả nhiên, tôi, quá yếu…
+Lý do: Đồng bộ đại từ theo ngữ cảnh: {} → {'tôi': 1}.
+Ngữ cảnh sau: [XTSJ_5_2] Không thể, dẫn dắt đội ngũ…
+
+163. PART 079
+KEY: lang_multi_text.db||MultiText||YBWH_15_11
+Dòng nguồn: 682 | Dòng corrected: 406
+Ngữ cảnh trước: [YBWH_15_10] Cậu ấy vẫn đang bận bên Định Huyền Vệ, chắc lát nữa mới qua được.
+CN: ……看来我们几个要想好好聚聚，还得再等上一段日子。
+VI nguồn: ...Xem ra để mấy đứa ta tụ họp cho đàng hoàng, còn phải đợi thêm một thời gian nữa.
+VI sửa đầy đủ: …Xem ra muốn cả nhóm tụ họp đông đủ thì vẫn phải chờ thêm một thời gian nữa.
+Lý do: Đồng bộ đại từ theo ngữ cảnh: {'ta': 1} → {}.
+Ngữ cảnh sau: [YBWH_15_12] Vừa hay… cái này…
+
+164. PART 079
+KEY: lang_multi_text.db||MultiText||YBWH_15_14
+Dòng nguồn: 697 | Dòng corrected: 415
+Ngữ cảnh trước: [YBWH_15_13] Đây là?
+CN: 炽霞托我给你、还有秧秧带的礼物，我准备的那些……也在里面。
+VI nguồn: Quà Chixia nhờ ta mang cho cậu và Ương Ương, những thứ ta chuẩn bị... cũng ở trong đó.
+VI sửa đầy đủ: Đây là quà Chixia nhờ tôi mang cho cậu và Yangyang. Những thứ tôi chuẩn bị… cũng ở trong đó.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [YBWH_15_15] Phần này là của cậu, nhận đi.
+
+165. PART 079
+KEY: lang_multi_text.db||MultiText||YBWH_15_8
+Dòng nguồn: 747 | Dòng corrected: 445
+Ngữ cảnh trước: [YBWH_15_7] Ừm, trông sắc mặt cũng khá tốt.
+CN: 炽霞说得对，你一向能照顾好自己。我想秧秧也是。
+VI nguồn: Chixia nói đúng, cậu luôn biết chăm sóc bản thân. Ta nghĩ Ương Ương cũng vậy.
+VI sửa đầy đủ: Chixia nói đúng, cậu luôn biết tự chăm sóc mình. Tôi nghĩ Yangyang cũng vậy.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [YBWH_15_9] Yangyang đâu?
+
+166. PART 079
+KEY: lang_multi_text.db||MultiText||YBWH_17_26
+Dòng nguồn: 847 | Dòng corrected: 505
+Ngữ cảnh trước: [YBWH_17_25] …
+CN: 我明白了。
+VI nguồn: Ta hiểu rồi.
+VI sửa đầy đủ: Tôi hiểu rồi.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [YBWH_17_27] Không cần bận tâm, cứ giao cho tớ.
+
+167. PART 079
+KEY: lang_multi_text.db||MultiText||YBWH_17_29
+Dòng nguồn: 862 | Dòng corrected: 514
+Ngữ cảnh trước: [YBWH_17_28] Vậy thì tới đi…
+CN: 之后我会将所需药材的相关信息传到你的终端，嗯……在玄方城内应当就能找齐，不会让你跑得太远。
+VI nguồn: Lát nữa ta sẽ gửi thông tin về những dược liệu cần thiết đến terminal của cậu, ừm... trong Huyền Phương Thành chắc là tìm đủ được, sẽ không để cậu phải chạy quá xa đâu.
+VI sửa đầy đủ: Lát nữa tôi sẽ gửi thông tin về các dược liệu cần thiết đến thiết bị đầu cuối của cậu. Ừm… chắc trong Huyền Phương Thành là có thể tìm đủ, nên cậu sẽ không phải đi quá xa.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [YBWH_17_3] Cậu thì sao? Lần trước gặp mặt còn chưa trò chuyện tử tế.
+
+168. PART 079
+KEY: lang_multi_text.db||MultiText||YBWH_17_5
+Dòng nguồn: 887 | Dòng corrected: 529
+Ngữ cảnh trước: [YBWH_17_4] Đừng chỉ nói chuyện người khác, còn cậu thì sao?
+CN: 我这里……还是老样子。偶尔也得承认，做学术工作大多数时候挺枯燥的。
+VI nguồn: Chỗ ta... vẫn như cũ. Đôi khi cũng phải thừa nhận, làm công việc học thuật phần lớn thời gian khá tẻ nhạt.
+VI sửa đầy đủ: Phía tôi… vẫn như cũ. Đôi khi cũng phải thừa nhận rằng công việc nghiên cứu phần lớn thời gian khá tẻ nhạt.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [YBWH_17_6] Nhưng tin tốt là nghiên cứu về Sinh Vật Hồi Âm đã có tiến triển mới. Sau khi hoàn tất nhiệm vụ chi viện Huyền Phương Thành, chắc tôi sẽ dành một thời gian tập trung tiếp tục đề tài.
+
+169. PART 079
+KEY: lang_multi_text.db||MultiText||YBWH_17_6
+Dòng nguồn: 892 | Dòng corrected: 532
+Ngữ cảnh trước: [YBWH_17_5] Phía tôi… vẫn như cũ. Đôi khi cũng phải thừa nhận rằng công việc nghiên cứu phần lớn thời gian khá tẻ nhạt.
+CN: 不过好消息是，之前关于回音生物的研究有了新进展。等玄方城的支援结束，我大概会沉下来一阵子，继续推课题。
+VI nguồn: Nhưng tin vui là, nghiên cứu về Sinh Vật Hồi Âm trước đây đã có tiến triển mới. Đợi việc chi viện Huyền Phương Thành kết thúc, chắc ta sẽ tĩnh tâm một thời gian, tiếp tục đẩy đề tài.
+VI sửa đầy đủ: Nhưng tin tốt là nghiên cứu về Sinh Vật Hồi Âm đã có tiến triển mới. Sau khi hoàn tất nhiệm vụ chi viện Huyền Phương Thành, chắc tôi sẽ dành một thời gian tập trung tiếp tục đề tài.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [YBWH_17_7] …Biến cố lần này, quả thực là một tình tiết ngoài dự liệu.
+
+170. PART 079
+KEY: lang_multi_text.db||MultiText||YBWH_17_8
+Dòng nguồn: 902 | Dòng corrected: 538
+Ngữ cảnh trước: [YBWH_17_7] …Biến cố lần này, quả thực là một tình tiết ngoài dự liệu.
+CN: 好在玄方城有各位坚守，局势总算是稳定了下来。我这一路上也没遇到什么阻碍。
+VI nguồn: May mà Huyền Phương Thành có mọi người trấn giữ, cục diện rốt cuộc cũng ổn định lại. Suốt đường đi ta cũng không gặp trở ngại gì.
+VI sửa đầy đủ: May mà mọi người đã kiên trì bảo vệ Huyền Phương Thành, nên tình hình cuối cùng cũng ổn định. Trên đường tới đây tôi cũng không gặp trở ngại gì.
+Lý do: Hội thoại hiện đại: đổi khỏi hệ “ta–ngươi” theo quan hệ và vai giao tiếp trong cảnh.
+Ngữ cảnh sau: [YBWH_17_9] …Nhiệm vụ chi viện hình như không suôn sẻ lắm nhỉ?

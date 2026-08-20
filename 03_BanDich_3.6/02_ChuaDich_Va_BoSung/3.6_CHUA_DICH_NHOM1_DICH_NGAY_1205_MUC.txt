@@ -1,0 +1,8440 @@
+# ============================================================
+# 3.6 — NHÓM 1: CÓ TIẾNG TRUNG THẬT (1.205 MỤC) — CÓ THỂ DỊCH NGAY
+# ============================================================
+
+
+@@ lang_multi_text.db||MultiText||ChangLi_Shengtai_1_5
+CN: ***
+EN: ***
+JP: **********************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||GNNPC_QXJRSPH2_1_19
+CN: ***
+EN: ****
+JP: ***
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||GNNPC_QXJRSPH2_1_20
+CN: ***
+EN: ****
+JP: ***
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||GNNPC_QXJRSPH_190_1
+CN: **
+EN: ***
+JP: **
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||GNNPC_QXJRSPH_191_1
+CN: **
+EN: ***
+JP: **
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_102750000_ChildQuestTip_686_10
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_102750000_ChildQuestTip_686_11
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_13800000_ChildQuestTip_13_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_13800000_LevelPlayName_13_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_147000038_ChildQuestTip_610_10
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_147000038_ChildQuestTip_610_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_147000038_ChildQuestTip_610_7
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_147000038_ChildQuestTip_610_9
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_147750024_ChildQuestTip_147_11
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_147750024_ChildQuestTip_147_9
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750010_ChildQuestTip_244_15
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750010_ChildQuestTip_244_16
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750010_ChildQuestTip_244_17
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750010_ChildQuestTip_244_19
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750010_ChildQuestTip_244_21
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750010_ChildQuestTip_244_23
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750010_ChildQuestTip_244_25
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750010_ChildQuestTip_244_27
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750010_LevelPlayName_244_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750020_ChildQuestTip_150_10
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750020_ChildQuestTip_150_11
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750020_ChildQuestTip_150_12
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750020_ChildQuestTip_150_7
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750021_ChildQuestTip_150_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750021_ChildQuestTip_150_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750021_ChildQuestTip_150_8
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750022_ChildQuestTip_150_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750022_ChildQuestTip_150_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750022_ChildQuestTip_150_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750023_ChildQuestTip_150_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750023_ChildQuestTip_150_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750023_ChildQuestTip_150_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750024_ChildQuestTip_150_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750024_ChildQuestTip_150_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750024_ChildQuestTip_150_7
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750025_ChildQuestTip_150_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750025_ChildQuestTip_150_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750025_ChildQuestTip_150_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750026_ChildQuestTip_150_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750026_ChildQuestTip_150_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750026_ChildQuestTip_150_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750027_ChildQuestTip_150_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750027_ChildQuestTip_150_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750027_ChildQuestTip_150_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750028_ChildQuestTip_150_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750028_ChildQuestTip_150_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750028_ChildQuestTip_150_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750029_ChildQuestTip_150_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750029_ChildQuestTip_150_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750029_ChildQuestTip_150_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750030_ChildQuestTip_150_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750030_ChildQuestTip_150_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750030_ChildQuestTip_150_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750031_ChildQuestTip_150_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750031_ChildQuestTip_150_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750031_ChildQuestTip_150_7
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750032_ChildQuestTip_150_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750032_ChildQuestTip_150_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750032_ChildQuestTip_150_7
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750033_ChildQuestTip_150_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750033_ChildQuestTip_150_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750033_ChildQuestTip_150_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750034_ChildQuestTip_150_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750034_ChildQuestTip_150_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750034_ChildQuestTip_150_7
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750035_ChildQuestTip_150_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750035_ChildQuestTip_150_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750035_ChildQuestTip_150_7
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750037_ChildQuestTip_150_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_150750037_ChildQuestTip_150_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_158800020_ChildQuestTip_158_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_158800020_ChildQuestTip_158_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_158800020_ChildQuestTip_915_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_158800020_LevelPlayName_158_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_168800007_ChildQuestTip_168_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_168800007_ChildQuestTip_168_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_168800007_ChildQuestTip_168_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_168800007_LevelPlayName_168_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_168800008_ChildQuestTip_168_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_168800008_ChildQuestTip_168_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_168800008_ChildQuestTip_168_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_168800008_LevelPlayName_168_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_168800009_ChildQuestTip_168_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_168800009_ChildQuestTip_168_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_168800009_ChildQuestTip_168_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_168800009_LevelPlayName_168_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_168800010_ChildQuestTip_168_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_168800010_ChildQuestTip_168_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_168800010_ChildQuestTip_168_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_168800010_LevelPlayName_168_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_173000000_ChildQuestTip_173_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_173000000_ChildQuestTip_173_10
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_173000000_ChildQuestTip_173_13
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_173000000_ChildQuestTip_173_14
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_173000000_LevelPlayName_173_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_173000001_ChildQuestTip_173_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_173000001_ChildQuestTip_173_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_173000001_LevelPlayName_173_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_173800000_ChildQuestTip_173_13
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_173800000_ChildQuestTip_173_16
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_173800000_ChildQuestTip_173_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_173800000_ChildQuestTip_173_22
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_173800000_ChildQuestTip_173_23
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_173800000_ChildQuestTip_173_27
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_173800000_ChildQuestTip_173_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_173800000_ChildQuestTip_173_33
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_173800000_ChildQuestTip_173_39
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_173800000_ChildQuestTip_173_41
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_173800000_ChildQuestTip_173_43
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_173800000_ChildQuestTip_173_44
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_173800000_ChildQuestTip_173_45
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_173800000_ChildQuestTip_173_46
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_173800000_ChildQuestTip_173_47
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_173800000_ChildQuestTip_173_7
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_173800000_LevelPlayName_173_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_176750006_ChildQuestTip_176_30
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_176750011_ChildQuestTip_176_13
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_176750011_ChildQuestTip_176_14
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_180000002_ChildQuestTip_180_59
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_180750001_ChildQuestTip_180_19
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_180750001_ChildQuestTip_180_22
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_180750002_ChildQuestTip_180_28
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_188750000_ChildQuestTip_188_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_188750003_ChildQuestTip_188_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_188750004_ChildQuestTip_188_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_196000000_ChildQuestTip_196_103
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_196000000_ChildQuestTip_196_26
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_196000000_ChildQuestTip_196_68
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_196000000_ChildQuestTip_196_71
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_196000000_ChildQuestTip_196_78
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_196000000_ChildQuestTip_196_92
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_196000000_ChildQuestTip_196_95
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_196000000_ChildQuestTip_196_99
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_196000000_LevelPlayName_196_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_196000005_LevelPlayName_196_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_196000006_ChildQuestTip_915_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_196000006_LevelPlayName_196_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_196000007_ChildQuestTip_936_14
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_196000007_ChildQuestTip_936_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_196000007_ChildQuestTip_936_21
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_196000007_ChildQuestTip_936_22
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_196000007_ChildQuestTip_936_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_196000007_LevelPlayName_196_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_196000008_LevelPlayName_196_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_196800000_ChildQuestTip_196_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_196800000_LevelPlayName_196_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_196800001_ChildQuestTip_196_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_196800001_ChildQuestTip_196_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_196800001_LevelPlayName_196_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_200700002_ChildQuestTip_316_18
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_200700002_ChildQuestTip_316_19
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_200700002_ChildQuestTip_316_20
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800150_ChildQuestTip_226_11
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800150_ChildQuestTip_226_12
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800150_ChildQuestTip_226_13
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800150_ChildQuestTip_226_14
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800150_ChildQuestTip_226_15
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800150_LevelPlayName_226_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800150_TakePhotoPosDescription_226_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800150_TakePhotoPosDescription_226_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800150_TakePhotoPosDescription_226_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800152_ChildQuestTip_226_12
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800152_ChildQuestTip_226_13
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800152_ChildQuestTip_226_14
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800152_ChildQuestTip_226_15
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800152_ChildQuestTip_226_16
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800152_LevelPlayName_226_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800152_TakePhotoPosDescription_226_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800152_TakePhotoPosDescription_226_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800152_TakePhotoPosDescription_226_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800153_ChildQuestTip_226_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800153_ChildQuestTip_226_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800153_ChildQuestTip_226_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800153_ChildQuestTip_226_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800153_ChildQuestTip_226_7
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800153_LevelPlayName_226_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800153_TakePhotoPosDescription_226_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800153_TakePhotoPosDescription_226_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800153_TakePhotoPosDescription_226_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800154_ChildQuestTip_226_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800154_ChildQuestTip_226_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800154_ChildQuestTip_226_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800154_ChildQuestTip_226_7
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800154_ChildQuestTip_226_8
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800154_LevelPlayName_226_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800154_TakePhotoPosDescription_226_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800154_TakePhotoPosDescription_226_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800154_TakePhotoPosDescription_226_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800155_ChildQuestTip_226_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800155_ChildQuestTip_226_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800155_ChildQuestTip_226_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800155_ChildQuestTip_226_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800155_ChildQuestTip_226_7
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800155_LevelPlayName_226_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800155_TakePhotoPosDescription_226_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800155_TakePhotoPosDescription_226_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800155_TakePhotoPosDescription_226_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800157_ChildQuestTip_226_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800157_ChildQuestTip_226_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800157_ChildQuestTip_226_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800157_ChildQuestTip_226_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800157_ChildQuestTip_226_7
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800157_LevelPlayName_226_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800157_TakePhotoPosDescription_226_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800157_TakePhotoPosDescription_226_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800157_TakePhotoPosDescription_226_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800158_ChildQuestTip_226_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800158_ChildQuestTip_226_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800158_ChildQuestTip_226_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800158_ChildQuestTip_226_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800158_ChildQuestTip_226_7
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800158_LevelPlayName_226_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800158_TakePhotoPosDescription_226_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800158_TakePhotoPosDescription_226_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_226800158_TakePhotoPosDescription_226_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229000041_ChildQuestTip_229_13
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229000041_LevelPlayName_229_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229000042_LevelPlayName_229_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229000043_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229000044_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229000045_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229000046_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229000047_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229000048_LevelPlayName_229_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229000049_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229000050_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229000051_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229000052_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229000053_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229000054_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229000055_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229000056_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229000057_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229000058_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229000059_LevelPlayName_245_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229000060_LevelPlayName_245_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229000061_LevelPlayName_245_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229000062_LevelPlayName_245_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229000063_LevelPlayName_245_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229000064_LevelPlayName_245_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229000065_LevelPlayName_245_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229000066_LevelPlayName_245_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229000067_LevelPlayName_245_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229000068_LevelPlayName_245_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229000069_LevelPlayName_245_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229000070_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229000071_LevelPlayName_229_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229000072_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229000073_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229000074_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229000075_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229000076_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229000077_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229000078_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229000079_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229000080_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229000081_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229000082_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800070_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800071_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800072_ChallengeConditionSubText_229_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800072_ChildQuestTip_229_20
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800072_ChildQuestTip_229_21
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800072_ChildQuestTip_229_22
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800072_ChildQuestTip_229_23
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800072_ChildQuestTip_229_24
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800072_ChildQuestTip_229_25
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800072_ChildQuestTip_229_26
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800072_ChildQuestTip_229_27
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800072_ChildQuestTip_229_28
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800072_ChildQuestTip_229_29
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800072_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800073_ChildQuestTip_229_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800073_ChildQuestTip_229_8
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800073_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800074_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800075_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800076_LevelPlayName_229_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800077_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800078_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800079_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800080_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800081_ChallengeConditionSubText_271_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800081_ChildQuestTip_229_12
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800081_ChildQuestTip_229_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800081_ChildQuestTip_229_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800081_ChildQuestTip_229_7
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800081_ChildQuestTip_229_8
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800081_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800082_ChallengeConditionSubText_271_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800082_ChildQuestTip_229_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800082_ChildQuestTip_229_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800082_ChildQuestTip_271_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800082_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800082_QuestScheduleSubTitle_271_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800083_ChallengeConditionSubText_271_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800083_ChildQuestTip_229_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800083_ChildQuestTip_271_11
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800083_ChildQuestTip_271_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800083_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800083_QuestScheduleSubTitle_271_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800084_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800085_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800086_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800087_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800088_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800089_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800090_ChildQuestTip_245_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800090_ChildQuestTip_245_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800090_LevelPlayName_245_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800091_LevelPlayName_245_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800092_LevelPlayName_245_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800093_LevelPlayName_245_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800094_LevelPlayName_245_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800095_LevelPlayName_245_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800096_ChildQuestTip_245_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800096_LevelPlayName_245_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800097_LevelPlayName_245_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800098_LevelPlayName_245_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800099_LevelPlayName_245_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800100_LevelPlayName_245_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800101_LevelPlayName_245_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800102_ChildQuestTip_229_13
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800102_ChildQuestTip_229_8
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800102_ChildQuestTip_229_9
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800102_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800102_QuestScheduleSubTitle_229_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800103_LevelPlayName_245_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800104_LevelPlayName_245_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800105_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800106_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800107_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800108_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800109_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800110_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800111_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800112_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800113_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800114_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800115_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800116_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800117_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChallengeConditionSubText_229_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChallengeConditionSubText_229_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChallengeConditionSubText_229_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChallengeConditionSubText_229_7
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_30
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_31
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_32
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_33
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_34
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_35
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_36
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_37
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_38
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_39
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_40
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_41
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_42
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_43
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_44
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_45
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_46
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_47
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_48
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_49
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_50
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_51
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_52
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_ChildQuestTip_229_53
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_229800118_LevelPlayName_229_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_244800002_ChildQuestTip_244_17
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_244800002_ChildQuestTip_244_18
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_244800002_ChildQuestTip_244_19
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_244800002_ChildQuestTip_244_21
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_244800002_ChildQuestTip_244_23
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_244800002_ChildQuestTip_244_25
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_244800002_ChildQuestTip_244_27
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_244800002_ChildQuestTip_244_29
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_244800002_LevelPlayName_244_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750006_ChildQuestTip_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750006_ChildQuestTip_247_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750006_LevelPlayName_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750007_ChildQuestTip_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750007_ChildQuestTip_247_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750007_LevelPlayName_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750010_ChildQuestTip_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750010_ChildQuestTip_247_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750010_LevelPlayName_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750011_ChildQuestTip_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750011_ChildQuestTip_247_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750011_LevelPlayName_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750012_ChildQuestTip_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750012_ChildQuestTip_247_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750012_LevelPlayName_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750013_ChildQuestTip_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750013_ChildQuestTip_247_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750013_LevelPlayName_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750014_ChildQuestTip_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750014_ChildQuestTip_247_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750014_LevelPlayName_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750015_ChildQuestTip_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750015_ChildQuestTip_247_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750015_LevelPlayName_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750016_ChildQuestTip_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750016_ChildQuestTip_247_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750016_LevelPlayName_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750017_ChildQuestTip_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750017_ChildQuestTip_247_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750017_LevelPlayName_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750018_ChildQuestTip_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750018_ChildQuestTip_247_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750018_LevelPlayName_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750019_ChildQuestTip_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750019_ChildQuestTip_247_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750019_LevelPlayName_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750020_ChildQuestTip_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750020_ChildQuestTip_247_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750020_LevelPlayName_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750021_ChildQuestTip_247_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750021_ChildQuestTip_247_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750021_LevelPlayName_247_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750022_ChildQuestTip_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750022_ChildQuestTip_247_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750022_LevelPlayName_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750023_ChildQuestTip_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750023_ChildQuestTip_247_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_247750023_LevelPlayName_247_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750000_ChildQuestTip_254_18
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750000_ChildQuestTip_254_19
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750000_ChildQuestTip_254_20
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750000_ChildQuestTip_254_21
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750000_ChildQuestTip_254_22
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750001_ChildQuestTip_254_15
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750001_ChildQuestTip_254_16
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750001_ChildQuestTip_254_17
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750001_ChildQuestTip_254_18
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750001_ChildQuestTip_254_19
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750002_ChildQuestTip_254_20
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750002_ChildQuestTip_254_21
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750002_ChildQuestTip_254_22
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750002_ChildQuestTip_254_23
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750002_ChildQuestTip_254_24
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750003_ChildQuestTip_254_19
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750003_ChildQuestTip_254_20
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750003_ChildQuestTip_254_21
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750003_ChildQuestTip_254_22
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750003_ChildQuestTip_254_23
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750004_ChildQuestTip_254_15
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750004_ChildQuestTip_254_16
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750004_ChildQuestTip_254_17
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750004_ChildQuestTip_254_18
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750004_ChildQuestTip_254_19
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750005_ChildQuestTip_254_28
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750005_ChildQuestTip_254_29
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750005_ChildQuestTip_254_30
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750005_ChildQuestTip_254_31
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750005_ChildQuestTip_254_32
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750005_ChildQuestTip_254_33
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750005_ChildQuestTip_254_34
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750007_ChildQuestTip_254_15
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750007_ChildQuestTip_254_16
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750007_ChildQuestTip_254_17
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750007_ChildQuestTip_254_18
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750007_ChildQuestTip_254_19
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750008_ChildQuestTip_254_13
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750008_ChildQuestTip_254_18
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_254750008_ChildQuestTip_254_19
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800000_ChildQuestTip_256_14
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800000_LevelPlayName_256_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800001_ChildQuestTip_256_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800001_LevelPlayName_256_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800002_ChildQuestTip_256_13
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800002_ChildQuestTip_256_7
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800002_ChildQuestTip_256_8
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800002_ChildQuestTip_256_9
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800002_LevelPlayName_256_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800003_ChildQuestTip_256_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800003_LevelPlayName_256_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800004_ChildQuestTip_256_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800004_LevelPlayName_256_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800005_ChildQuestTip_256_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800005_LevelPlayName_256_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800006_ChildQuestTip_256_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800006_LevelPlayName_256_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800007_ChildQuestTip_256_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800007_LevelPlayName_256_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800008_ChildQuestTip_256_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800008_LevelPlayName_256_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800009_ChildQuestTip_256_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800009_LevelPlayName_256_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800010_ChildQuestTip_256_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800010_LevelPlayName_256_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800011_ChildQuestTip_256_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800011_LevelPlayName_256_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800012_ChildQuestTip_256_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800012_LevelPlayName_256_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800013_ChildQuestTip_256_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800013_LevelPlayName_256_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800014_ChildQuestTip_256_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_256800014_LevelPlayName_256_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_259750003_ChildQuestTip_150_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_259750003_ChildQuestTip_150_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_259750003_ChildQuestTip_150_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_259750003_ChildQuestTip_150_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_268800000_ChildQuestTip_268_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800002_ChallengeConditionSubText_271_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800002_ChildQuestTip_271_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800002_ChildQuestTip_271_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800002_LevelPlayName_271_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800003_ChallengeConditionSubText_271_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800003_ChildQuestTip_271_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800003_ChildQuestTip_271_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800003_LevelPlayName_271_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800006_ChallengeConditionSubText_271_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800006_ChildQuestTip_271_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800006_ChildQuestTip_271_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_271800006_LevelPlayName_271_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800117_ChildQuestTip_316_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800117_LevelPlayName_316_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800118_ChildQuestTip_316_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800118_LevelPlayName_316_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800119_LevelPlayName_316_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800120_ChildQuestTip_316_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800120_ChildQuestTip_316_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800120_LevelPlayName_316_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800121_ChildQuestTip_316_12
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800121_ChildQuestTip_316_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800121_ChildQuestTip_613_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800121_ChildQuestTip_613_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800121_ChildQuestTip_613_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800121_ChildQuestTip_613_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800121_ChildQuestTip_613_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800121_ChildQuestTip_613_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800121_ChildQuestTip_613_7
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800121_ChildQuestTip_613_8
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800121_ChildQuestTip_613_9
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800121_LevelPlayName_316_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800122_ChildQuestTip_316_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800122_ChildQuestTip_316_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800122_ChildQuestTip_316_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800122_ChildQuestTip_613_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800122_ChildQuestTip_613_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800122_ChildQuestTip_613_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800122_ChildQuestTip_613_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_316800122_LevelPlayName_316_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_39800003_ChildQuestTip_39_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_39800003_ChildQuestTip_39_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_39800003_LevelPlayName_39_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_39800004_ChildQuestTip_39_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_39800004_ChildQuestTip_39_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_39800004_ChildQuestTip_39_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_39800004_LevelPlayName_39_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_39800005_ChildQuestTip_39_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_39800005_ChildQuestTip_39_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_39800005_LevelPlayName_39_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_39800006_ChildQuestTip_39_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_39800006_ChildQuestTip_39_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_39800006_LevelPlayName_39_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_40800002_ChildQuestTip_40_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_40800002_ChildQuestTip_40_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_40800002_LevelPlayName_40_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_40800003_ChildQuestTip_40_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_40800003_ChildQuestTip_40_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_40800003_ChildQuestTip_40_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_40800003_LevelPlayName_40_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_40800004_ChildQuestTip_40_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_40800004_LevelPlayName_40_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_40800005_ChildQuestTip_40_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_40800005_LevelPlayName_40_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_42750013_ChildQuestTip_42_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_42750013_ChildQuestTip_42_7
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_42750013_ChildQuestTip_42_8
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_42750013_ChildQuestTip_42_9
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_42750013_LevelPlayName_42_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_42800014_LevelPlayName_42_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_42800015_LevelPlayName_42_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_45800000_ChildQuestTip_45_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_45800000_ChildQuestTip_45_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_45800000_ChildQuestTip_45_8
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_45800000_LevelPlayName_45_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_45800001_ChildQuestTip_45_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_45800001_ChildQuestTip_45_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_45800001_ChildQuestTip_684_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_45800001_ChildQuestTip_684_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_45800001_LevelPlayName_45_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_688750047_ChildQuestTip_688_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_688750047_ChildQuestTip_688_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_688750047_LevelPlayName_688_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_688750048_ChildQuestTip_688_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_688750048_LevelPlayName_688_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000005_ChildQuestTip_915_12
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000005_ChildQuestTip_915_49
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000005_ChildQuestTip_915_50
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000005_LevelPlayName_915_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000006_ChildQuestTip_251_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000006_ChildQuestTip_665_13
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000006_ChildQuestTip_665_17
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000006_ChildQuestTip_665_19
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000006_ChildQuestTip_665_22
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000006_ChildQuestTip_665_23
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000006_ChildQuestTip_665_27
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000006_ChildQuestTip_915_18
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000006_ChildQuestTip_915_19
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000006_ChildQuestTip_915_20
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000006_ChildQuestTip_915_21
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000006_ChildQuestTip_915_8
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000006_LevelPlayName_915_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000007_ChildQuestTip_915_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915000007_LevelPlayName_915_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915800001_ChildQuestTip_915_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915800003_ChildQuestTip_915_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915800003_LevelPlayName_915_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915800005_ChildQuestTip_915_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915800005_LevelPlayName_915_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915800006_ChildQuestTip_915_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915800006_ChildQuestTip_915_10
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915800006_ChildQuestTip_915_11
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915800006_ChildQuestTip_915_16
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915800006_ChildQuestTip_915_17
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915800006_ChildQuestTip_915_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915800006_ChildQuestTip_915_7
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_915800006_ChildQuestTip_915_8
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_196_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_196_10
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_196_11
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_196_13
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_196_14
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_196_15
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_196_17
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_196_18
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_196_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_196_32
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_196_33
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_196_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_196_41
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_196_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_196_7
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_683_13
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_683_14
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_683_15
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_683_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_ChildQuestTip_683_8
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923000001_LevelPlayName_923_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800000_ChildQuestTip_923_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800000_ChildQuestTip_923_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800000_LevelPlayName_923_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800001_ChildQuestTip_923_10
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800001_ChildQuestTip_923_11
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800001_LevelPlayName_923_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800002_ChildQuestTip_923_10
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800002_ChildQuestTip_923_9
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800002_LevelPlayName_923_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800003_ChildQuestTip_923_10
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800003_ChildQuestTip_923_9
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800003_LevelPlayName_923_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800004_ChildQuestTip_923_14
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800004_ChildQuestTip_923_15
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800004_LevelPlayName_923_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800005_ChildQuestTip_923_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800005_ChildQuestTip_923_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_923800005_LevelPlayName_923_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_936800000_ChildQuestTip_936_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_936800000_ChildQuestTip_936_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_936800000_LevelPlayName_936_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_936800001_ChildQuestTip_936_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_936800001_LevelPlayName_936_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_936800002_ChildQuestTip_936_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_936800002_ChildQuestTip_936_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_936800002_LevelPlayName_936_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_936800003_ChildQuestTip_936_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_936800003_ChildQuestTip_936_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_936800003_ChildQuestTip_936_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||LevelPlay_936800003_LevelPlayName_936_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_110_15
+CN: **
+EN: ***
+JP: **
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_110_6
+CN: ***
+EN: ****
+JP: ***
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_150_9
+CN: ***
+EN: ************
+JP: ****
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_161_12
+CN: **
+EN: ***
+JP: **
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_161_2
+CN: **
+EN: ***
+JP: **
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_161_4
+CN: **
+EN: ****
+JP: ***
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_170_17
+CN: ***
+EN: *********
+JP: *******************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_182_2
+CN: ***
+EN: ************
+JP: ****
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_182_7
+CN: ***
+EN: *****
+JP: ******
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_200_1
+CN: **
+EN: ***
+JP: **
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_200_18
+CN: ***
+EN: *********
+JP: ********************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_250_2
+CN: **
+EN: *****
+JP: ***
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_260_6
+CN: **
+EN: ***
+JP: **
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_270_6
+CN: **
+EN: ***
+JP: **
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_2_40_1
+CN: **
+EN: ***
+JP: **
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_2_40_29
+CN: **
+EN: *****
+JP: ***
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_309_1
+CN: **
+EN: ***
+JP: **
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_309_7
+CN: **
+EN: ***
+JP: **
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_310_1
+CN: **
+EN: ***
+JP: **
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_312_1
+CN: ***
+EN: ********
+JP: ******
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_31_10
+CN: *
+EN: *
+JP: *
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_330_16
+CN: **
+EN: ***
+JP: **
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_390_1
+CN: ***
+EN: ******
+JP: ****
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_406_4
+CN: **
+EN: ***
+JP: **
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_415_12
+CN: ***
+EN: ********
+JP: *****
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_418_4
+CN: **
+EN: **********
+JP: *******
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_450_20
+CN: ***
+EN: ******
+JP: ****
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_450_21
+CN: **
+EN: *****
+JP: ***
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_450_22
+CN: ***
+EN: **************
+JP: ***
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_457_3
+CN: **
+EN: ***
+JP: **
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_50_23
+CN: ***
+EN: *****************
+JP: ******
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_511_18
+CN: ***
+EN: **************
+JP: ***
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_516_3
+CN: ***
+EN: ******
+JP: ********************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_550_11
+CN: ***
+EN: *******
+JP: ********************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_590_19
+CN: ***
+EN: ******
+JP: ****
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_620_38
+CN: ***
+EN: *******
+JP: ********************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_630_9
+CN: ***
+EN: **********
+JP: *****
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_651_3
+CN: ***
+EN: **************
+JP: ***
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_655_11
+CN: **
+EN: **********
+JP: *****
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_665_21
+CN: ***
+EN: *******
+JP: ****
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_70_27
+CN: ***
+EN: **********
+JP: *******************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_70_4
+CN: **
+EN: ***
+JP: **
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Main_Mengzhou_3_6_90_12
+CN: **
+EN: ***
+JP: **
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||PhoneMessageAttachment_800003_InformationViewHyperlinkText
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||PhoneMessageAttachment_800003_InformationViewHyperlinkTextMaleVariant
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||PhoneMessageAttachment_800005_InformationViewHyperlinkText
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||PhoneMessageAttachment_800005_InformationViewHyperlinkTextMaleVariant
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||QingXiao_Shengtai_1_21
+CN: **
+EN: ***
+JP: **
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||QingXiao_Shengtai_3_25
+CN: ***
+EN: ******
+JP: ***************************
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_147000007_ChildQuestTip_147_39
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_158800041_ChildQuestTip_158_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_158800041_QuestDesc_158_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_158800041_QuestName_158_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_164750000_ChildQuestTip_164_48
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_164750000_OccupyDesc_164_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_164750000_OccupyDesc_164_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_165750011_ChildQuestTip_165_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_168800016_ChildQuestTip_168_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_168800016_QuestDesc_168_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_168800016_QuestName_168_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_168800017_ChildQuestTip_168_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_168800017_QuestDesc_168_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_168800017_QuestName_168_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_168800018_ChildQuestTip_168_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_168800018_QuestDesc_168_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_168800018_QuestName_168_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_168800019_ChildQuestTip_158_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_168800019_QuestDesc_168_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_168800019_QuestName_168_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_172800000_ChildQuestTip_172_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_172800000_QuestDesc_172_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_172800000_QuestName_172_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_173000000_ChildQuestTip_173_106
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_173000000_ChildQuestTip_173_128
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_173000000_ChildQuestTip_173_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_173000000_OccupyDesc_173_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_176800033_ChildQuestTip_176_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_176800033_QuestDesc_176_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_176800033_QuestName_176_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_180000000_ChildQuestTip_180_207
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_180000000_ChildQuestTip_180_209
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_180000000_ChildQuestTip_180_214
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_180000000_ChildQuestTip_180_215
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_180000000_OccupyDesc_180_10
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_180000000_OccupyDesc_180_11
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_180000000_OccupyDesc_180_12
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_180000000_OccupyDesc_180_13
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_180000000_OccupyDesc_180_14
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_180000000_OccupyDesc_180_15
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_180000000_OccupyDesc_180_16
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_180000000_OccupyDesc_180_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_180000000_OccupyDesc_180_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_180000000_OccupyDesc_180_7
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_180000000_OccupyDesc_180_8
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_180000000_OccupyDesc_180_9
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_180000000_OccupyDesc_30_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_188750004_ChildQuestTip_688_11
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_189000005_ChildQuestTip_317_114
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_189000005_ChildQuestTip_317_116
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_189000005_ChildQuestTip_317_118
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_189000005_OccupyDesc_317_11
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_189000005_OccupyDesc_317_12
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_189000005_OccupyDesc_317_13
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_189000006_OccupyDesc_42_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_191750000_ChildQuestTip_180_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_191750000_ChildQuestTip_180_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_191750000_ChildQuestTip_180_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_191750000_ChildQuestTip_180_9
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_191750000_OccupyDesc_30_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_192000006_ChildQuestTip_192_125
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_192000006_ChildQuestTip_192_126
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_192000006_ChildQuestTip_192_130
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_192000007_ChildQuestTip_192_16
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_199000000_ChildQuestTip_199_111
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_199000000_OccupyDesc_199_10
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_199000000_OccupyDesc_199_12
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_199000000_OccupyDesc_199_14
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_199000000_OccupyDesc_199_16
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_199000000_OccupyDesc_199_18
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_199000000_OccupyDesc_199_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_199000000_OccupyDesc_199_20
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_199000000_OccupyDesc_199_22
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_199000000_OccupyDesc_199_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_199000000_OccupyDesc_199_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_199000000_OccupyDesc_199_8
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_199000000_OccupyDesc_30_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_199750000_ChildQuestTip_199_106
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_199750000_ChildQuestTip_199_108
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_199750000_ChildQuestTip_199_110
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_199750000_OccupyDesc_199_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_199750000_OccupyDesc_199_11
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_199750000_OccupyDesc_199_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_199750000_OccupyDesc_199_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_199750000_OccupyDesc_199_7
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_199750000_OccupyDesc_199_9
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_199750000_OccupyDesc_30_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_200800001_ChildQuestTip_200_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_200800001_ChildQuestTip_200_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_200800001_ChildQuestTip_256_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_200800001_QuestDesc_200_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_200800001_QuestName_200_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_226800002_ChildQuestTip_226_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_241800000_ChildQuestTip_241_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_241800000_QuestDesc_241_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_241800000_QuestName_241_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_256800000_ChildQuestTip_256_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_256800000_QuestDesc_256_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_256800000_QuestName_256_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800002_ChildQuestTip_277_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800002_ChildQuestTip_277_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800002_ChildQuestTip_277_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800002_OccupyDesc_277_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800003_ChildQuestTip_165_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800003_ChildQuestTip_165_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800003_ChildQuestTip_165_8
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800003_ChildQuestTip_165_9
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800003_ChildQuestTip_264_105
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800003_ChildQuestTip_264_106
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800003_ChildQuestTip_264_107
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800003_ChildQuestTip_264_108
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800003_ChildQuestTip_264_120
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800003_ChildQuestTip_264_122
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800003_ChildQuestTip_264_128
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800003_ChildQuestTip_264_40
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800003_ChildQuestTip_264_50
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800003_ChildQuestTip_264_54
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800003_ChildQuestTip_264_56
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800003_ChildQuestTip_264_61
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800003_ChildQuestTip_264_65
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800003_ChildQuestTip_264_66
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800003_ChildQuestTip_264_78
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800003_ChildQuestTip_264_85
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800003_ChildQuestTip_264_87
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800003_ChildQuestTip_264_88
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800003_ChildQuestTip_264_89
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800003_ChildQuestTip_264_90
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800003_ChildQuestTip_264_91
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800003_ChildQuestTip_264_92
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800003_ChildQuestTip_264_93
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800003_ChildQuestTip_264_94
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800004_ChildQuestTip_264_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800004_ChildQuestTip_277_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800004_ChildQuestTip_277_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800004_OccupyDesc_277_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800005_ChildQuestTip_264_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800005_ChildQuestTip_277_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800005_ChildQuestTip_277_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800006_ChildQuestTip_277_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800006_ChildQuestTip_277_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800006_ChildQuestTip_277_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800007_ChildQuestTip_277_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800007_ChildQuestTip_277_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800007_ChildQuestTip_277_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800008_ChildQuestTip_277_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800008_ChildQuestTip_277_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800008_ChildQuestTip_277_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800009_ChildQuestTip_277_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800009_ChildQuestTip_277_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800009_ChildQuestTip_277_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800010_ChildQuestTip_264_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800011_ChildQuestTip_264_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_264800011_OccupyDesc_264_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_268800001_ChildQuestTip_268_21
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_268800001_ChildQuestTip_268_51
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_268800004_ChildQuestTip_268_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_268800004_ChildQuestTip_268_12
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_268800004_ChildQuestTip_268_15
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_268800004_ChildQuestTip_268_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_268800004_QuestDesc_268_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_268800004_QuestName_268_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_268800005_ChildQuestTip_268_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_268800005_ChildQuestTip_268_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_268800005_QuestDesc_268_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_268800005_QuestName_268_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_268800006_ChildQuestTip_268_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_268800006_QuestDesc_268_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_268800006_QuestName_268_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_268800008_ChildQuestTip_268_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_268800008_QuestDesc_268_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_268800008_QuestName_268_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_269800000_ChildQuestTip_269_129
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_269800000_ChildQuestTip_269_130
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_269800000_ChildQuestTip_269_135
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_269800000_ChildQuestTip_269_139
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_269800000_ChildQuestTip_269_140
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_269800000_ChildQuestTip_269_142
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_269800000_QuestScheduleTrackAreaText_269_10
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_269800000_QuestScheduleTrackAreaText_269_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_269800000_QuestScheduleTrackAreaText_269_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_269800000_QuestScheduleTrackAreaText_269_8
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_269800000_QuestScheduleTrackAreaText_269_9
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_269800001_ChildQuestTip_164_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_269800003_ChildQuestTip_164_11
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_269800003_ChildQuestTip_164_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_269800003_ChildQuestTip_164_9
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_269800004_ChildQuestTip_164_10
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_269800004_ChildQuestTip_164_12
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_269800004_ChildQuestTip_164_13
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_269800004_ChildQuestTip_164_18
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_269800004_ChildQuestTip_164_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_269800004_ChildQuestTip_269_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_269800005_ChildQuestTip_164_12
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_269800005_ChildQuestTip_164_7
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_269800005_ChildQuestTip_269_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_277800000_ChildQuestTip_277_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_277800000_QuestDesc_277_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_277800000_QuestName_277_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_30800016_QuestDesc_30_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_38800000_ChildQuestTip_38_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_38800000_QuestDesc_38_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_38800000_QuestName_38_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_38800001_ChildQuestTip_38_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_38800001_QuestDesc_38_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_38800001_QuestName_38_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_42800002_ChildQuestTip_42_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_42800002_QuestDesc_42_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_42800002_QuestName_42_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_686750001_ChildQuestTip_686_60
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_686750001_ChildQuestTip_686_61
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_688750006_ChildQuestTip_688_102
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_688750006_ChildQuestTip_688_98
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_688750007_ChildQuestTip_688_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_688750007_ChildQuestTip_688_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_880000045_ChildQuestTip_880_139
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_880000045_ChildQuestTip_880_142
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_880000045_OccupyDesc_30_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_880000045_OccupyDesc_42_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_880000045_OccupyDesc_42_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_915000005_ChildQuestTip_915_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_915000005_ChildQuestTip_915_41
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_915000005_OccupyDesc_915_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_915000005_OccupyDesc_915_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_915800000_ChildQuestTip_915_18
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_915800001_QuestDesc_915_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_915800001_QuestName_915_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_915800002_ChildQuestTip_915_7
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_915800002_QuestDesc_915_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_915800002_QuestName_915_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000003_ChildQuestTip_936_124
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000003_ChildQuestTip_936_172
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000003_ChildQuestTip_936_175
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000003_ChildQuestTip_936_177
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000003_ChildQuestTip_936_178
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000003_ChildQuestTip_936_181
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000003_ChildQuestTip_936_186
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000003_ChildQuestTip_936_199
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000003_ChildQuestTip_936_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000003_ChildQuestTip_936_200
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000003_ChildQuestTip_936_201
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000003_ChildQuestTip_936_212
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000003_ChildQuestTip_936_215
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000003_ChildQuestTip_936_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000003_ChildQuestTip_936_30
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000003_ChildQuestTip_936_65
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000003_ChildQuestTip_936_66
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000003_ChildQuestTip_936_70
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000003_ChildQuestTip_936_87
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000003_OccupyDesc_936_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000003_OccupyDesc_936_10
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000003_OccupyDesc_936_11
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000003_OccupyDesc_936_12
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000003_OccupyDesc_936_13
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000003_OccupyDesc_936_14
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000003_OccupyDesc_936_15
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000003_OccupyDesc_936_16
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000003_OccupyDesc_936_17
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000003_OccupyDesc_936_18
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000003_OccupyDesc_936_19
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000003_OccupyDesc_936_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000003_OccupyDesc_936_20
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000003_OccupyDesc_936_21
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000003_OccupyDesc_936_22
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000003_OccupyDesc_936_23
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000003_OccupyDesc_936_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000003_OccupyDesc_936_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000003_OccupyDesc_936_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000003_OccupyDesc_936_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000003_OccupyDesc_936_7
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000003_OccupyDesc_936_8
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000003_OccupyDesc_936_9
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000005_ChildQuestTip_915_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000005_OccupyDesc_915_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000005_OccupyDesc_915_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936000005_OccupyDesc_915_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936800000_ChildQuestTip_936_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936800000_ChildQuestTip_936_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936800001_QuestDesc_936_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936800001_QuestName_936_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936800002_ChildQuestTip_936_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936800002_QuestDesc_936_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_936800002_QuestName_936_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_938750000_ChildQuestTip_150_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Quest_938750000_OccupyDesc_42_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_2018
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||RoverRogue_EventChoice_2026
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Side_DESLGYMZ_2_1
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Side_DESLGYMZ_2_2
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Side_DESLGYMZ_2_3
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Side_DESLGYMZ_2_4
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Side_DESLGYMZ_2_5
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Side_DESLGYMZ_2_6
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Side_DESLGYMZ_2_7
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400001_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400002_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400003_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400006_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400007_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400008_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400009_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400010_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400011_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400012_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400013_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400014_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400015_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400016_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400017_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400018_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400019_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400020_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400021_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400022_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400023_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400024_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400025_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400026_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400027_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400028_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400029_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400030_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400031_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400032_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400033_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400034_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400035_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400036_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400037_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400038_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400039_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400040_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400041_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400042_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400043_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400044_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400045_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400046_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400047_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400048_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400049_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400050_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400051_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400052_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400053_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400054_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400055_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400056_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400057_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400058_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400060_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400061_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400062_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400063_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400064_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400065_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400066_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400067_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400068_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400069_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400070_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400071_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400072_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400073_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400074_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400075_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400077_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400078_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400079_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400080_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400081_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400082_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400083_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400084_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400085_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400086_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400087_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400088_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400089_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400090_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400091_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400092_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400093_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400094_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400095_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400096_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400097_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400098_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400099_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400100_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400101_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400102_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400103_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400104_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400105_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400106_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400107_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400108_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400109_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400110_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400111_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400112_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400113_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400114_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400115_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400116_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400117_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400118_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400119_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_400120_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_750938_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_750939_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_750940_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_750941_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800498_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800499_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800500_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800501_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800502_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800503_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800504_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800505_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800506_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800507_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800508_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800509_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800510_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800511_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800512_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800513_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800514_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800515_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800516_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800517_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800518_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800519_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800520_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800521_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800522_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800523_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800524_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800525_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800526_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800527_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800528_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800529_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800530_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800531_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800532_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800533_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800534_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800535_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800536_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800537_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800538_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800539_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800540_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800541_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800542_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800543_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800544_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800545_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800546_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800547_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800548_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800549_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800550_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800551_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800552_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800553_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800554_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800555_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800556_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800557_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800558_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800559_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800560_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
+@@ lang_multi_text.db||MultiText||Speaker_800561_Title
+CN: 
+EN: 
+JP: 
+VI: 
+HV: 
+
