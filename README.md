@@ -1,4 +1,4 @@
-# 🌸 Wuthering Waves — Toàn Bộ Dữ Liệu Text Dịch Việt Hóa & Đối Chiếu Đa Ngôn Ngữ
+﻿# 🌸 Wuthering Waves — Toàn Bộ Dữ Liệu Text Dịch Việt Hóa & Đối Chiếu Đa Ngôn Ngữ
 
 Kho lưu trữ chính thức toàn bộ cơ sở dữ liệu bản dịch tiếng Việt, text gốc đối chiếu 4 ngôn ngữ (**Trung 🇨🇳 - Anh 🇬🇧 - Nhật 🇯🇵 - Việt 🇻🇳**), từ điển thuật ngữ chuẩn hóa và hệ thống báo cáo kiểm soát chất lượng (QC) của dự án **WAHU Localization (WuwaVH)** cho tựa game **Wuthering Waves** (hỗ trợ các phiên bản **3.4**, **3.5**, **3.6** và cập nhật tiếp theo).
 
@@ -100,7 +100,7 @@ HV: Mượn tạm bếp của chú Li, lại nếm thử xem.
 
 ## 🔗 HỆ SINH THÁI DỰ ÁN WAHU LOCALIZATION
 
-- **Launcher cài đặt tự động:** [VHWuWa Launcher Releases](https://github.com/WahuVN/wuwa-vietnamese-launcher/releases/latest)
+- **Launcher cài đặt tự động:** [VHWuWa Launcher Releases](https://github.com/WahuVN/Viet-Hoa-WuWa/releases/latest)
 - **Repository Tool & Source Code:** [WuwaVH GitHub](https://github.com/WahuVN/WuwaVH)
 - **Kho dữ liệu Text Dịch:** [Wuwa-Text-Dich GitHub](https://github.com/WahuVN/Wuwa-Text-Dich)
 
